@@ -16,3 +16,10 @@ credentials.json
 # Local scratch
 agent-tools/
 *.log
+
+# Learning web app
+web/node_modules/
+web/dist/
+
+# Intermediate caption dumps (keep cleaned markdown under transcripts/)
+transcripts/_raw/

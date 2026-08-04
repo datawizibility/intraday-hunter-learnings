@@ -1,0 +1,1523 @@
+{
+  "generatedAt": "2026-08-04T02:55:28.784Z",
+  "sourceWindow": {
+    "dayCount": 12,
+    "weeklyCount": 1,
+    "latestDate": "2026-08-03"
+  },
+  "days": [
+    {
+      "id": "2026-07-19",
+      "date": "2026-07-19",
+      "fileName": "2026-07-19-teaching-closed-chart.md",
+      "weekly": false,
+      "title": "2026-07-19 — Teaching: The Secret of the Closed Chart",
+      "summary": "Video: The Secret of the Closed Chart | Every Trader Must Know URL: https://www.youtube.com/watch?v=OVs8-y2HTl8 Duration: ~22:22 Transcript: `transcripts/2026-07-19-teaching-closed-chart.md` - Learn closed charts first:…",
+      "pre": {
+        "raw": "",
+        "video": null,
+        "url": null,
+        "duration": null,
+        "bias": "",
+        "planByOpen": [],
+        "levels": []
+      },
+      "post": {
+        "raw": "",
+        "video": null,
+        "url": null,
+        "duration": null,
+        "whatHappened": "",
+        "processLessons": "",
+        "keepPermanently": [
+          "Closed-chart inventory + psychology decide the matrix; identical shapes can invert the plan.",
+          "Crowd FOMO on gap-up after a green day ≠ automatic long; often the sell side of the temptation.",
+          "Buyer-hunt after upside applies when buyers actually sat; weak/no-momentum breakouts leave little inventory to hunt."
+        ]
+      },
+      "keepPermanently": [
+        "Closed-chart inventory + psychology decide the matrix; identical shapes can invert the plan.",
+        "Crowd FOMO on gap-up after a green day ≠ automatic long; often the sell side of the temptation.",
+        "Buyer-hunt after upside applies when buyers actually sat; weak/no-momentum breakouts leave little inventory to hunt."
+      ],
+      "raw": "# 2026-07-19 — Teaching: The Secret of the Closed Chart\r\n\r\n## Teaching\r\n**Video:** The Secret of the Closed Chart | Every Trader Must Know  \r\n**URL:** https://www.youtube.com/watch?v=OVs8-y2HTl8  \r\n**Duration:** ~22:22  \r\n**Transcript:** `transcripts/2026-07-19-teaching-closed-chart.md`\r\n\r\n### Core idea\r\n- Learn **closed charts** first: analysis and next-day plans are built on closed structure; live is execution of that logic.\r\n- Same-looking candles can demand **opposite** open plans depending on whether **buyers actually accumulated** (psychology), not candle color alone.\r\n\r\n### Psychology / inventory examples (week review style)\r\n- Positive day + **gap-up**: crowd wants to buy → often hunt that FOMO with **sell** setups; flat/gap-down after weak/no follow-through breakout can be **buy** (crowd confused).\r\n- If breakout had **real momentum** and buyers held → flat **and** gap-up can both become buyer-target days.\r\n- **Huge** gap-down resets structure vs small gap-down — don’t copy the prior recovery plan blindly.\r\n- Day-2 of constructive upside after a prior flush is when buyers **do** accumulate → soft opens can target those buyers; sudden bounce from deep negative often has **few** buyers to hunt.\r\n- Conceptual link (also user refinement): index options are zero-sum-ish → market needs **clustered SLs**; after upside there may be **fewer stops above**, so soft sessions often pressure **yesterday’s buyers** (stops below) — educational framing only, not advice.\r\n\r\n### Keep permanently\r\n1. Closed-chart inventory + psychology decide the matrix; identical shapes can invert the plan.\r\n2. Crowd FOMO on gap-up after a green day ≠ automatic long; often the sell side of the temptation.\r\n3. Buyer-hunt after upside applies when buyers **actually sat**; weak/no-momentum breakouts leave little inventory to hunt.\r\n\r\n### Day-specific only\r\n- Specific ~58,000 path examples are teaching illustrations, not eternal levels.\r\n"
+    },
+    {
+      "id": "2026-07-20",
+      "date": "2026-07-20",
+      "fileName": "2026-07-20.md",
+      "weekly": false,
+      "title": "2026-07-20 — Pre + Post market",
+      "summary": "- Strong positive momentum after a long sideways stretch. - Some buyers likely in good profit (and may book into holiday) → do not treat them as primary targets. - Different / riskier plan: if market directly lifts on f…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 20 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=IrOy9cExWd8  \r\n**Duration:** ~2:37  \r\n**Transcript:** `transcripts/2026-07-20-pre.md`\r\n\r\n### Bias & structure\r\n- Strong **positive momentum** after a long sideways stretch.\r\n- Some buyers likely in **good profit** (and may book into holiday) → **do not** treat them as primary targets.\r\n- Different / riskier plan: if market **directly lifts** on flat, late buyers may place SLs below (~BN **500** zone) → those can be targeted with **sell** setups.\r\n- Prefers **gap-up or gap-down** over messy flat; direct dump = **no plan yet**.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up / gap-down | Follow → identify **buy** setups (don’t hunt deep profit buyers) |\r\n| Flat + direct upside | Risky → identify **sell** setups (target late buyers / SL cluster under round) |\r\n| Flat + direct dump | **No plan** yet |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 59,300* / (ASR garbled 5959300| 57,950 / 57,640 |\r\n| Sensex | 78,500* / 79,100* | 78,780* / (ASR 787800|\r\n| Nifty | 24,480 / 24,560 | 24,240 / 24,140 |\r\n\r\n\\*ASR uncertainty on trailing digits / concatenated numbers.\r\n\r\n---",
+        "video": "Prediction For 20 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=IrOy9cExWd8",
+        "duration": "~2:37",
+        "bias": "- Strong **positive momentum** after a long sideways stretch.\r\n- Some buyers likely in **good profit** (and may book into holiday) → **do not** treat them as primary targets.\r\n- Different / riskier plan: if market **directly lifts** on flat, late buyers may place SLs below (~BN **500** zone) → those can be targeted with **sell** setups.\r\n- Prefers **gap-up or gap-down** over messy flat; direct dump = **no plan yet**.",
+        "planByOpen": [
+          {
+            "open": "Gap-up / gap-down",
+            "plan": "Follow → identify **buy** setups (don’t hunt deep profit buyers)"
+          },
+          {
+            "open": "Flat + direct upside",
+            "plan": "Risky → identify **sell** setups (target late buyers / SL cluster under round)"
+          },
+          {
+            "open": "Flat + direct dump",
+            "plan": "**No plan** yet"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Bank Nifty",
+            "resistance": "59,300* / (ASR garbled 5959300",
+            "support": "57,950 / 57,640",
+            "extra": ""
+          },
+          {
+            "index": "Sensex",
+            "resistance": "78,500* / 79,100*",
+            "support": "78,780* / (ASR 787800",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "24,480 / 24,560",
+            "support": "24,240 / 24,140",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=9_eSvyc2VFE  \r\n**Duration:** ~8:33  \r\n**Transcript:** `transcripts/2026-07-20-post.md`\r\n\r\n### What happened / what he did\r\n- **Huge gap-down** across indices (news-driven) — pre chart plan discarded; wait for **first momentum**.\r\n- Open chop → brief recovery → second candle selling. Waited; then thesis: gap-down + news → **sellers tempt** into puts with nearby SLs → need a **retracement/recovery**, not continuous 1000-pt dump.\r\n- Bought **calls** (Sensex ~900, Nifty ~1430) to capture seller-flush recovery; held through early MTM loss.\r\n- Booked once a solid recovery / average target hit. Explicit: trade was **not** from prior-day buyers sitting — inventory had cleared; live **seller SL** psychology drove the call.\r\n\r\n### Process lessons\r\n- Large news gap-down **resets** structure; don’t force yesterday’s inventory map.\r\n- Continuous dump with no pause = possible runaway → take loss; choppy sell after big gap = sellers to flush → recovery trade.\r\n- Entry after SLs form nearby, not into the first panic candle.\r\n\r\n### Keep permanently\r\n1. Huge gap-down + news → structure reset; wait first tape, then decide recovery vs runaway.\r\n2. After big gap-down, clustered **seller** SLs often need a flush → recovery can be the trade (not “buy yesterday’s buyers”).\r\n3. If momentum is continuous one-way with no retrace, treat as runaway and respect the loss path.\r\n\r\n### Day-specific only\r\n- Qty and exact ~500 closing/round interaction are session-specific.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=9_eSvyc2VFE",
+        "duration": "~8:33",
+        "whatHappened": "- **Huge gap-down** across indices (news-driven) — pre chart plan discarded; wait for **first momentum**.\r\n- Open chop → brief recovery → second candle selling. Waited; then thesis: gap-down + news → **sellers tempt** into puts with nearby SLs → need a **retracement/recovery**, not continuous 1000-pt dump.\r\n- Bought **calls** (Sensex ~900, Nifty ~1430) to capture seller-flush recovery; held through early MTM loss.\r\n- Booked once a solid recovery / average target hit. Explicit: trade was **not** from prior-day buyers sitting — inventory had cleared; live **seller SL** psychology drove the call.",
+        "processLessons": "- Large news gap-down **resets** structure; don’t force yesterday’s inventory map.\r\n- Continuous dump with no pause = possible runaway → take loss; choppy sell after big gap = sellers to flush → recovery trade.\r\n- Entry after SLs form nearby, not into the first panic candle.",
+        "keepPermanently": [
+          "Huge gap-down + news → structure reset; wait first tape, then decide recovery vs runaway.",
+          "After big gap-down, clustered seller SLs often need a flush → recovery can be the trade (not “buy yesterday’s buyers”).",
+          "If momentum is continuous one-way with no retrace, treat as runaway and respect the loss path."
+        ]
+      },
+      "keepPermanently": [
+        "Huge gap-down + news → structure reset; wait first tape, then decide recovery vs runaway.",
+        "After big gap-down, clustered seller SLs often need a flush → recovery can be the trade (not “buy yesterday’s buyers”).",
+        "If momentum is continuous one-way with no retrace, treat as runaway and respect the loss path."
+      ],
+      "raw": "# 2026-07-20 — Pre + Post market\r\n\r\n## Pre-market\r\n**Video:** Prediction For 20 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=IrOy9cExWd8  \r\n**Duration:** ~2:37  \r\n**Transcript:** `transcripts/2026-07-20-pre.md`\r\n\r\n### Bias & structure\r\n- Strong **positive momentum** after a long sideways stretch.\r\n- Some buyers likely in **good profit** (and may book into holiday) → **do not** treat them as primary targets.\r\n- Different / riskier plan: if market **directly lifts** on flat, late buyers may place SLs below (~BN **500** zone) → those can be targeted with **sell** setups.\r\n- Prefers **gap-up or gap-down** over messy flat; direct dump = **no plan yet**.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up / gap-down | Follow → identify **buy** setups (don’t hunt deep profit buyers) |\r\n| Flat + direct upside | Risky → identify **sell** setups (target late buyers / SL cluster under round) |\r\n| Flat + direct dump | **No plan** yet |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 59,300* / (ASR garbled 5959300| 57,950 / 57,640 |\r\n| Sensex | 78,500* / 79,100* | 78,780* / (ASR 787800|\r\n| Nifty | 24,480 / 24,560 | 24,240 / 24,140 |\r\n\r\n\\*ASR uncertainty on trailing digits / concatenated numbers.\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=9_eSvyc2VFE  \r\n**Duration:** ~8:33  \r\n**Transcript:** `transcripts/2026-07-20-post.md`\r\n\r\n### What happened / what he did\r\n- **Huge gap-down** across indices (news-driven) — pre chart plan discarded; wait for **first momentum**.\r\n- Open chop → brief recovery → second candle selling. Waited; then thesis: gap-down + news → **sellers tempt** into puts with nearby SLs → need a **retracement/recovery**, not continuous 1000-pt dump.\r\n- Bought **calls** (Sensex ~900, Nifty ~1430) to capture seller-flush recovery; held through early MTM loss.\r\n- Booked once a solid recovery / average target hit. Explicit: trade was **not** from prior-day buyers sitting — inventory had cleared; live **seller SL** psychology drove the call.\r\n\r\n### Process lessons\r\n- Large news gap-down **resets** structure; don’t force yesterday’s inventory map.\r\n- Continuous dump with no pause = possible runaway → take loss; choppy sell after big gap = sellers to flush → recovery trade.\r\n- Entry after SLs form nearby, not into the first panic candle.\r\n\r\n### Keep permanently\r\n1. Huge gap-down + news → structure reset; wait first tape, then decide recovery vs runaway.\r\n2. After big gap-down, clustered **seller** SLs often need a flush → recovery can be the trade (not “buy yesterday’s buyers”).\r\n3. If momentum is continuous one-way with no retrace, treat as runaway and respect the loss path.\r\n\r\n### Day-specific only\r\n- Qty and exact ~500 closing/round interaction are session-specific.\r\n"
+    },
+    {
+      "id": "2026-07-21",
+      "date": "2026-07-21",
+      "fileName": "2026-07-21.md",
+      "weekly": false,
+      "title": "2026-07-21 — Pre + Post market (Nifty expiry eve)",
+      "summary": "- Prior day: large gap-down but both-side momentum → traders usually don’t hold overnight inventory. - Can’t cleanly label buyers or sellers sitting → open decides. - Nifty expiry next day noted. - Gap-up: even if buyer…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 21 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=xrficoYHDSE  \r\n**Duration:** ~2:51  \r\n**Transcript:** `transcripts/2026-07-21-pre.md`\r\n\r\n### Bias & structure\r\n- Prior day: large gap-down but **both-side** momentum → traders usually **don’t hold** overnight inventory.\r\n- Can’t cleanly label buyers or sellers sitting → **open decides**.\r\n- Nifty expiry next day noted.\r\n- Gap-up: even if buyers exist they go to profit → **don’t target**; buy with market. Gap-down: sell-side setups. Flat: follow constructive recovery attempts → **buy** setups.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up | Follow → **buy** setups (don’t hunt buyers into profit) |\r\n| Flat | Follow recovery / closing-trap psychology → **buy** setups |\r\n| Gap-down | Identify **sell** setups |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Nifty | 24,420 / 24,480 | 24,210 / 24,090 |\r\n| Bank Nifty | 58,580 / 59,000 | 59,860* / 59,500* (ASR order odd — treat as nearby R/S cluster) |\r\n| Sensex | 78,200 / 78,500 | 77,610 / 77,200 |\r\n\r\n\\*ASR may swap R/S order on BN.\r\n\r\n---",
+        "video": "Prediction For 21 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=xrficoYHDSE",
+        "duration": "~2:51",
+        "bias": "- Prior day: large gap-down but **both-side** momentum → traders usually **don’t hold** overnight inventory.\r\n- Can’t cleanly label buyers or sellers sitting → **open decides**.\r\n- Nifty expiry next day noted.\r\n- Gap-up: even if buyers exist they go to profit → **don’t target**; buy with market. Gap-down: sell-side setups. Flat: follow constructive recovery attempts → **buy** setups.",
+        "planByOpen": [
+          {
+            "open": "Gap-up",
+            "plan": "Follow → **buy** setups (don’t hunt buyers into profit)"
+          },
+          {
+            "open": "Flat",
+            "plan": "Follow recovery / closing-trap psychology → **buy** setups"
+          },
+          {
+            "open": "Gap-down",
+            "plan": "Identify **sell** setups"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Nifty",
+            "resistance": "24,420 / 24,480",
+            "support": "24,210 / 24,090",
+            "extra": ""
+          },
+          {
+            "index": "Bank Nifty",
+            "resistance": "58,580 / 59,000",
+            "support": "59,860* / 59,500* (ASR order odd — treat as nearby R/S cluster)",
+            "extra": ""
+          },
+          {
+            "index": "Sensex",
+            "resistance": "78,200 / 78,500",
+            "support": "77,610 / 77,200",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=0HnoI5CMaFE  \r\n**Duration:** ~8:44  \r\n**Transcript:** `transcripts/2026-07-21-post.md`\r\n\r\n### What happened / what he did\r\n- **Flat** open then upside; BN led → quick **calls** (~200 BN call noted, Sensex ~900, Nifty ~1430) to beat late crowd.\r\n- Thesis matched pre: no held inventory after both-side day → follow open; flat often lifts first to tempt both sides.\r\n- BN then rejected hard through ~**58,000**; companions lagged. Held to loss limit then **cut** when direction flipped and BN broke down (late buyers got invited on the dip — edge died).\r\n\r\n### Process lessons\r\n- Unclear inventory → open-type follow is correct process even when the day loses.\r\n- Don’t over-trust a lone BN sprint while Nifty/Sensex fail closing levels.\r\n- Deep retrace that invites fresh buyers against your long = thesis kill → cut at limit.\r\n\r\n### Keep permanently\r\n1. Both-side prior day → assume **cleared hold inventory**; bias = open type, not forced counter-trade.\r\n2. Flat after messy day: first lift can be the plan, but deep invite-the-buyers pullback invalidates.\r\n3. Cut when companions fail and your lead index breaks the mapped hold.\r\n\r\n### Day-specific only\r\n- Exact qty and 58k path are session-specific.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=0HnoI5CMaFE",
+        "duration": "~8:44",
+        "whatHappened": "- **Flat** open then upside; BN led → quick **calls** (~200 BN call noted, Sensex ~900, Nifty ~1430) to beat late crowd.\r\n- Thesis matched pre: no held inventory after both-side day → follow open; flat often lifts first to tempt both sides.\r\n- BN then rejected hard through ~**58,000**; companions lagged. Held to loss limit then **cut** when direction flipped and BN broke down (late buyers got invited on the dip — edge died).",
+        "processLessons": "- Unclear inventory → open-type follow is correct process even when the day loses.\r\n- Don’t over-trust a lone BN sprint while Nifty/Sensex fail closing levels.\r\n- Deep retrace that invites fresh buyers against your long = thesis kill → cut at limit.",
+        "keepPermanently": [
+          "Both-side prior day → assume cleared hold inventory; bias = open type, not forced counter-trade.",
+          "Flat after messy day: first lift can be the plan, but deep invite-the-buyers pullback invalidates.",
+          "Cut when companions fail and your lead index breaks the mapped hold."
+        ]
+      },
+      "keepPermanently": [
+        "Both-side prior day → assume cleared hold inventory; bias = open type, not forced counter-trade.",
+        "Flat after messy day: first lift can be the plan, but deep invite-the-buyers pullback invalidates.",
+        "Cut when companions fail and your lead index breaks the mapped hold."
+      ],
+      "raw": "# 2026-07-21 — Pre + Post market (Nifty expiry eve)\r\n\r\n## Pre-market\r\n**Video:** Prediction For 21 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=xrficoYHDSE  \r\n**Duration:** ~2:51  \r\n**Transcript:** `transcripts/2026-07-21-pre.md`\r\n\r\n### Bias & structure\r\n- Prior day: large gap-down but **both-side** momentum → traders usually **don’t hold** overnight inventory.\r\n- Can’t cleanly label buyers or sellers sitting → **open decides**.\r\n- Nifty expiry next day noted.\r\n- Gap-up: even if buyers exist they go to profit → **don’t target**; buy with market. Gap-down: sell-side setups. Flat: follow constructive recovery attempts → **buy** setups.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up | Follow → **buy** setups (don’t hunt buyers into profit) |\r\n| Flat | Follow recovery / closing-trap psychology → **buy** setups |\r\n| Gap-down | Identify **sell** setups |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Nifty | 24,420 / 24,480 | 24,210 / 24,090 |\r\n| Bank Nifty | 58,580 / 59,000 | 59,860* / 59,500* (ASR order odd — treat as nearby R/S cluster) |\r\n| Sensex | 78,200 / 78,500 | 77,610 / 77,200 |\r\n\r\n\\*ASR may swap R/S order on BN.\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=0HnoI5CMaFE  \r\n**Duration:** ~8:44  \r\n**Transcript:** `transcripts/2026-07-21-post.md`\r\n\r\n### What happened / what he did\r\n- **Flat** open then upside; BN led → quick **calls** (~200 BN call noted, Sensex ~900, Nifty ~1430) to beat late crowd.\r\n- Thesis matched pre: no held inventory after both-side day → follow open; flat often lifts first to tempt both sides.\r\n- BN then rejected hard through ~**58,000**; companions lagged. Held to loss limit then **cut** when direction flipped and BN broke down (late buyers got invited on the dip — edge died).\r\n\r\n### Process lessons\r\n- Unclear inventory → open-type follow is correct process even when the day loses.\r\n- Don’t over-trust a lone BN sprint while Nifty/Sensex fail closing levels.\r\n- Deep retrace that invites fresh buyers against your long = thesis kill → cut at limit.\r\n\r\n### Keep permanently\r\n1. Both-side prior day → assume **cleared hold inventory**; bias = open type, not forced counter-trade.\r\n2. Flat after messy day: first lift can be the plan, but deep invite-the-buyers pullback invalidates.\r\n3. Cut when companions fail and your lead index breaks the mapped hold.\r\n\r\n### Day-specific only\r\n- Exact qty and 58k path are session-specific.\r\n"
+    },
+    {
+      "id": "2026-07-22",
+      "date": "2026-07-22",
+      "fileName": "2026-07-22.md",
+      "weekly": false,
+      "title": "2026-07-22 — Pre + Post market",
+      "summary": "- Prior day: small total range; buyers & sellers likely around same price. - Selling existed but may be reduced size (slow grind → traders scale out) → inventory not always “full.” - Gap-up / flat: can target sellers →…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 22 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=_iqRDjCHceM  \r\n**Duration:** ~2:22  \r\n**Transcript:** `transcripts/2026-07-22-pre.md`\r\n\r\n### Bias & structure\r\n- Prior day: small total range; buyers & sellers likely **around same price**.\r\n- Selling existed but may be **reduced size** (slow grind → traders scale out) → inventory not always “full.”\r\n- Gap-up / flat: can target **sellers** → **buy** setups. Gap-down: sellers in profit → **don’t hunt them**; follow with **sell** setups.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Flat / gap-up | Target sellers (if still sitting) → **buy** setups |\r\n| Gap-down | Follow → **sell** setups (don’t hunt profitable sellers) |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 58,100 / 58,400 | 57,500 / 57,250 |\r\n| Sensex | 77,800 / 78,200 | 77,200 / 76,800 |\r\n| Nifty | 24,260 / 24,360 | 24,090 / 23,960 |\r\n\r\n---",
+        "video": "Prediction For 22 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=_iqRDjCHceM",
+        "duration": "~2:22",
+        "bias": "- Prior day: small total range; buyers & sellers likely **around same price**.\r\n- Selling existed but may be **reduced size** (slow grind → traders scale out) → inventory not always “full.”\r\n- Gap-up / flat: can target **sellers** → **buy** setups. Gap-down: sellers in profit → **don’t hunt them**; follow with **sell** setups.",
+        "planByOpen": [
+          {
+            "open": "Flat / gap-up",
+            "plan": "Target sellers (if still sitting) → **buy** setups"
+          },
+          {
+            "open": "Gap-down",
+            "plan": "Follow → **sell** setups (don’t hunt profitable sellers)"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Bank Nifty",
+            "resistance": "58,100 / 58,400",
+            "support": "57,500 / 57,250",
+            "extra": ""
+          },
+          {
+            "index": "Sensex",
+            "resistance": "77,800 / 78,200",
+            "support": "77,200 / 76,800",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "24,260 / 24,360",
+            "support": "24,090 / 23,960",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=d-B4_cGK-ng  \r\n**Duration:** ~7:26  \r\n**Transcript:** `transcripts/2026-07-22-post.md`\r\n\r\n### What happened / what he did\r\n- Opened into **fast selling**; waited (no chase into first spike).\r\n- Continuous sell with **no major retrace** → **puts** (Sensex ~900, Nifty ~1430); follow runaway downside.\r\n- Contrast with prior day: yesterday’s “continuous up” flipped and stopped him out; today continuous down held → booked average/strong target when stall/retrace risk rose (late sellers start averaging).\r\n\r\n### Process lessons\r\n- Big momentum days: **no retrace** = stay with flow; large retrace invites crowd and kills extension.\r\n- Don’t hunt sellers already deep in profit after a big dump.\r\n- Correct trades you can sit; wrong continuous flips you cut (yesterday’s lesson applied).\r\n\r\n### Keep permanently\r\n1. Continuous one-way tape without retrace → follow; wait for stall only to **book**, not to invent reverse.\r\n2. After a large move, resting inventory in profit is usually **not** the hunt target — follow the open.\r\n3. Same “continuous momentum” read can be long or short; the kill is a **deep flip**, not a small pause.\r\n\r\n### Day-specific only\r\n- Size and exact target stretch are session-specific.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=d-B4_cGK-ng",
+        "duration": "~7:26",
+        "whatHappened": "- Opened into **fast selling**; waited (no chase into first spike).\r\n- Continuous sell with **no major retrace** → **puts** (Sensex ~900, Nifty ~1430); follow runaway downside.\r\n- Contrast with prior day: yesterday’s “continuous up” flipped and stopped him out; today continuous down held → booked average/strong target when stall/retrace risk rose (late sellers start averaging).",
+        "processLessons": "- Big momentum days: **no retrace** = stay with flow; large retrace invites crowd and kills extension.\r\n- Don’t hunt sellers already deep in profit after a big dump.\r\n- Correct trades you can sit; wrong continuous flips you cut (yesterday’s lesson applied).",
+        "keepPermanently": [
+          "Continuous one-way tape without retrace → follow; wait for stall only to book, not to invent reverse.",
+          "After a large move, resting inventory in profit is usually not the hunt target — follow the open.",
+          "Same “continuous momentum” read can be long or short; the kill is a deep flip, not a small pause."
+        ]
+      },
+      "keepPermanently": [
+        "Continuous one-way tape without retrace → follow; wait for stall only to book, not to invent reverse.",
+        "After a large move, resting inventory in profit is usually not the hunt target — follow the open.",
+        "Same “continuous momentum” read can be long or short; the kill is a deep flip, not a small pause."
+      ],
+      "raw": "# 2026-07-22 — Pre + Post market\r\n\r\n## Pre-market\r\n**Video:** Prediction For 22 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=_iqRDjCHceM  \r\n**Duration:** ~2:22  \r\n**Transcript:** `transcripts/2026-07-22-pre.md`\r\n\r\n### Bias & structure\r\n- Prior day: small total range; buyers & sellers likely **around same price**.\r\n- Selling existed but may be **reduced size** (slow grind → traders scale out) → inventory not always “full.”\r\n- Gap-up / flat: can target **sellers** → **buy** setups. Gap-down: sellers in profit → **don’t hunt them**; follow with **sell** setups.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Flat / gap-up | Target sellers (if still sitting) → **buy** setups |\r\n| Gap-down | Follow → **sell** setups (don’t hunt profitable sellers) |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 58,100 / 58,400 | 57,500 / 57,250 |\r\n| Sensex | 77,800 / 78,200 | 77,200 / 76,800 |\r\n| Nifty | 24,260 / 24,360 | 24,090 / 23,960 |\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=d-B4_cGK-ng  \r\n**Duration:** ~7:26  \r\n**Transcript:** `transcripts/2026-07-22-post.md`\r\n\r\n### What happened / what he did\r\n- Opened into **fast selling**; waited (no chase into first spike).\r\n- Continuous sell with **no major retrace** → **puts** (Sensex ~900, Nifty ~1430); follow runaway downside.\r\n- Contrast with prior day: yesterday’s “continuous up” flipped and stopped him out; today continuous down held → booked average/strong target when stall/retrace risk rose (late sellers start averaging).\r\n\r\n### Process lessons\r\n- Big momentum days: **no retrace** = stay with flow; large retrace invites crowd and kills extension.\r\n- Don’t hunt sellers already deep in profit after a big dump.\r\n- Correct trades you can sit; wrong continuous flips you cut (yesterday’s lesson applied).\r\n\r\n### Keep permanently\r\n1. Continuous one-way tape without retrace → follow; wait for stall only to **book**, not to invent reverse.\r\n2. After a large move, resting inventory in profit is usually **not** the hunt target — follow the open.\r\n3. Same “continuous momentum” read can be long or short; the kill is a **deep flip**, not a small pause.\r\n\r\n### Day-specific only\r\n- Size and exact target stretch are session-specific.\r\n"
+    },
+    {
+      "id": "2026-07-23",
+      "date": "2026-07-23",
+      "fileName": "2026-07-23.md",
+      "weekly": false,
+      "title": "2026-07-23 — Pre + Post market (Sensex expiry)",
+      "summary": "- Strong prior selling, but late-day momentum failed → many sellers may not have held overnight. - Flat / gap-down: sellers who are still in have confidence → follow sell. - Gap-up that sustains positive: sellers run →…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 23 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=bL9NxsWmj3o  \r\n**Duration:** ~2:11  \r\n**Transcript:** `transcripts/2026-07-23-pre.md`\r\n\r\n### Bias & structure\r\n- Strong prior **selling**, but late-day momentum failed → many sellers may **not** have held overnight.\r\n- Flat / gap-down: sellers who are still in have **confidence** → follow **sell**.\r\n- Gap-up that **sustains** positive: sellers run → **buy** setups. Gap-up that dumps immediately → separate / may have no clean plan.\r\n- Sensex expiry today. BN held ~**57,000** support (not broken).\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Flat / gap-down | Follow negativity → **sell** setups |\r\n| Gap-up + sustained upside | Sellers run → **buy** setups |\r\n| Gap-up that fails immediately | No clean plan / wait |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Sensex | 77,500 / 77,200 | 76,500 / 76,200 |\r\n| Bank Nifty | 57,830 / 57,500 | 56,960 / 56,800 |\r\n| Nifty | 24,143* / 24,260* | 23,964 / 23,800* |\r\n\r\n\\*ASR may mishear trailing digits.\r\n\r\n---",
+        "video": "Prediction For 23 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=bL9NxsWmj3o",
+        "duration": "~2:11",
+        "bias": "- Strong prior **selling**, but late-day momentum failed → many sellers may **not** have held overnight.\r\n- Flat / gap-down: sellers who are still in have **confidence** → follow **sell**.\r\n- Gap-up that **sustains** positive: sellers run → **buy** setups. Gap-up that dumps immediately → separate / may have no clean plan.\r\n- Sensex expiry today. BN held ~**57,000** support (not broken).",
+        "planByOpen": [
+          {
+            "open": "Flat / gap-down",
+            "plan": "Follow negativity → **sell** setups"
+          },
+          {
+            "open": "Gap-up + sustained upside",
+            "plan": "Sellers run → **buy** setups"
+          },
+          {
+            "open": "Gap-up that fails immediately",
+            "plan": "No clean plan / wait"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Sensex",
+            "resistance": "77,500 / 77,200",
+            "support": "76,500 / 76,200",
+            "extra": ""
+          },
+          {
+            "index": "Bank Nifty",
+            "resistance": "57,830 / 57,500",
+            "support": "56,960 / 56,800",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "24,143* / 24,260*",
+            "support": "23,964 / 23,800*",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=9Tzi96RY7Jc  \r\n**Duration:** ~9:51  \r\n**Transcript:** `transcripts/2026-07-23-post.md`\r\n\r\n### What happened / what he did\r\n- **Solid gap-down**; planned follow sell. Expected possible **first bounce** then resume (entry harder if bounce).\r\n- Took **puts** into the bounce (Sensex expiry ~900, Nifty ~1365) — bounce was the planned entry, not a thesis flip.\r\n- Why sell works without hunting sellers: overnight sellers either gone or **confident** (won’t chain-react on small green) → bounce is opportunity, not panic cover.\r\n- Booked after BN breakdown / intraday target; did not stretch for runaway (lower point already formed; Sensex expiry less likely to smash levels).\r\n\r\n### Process lessons\r\n- Gap-down after sell day: bounce ≠ automatic short-cover cascade if inventory is confident or thin.\r\n- Prefer intraday target when structure already printed a lower point (not yesterday’s continuous dump shape).\r\n- Expiry index may lag breakdown — take the index that confirms.\r\n\r\n### Keep permanently\r\n1. After strong sell + failed late momentum, overnight short inventory is often **thin or confident** — don’t invent seller-hunt; follow gap-down / sell the bounce.\r\n2. Planned bounce-then-sell is process, not FOMO reverse.\r\n3. Book known intraday path; don’t demand continuous-dump extension when chart already made a lower pivot.\r\n\r\n### Day-specific only\r\n- 57k hold/test and expiry sizing are session-specific.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=9Tzi96RY7Jc",
+        "duration": "~9:51",
+        "whatHappened": "- **Solid gap-down**; planned follow sell. Expected possible **first bounce** then resume (entry harder if bounce).\r\n- Took **puts** into the bounce (Sensex expiry ~900, Nifty ~1365) — bounce was the planned entry, not a thesis flip.\r\n- Why sell works without hunting sellers: overnight sellers either gone or **confident** (won’t chain-react on small green) → bounce is opportunity, not panic cover.\r\n- Booked after BN breakdown / intraday target; did not stretch for runaway (lower point already formed; Sensex expiry less likely to smash levels).",
+        "processLessons": "- Gap-down after sell day: bounce ≠ automatic short-cover cascade if inventory is confident or thin.\r\n- Prefer intraday target when structure already printed a lower point (not yesterday’s continuous dump shape).\r\n- Expiry index may lag breakdown — take the index that confirms.",
+        "keepPermanently": [
+          "After strong sell + failed late momentum, overnight short inventory is often thin or confident — don’t invent seller-hunt; follow gap-down / sell the bounce.",
+          "Planned bounce-then-sell is process, not FOMO reverse.",
+          "Book known intraday path; don’t demand continuous-dump extension when chart already made a lower pivot."
+        ]
+      },
+      "keepPermanently": [
+        "After strong sell + failed late momentum, overnight short inventory is often thin or confident — don’t invent seller-hunt; follow gap-down / sell the bounce.",
+        "Planned bounce-then-sell is process, not FOMO reverse.",
+        "Book known intraday path; don’t demand continuous-dump extension when chart already made a lower pivot."
+      ],
+      "raw": "# 2026-07-23 — Pre + Post market (Sensex expiry)\r\n\r\n## Pre-market\r\n**Video:** Prediction For 23 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=bL9NxsWmj3o  \r\n**Duration:** ~2:11  \r\n**Transcript:** `transcripts/2026-07-23-pre.md`\r\n\r\n### Bias & structure\r\n- Strong prior **selling**, but late-day momentum failed → many sellers may **not** have held overnight.\r\n- Flat / gap-down: sellers who are still in have **confidence** → follow **sell**.\r\n- Gap-up that **sustains** positive: sellers run → **buy** setups. Gap-up that dumps immediately → separate / may have no clean plan.\r\n- Sensex expiry today. BN held ~**57,000** support (not broken).\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Flat / gap-down | Follow negativity → **sell** setups |\r\n| Gap-up + sustained upside | Sellers run → **buy** setups |\r\n| Gap-up that fails immediately | No clean plan / wait |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Sensex | 77,500 / 77,200 | 76,500 / 76,200 |\r\n| Bank Nifty | 57,830 / 57,500 | 56,960 / 56,800 |\r\n| Nifty | 24,143* / 24,260* | 23,964 / 23,800* |\r\n\r\n\\*ASR may mishear trailing digits.\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=9Tzi96RY7Jc  \r\n**Duration:** ~9:51  \r\n**Transcript:** `transcripts/2026-07-23-post.md`\r\n\r\n### What happened / what he did\r\n- **Solid gap-down**; planned follow sell. Expected possible **first bounce** then resume (entry harder if bounce).\r\n- Took **puts** into the bounce (Sensex expiry ~900, Nifty ~1365) — bounce was the planned entry, not a thesis flip.\r\n- Why sell works without hunting sellers: overnight sellers either gone or **confident** (won’t chain-react on small green) → bounce is opportunity, not panic cover.\r\n- Booked after BN breakdown / intraday target; did not stretch for runaway (lower point already formed; Sensex expiry less likely to smash levels).\r\n\r\n### Process lessons\r\n- Gap-down after sell day: bounce ≠ automatic short-cover cascade if inventory is confident or thin.\r\n- Prefer intraday target when structure already printed a lower point (not yesterday’s continuous dump shape).\r\n- Expiry index may lag breakdown — take the index that confirms.\r\n\r\n### Keep permanently\r\n1. After strong sell + failed late momentum, overnight short inventory is often **thin or confident** — don’t invent seller-hunt; follow gap-down / sell the bounce.\r\n2. Planned bounce-then-sell is process, not FOMO reverse.\r\n3. Book known intraday path; don’t demand continuous-dump extension when chart already made a lower pivot.\r\n\r\n### Day-specific only\r\n- 57k hold/test and expiry sizing are session-specific.\r\n"
+    },
+    {
+      "id": "2026-07-24",
+      "date": "2026-07-24",
+      "fileName": "2026-07-24.md",
+      "weekly": false,
+      "title": "2026-07-24 — Pre + Post market",
+      "summary": "- Another gap-down + strong selling day prior; some retrace into close but not enough that sellers fully fled. - Not hunting sellers (they’re already in profit). - Gap-up: often a downside trap (tempt late shorts/buyers…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 24 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=ekVgnszh7tU  \r\n**Duration:** ~2:18  \r\n**Transcript:** `transcripts/2026-07-24-pre.md`\r\n\r\n### Bias & structure\r\n- Another **gap-down + strong selling** day prior; some retrace into close but not enough that sellers fully fled.\r\n- **Not** hunting sellers (they’re already in profit).\r\n- Gap-up: often a **downside trap** (tempt late shorts/buyers wrong way) → still look for **sell** setups. Flat / gap-down: follow **sell**. Flat has mild support-trap risk.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up | Trap psychology often downside → identify **sell** setups |\r\n| Flat / gap-down | Follow → **sell** setups (flat slightly riskier) |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,232* / (ASR “5757232”) | 56,380 / 55,910 |\r\n| Sensex | 76,650 / 76,854 | 76,200 / 75,800 |\r\n| Nifty | 24,035* / 24,143 | 23,800 / 23,620 |\r\n\r\n\\*ASR uncertainty on concatenated BN/Nifty prints.\r\n\r\n---",
+        "video": "Prediction For 24 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=ekVgnszh7tU",
+        "duration": "~2:18",
+        "bias": "- Another **gap-down + strong selling** day prior; some retrace into close but not enough that sellers fully fled.\r\n- **Not** hunting sellers (they’re already in profit).\r\n- Gap-up: often a **downside trap** (tempt late shorts/buyers wrong way) → still look for **sell** setups. Flat / gap-down: follow **sell**. Flat has mild support-trap risk.",
+        "planByOpen": [
+          {
+            "open": "Gap-up",
+            "plan": "Trap psychology often downside → identify **sell** setups"
+          },
+          {
+            "open": "Flat / gap-down",
+            "plan": "Follow → **sell** setups (flat slightly riskier)"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Bank Nifty",
+            "resistance": "57,232* / (ASR “5757232”)",
+            "support": "56,380 / 55,910",
+            "extra": ""
+          },
+          {
+            "index": "Sensex",
+            "resistance": "76,650 / 76,854",
+            "support": "76,200 / 75,800",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "24,035* / 24,143",
+            "support": "23,800 / 23,620",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=c6fC2LRkocE  \r\n**Duration:** ~11:26  \r\n**Transcript:** `transcripts/2026-07-24-post.md`\r\n\r\n### What happened / what he did\r\n- Gap-down then green recovery across indices. Thesis: multi-day sell → sellers in profit → light bounce to book/tempt, then resume sell (same plan even if gap-up).\r\n- Entry cue: **lagging BN** while Sensex/Nifty ran green — wait BN pause/rejection, then **puts** (~1170 BN 56200 put noted, Sensex ~900, Nifty ~1365).\r\n- Risk called: if bounce keeps running without pause → sellers get flushed then larger upside trap against shorts.\r\n- Booked solid profit; warned that after sharp sell, **tiny green candles** invite random new sellers whose SLs become the next upside fuel — don’t overstay.\r\n\r\n### Process lessons\r\n- Don’t hunt profitable multi-day sellers; trade the **resume** after a allowed bounce.\r\n- Use the **lagging index** for entry when leaders are too fast to short cleanly.\r\n- After a fast dump, late random sellers + small green candles = turn risk → bank known RR.\r\n\r\n### Keep permanently\r\n1. Multi-day sell + gap-down: bounce is often allowed; **sell the resume**, don’t seller-hunt.\r\n2. When companions sprint, enter off the **lagging** index’s pause/rejection.\r\n3. After sharp sell, small green “retracement” candles raise reverse risk — book average/known target.\r\n\r\n### Day-specific only\r\n- Strike/qty and exact 56,200 put are session-specific.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=c6fC2LRkocE",
+        "duration": "~11:26",
+        "whatHappened": "- Gap-down then green recovery across indices. Thesis: multi-day sell → sellers in profit → light bounce to book/tempt, then resume sell (same plan even if gap-up).\r\n- Entry cue: **lagging BN** while Sensex/Nifty ran green — wait BN pause/rejection, then **puts** (~1170 BN 56200 put noted, Sensex ~900, Nifty ~1365).\r\n- Risk called: if bounce keeps running without pause → sellers get flushed then larger upside trap against shorts.\r\n- Booked solid profit; warned that after sharp sell, **tiny green candles** invite random new sellers whose SLs become the next upside fuel — don’t overstay.",
+        "processLessons": "- Don’t hunt profitable multi-day sellers; trade the **resume** after a allowed bounce.\r\n- Use the **lagging index** for entry when leaders are too fast to short cleanly.\r\n- After a fast dump, late random sellers + small green candles = turn risk → bank known RR.",
+        "keepPermanently": [
+          "Multi-day sell + gap-down: bounce is often allowed; sell the resume, don’t seller-hunt.",
+          "When companions sprint, enter off the lagging index’s pause/rejection.",
+          "After sharp sell, small green “retracement” candles raise reverse risk — book average/known target."
+        ]
+      },
+      "keepPermanently": [
+        "Multi-day sell + gap-down: bounce is often allowed; sell the resume, don’t seller-hunt.",
+        "When companions sprint, enter off the lagging index’s pause/rejection.",
+        "After sharp sell, small green “retracement” candles raise reverse risk — book average/known target."
+      ],
+      "raw": "# 2026-07-24 — Pre + Post market\r\n\r\n## Pre-market\r\n**Video:** Prediction For 24 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=ekVgnszh7tU  \r\n**Duration:** ~2:18  \r\n**Transcript:** `transcripts/2026-07-24-pre.md`\r\n\r\n### Bias & structure\r\n- Another **gap-down + strong selling** day prior; some retrace into close but not enough that sellers fully fled.\r\n- **Not** hunting sellers (they’re already in profit).\r\n- Gap-up: often a **downside trap** (tempt late shorts/buyers wrong way) → still look for **sell** setups. Flat / gap-down: follow **sell**. Flat has mild support-trap risk.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up | Trap psychology often downside → identify **sell** setups |\r\n| Flat / gap-down | Follow → **sell** setups (flat slightly riskier) |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,232* / (ASR “5757232”) | 56,380 / 55,910 |\r\n| Sensex | 76,650 / 76,854 | 76,200 / 75,800 |\r\n| Nifty | 24,035* / 24,143 | 23,800 / 23,620 |\r\n\r\n\\*ASR uncertainty on concatenated BN/Nifty prints.\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=c6fC2LRkocE  \r\n**Duration:** ~11:26  \r\n**Transcript:** `transcripts/2026-07-24-post.md`\r\n\r\n### What happened / what he did\r\n- Gap-down then green recovery across indices. Thesis: multi-day sell → sellers in profit → light bounce to book/tempt, then resume sell (same plan even if gap-up).\r\n- Entry cue: **lagging BN** while Sensex/Nifty ran green — wait BN pause/rejection, then **puts** (~1170 BN 56200 put noted, Sensex ~900, Nifty ~1365).\r\n- Risk called: if bounce keeps running without pause → sellers get flushed then larger upside trap against shorts.\r\n- Booked solid profit; warned that after sharp sell, **tiny green candles** invite random new sellers whose SLs become the next upside fuel — don’t overstay.\r\n\r\n### Process lessons\r\n- Don’t hunt profitable multi-day sellers; trade the **resume** after a allowed bounce.\r\n- Use the **lagging index** for entry when leaders are too fast to short cleanly.\r\n- After a fast dump, late random sellers + small green candles = turn risk → bank known RR.\r\n\r\n### Keep permanently\r\n1. Multi-day sell + gap-down: bounce is often allowed; **sell the resume**, don’t seller-hunt.\r\n2. When companions sprint, enter off the **lagging** index’s pause/rejection.\r\n3. After sharp sell, small green “retracement” candles raise reverse risk — book average/known target.\r\n\r\n### Day-specific only\r\n- Strike/qty and exact 56,200 put are session-specific.\r\n"
+    },
+    {
+      "id": "2026-07-27",
+      "date": "2026-07-27",
+      "fileName": "2026-07-27.md",
+      "weekly": false,
+      "title": "2026-07-27 — Pre + Post market",
+      "summary": "- Prior day: strong positive momentum after a very negative backdrop → buyers who caught the bounce likely booked and left. - Fresh buyers less likely (market had been too negative); sellers may have sat on the bounce.…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Nifty & Bank nifty | SENSEX Analysis | Prediction For 27 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=WD2QzS0D0LI  \r\n**Duration:** ~3 min\r\n\r\n### Bias & structure\r\n- Prior day: strong **positive momentum** after a very negative backdrop → buyers who caught the bounce likely **booked and left**.\r\n- Fresh buyers less likely (market had been too negative); **sellers may have sat** on the bounce.\r\n- Hard day: decide whether to trust the recovery or handle leftover sellers.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| **Large gap-down** (~500+ pts away) | Sellers in profit → **follow market**, identify **sell** setups |\r\n| **Small gap-down / flat** | Sellers not useful → **no clean plan** (unless trap: fake upside then resume sell) |\r\n| **Gap-up (not huge)** | Tempt sellers to average → still look for **sell** setups |\r\n| **Huge gap-up** | Sellers forced to run → **avoid** that case |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,232 / 57,500 | 56,430 / 56,076 |\r\n| Sensex | 76,500 / 76,700 | 75,800 / 75,400 |\r\n| Nifty | 23,930 / 24,035 | 23,734 / 23,620 |\r\n\r\n---",
+        "video": "Nifty & Bank nifty | SENSEX Analysis | Prediction For 27 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=WD2QzS0D0LI",
+        "duration": "~3 min",
+        "bias": "- Prior day: strong **positive momentum** after a very negative backdrop → buyers who caught the bounce likely **booked and left**.\r\n- Fresh buyers less likely (market had been too negative); **sellers may have sat** on the bounce.\r\n- Hard day: decide whether to trust the recovery or handle leftover sellers.",
+        "planByOpen": [
+          {
+            "open": "**Large gap-down** (~500+ pts away)",
+            "plan": "Sellers in profit → **follow market**, identify **sell** setups"
+          },
+          {
+            "open": "**Small gap-down / flat**",
+            "plan": "Sellers not useful → **no clean plan** (unless trap: fake upside then resume sell)"
+          },
+          {
+            "open": "**Gap-up (not huge)**",
+            "plan": "Tempt sellers to average → still look for **sell** setups"
+          },
+          {
+            "open": "**Huge gap-up**",
+            "plan": "Sellers forced to run → **avoid** that case"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Bank Nifty",
+            "resistance": "57,232 / 57,500",
+            "support": "56,430 / 56,076",
+            "extra": ""
+          },
+          {
+            "index": "Sensex",
+            "resistance": "76,500 / 76,700",
+            "support": "75,800 / 75,400",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "23,930 / 24,035",
+            "support": "23,734 / 23,620",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=PezwEQ300lo  \r\n**Duration:** ~9:53\r\n\r\n### What happened / what he did\r\n- **Gap-up** open (Sensex especially large; Nifty also up).\r\n- Thesis: after continuous selling + recovery into holiday, holders likely **booked** → few seller SLs left → gap-up often brings **buyer temptation** then **rejection**.\r\n- **Sold** Bank Nifty / Sensex / Nifty (sizes mentioned ~1170 BN, ~900 Sensex, ~1430 Nifty).\r\n- Expected: up → down → retest → direction; captured the sell momentum.\r\n- Bank Nifty sold well; Sensex/Nifty lagged → he wanted them to break down for a bigger target.\r\n- **Booked** when BN printed small candles near round number and Sensex/Nifty failed to confirm breakdown — risk rising that trapped sellers get squeezed.\r\n\r\n### Process lessons\r\n- Holiday + recovery → don’t assume short inventory still sitting.\r\n- Gap-up without instant runaway momentum → trap risk favors sell of late buyers.\r\n- If one index works alone, don’t overhold waiting for confirmation forever.\r\n- Exit when structure turns choppy even if direction thesis was right.\r\n\r\n### Keep permanently\r\n1. Inventory after holiday/recovery often clears — gap-up can be a **temptation trap**, not a free long.\r\n2. Multi-index confirmation matters for extending targets.\r\n3. Book when candles shrink and round-number trap risk rises.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=PezwEQ300lo",
+        "duration": "~9:53",
+        "whatHappened": "- **Gap-up** open (Sensex especially large; Nifty also up).\r\n- Thesis: after continuous selling + recovery into holiday, holders likely **booked** → few seller SLs left → gap-up often brings **buyer temptation** then **rejection**.\r\n- **Sold** Bank Nifty / Sensex / Nifty (sizes mentioned ~1170 BN, ~900 Sensex, ~1430 Nifty).\r\n- Expected: up → down → retest → direction; captured the sell momentum.\r\n- Bank Nifty sold well; Sensex/Nifty lagged → he wanted them to break down for a bigger target.\r\n- **Booked** when BN printed small candles near round number and Sensex/Nifty failed to confirm breakdown — risk rising that trapped sellers get squeezed.",
+        "processLessons": "- Holiday + recovery → don’t assume short inventory still sitting.\r\n- Gap-up without instant runaway momentum → trap risk favors sell of late buyers.\r\n- If one index works alone, don’t overhold waiting for confirmation forever.\r\n- Exit when structure turns choppy even if direction thesis was right.",
+        "keepPermanently": [
+          "Inventory after holiday/recovery often clears — gap-up can be a temptation trap, not a free long.",
+          "Multi-index confirmation matters for extending targets.",
+          "Book when candles shrink and round-number trap risk rises."
+        ]
+      },
+      "keepPermanently": [
+        "Inventory after holiday/recovery often clears — gap-up can be a temptation trap, not a free long.",
+        "Multi-index confirmation matters for extending targets.",
+        "Book when candles shrink and round-number trap risk rises."
+      ],
+      "raw": "# 2026-07-27 — Pre + Post market\r\n\r\n## Pre-market\r\n**Video:** Nifty & Bank nifty | SENSEX Analysis | Prediction For 27 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=WD2QzS0D0LI  \r\n**Duration:** ~3 min\r\n\r\n### Bias & structure\r\n- Prior day: strong **positive momentum** after a very negative backdrop → buyers who caught the bounce likely **booked and left**.\r\n- Fresh buyers less likely (market had been too negative); **sellers may have sat** on the bounce.\r\n- Hard day: decide whether to trust the recovery or handle leftover sellers.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| **Large gap-down** (~500+ pts away) | Sellers in profit → **follow market**, identify **sell** setups |\r\n| **Small gap-down / flat** | Sellers not useful → **no clean plan** (unless trap: fake upside then resume sell) |\r\n| **Gap-up (not huge)** | Tempt sellers to average → still look for **sell** setups |\r\n| **Huge gap-up** | Sellers forced to run → **avoid** that case |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,232 / 57,500 | 56,430 / 56,076 |\r\n| Sensex | 76,500 / 76,700 | 75,800 / 75,400 |\r\n| Nifty | 23,930 / 24,035 | 23,734 / 23,620 |\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=PezwEQ300lo  \r\n**Duration:** ~9:53\r\n\r\n### What happened / what he did\r\n- **Gap-up** open (Sensex especially large; Nifty also up).\r\n- Thesis: after continuous selling + recovery into holiday, holders likely **booked** → few seller SLs left → gap-up often brings **buyer temptation** then **rejection**.\r\n- **Sold** Bank Nifty / Sensex / Nifty (sizes mentioned ~1170 BN, ~900 Sensex, ~1430 Nifty).\r\n- Expected: up → down → retest → direction; captured the sell momentum.\r\n- Bank Nifty sold well; Sensex/Nifty lagged → he wanted them to break down for a bigger target.\r\n- **Booked** when BN printed small candles near round number and Sensex/Nifty failed to confirm breakdown — risk rising that trapped sellers get squeezed.\r\n\r\n### Process lessons\r\n- Holiday + recovery → don’t assume short inventory still sitting.\r\n- Gap-up without instant runaway momentum → trap risk favors sell of late buyers.\r\n- If one index works alone, don’t overhold waiting for confirmation forever.\r\n- Exit when structure turns choppy even if direction thesis was right.\r\n\r\n### Keep permanently\r\n1. Inventory after holiday/recovery often clears — gap-up can be a **temptation trap**, not a free long.\r\n2. Multi-index confirmation matters for extending targets.\r\n3. Book when candles shrink and round-number trap risk rises.\r\n"
+    },
+    {
+      "id": "2026-07-28",
+      "date": "2026-07-28",
+      "fileName": "2026-07-28.md",
+      "weekly": false,
+      "title": "2026-07-28 — Pre + Post market (Nifty & BN weekly expiry)",
+      "summary": "- Prior day: gap-up then back down; small breakdowns with repeated recovery attempts. - Buyers and sellers both around same price — open decides who still holds. - Bank Nifty closed above 57,000; Nifty/Sensex were posit…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 28 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=L8t0iLNhq2o  \r\n**Duration:** ~2:25\r\n\r\n### Bias & structure\r\n- Prior day: gap-up then back down; small breakdowns with repeated recovery attempts.\r\n- Buyers and sellers **both around same price** — open decides who still holds.\r\n- Bank Nifty closed **above 57,000**; Nifty/Sensex were positive → less worry about sellers, more about **buyers** on soft opens.\r\n- Expiry day for Nifty & Bank Nifty weekly.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| **Gap-up** (above prior high zone) | Buyers into profit → **don’t target buyers**; identify **buy** setups / follow |\r\n| **Flat / gap-down** | Buyers at risk → identify **sell** setups (target buyers) |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,500 / 57,832 | ~56,750 area (ASR: 5756750 garbled — treat as ~56,750 / nearby) |\r\n| Nifty | 24,110 / 24,200 | 23,940 / 23,860 |\r\n| Sensex | 77,200 / 77,364 | 76,650 / 76,040 |\r\n\r\n---",
+        "video": "Prediction For 28 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=L8t0iLNhq2o",
+        "duration": "~2:25",
+        "bias": "- Prior day: gap-up then back down; small breakdowns with repeated recovery attempts.\r\n- Buyers and sellers **both around same price** — open decides who still holds.\r\n- Bank Nifty closed **above 57,000**; Nifty/Sensex were positive → less worry about sellers, more about **buyers** on soft opens.\r\n- Expiry day for Nifty & Bank Nifty weekly.",
+        "planByOpen": [
+          {
+            "open": "**Gap-up** (above prior high zone)",
+            "plan": "Buyers into profit → **don’t target buyers**; identify **buy** setups / follow"
+          },
+          {
+            "open": "**Flat / gap-down**",
+            "plan": "Buyers at risk → identify **sell** setups (target buyers)"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Bank Nifty",
+            "resistance": "57,500 / 57,832",
+            "support": "~56,750 area (ASR: 5756750 garbled — treat as ~56,750 / nearby)",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "24,110 / 24,200",
+            "support": "23,940 / 23,860",
+            "extra": ""
+          },
+          {
+            "index": "Sensex",
+            "resistance": "77,200 / 77,364",
+            "support": "76,650 / 76,040",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=-vNa6-t2SWw  \r\n**Duration:** ~8:27\r\n\r\n### What happened / what he did\r\n- Soft **gap-down**, then some positive bounce; expiry day.\r\n- Thesis: repeated breakdown→recovery above 57k + strong Nifty/Sensex → **sellers stopped out**, **buyers sitting** → gap-down = target buyers with **puts**.\r\n- Entered sells (~1170 BN, ~900 Sensex, ~1430 Nifty) after no clean breakout against him.\r\n- Nifty/Sensex printed breakouts (stress); key risk called: Nifty through **~24,040** would invalidate.\r\n- Breakouts failed → BN sold → **booked** into expiry (premium crush risk on green candles).\r\n\r\n### Process lessons\r\n- Morning trades need pre-defined loss/profit handling — overtraders should reduce size or skip open.\r\n- “One breakout then fail” trap: after first breakout of round number, second breakout less required for trap thesis.\r\n- Expiry → book sooner; green candles can crush put premium fast.\r\n\r\n### Keep permanently\r\n1. Positive companion indices + BN holding round number → soft open often = **sell the buyers**.\r\n2. Pre-define loss if breakout continues against you before entering open.\r\n3. On expiry, prioritize booking over hoping for second leg.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=-vNa6-t2SWw",
+        "duration": "~8:27",
+        "whatHappened": "- Soft **gap-down**, then some positive bounce; expiry day.\r\n- Thesis: repeated breakdown→recovery above 57k + strong Nifty/Sensex → **sellers stopped out**, **buyers sitting** → gap-down = target buyers with **puts**.\r\n- Entered sells (~1170 BN, ~900 Sensex, ~1430 Nifty) after no clean breakout against him.\r\n- Nifty/Sensex printed breakouts (stress); key risk called: Nifty through **~24,040** would invalidate.\r\n- Breakouts failed → BN sold → **booked** into expiry (premium crush risk on green candles).",
+        "processLessons": "- Morning trades need pre-defined loss/profit handling — overtraders should reduce size or skip open.\r\n- “One breakout then fail” trap: after first breakout of round number, second breakout less required for trap thesis.\r\n- Expiry → book sooner; green candles can crush put premium fast.",
+        "keepPermanently": [
+          "Positive companion indices + BN holding round number → soft open often = sell the buyers.",
+          "Pre-define loss if breakout continues against you before entering open.",
+          "On expiry, prioritize booking over hoping for second leg."
+        ]
+      },
+      "keepPermanently": [
+        "Positive companion indices + BN holding round number → soft open often = sell the buyers.",
+        "Pre-define loss if breakout continues against you before entering open.",
+        "On expiry, prioritize booking over hoping for second leg."
+      ],
+      "raw": "# 2026-07-28 — Pre + Post market (Nifty & BN weekly expiry)\r\n\r\n## Pre-market\r\n**Video:** Prediction For 28 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=L8t0iLNhq2o  \r\n**Duration:** ~2:25\r\n\r\n### Bias & structure\r\n- Prior day: gap-up then back down; small breakdowns with repeated recovery attempts.\r\n- Buyers and sellers **both around same price** — open decides who still holds.\r\n- Bank Nifty closed **above 57,000**; Nifty/Sensex were positive → less worry about sellers, more about **buyers** on soft opens.\r\n- Expiry day for Nifty & Bank Nifty weekly.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| **Gap-up** (above prior high zone) | Buyers into profit → **don’t target buyers**; identify **buy** setups / follow |\r\n| **Flat / gap-down** | Buyers at risk → identify **sell** setups (target buyers) |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,500 / 57,832 | ~56,750 area (ASR: 5756750 garbled — treat as ~56,750 / nearby) |\r\n| Nifty | 24,110 / 24,200 | 23,940 / 23,860 |\r\n| Sensex | 77,200 / 77,364 | 76,650 / 76,040 |\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=-vNa6-t2SWw  \r\n**Duration:** ~8:27\r\n\r\n### What happened / what he did\r\n- Soft **gap-down**, then some positive bounce; expiry day.\r\n- Thesis: repeated breakdown→recovery above 57k + strong Nifty/Sensex → **sellers stopped out**, **buyers sitting** → gap-down = target buyers with **puts**.\r\n- Entered sells (~1170 BN, ~900 Sensex, ~1430 Nifty) after no clean breakout against him.\r\n- Nifty/Sensex printed breakouts (stress); key risk called: Nifty through **~24,040** would invalidate.\r\n- Breakouts failed → BN sold → **booked** into expiry (premium crush risk on green candles).\r\n\r\n### Process lessons\r\n- Morning trades need pre-defined loss/profit handling — overtraders should reduce size or skip open.\r\n- “One breakout then fail” trap: after first breakout of round number, second breakout less required for trap thesis.\r\n- Expiry → book sooner; green candles can crush put premium fast.\r\n\r\n### Keep permanently\r\n1. Positive companion indices + BN holding round number → soft open often = **sell the buyers**.\r\n2. Pre-define loss if breakout continues against you before entering open.\r\n3. On expiry, prioritize booking over hoping for second leg.\r\n"
+    },
+    {
+      "id": "2026-07-29",
+      "date": "2026-07-29",
+      "fileName": "2026-07-29.md",
+      "weekly": false,
+      "title": "2026-07-29 — Pre + Post market",
+      "summary": "- Short/slow selling, no big momentum → confusion by design. - Prior day big gap-up then rejection; another rejection day while Nifty/Sensex still hold up → hard to tag clean buyer vs seller inventory. - Rule when uncle…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 29 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=3yhXRT6Sc5Y  \r\n**Duration:** ~2:37\r\n\r\n### Bias & structure\r\n- Short/slow selling, no big momentum → **confusion by design**.\r\n- Prior day big gap-up then rejection; another rejection day while Nifty/Sensex still hold up → hard to tag clean buyer vs seller inventory.\r\n- Rule when unclear: **follow what’s already happening** — market trying to cover / hold for 2–3 days.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up / some gap-down / even flat (if momentum) | Prefer **buy** setups — follow the recovery/cover bid |\r\n| Sideways grind | Problem case — avoid forcing |\r\n| Avoid giving up early | Momentum slow but don’t abandon process |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 56,930 / 57,126 | 56,430 / 56,076 |\r\n| Sensex | 76,965 / 77,200 | 76,400 / 76,100 |\r\n| Nifty | 24,040 / 24,110 | 23,860 / 23,730 |\r\n\r\n---",
+        "video": "Prediction For 29 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=3yhXRT6Sc5Y",
+        "duration": "~2:37",
+        "bias": "- Short/slow selling, no big momentum → **confusion by design**.\r\n- Prior day big gap-up then rejection; another rejection day while Nifty/Sensex still hold up → hard to tag clean buyer vs seller inventory.\r\n- Rule when unclear: **follow what’s already happening** — market trying to cover / hold for 2–3 days.",
+        "planByOpen": [
+          {
+            "open": "Gap-up / some gap-down / even flat (if momentum)",
+            "plan": "Prefer **buy** setups — follow the recovery/cover bid"
+          },
+          {
+            "open": "Sideways grind",
+            "plan": "Problem case — avoid forcing"
+          },
+          {
+            "open": "Avoid giving up early",
+            "plan": "Momentum slow but don’t abandon process"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Bank Nifty",
+            "resistance": "56,930 / 57,126",
+            "support": "56,430 / 56,076",
+            "extra": ""
+          },
+          {
+            "index": "Sensex",
+            "resistance": "76,965 / 77,200",
+            "support": "76,400 / 76,100",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "24,040 / 24,110",
+            "support": "23,860 / 23,730",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=e9qDdFfOVyk  \r\n**Duration:** ~5:53\r\n\r\n### What happened / what he did\r\n- **Gap-up** (Sensex/Nifty even larger) + mild rejection.\r\n- Because inventory unclear, **followed ongoing cover** → **bought** (calls) rather than shorting the gap.\r\n- Risk: oversized gap-up can suck in FOMO buyers then flip fully negative — watched for **fast rejection**.\r\n- BN lagged initially then joined upside; average target reached → **booked** as time passed and momentum stayed slow/sideways.\r\n- Explicit: no clear buyer/seller SL pools → follow market, don’t invent a counter-trade.\r\n\r\n### Process lessons\r\n- Confusion days → trade **with** the existing recovery, not against it.\r\n- Large gap-up increases trap risk even on longs — don’t overstay.\r\n- Average target + slow tape + lots of time = book.\r\n\r\n### Keep permanently\r\n1. If you can’t identify inventory, default to **following the active regime**.\r\n2. Gap size changes risk even when direction bias is buy.\r\n3. Sideways after decent profit → exit; don’t wait for a “big” day that isn’t coming.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=e9qDdFfOVyk",
+        "duration": "~5:53",
+        "whatHappened": "- **Gap-up** (Sensex/Nifty even larger) + mild rejection.\r\n- Because inventory unclear, **followed ongoing cover** → **bought** (calls) rather than shorting the gap.\r\n- Risk: oversized gap-up can suck in FOMO buyers then flip fully negative — watched for **fast rejection**.\r\n- BN lagged initially then joined upside; average target reached → **booked** as time passed and momentum stayed slow/sideways.\r\n- Explicit: no clear buyer/seller SL pools → follow market, don’t invent a counter-trade.",
+        "processLessons": "- Confusion days → trade **with** the existing recovery, not against it.\r\n- Large gap-up increases trap risk even on longs — don’t overstay.\r\n- Average target + slow tape + lots of time = book.",
+        "keepPermanently": [
+          "If you can’t identify inventory, default to following the active regime.",
+          "Gap size changes risk even when direction bias is buy.",
+          "Sideways after decent profit → exit; don’t wait for a “big” day that isn’t coming."
+        ]
+      },
+      "keepPermanently": [
+        "If you can’t identify inventory, default to following the active regime.",
+        "Gap size changes risk even when direction bias is buy.",
+        "Sideways after decent profit → exit; don’t wait for a “big” day that isn’t coming."
+      ],
+      "raw": "# 2026-07-29 — Pre + Post market\r\n\r\n## Pre-market\r\n**Video:** Prediction For 29 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=3yhXRT6Sc5Y  \r\n**Duration:** ~2:37\r\n\r\n### Bias & structure\r\n- Short/slow selling, no big momentum → **confusion by design**.\r\n- Prior day big gap-up then rejection; another rejection day while Nifty/Sensex still hold up → hard to tag clean buyer vs seller inventory.\r\n- Rule when unclear: **follow what’s already happening** — market trying to cover / hold for 2–3 days.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up / some gap-down / even flat (if momentum) | Prefer **buy** setups — follow the recovery/cover bid |\r\n| Sideways grind | Problem case — avoid forcing |\r\n| Avoid giving up early | Momentum slow but don’t abandon process |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 56,930 / 57,126 | 56,430 / 56,076 |\r\n| Sensex | 76,965 / 77,200 | 76,400 / 76,100 |\r\n| Nifty | 24,040 / 24,110 | 23,860 / 23,730 |\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=e9qDdFfOVyk  \r\n**Duration:** ~5:53\r\n\r\n### What happened / what he did\r\n- **Gap-up** (Sensex/Nifty even larger) + mild rejection.\r\n- Because inventory unclear, **followed ongoing cover** → **bought** (calls) rather than shorting the gap.\r\n- Risk: oversized gap-up can suck in FOMO buyers then flip fully negative — watched for **fast rejection**.\r\n- BN lagged initially then joined upside; average target reached → **booked** as time passed and momentum stayed slow/sideways.\r\n- Explicit: no clear buyer/seller SL pools → follow market, don’t invent a counter-trade.\r\n\r\n### Process lessons\r\n- Confusion days → trade **with** the existing recovery, not against it.\r\n- Large gap-up increases trap risk even on longs — don’t overstay.\r\n- Average target + slow tape + lots of time = book.\r\n\r\n### Keep permanently\r\n1. If you can’t identify inventory, default to **following the active regime**.\r\n2. Gap size changes risk even when direction bias is buy.\r\n3. Sideways after decent profit → exit; don’t wait for a “big” day that isn’t coming.\r\n"
+    },
+    {
+      "id": "2026-07-30",
+      "date": "2026-07-30",
+      "fileName": "2026-07-30.md",
+      "weekly": false,
+      "title": "2026-07-30 — Pre + Post market (Sensex expiry)",
+      "summary": "- Sensex weekly expiry day. - Positive momentum day prior; closed strong (Sensex “above 500” phrasing in ASR — treat as strong hold zone). - Big prior gap-up → sellers unlikely sitting → buyers may be sitting across ind…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 30 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=DgiAoMuVkRg  \r\n**Duration:** ~2:08\r\n\r\n### Bias & structure\r\n- Sensex weekly expiry day.\r\n- Positive momentum day prior; closed strong (Sensex “above 500” phrasing in ASR — treat as strong hold zone).\r\n- Big prior gap-up → sellers unlikely sitting → **buyers may be sitting** across indices.\r\n- Momentum positive but not explosive on BN.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Flat / gap-down / mild gap-up | Identify **sell** setups — **target buyers** |\r\n| Sudden huge green runaway gap-up | **Stay away** — dangerous chase |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Sensex | 78,200 / 77,800 | 77,300 / 77,200 (ASR noisy) |\r\n| Bank Nifty | 57,500 / 57,680 | 57,126 / 56,990 |\r\n| Nifty | 24,400 / 24,360 | 24,200 / 24,140 |\r\n\r\n---",
+        "video": "Prediction For 30 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=DgiAoMuVkRg",
+        "duration": "~2:08",
+        "bias": "- Sensex weekly expiry day.\r\n- Positive momentum day prior; closed strong (Sensex “above 500” phrasing in ASR — treat as strong hold zone).\r\n- Big prior gap-up → sellers unlikely sitting → **buyers may be sitting** across indices.\r\n- Momentum positive but not explosive on BN.",
+        "planByOpen": [
+          {
+            "open": "Flat / gap-down / mild gap-up",
+            "plan": "Identify **sell** setups — **target buyers**"
+          },
+          {
+            "open": "Sudden huge green runaway gap-up",
+            "plan": "**Stay away** — dangerous chase"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Sensex",
+            "resistance": "78,200 / 77,800",
+            "support": "77,300 / 77,200 (ASR noisy)",
+            "extra": ""
+          },
+          {
+            "index": "Bank Nifty",
+            "resistance": "57,500 / 57,680",
+            "support": "57,126 / 56,990",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "24,400 / 24,360",
+            "support": "24,200 / 24,140",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=LvA_VPLdm6Q  \r\n**Duration:** ~7:37\r\n\r\n### What happened / what he did\r\n- Almost **flat to slight gap-down**; Sensex/Nifty mildly positive, BN selling.\r\n- Sold puts across indices (~1170 BN, ~900 Sensex, ~1365 Nifty) to target **multi-day buyers**.\r\n- Trade went to profit quickly — easier to manage than a losing open.\r\n- Noted traps form via **breakout OR fast momentum** (greed). Expected sell continuation without needing a fresh breakout.\r\n- **Booked** after solid move: risk of sideways (like prior day), BN already had a decent fall, Sensex expiry = one-way continuation not guaranteed.\r\n\r\n### Process lessons\r\n- After a multi-day bid, soft open = harvest buyers; don’t wait for perfect confirmation forever.\r\n- Profit-running trades are psychologically easier — still pre-define exit.\r\n- After a quiet-profit day, take the smooth day when it comes rather than forcing extension.\r\n\r\n### Keep permanently\r\n1. Multi-day buyers + soft open → sell-the-buyers is the default map.\r\n2. Avoid runaway gap-up chases even when you wanted to sell elsewhere.\r\n3. Expiry + already-captured momentum → book; don’t gift back P&L to a sideways afternoon.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=LvA_VPLdm6Q",
+        "duration": "~7:37",
+        "whatHappened": "- Almost **flat to slight gap-down**; Sensex/Nifty mildly positive, BN selling.\r\n- Sold puts across indices (~1170 BN, ~900 Sensex, ~1365 Nifty) to target **multi-day buyers**.\r\n- Trade went to profit quickly — easier to manage than a losing open.\r\n- Noted traps form via **breakout OR fast momentum** (greed). Expected sell continuation without needing a fresh breakout.\r\n- **Booked** after solid move: risk of sideways (like prior day), BN already had a decent fall, Sensex expiry = one-way continuation not guaranteed.",
+        "processLessons": "- After a multi-day bid, soft open = harvest buyers; don’t wait for perfect confirmation forever.\r\n- Profit-running trades are psychologically easier — still pre-define exit.\r\n- After a quiet-profit day, take the smooth day when it comes rather than forcing extension.",
+        "keepPermanently": [
+          "Multi-day buyers + soft open → sell-the-buyers is the default map.",
+          "Avoid runaway gap-up chases even when you wanted to sell elsewhere.",
+          "Expiry + already-captured momentum → book; don’t gift back P&L to a sideways afternoon."
+        ]
+      },
+      "keepPermanently": [
+        "Multi-day buyers + soft open → sell-the-buyers is the default map.",
+        "Avoid runaway gap-up chases even when you wanted to sell elsewhere.",
+        "Expiry + already-captured momentum → book; don’t gift back P&L to a sideways afternoon."
+      ],
+      "raw": "# 2026-07-30 — Pre + Post market (Sensex expiry)\r\n\r\n## Pre-market\r\n**Video:** Prediction For 30 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=DgiAoMuVkRg  \r\n**Duration:** ~2:08\r\n\r\n### Bias & structure\r\n- Sensex weekly expiry day.\r\n- Positive momentum day prior; closed strong (Sensex “above 500” phrasing in ASR — treat as strong hold zone).\r\n- Big prior gap-up → sellers unlikely sitting → **buyers may be sitting** across indices.\r\n- Momentum positive but not explosive on BN.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Flat / gap-down / mild gap-up | Identify **sell** setups — **target buyers** |\r\n| Sudden huge green runaway gap-up | **Stay away** — dangerous chase |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Sensex | 78,200 / 77,800 | 77,300 / 77,200 (ASR noisy) |\r\n| Bank Nifty | 57,500 / 57,680 | 57,126 / 56,990 |\r\n| Nifty | 24,400 / 24,360 | 24,200 / 24,140 |\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=LvA_VPLdm6Q  \r\n**Duration:** ~7:37\r\n\r\n### What happened / what he did\r\n- Almost **flat to slight gap-down**; Sensex/Nifty mildly positive, BN selling.\r\n- Sold puts across indices (~1170 BN, ~900 Sensex, ~1365 Nifty) to target **multi-day buyers**.\r\n- Trade went to profit quickly — easier to manage than a losing open.\r\n- Noted traps form via **breakout OR fast momentum** (greed). Expected sell continuation without needing a fresh breakout.\r\n- **Booked** after solid move: risk of sideways (like prior day), BN already had a decent fall, Sensex expiry = one-way continuation not guaranteed.\r\n\r\n### Process lessons\r\n- After a multi-day bid, soft open = harvest buyers; don’t wait for perfect confirmation forever.\r\n- Profit-running trades are psychologically easier — still pre-define exit.\r\n- After a quiet-profit day, take the smooth day when it comes rather than forcing extension.\r\n\r\n### Keep permanently\r\n1. Multi-day buyers + soft open → sell-the-buyers is the default map.\r\n2. Avoid runaway gap-up chases even when you wanted to sell elsewhere.\r\n3. Expiry + already-captured momentum → book; don’t gift back P&L to a sideways afternoon.\r\n"
+    },
+    {
+      "id": "2026-07-31",
+      "date": "2026-07-31",
+      "fileName": "2026-07-31.md",
+      "weekly": false,
+      "title": "2026-07-31 — Pre + Post market",
+      "summary": "- Momentum across indices getting smaller. - Some buyers came, but market kept changing their mindset (rejection → bounce repeats). - Chart looks like: rejection, up, rejection, up — small range building.",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 31 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=B0mG5R2JsFs  \r\n**Duration:** ~2:09\r\n\r\n### Bias & structure\r\n- Momentum across indices getting **smaller**.\r\n- Some buyers came, but market kept **changing their mindset** (rejection → bounce repeats).\r\n- Chart looks like: rejection, up, rejection, up — small range building.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Flat / gap-up | Follow momentum → identify **buy** setups |\r\n| Small gap-down | **No plan** yet |\r\n| Large gap-down | If buyers still sitting → identify **sell** setups |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,250 / 57,680 | 56,850 / 56,532 |\r\n| Sensex | 78,200 / 78,500 | 77,500 / 77,200 |\r\n| Nifty | 24,480 / 24,400 | 24,200 / 24,140 |\r\n\r\n---",
+        "video": "Prediction For 31 JULY 2026",
+        "url": "https://www.youtube.com/watch?v=B0mG5R2JsFs",
+        "duration": "~2:09",
+        "bias": "- Momentum across indices getting **smaller**.\r\n- Some buyers came, but market kept **changing their mindset** (rejection → bounce repeats).\r\n- Chart looks like: rejection, up, rejection, up — small range building.",
+        "planByOpen": [
+          {
+            "open": "Flat / gap-up",
+            "plan": "Follow momentum → identify **buy** setups"
+          },
+          {
+            "open": "Small gap-down",
+            "plan": "**No plan** yet"
+          },
+          {
+            "open": "Large gap-down",
+            "plan": "If buyers still sitting → identify **sell** setups"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Bank Nifty",
+            "resistance": "57,250 / 57,680",
+            "support": "56,850 / 56,532",
+            "extra": ""
+          },
+          {
+            "index": "Sensex",
+            "resistance": "78,200 / 78,500",
+            "support": "77,500 / 77,200",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "24,480 / 24,400",
+            "support": "24,200 / 24,140",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=RpK2h9xsrXk  \r\n**Duration:** ~9:01\r\n\r\n### What happened / what he did\r\n- Pre-open looked **flat**; planned **positive / buy** if open momentum confirms.\r\n- Risk called: sudden **large selling** at open implies market wants to stay in range → bad for longs.\r\n- Opened with positive momentum → bought calls (Sensex ~840, Nifty ~1365; BN size implied in flow).\r\n- Thesis: prior breakout attracted buyers who got rejected/flushed; then slow cover → **don’t target those buyers**; flat/small gap-up → **go with upside**.\r\n- Also discussed: market doesn’t hunt *your* SL personally — it hunts **clustered** retail SLs.\r\n- Trade went to loss as rejection matched the prior cover; held while thesis alive, then **cut** when continuous selling + Sensex/Nifty joined downside and **loss limit** hit.\r\n- Post-mortem: breakout-then-flush buyers thesis failed when market sold straight through — no point “thinking” a wrong trade.\r\n\r\n### Process lessons\r\n- Wait for first open momentum when range is messy; don’t force before tape speaks.\r\n- Pre-calculate risk; exit at limit without storytelling.\r\n- SL-cluster psychology ≠ “market is out to get me.”\r\n- Wrong trade + accelerating sell = cut; don’t average hope.\r\n\r\n### Keep permanently\r\n1. Range days: large open sell = range warning; small pullback + breakout attempt can still be buy.\r\n2. Flush-then-cover maps need the market to **hold**; if it sells through your limit, exit.\r\n3. Personalize risk math, not personalize “SL hunting.”",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=RpK2h9xsrXk",
+        "duration": "~9:01",
+        "whatHappened": "- Pre-open looked **flat**; planned **positive / buy** if open momentum confirms.\r\n- Risk called: sudden **large selling** at open implies market wants to stay in range → bad for longs.\r\n- Opened with positive momentum → bought calls (Sensex ~840, Nifty ~1365; BN size implied in flow).\r\n- Thesis: prior breakout attracted buyers who got rejected/flushed; then slow cover → **don’t target those buyers**; flat/small gap-up → **go with upside**.\r\n- Also discussed: market doesn’t hunt *your* SL personally — it hunts **clustered** retail SLs.\r\n- Trade went to loss as rejection matched the prior cover; held while thesis alive, then **cut** when continuous selling + Sensex/Nifty joined downside and **loss limit** hit.\r\n- Post-mortem: breakout-then-flush buyers thesis failed when market sold straight through — no point “thinking” a wrong trade.",
+        "processLessons": "- Wait for first open momentum when range is messy; don’t force before tape speaks.\r\n- Pre-calculate risk; exit at limit without storytelling.\r\n- SL-cluster psychology ≠ “market is out to get me.”\r\n- Wrong trade + accelerating sell = cut; don’t average hope.",
+        "keepPermanently": [
+          "Range days: large open sell = range warning; small pullback + breakout attempt can still be buy.",
+          "Flush-then-cover maps need the market to hold; if it sells through your limit, exit.",
+          "Personalize risk math, not personalize “SL hunting.”"
+        ]
+      },
+      "keepPermanently": [
+        "Range days: large open sell = range warning; small pullback + breakout attempt can still be buy.",
+        "Flush-then-cover maps need the market to hold; if it sells through your limit, exit.",
+        "Personalize risk math, not personalize “SL hunting.”"
+      ],
+      "raw": "# 2026-07-31 — Pre + Post market\r\n\r\n## Pre-market\r\n**Video:** Prediction For 31 JULY 2026  \r\n**URL:** https://www.youtube.com/watch?v=B0mG5R2JsFs  \r\n**Duration:** ~2:09\r\n\r\n### Bias & structure\r\n- Momentum across indices getting **smaller**.\r\n- Some buyers came, but market kept **changing their mindset** (rejection → bounce repeats).\r\n- Chart looks like: rejection, up, rejection, up — small range building.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Flat / gap-up | Follow momentum → identify **buy** setups |\r\n| Small gap-down | **No plan** yet |\r\n| Large gap-down | If buyers still sitting → identify **sell** setups |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,250 / 57,680 | 56,850 / 56,532 |\r\n| Sensex | 78,200 / 78,500 | 77,500 / 77,200 |\r\n| Nifty | 24,480 / 24,400 | 24,200 / 24,140 |\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=RpK2h9xsrXk  \r\n**Duration:** ~9:01\r\n\r\n### What happened / what he did\r\n- Pre-open looked **flat**; planned **positive / buy** if open momentum confirms.\r\n- Risk called: sudden **large selling** at open implies market wants to stay in range → bad for longs.\r\n- Opened with positive momentum → bought calls (Sensex ~840, Nifty ~1365; BN size implied in flow).\r\n- Thesis: prior breakout attracted buyers who got rejected/flushed; then slow cover → **don’t target those buyers**; flat/small gap-up → **go with upside**.\r\n- Also discussed: market doesn’t hunt *your* SL personally — it hunts **clustered** retail SLs.\r\n- Trade went to loss as rejection matched the prior cover; held while thesis alive, then **cut** when continuous selling + Sensex/Nifty joined downside and **loss limit** hit.\r\n- Post-mortem: breakout-then-flush buyers thesis failed when market sold straight through — no point “thinking” a wrong trade.\r\n\r\n### Process lessons\r\n- Wait for first open momentum when range is messy; don’t force before tape speaks.\r\n- Pre-calculate risk; exit at limit without storytelling.\r\n- SL-cluster psychology ≠ “market is out to get me.”\r\n- Wrong trade + accelerating sell = cut; don’t average hope.\r\n\r\n### Keep permanently\r\n1. Range days: large open sell = range warning; small pullback + breakout attempt can still be buy.\r\n2. Flush-then-cover maps need the market to **hold**; if it sells through your limit, exit.\r\n3. Personalize risk math, not personalize “SL hunting.”\r\n"
+    },
+    {
+      "id": "2026-08-02-weekly",
+      "date": "2026-08-02",
+      "fileName": "2026-08-02-weekly-market-analysis.md",
+      "weekly": true,
+      "title": "2026-08-02 — Weekly Market Analysis: The Biggest Opportunities",
+      "summary": "- Week was largely range-bound with frequent up/down swings, yet he still claimed daily direction was findable by reading buyer/seller mindset — not by chasing every candle. - Core frame: market = only buyers + sellers.…",
+      "pre": {
+        "raw": "",
+        "video": null,
+        "url": null,
+        "duration": null,
+        "bias": "- Week was largely **range-bound** with frequent up/down swings, yet he still claimed **daily direction** was findable by reading buyer/seller mindset — not by chasing every candle.\r\n- Core frame: market = only **buyers + sellers**. Everything else is noise.",
+        "planByOpen": [],
+        "levels": [
+          {
+            "index": "Bank Nifty",
+            "resistance": "57,000",
+            "support": "Psychological / reaction zone",
+            "extra": "Multiple days: closes above, rejection below, recovery around this round number"
+          },
+          {
+            "index": "Nifty / Sensex",
+            "resistance": "(relative)",
+            "support": "Confirmation",
+            "extra": "Used as **cross-index confirmation** vs Bank Nifty alone"
+          }
+        ]
+      },
+      "post": {
+        "raw": "",
+        "video": null,
+        "url": null,
+        "duration": null,
+        "whatHappened": "",
+        "processLessons": "",
+        "keepPermanently": [
+          "Segment clarity first (intraday vs positional vs investing) before applying any setup.",
+          "Root = buyer/seller inventory + open-type plan (flat / gap-up / gap-down branches), not single-indicator signals.",
+          "Options: prioritize accuracy + sensible RR (often ~1:1) over heroic RR with tiny stops.",
+          "Direction > perfect first entry — allow re-entries with controlled size.",
+          "Cross-check Nifty / Sensex / Bank Nifty before acting on one index’s story."
+        ]
+      },
+      "keepPermanently": [
+        "Segment clarity first (intraday vs positional vs investing) before applying any setup.",
+        "Root = buyer/seller inventory + open-type plan (flat / gap-up / gap-down branches), not single-indicator signals.",
+        "Options: prioritize accuracy + sensible RR (often ~1:1) over heroic RR with tiny stops.",
+        "Direction > perfect first entry — allow re-entries with controlled size.",
+        "Cross-check Nifty / Sensex / Bank Nifty before acting on one index’s story."
+      ],
+      "raw": "# 2026-08-02 — Weekly Market Analysis: The Biggest Opportunities\r\n\r\n**Video:** 📊 Weekly Market Analysis: The Biggest Opportunities  \r\n**URL:** https://www.youtube.com/watch?v=iDV1obD78-c  \r\n**Published:** 2026-08-01 23:25 PDT (~Aug 2 morning IST)  \r\n**Type:** Weekly review / process teaching  \r\n**Duration:** ~17 min  \r\n**Note:** No new upload after this as of evening Aug 2 (Sunday). This is the latest video.\r\n\r\n## Bias & structure\r\n- Week was largely **range-bound** with frequent up/down swings, yet he still claimed **daily direction** was findable by reading buyer/seller mindset — not by chasing every candle.\r\n- Core frame: market = only **buyers + sellers**. Everything else is noise.\r\n\r\n## Key levels (day-specific)\r\n| Index | Level | Role | Why |\r\n|-------|-------|------|-----|\r\n| Bank Nifty | 57,000 | Psychological / reaction zone | Multiple days: closes above, rejection below, recovery around this round number |\r\n| Nifty / Sensex | (relative) | Confirmation | Used as **cross-index confirmation** vs Bank Nifty alone |\r\n\r\n## Setups / process shown\r\n1. **Choose your game first:** investing vs intraday vs positional. Clarity before charts.\r\n2. **Root value (रूट वैल्यू):** infer what the crowd that already traded is likely holding (buyer vs seller inventory), then plan for gap open.\r\n3. **Gap playbook from this week:**\r\n   - After sharp selling + sudden recovery → sellers may be trapped/sitting. Flat / small gap-down helps them; **large gap-up** often *tempts* put sellers to average → he looks for **intraday sell** on that temptation (not blindly shorting buyers).\r\n   - When sellers keep getting stopped and Nifty/Sensex stay strong → buyers may be sitting → **flat / gap-down** day: look to **target buyers** (sell setups).\r\n   - **Large gap-down** after buyers sitting: usually **don't** target buyers; follow the market with **buy** setups instead.\r\n   - When direction unclear / mixed inventory → **follow what's already happening** (recovery/positive = buy bias) rather than inventing a counter-trade.\r\n4. **Multi-index rule:** if only one index gaps hard while others don't align, temptation/trap setups appear; if all three go together, one-sided chase is harder.\r\n5. One loss called out: early **range breakout buy** on Bank Nifty hit SL (he frames it as “SL hunting his trade”), but **direction still correct** — Nifty/Sensex stayed positive.\r\n\r\n## Risk / sizing / RR\r\n- Prefers **1:1 risk-reward** in **option buying** because time decay makes wide targets + tiny SLs unrealistic.\r\n- Tradeoff he teaches: raise **accuracy** via root reading so 1:1 works; OR raise RR (1:2, 1:3) if accuracy is weak — but RR expansion is hard in options.\r\n- Rejects fantasy: “10-point SL, 100-point target” in option buying.\r\n- Acceptable example: ~50 SL / 100 target if process supports it — not extreme RR fantasies.\r\n- Scale: smaller size on first entry; add confidence with 2nd/3rd entry if direction thesis holds.\r\n\r\n## Psychology / mindset\r\n- Sudden buying after selling = retail joy → buyers often exit; don't assume leftover buyers will hold.\r\n- Market **tempts** losers to average (especially after small gap against them) then reverses — he trades that temptation.\r\n- Fast candles near round numbers pull in reluctant buyers; later sideways can flush them — mindset shift matters more than indicators.\r\n- Process over P&L day: if situation is understood, missing a day/week/month of “edge feeling” is fine; when it clicks, consistency compounds.\r\n\r\n## Keep permanently (playbook candidates)\r\n1. **Segment clarity first** (intraday vs positional vs investing) before applying any setup.\r\n2. **Root = buyer/seller inventory + open-type plan** (flat / gap-up / gap-down branches), not single-indicator signals.\r\n3. **Options: prioritize accuracy + sensible RR (often ~1:1)** over heroic RR with tiny stops.\r\n4. **Direction > perfect first entry** — allow re-entries with controlled size.\r\n5. **Cross-check Nifty / Sensex / Bank Nifty** before acting on one index’s story.\r\n\r\n## Day-specific only (don't overfit)\r\n- Exact 57,000 Bank Nifty reactions this week\r\n- Specific gap sizes / which days were buy vs sell\r\n- Claimed weekly P&L narrative\r\n\r\n## My reflection\r\n- Use this note as process education. Verify any bias against your own levels and risk rules. Channel is not SEBI-registered.\r\n"
+    },
+    {
+      "id": "2026-08-03",
+      "date": "2026-08-03",
+      "fileName": "2026-08-03.md",
+      "weekly": false,
+      "title": "2026-08-03 — Pre + Post market",
+      "summary": "- Bank Nifty spent a long time sideways, then closed with a bit of positive momentum. - Buyers may still be inside → on flat / gap-down, treat them as targets (look for sell setups). - On gap-up, do not target those buy…",
+      "pre": {
+        "raw": "## Pre-market\r\n**Video:** Prediction For 03 AUG 2026  \r\n**URL:** https://www.youtube.com/watch?v=yHEfrMUrmKk  \r\n**Duration:** ~2:00  \r\n**Transcript:** `t`transcripts/2026-08-03-pre.md``\r\n\r\n### Bias & structure\r\n- Bank Nifty spent a long time **sideways**, then closed with a bit of **positive momentum**.\r\n- Buyers may still be inside → on **flat / gap-down**, treat them as targets (look for **sell** setups).\r\n- On **gap-up**, do **not** target those buyers — go **with** the market and look for **buy** setups.\r\n- Light gap-up opens can be treated as **flat**.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up | Follow market → identify **buy** setups (don’t target trapped buyers) |\r\n| Flat / gap-down | Target buyers → identify **sell** setups |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,680 / 57,820 | 57,154 / 56,850 |\r\n| Sensex | 78,500 / 78,850* | 77,840 / 77,500 |\r\n| Nifty | 24,480 / 24,400 | 24,300 / 24,200* |\r\n\r\n\\*ASR may mishear trailing digits (e.g. “7850”, “2420”).\r\n\r\n---",
+        "video": "Prediction For 03 AUG 2026",
+        "url": "https://www.youtube.com/watch?v=yHEfrMUrmKk",
+        "duration": "~2:00",
+        "bias": "- Bank Nifty spent a long time **sideways**, then closed with a bit of **positive momentum**.\r\n- Buyers may still be inside → on **flat / gap-down**, treat them as targets (look for **sell** setups).\r\n- On **gap-up**, do **not** target those buyers — go **with** the market and look for **buy** setups.\r\n- Light gap-up opens can be treated as **flat**.",
+        "planByOpen": [
+          {
+            "open": "Gap-up",
+            "plan": "Follow market → identify **buy** setups (don’t target trapped buyers)"
+          },
+          {
+            "open": "Flat / gap-down",
+            "plan": "Target buyers → identify **sell** setups"
+          }
+        ],
+        "levels": [
+          {
+            "index": "Bank Nifty",
+            "resistance": "57,680 / 57,820",
+            "support": "57,154 / 56,850",
+            "extra": ""
+          },
+          {
+            "index": "Sensex",
+            "resistance": "78,500 / 78,850*",
+            "support": "77,840 / 77,500",
+            "extra": ""
+          },
+          {
+            "index": "Nifty",
+            "resistance": "24,480 / 24,400",
+            "support": "24,300 / 24,200*",
+            "extra": ""
+          }
+        ]
+      },
+      "post": {
+        "raw": "## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=cwgFEpiTwgE  \r\n**Duration:** ~9:23  \r\n**Transcript:** `t`transcripts/2026-08-03-post.md``\r\n\r\n### What happened / what he did\r\n- Opened with a **solid gap-up**, then light rejection / chop.\r\n- Read: multi-day buying + gap-up → only **light** Friday-buyer profit booking, not deep selling from longer-term longs (big selling would be faster/larger).\r\n- Matched pre plan: **gap-up → don’t target buyers; buy with market**. Added **calls** (BN ~1170 qty, Nifty ~1365 qty).\r\n- Early small mark-to-market loss while thesis was “pull out weak Friday buyers, then upside.”\r\n- Wanted **continuous** upside without pause — if market stalls, late buyers get filled and edge dies.\r\n- BN broke out; **Sensex/Nifty lagged**. Took a normal BN target (~720–740 pts) and **booked** once path beyond known setup was unclear.\r\n- Exit rule: wait only as far as the known path; after that, book and wait for a **new opportunity** (continuation vs turn/sideways vs Nifty–Sensex psychology).\r\n\r\n### Process lessons\r\n- Gap-up after multi-day buying: distinguish **shallow Friday booking** vs **real rejection** from deep longs.\r\n- Don’t hunt buyers on a good gap-up; ride with the open.\r\n- Continuous move without pause > stalled move that invites fresh buyers against you.\r\n- When only one index leads and others lag, take the known target — don’t invent a path you don’t have.\r\n\r\n### Keep permanently\r\n1. Gap-up + multi-day buyers: light open rejection often = Friday booking, not thesis kill.\r\n2. Edge needs **continuous** momentum; stall = late buyers get in and your trade can reverse.\r\n3. Book when you leave the **mapped** path (especially single-index lead); wait for a fresh setup.\r\n\r\n### Day-specific only\r\n- Size/qty and ~740 BN point target are session-specific, not rules.",
+        "video": "Live Bank Nifty Option Trading",
+        "url": "https://www.youtube.com/watch?v=cwgFEpiTwgE",
+        "duration": "~9:23",
+        "whatHappened": "- Opened with a **solid gap-up**, then light rejection / chop.\r\n- Read: multi-day buying + gap-up → only **light** Friday-buyer profit booking, not deep selling from longer-term longs (big selling would be faster/larger).\r\n- Matched pre plan: **gap-up → don’t target buyers; buy with market**. Added **calls** (BN ~1170 qty, Nifty ~1365 qty).\r\n- Early small mark-to-market loss while thesis was “pull out weak Friday buyers, then upside.”\r\n- Wanted **continuous** upside without pause — if market stalls, late buyers get filled and edge dies.\r\n- BN broke out; **Sensex/Nifty lagged**. Took a normal BN target (~720–740 pts) and **booked** once path beyond known setup was unclear.\r\n- Exit rule: wait only as far as the known path; after that, book and wait for a **new opportunity** (continuation vs turn/sideways vs Nifty–Sensex psychology).",
+        "processLessons": "- Gap-up after multi-day buying: distinguish **shallow Friday booking** vs **real rejection** from deep longs.\r\n- Don’t hunt buyers on a good gap-up; ride with the open.\r\n- Continuous move without pause > stalled move that invites fresh buyers against you.\r\n- When only one index leads and others lag, take the known target — don’t invent a path you don’t have.",
+        "keepPermanently": [
+          "Gap-up + multi-day buyers: light open rejection often = Friday booking, not thesis kill.",
+          "Edge needs continuous momentum; stall = late buyers get in and your trade can reverse.",
+          "Book when you leave the mapped path (especially single-index lead); wait for a fresh setup."
+        ]
+      },
+      "keepPermanently": [
+        "Gap-up + multi-day buyers: light open rejection often = Friday booking, not thesis kill.",
+        "Edge needs continuous momentum; stall = late buyers get in and your trade can reverse.",
+        "Book when you leave the mapped path (especially single-index lead); wait for a fresh setup."
+      ],
+      "raw": "# 2026-08-03 — Pre + Post market\r\n\r\n## Pre-market\r\n**Video:** Prediction For 03 AUG 2026  \r\n**URL:** https://www.youtube.com/watch?v=yHEfrMUrmKk  \r\n**Duration:** ~2:00  \r\n**Transcript:** `t`transcripts/2026-08-03-pre.md``\r\n\r\n### Bias & structure\r\n- Bank Nifty spent a long time **sideways**, then closed with a bit of **positive momentum**.\r\n- Buyers may still be inside → on **flat / gap-down**, treat them as targets (look for **sell** setups).\r\n- On **gap-up**, do **not** target those buyers — go **with** the market and look for **buy** setups.\r\n- Light gap-up opens can be treated as **flat**.\r\n\r\n### Plan by open\r\n| Open | Plan |\r\n|------|------|\r\n| Gap-up | Follow market → identify **buy** setups (don’t target trapped buyers) |\r\n| Flat / gap-down | Target buyers → identify **sell** setups |\r\n\r\n### Levels mentioned\r\n| Index | Resistance | Support |\r\n|-------|------------|---------|\r\n| Bank Nifty | 57,680 / 57,820 | 57,154 / 56,850 |\r\n| Sensex | 78,500 / 78,850* | 77,840 / 77,500 |\r\n| Nifty | 24,480 / 24,400 | 24,300 / 24,200* |\r\n\r\n\\*ASR may mishear trailing digits (e.g. “7850”, “2420”).\r\n\r\n---\r\n\r\n## Post-market (live)\r\n**Video:** Live Bank Nifty Option Trading  \r\n**URL:** https://www.youtube.com/watch?v=cwgFEpiTwgE  \r\n**Duration:** ~9:23  \r\n**Transcript:** `t`transcripts/2026-08-03-post.md``\r\n\r\n### What happened / what he did\r\n- Opened with a **solid gap-up**, then light rejection / chop.\r\n- Read: multi-day buying + gap-up → only **light** Friday-buyer profit booking, not deep selling from longer-term longs (big selling would be faster/larger).\r\n- Matched pre plan: **gap-up → don’t target buyers; buy with market**. Added **calls** (BN ~1170 qty, Nifty ~1365 qty).\r\n- Early small mark-to-market loss while thesis was “pull out weak Friday buyers, then upside.”\r\n- Wanted **continuous** upside without pause — if market stalls, late buyers get filled and edge dies.\r\n- BN broke out; **Sensex/Nifty lagged**. Took a normal BN target (~720–740 pts) and **booked** once path beyond known setup was unclear.\r\n- Exit rule: wait only as far as the known path; after that, book and wait for a **new opportunity** (continuation vs turn/sideways vs Nifty–Sensex psychology).\r\n\r\n### Process lessons\r\n- Gap-up after multi-day buying: distinguish **shallow Friday booking** vs **real rejection** from deep longs.\r\n- Don’t hunt buyers on a good gap-up; ride with the open.\r\n- Continuous move without pause > stalled move that invites fresh buyers against you.\r\n- When only one index leads and others lag, take the known target — don’t invent a path you don’t have.\r\n\r\n### Keep permanently\r\n1. Gap-up + multi-day buyers: light open rejection often = Friday booking, not thesis kill.\r\n2. Edge needs **continuous** momentum; stall = late buyers get in and your trade can reverse.\r\n3. Book when you leave the **mapped** path (especially single-index lead); wait for a fresh setup.\r\n\r\n### Day-specific only\r\n- Size/qty and ~740 BN point target are session-specific, not rules.\r\n"
+    }
+  ],
+  "bible": {
+    "markdown": "# Trading Bible — Intraday Hunter process\r\n\r\n**Purpose:** one durable reference distilled from `daily/` notes. Use it to trade with a checklist, and later to encode a rules engine / bot.\r\n\r\n**Not:** day-specific levels, exact quantities, or copied “signals.”  \r\n**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3, 2026 (update when new “Keep permanently” lessons appear).\r\n\r\n**Disclaimer:** Educational synthesis only. Channel is not SEBI-registered. Your capital, broker rules, and risk limits override everything here.\r\n\r\n---\r\n\r\n## 1. Core philosophy (non-negotiable)\r\n\r\n1. **Choose the game first:** investing vs positional vs **intraday**. Don’t mix timeframes mid-trade.\r\n2. **Market = buyers + sellers.** Everything else is noise until you infer who is still holding inventory.\r\n3. **Root value:** plan the session from **likely inventory** + **open type** (flat / gap-up / gap-down), not from a single indicator.\r\n4. **Direction thesis first;** first entry need not be perfect — re-entries allowed with smaller size if thesis holds.\r\n5. **Multi-index confirmation:** Bank Nifty, Nifty, Sensex — don’t overhold a story that only one index is telling.\r\n6. **Options buying:** prefer **accuracy + sensible RR (~1:1)** over tiny SL + fantasy targets (time decay fights you).\r\n7. **Personalize risk math, not “SL hunting.”** Market hits clustered retail stops; it isn’t hunting *you*.\r\n8. **Zero-sum / inventory pressure (conceptual):** index-option dynamics need *someone’s* clustered stops. After an upside stretch there are often **fewer useful stops above**, so soft opens more often pressure **yesterday’s buyers** (stops below). This refines *why* soft opens target buyers after upside — educational framing only.\r\n\r\n---\r\n\r\n## 2. Pre-session checklist (human + bot inputs)\r\n\r\nFill these **before** 9:15. A bot needs the same fields as structured inputs.\r\n\r\n| Field | Values | Notes |\r\n|-------|--------|-------|\r\n| `regime` | `clear_buyers` / `clear_sellers` / `mixed` / `unclear` | From prior day structure |\r\n| `inventory` | `buyers_sitting` / `sellers_sitting` / `cleared` / `unknown` | Holiday/recovery often → cleared |\r\n| `prior_day_shape` | `strong_up` / `strong_down` / `range` / `rejection_bounce_loop` | |\r\n| `companion_bias` | `aligned_up` / `aligned_down` / `diverging` | Nifty vs Sensex vs BN |\r\n| `is_expiry` | `bn_nifty_weekly` / `sensex_weekly` / `none` | Book sooner on expiry |\r\n| `levels.R1/R2/S1/S2` | numbers per index | From pre video / your chart — day-specific |\r\n| `max_loss_pts` | number | Pre-defined; no storytelling |\r\n| `target_pts` | number | Often ~1× risk for options |\r\n| `allow_trade` | bool | False if sideways grind / no plan |\r\n\r\n**Hard stop:** if `inventory == unknown` **and** open is messy → default to **follow active regime**, or **no trade**. Never invent a counter-trade for excitement.\r\n\r\n---\r\n\r\n## 3. Inventory rules (how to label the day)\r\n\r\n### Buyers likely sitting when\r\n- Multi-day / continuous buying, then soft next open\r\n- **Second day** of constructive upside after a flush (traders start taking risk) — soft open can target those buyers (Jul 19 teaching)\r\n- BN holds a round number while Nifty/Sensex stay constructive after sellers were stopped\r\n- Prior gap-up rejection day but companions still hold (unclear → follow cover, don’t force short)\r\n- **Not** the same as a sudden bounce from deep negative with little follow-through — that often leaves **few** buyers to hunt\r\n\r\n### Sellers likely sitting when\r\n- Continuous selling then sharp recovery (sellers may be trapped / averaging)\r\n- Bounce after deep negative backdrop where fresh buyers were scarce\r\n\r\n### Inventory often cleared when\r\n- Holiday + recovery → don’t assume short inventory still sitting\r\n- Sharp sell → sudden buy joy → retail buyers exit; leftover buyers may be gone\r\n- Prior day ran **both sides** hard (gap-down then recover) → overnight holds uncommon (Jul 21)\r\n- Late-day momentum **failed** after a sell → many shorts don’t hold overnight (Jul 23)\r\n- Buyers already in **deep profit** into a holiday/close → don’t force them as hunt targets (Jul 20 pre)\r\n\r\n### Unclear when\r\n- Slow selling, no momentum, repeated rejection↔bounce in a small range\r\n- Both sides around same price — **open decides**\r\n\r\n---\r\n\r\n## 4. Open-type decision matrix (bot core)\r\n\r\nMap `inventory` × `open_type` → `bias`. This is the heart of a future bot.\r\n\r\n| Inventory | Gap-up (solid) | Mild gap-up / flat | Flat / gap-down | Large gap-down | Huge runaway gap-up |\r\n|-----------|----------------|--------------------|-----------------|----------------|---------------------|\r\n| **Buyers sitting** | **BUY** with market (don’t target buyers) | **SELL** target buyers | **SELL** target buyers | Often **BUY** / follow (don’t hunt buyers into panic) | **NO TRADE** / avoid chase |\r\n| **Sellers sitting** | Temptation trap → often **SELL** late buyers (not free long) | Case-by-case; trap if fake up then resume | Sellers useful if gap large enough | **SELL** / follow | Avoid if sellers forced to run |\r\n| **Cleared / holiday** | Temptation trap risk → **SELL** late FOMO | Careful | No clean plan often | Follow market | Avoid |\r\n| **Unclear / mixed** | **BUY** if recovery/cover regime | **Follow** what’s already happening | **Follow** or no plan | Follow | Avoid |\r\n| **Range / shrinking momentum** | **BUY** if open momentum confirms | Wait for first tape | **NO PLAN** on small gap-down | **SELL** only if buyers still sitting | Avoid |\r\n\r\n### Gap size nuance\r\n- **Light gap-up** can be treated as **flat** (Aug 3 pre).\r\n- **Large gap-up** after multi-day buyers: expect **shallow** Friday/short-term booking, not necessarily deep long liquidation — distinguish **slow light rejection** vs **fast large selling**.\r\n- **Huge green runaway** when you wanted to sell buyers → **stay away**.\r\n- **Huge gap-down / news** → structure **reset**; wait first tape (recovery vs continuous runaway) instead of forcing yesterday’s map (Jul 20).\r\n\r\n### When gap-up = BUY with market vs SELL (resolve the conflict)\r\n| Situation | Gap-up default | Why |\r\n|-----------|----------------|-----|\r\n| **Buyers sitting** + solid gap-up (incl. ATH / strong continuation) | **BUY** with market | Buyers already in profit — little left to hunt above; ride continuation |\r\n| Soft / flat / mild gap after buyers sat on upside | **SELL** target buyers | Fewer stops above after upside; pressure yesterday’s buyer SLs below (user + Jul matrix) |\r\n| Buyers sat on **normal** continuation (not ATH / not explosive special momentum) + **some** gap-up | Can still **SELL** (IH Aug 4-style) | Stops to hunt sit under yesterday’s buyers; little useful inventory above |\r\n| Cleared inventory / holiday / FOMO crowd after green day (temptation) | Often **SELL** late buyers | Crowd buys the gap; trap risk (Jul 19 teaching, Jul 27) |\r\n| Sellers sitting / multi-day sell regime | Gap-up can still be **SELL** (trap / resume) | Not free long — bounce then resume (Jul 24) |\r\n| Unclear / both-side prior day | Follow open; solid gap-up → **BUY** | No held inventory to invent against (Jul 21) |\r\n\r\n**Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — the first is about **solid continuation gap-up**; the second is about **soft opens** (or temptation traps) when resting buyer inventory exists.\r\n\r\n---\r\n\r\n## 5. Entry rules\r\n\r\n### Allowed\r\n1. Bias from §4 matches open.\r\n2. First open momentum / tape agrees (especially on range days — don’t force before tape speaks).\r\n3. Invalidation level defined (e.g. Nifty through X kills thesis).\r\n4. Size: first ticket **smaller**; add only if thesis holds.\r\n5. Prefer setups where **companions don’t violently oppose** the trade.\r\n6. When leaders sprint too fast to enter, use the **lagging index** pause/rejection as the entry cue (Jul 24).\r\n\r\n### Forbidden\r\n1. Counter-trade invented because inventory is unclear.\r\n2. Chase huge one-sided gap when matrix says avoid.\r\n3. Enter without `max_loss_pts`.\r\n4. Average a losing hope trade after continuous move against you.\r\n\r\n### Rejection quality filter (gap-up longs)\r\n| Observation | Read | Action |\r\n|-------------|------|--------|\r\n| Light, slow rejection after solid gap-up | Weak Friday / short-term booking | Long thesis can stay valid |\r\n| Fast, large selling at open | Real liquidation / range warning | Don’t force longs; cut or skip |\r\n| Continuous pause after start | Late buyers get filled; edge dies | Prefer continuous move; stall = danger |\r\n\r\n---\r\n\r\n## 6. Multi-index confirmation\r\n\r\n| Situation | Rule |\r\n|-----------|------|\r\n| All three align | Extension / larger target allowed |\r\n| Only BN works; Nifty/Sensex lag | Take **known** target; don’t invent path |\r\n| Companions break against you | Stress / invalidate; tighten or exit |\r\n| One index huge gap, others quiet | Trap / temptation setup more likely |\r\n\r\n**Bot rule:** `extend_target = true` only if `companion_bias == aligned_*` with trade direction.\r\n\r\n---\r\n\r\n## 7. Trade management & exits\r\n\r\n### Exit when ANY is true\r\n1. `max_loss_pts` hit — no story.\r\n2. Continuous selling/buying against thesis + companions join.\r\n3. Mapped path ends (e.g. normal BN target ~done) and further path is **unknown**.\r\n4. Candles shrink near round number + trap risk rises while you are short.\r\n5. Expiry session + premium crush risk (especially puts on green bounce).\r\n6. Decent profit + tape turns sideways/slow — book average target; don’t wait for a “big” day.\r\n7. Thesis was flush-then-cover buy and market **sells through** your hold assumption.\r\n8. After a sharp sell, **tiny green candles** start printing while random late sellers pile in — reverse/SL-hunt risk rises; bank known target (Jul 24).\r\n9. Continuous adverse move with **no retrace** against you on a “recovery” thesis → runaway path; take the planned loss (Jul 20).\r\n\r\n### Hold while\r\n- Thesis alive, loss within limit, companions not confirming the kill.\r\n- Continuous momentum without inviting late counter-entries.\r\n\r\n### Re-entry\r\n- Allowed if direction thesis still valid and first exit was process (not revenge).\r\n- Smaller size than first.\r\n\r\n---\r\n\r\n## 8. Risk, sizing, RR (options)\r\n\r\n| Rule | Spec |\r\n|------|------|\r\n| Default RR | ~**1:1** (accuracy via root reading) |\r\n| Acceptable stretch | e.g. 1:2 if process supports — not 1:10 fantasies |\r\n| Forbidden fantasy | Tiny SL + huge target in option buying |\r\n| First size | Reduced |\r\n| Scale-in | Only with thesis intact |\r\n| Expiry | Prefer earlier booking |\r\n| Daily stop | Respect personal loss limit; missing a day is fine |\r\n\r\n---\r\n\r\n## 9. Psychology (human layer — soft rules for bot)\r\n\r\nEncode only as **warnings**, not hard entries:\r\n\r\n- Market tempts losers to average after small gap against them — that temptation is often the trade.\r\n- Fast candles near round numbers pull reluctant buyers; later sideways can flush them.\r\n- Don’t personalize clustered SL hits.\r\n- Process over P&L: if situation isn’t understood, skip; consistency compounds when it clicks.\r\n- Wrong trade + accelerating adverse move = cut; don’t “think” a dead thesis back to life.\r\n\r\n---\r\n\r\n## 10. No-trade conditions (bot should return `FLAT`)\r\n\r\n- `allow_trade == false`\r\n- Sideways grind / shrinking momentum and open doesn’t unlock a branch\r\n- Small gap-down on messy range day with “no plan yet”\r\n- Huge runaway gap against the only plan you had\r\n- Inventory unknown **and** you refuse to follow regime\r\n- After booking: path unclear — wait for **new opportunity**, don’t force a second idea\r\n\r\n---\r\n\r\n## 11. Bot-ready state machine (implementation sketch)\r\n\r\n```\r\nPRE → classify inventory + levels + risk\r\nOPEN → measure gap_type (huge_up | solid_up | mild_up | flat | gap_down | large_down)\r\nDECIDE → bias = matrix[inventory][gap_type]  // BUY | SELL | FLAT\r\nCONFIRM → check multi-index + rejection_quality\r\nENTER → size = base * first_ticket_factor; set stop/target\r\nMANAGE → if continuous_adverse OR companions_kill OR path_unknown → EXIT\r\n          if target_hit OR expiry_pressure OR sideways_after_profit → EXIT\r\nIDLE → wait for new opportunity (no revenge)\r\n```\r\n\r\n### Suggested input features (later code)\r\n- Overnight gap % / points vs prior close and vs R/S\r\n- First N minutes: range, direction, sell/buy aggression (speed + size of adverse move)\r\n- Cross-index correlation / lag score\r\n- Time-to-expiry flag\r\n- Session P&L and daily stop remaining\r\n\r\n### Suggested outputs\r\n- `bias`, `confidence` (aligned indices ↑), `entry_ok`, `stop`, `target`, `reason_codes[]`\r\n\r\n### Do **not** hardcode from notes\r\n- Exact lot sizes (1170 / 1365 / etc.)\r\n- Exact point targets (720–740) as universal constants\r\n- Exact round numbers from one week (e.g. 57,000) as eternal levels\r\n\r\n---\r\n\r\n## 12. Permanent rules ledger (from daily “Keep permanently”)\r\n\r\n| # | Rule | Seen |\r\n|---|------|------|\r\n| P1 | Segment clarity before setups | weekly |\r\n| P2 | Root = inventory + open-type branches | weekly + all days |\r\n| P3 | Options: accuracy + ~1:1 RR | weekly |\r\n| P4 | Direction > perfect first entry; controlled re-entries | weekly |\r\n| P5 | Cross-check Nifty / Sensex / BN | weekly + lives |\r\n| P6 | Holiday/recovery clears inventory; gap-up can be temptation trap | 07-27 |\r\n| P7 | One index alone → don’t overhold for confirmation forever | 07-27, 08-03 |\r\n| P8 | Soft open + buyers sitting → sell-the-buyers default | 07-28, 07-30 |\r\n| P9 | Pre-define loss if breakout continues against you | 07-28 |\r\n| P10 | Expiry → book sooner | 07-28, 07-30 |\r\n| P11 | Unclear inventory → follow active regime | 07-29 |\r\n| P12 | Gap size changes risk even when bias is buy | 07-29 |\r\n| P13 | Sideways after decent profit → exit | 07-29, 07-30 |\r\n| P14 | Avoid runaway gap-up chases | 07-30 |\r\n| P15 | Range: large open sell = range warning | 07-31 |\r\n| P16 | Flush-then-cover needs hold; sell-through → exit | 07-31 |\r\n| P17 | Personalize risk math, not SL hunting | 07-31 |\r\n| P18 | Gap-up + multi-day buyers: light rejection ≠ thesis kill | 08-03 |\r\n| P19 | Edge needs continuous momentum; stall invites late buyers | 08-03 |\r\n| P20 | Book when you leave the mapped path | 08-03 |\r\n| P21 | Closed-chart psychology can invert same-shape plans | 07-19 teaching |\r\n| P22 | Crowd FOMO gap-up after green ≠ free long | 07-19 |\r\n| P23 | Buyer-hunt after upside needs buyers who actually sat | 07-19, user refinement |\r\n| P24 | Soft open after upside often presses yesterday’s buyer SLs (fewer stops above) | 07-19 + user |\r\n| P25 | Huge news gap-down resets structure; wait first tape | 07-20 |\r\n| P26 | Both-side prior day → cleared hold inventory; follow open | 07-21 |\r\n| P27 | Continuous one-way no-retrace → follow; book on stall | 07-22, 08-03 |\r\n| P28 | Thin/confident overnight shorts → bounce is entry, not cascade | 07-23 |\r\n| P29 | Multi-day sell: don’t seller-hunt; sell the resume after bounce | 07-24 |\r\n| P30 | Enter off lagging index when leaders sprint | 07-24 |\r\n| P31 | Tiny green candles after sharp sell = turn risk | 07-24 |\r\n\r\n---\r\n\r\n## 13. How to maintain this bible\r\n\r\nAfter each new `daily/YYYY-MM-DD.md`:\r\n\r\n1. If a **Keep permanently** item is new → add a row to §12 and adjust §4/§5/§7 if needed.\r\n2. Never promote **day-specific** levels or sizes into this file.\r\n3. If a rule conflicts with an older one, prefer the clearer process rule and note the date in the ledger.\r\n4. Optional: append one line to `playbook/changelog.md` (create when needed).\r\n\r\n---\r\n\r\n## 14. Quick morning card (print / pin)\r\n\r\n```\r\n1. Inventory today: buyers / sellers / cleared / unclear?\r\n2. Buyers actually sat after upside — or cleared / thin?\r\n3. Companions aligned?\r\n4. Expiry?\r\n5. Open type → matrix bias? (solid gap-up buy-with vs soft-open sell-buyers)\r\n6. Rejection quality (if gap-up)?\r\n7. Stop / target set?\r\n8. If unclear path after target → FLAT and wait.\r\n```\r\n\r\n---\r\n\r\n*Last distilled: 2026-08-04 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–3.*\r\n",
+    "morningCard": "1. Inventory today: buyers / sellers / cleared / unclear?\r\n2. Buyers actually sat after upside — or cleared / thin?\r\n3. Companions aligned?\r\n4. Expiry?\r\n5. Open type → matrix bias? (solid gap-up buy-with vs soft-open sell-buyers)\r\n6. Rejection quality (if gap-up)?\r\n7. Stop / target set?\r\n8. If unclear path after target → FLAT and wait.",
+    "decisionMatrix": {
+      "headers": [
+        "inventory",
+        "gap-up (solid)",
+        "mild gap-up / flat",
+        "flat / gap-down",
+        "large gap-down",
+        "huge runaway gap-up"
+      ],
+      "rows": [
+        {
+          "inventory": "**Buyers sitting**",
+          "gap-up (solid)": "**BUY** with market (don’t target buyers)",
+          "mild gap-up / flat": "**SELL** target buyers",
+          "flat / gap-down": "**SELL** target buyers",
+          "large gap-down": "Often **BUY** / follow (don’t hunt buyers into panic)",
+          "huge runaway gap-up": "**NO TRADE** / avoid chase"
+        },
+        {
+          "inventory": "**Sellers sitting**",
+          "gap-up (solid)": "Temptation trap → often **SELL** late buyers (not free long)",
+          "mild gap-up / flat": "Case-by-case; trap if fake up then resume",
+          "flat / gap-down": "Sellers useful if gap large enough",
+          "large gap-down": "**SELL** / follow",
+          "huge runaway gap-up": "Avoid if sellers forced to run"
+        },
+        {
+          "inventory": "**Cleared / holiday**",
+          "gap-up (solid)": "Temptation trap risk → **SELL** late FOMO",
+          "mild gap-up / flat": "Careful",
+          "flat / gap-down": "No clean plan often",
+          "large gap-down": "Follow market",
+          "huge runaway gap-up": "Avoid"
+        },
+        {
+          "inventory": "**Unclear / mixed**",
+          "gap-up (solid)": "**BUY** if recovery/cover regime",
+          "mild gap-up / flat": "**Follow** what’s already happening",
+          "flat / gap-down": "**Follow** or no plan",
+          "large gap-down": "Follow",
+          "huge runaway gap-up": "Avoid"
+        },
+        {
+          "inventory": "**Range / shrinking momentum**",
+          "gap-up (solid)": "**BUY** if open momentum confirms",
+          "mild gap-up / flat": "Wait for first tape",
+          "flat / gap-down": "**NO PLAN** on small gap-down",
+          "large gap-down": "**SELL** only if buyers still sitting",
+          "huge runaway gap-up": "Avoid"
+        }
+      ],
+      "rawSection": "## 4. Open-type decision matrix (bot core)\r\n\r\nMap `inventory` × `open_type` → `bias`. This is the heart of a future bot.\r\n\r\n| Inventory | Gap-up (solid) | Mild gap-up / flat | Flat / gap-down | Large gap-down | Huge runaway gap-up |\r\n|-----------|----------------|--------------------|-----------------|----------------|---------------------|\r\n| **Buyers sitting** | **BUY** with market (don’t target buyers) | **SELL** target buyers | **SELL** target buyers | Often **BUY** / follow (don’t hunt buyers into panic) | **NO TRADE** / avoid chase |\r\n| **Sellers sitting** | Temptation trap → often **SELL** late buyers (not free long) | Case-by-case; trap if fake up then resume | Sellers useful if gap large enough | **SELL** / follow | Avoid if sellers forced to run |\r\n| **Cleared / holiday** | Temptation trap risk → **SELL** late FOMO | Careful | No clean plan often | Follow market | Avoid |\r\n| **Unclear / mixed** | **BUY** if recovery/cover regime | **Follow** what’s already happening | **Follow** or no plan | Follow | Avoid |\r\n| **Range / shrinking momentum** | **BUY** if open momentum confirms | Wait for first tape | **NO PLAN** on small gap-down | **SELL** only if buyers still sitting | Avoid |\r\n\r\n### Gap size nuance\r\n- **Light gap-up** can be treated as **flat** (Aug 3 pre).\r\n- **Large gap-up** after multi-day buyers: expect **shallow** Friday/short-term booking, not necessarily deep long liquidation — distinguish **slow light rejection** vs **fast large selling**.\r\n- **Huge green runaway** when you wanted to sell buyers → **stay away**.\r\n- **Huge gap-down / news** → structure **reset**; wait first tape (recovery vs continuous runaway) instead of forcing yesterday’s map (Jul 20).\r\n\r\n### When gap-up = BUY with market vs SELL (resolve the conflict)\r\n| Situation | Gap-up default | Why |\r\n|-----------|----------------|-----|\r\n| **Buyers sitting** + solid gap-up (incl. ATH / strong continuation) | **BUY** with market | Buyers already in profit — little left to hunt above; ride continuation |\r\n| Soft / flat / mild gap after buyers sat on upside | **SELL** target buyers | Fewer stops above after upside; pressure yesterday’s buyer SLs below (user + Jul matrix) |\r\n| Buyers sat on **normal** continuation (not ATH / not explosive special momentum) + **some** gap-up | Can still **SELL** (IH Aug 4-style) | Stops to hunt sit under yesterday’s buyers; little useful inventory above |\r\n| Cleared inventory / holiday / FOMO crowd after green day (temptation) | Often **SELL** late buyers | Crowd buys the gap; trap risk (Jul 19 teaching, Jul 27) |\r\n| Sellers sitting / multi-day sell regime | Gap-up can still be **SELL** (trap / resume) | Not free long — bounce then resume (Jul 24) |\r\n| Unclear / both-side prior day | Follow open; solid gap-up → **BUY** | No held inventory to invent against (Jul 21) |\r\n\r\n**Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — the first is about **solid continuation gap-up**; the second is about **soft opens** (or temptation traps) when resting buyer inventory exists.\r\n\r\n---"
+    },
+    "permanentRules": [
+      {
+        "#": "P1",
+        "rule": "Segment clarity before setups",
+        "seen": "weekly"
+      },
+      {
+        "#": "P2",
+        "rule": "Root = inventory + open-type branches",
+        "seen": "weekly + all days"
+      },
+      {
+        "#": "P3",
+        "rule": "Options: accuracy + ~1:1 RR",
+        "seen": "weekly"
+      },
+      {
+        "#": "P4",
+        "rule": "Direction > perfect first entry; controlled re-entries",
+        "seen": "weekly"
+      },
+      {
+        "#": "P5",
+        "rule": "Cross-check Nifty / Sensex / BN",
+        "seen": "weekly + lives"
+      },
+      {
+        "#": "P6",
+        "rule": "Holiday/recovery clears inventory; gap-up can be temptation trap",
+        "seen": "07-27"
+      },
+      {
+        "#": "P7",
+        "rule": "One index alone → don’t overhold for confirmation forever",
+        "seen": "07-27, 08-03"
+      },
+      {
+        "#": "P8",
+        "rule": "Soft open + buyers sitting → sell-the-buyers default",
+        "seen": "07-28, 07-30"
+      },
+      {
+        "#": "P9",
+        "rule": "Pre-define loss if breakout continues against you",
+        "seen": "07-28"
+      },
+      {
+        "#": "P10",
+        "rule": "Expiry → book sooner",
+        "seen": "07-28, 07-30"
+      },
+      {
+        "#": "P11",
+        "rule": "Unclear inventory → follow active regime",
+        "seen": "07-29"
+      },
+      {
+        "#": "P12",
+        "rule": "Gap size changes risk even when bias is buy",
+        "seen": "07-29"
+      },
+      {
+        "#": "P13",
+        "rule": "Sideways after decent profit → exit",
+        "seen": "07-29, 07-30"
+      },
+      {
+        "#": "P14",
+        "rule": "Avoid runaway gap-up chases",
+        "seen": "07-30"
+      },
+      {
+        "#": "P15",
+        "rule": "Range: large open sell = range warning",
+        "seen": "07-31"
+      },
+      {
+        "#": "P16",
+        "rule": "Flush-then-cover needs hold; sell-through → exit",
+        "seen": "07-31"
+      },
+      {
+        "#": "P17",
+        "rule": "Personalize risk math, not SL hunting",
+        "seen": "07-31"
+      },
+      {
+        "#": "P18",
+        "rule": "Gap-up + multi-day buyers: light rejection ≠ thesis kill",
+        "seen": "08-03"
+      },
+      {
+        "#": "P19",
+        "rule": "Edge needs continuous momentum; stall invites late buyers",
+        "seen": "08-03"
+      },
+      {
+        "#": "P20",
+        "rule": "Book when you leave the mapped path",
+        "seen": "08-03"
+      },
+      {
+        "#": "P21",
+        "rule": "Closed-chart psychology can invert same-shape plans",
+        "seen": "07-19 teaching"
+      },
+      {
+        "#": "P22",
+        "rule": "Crowd FOMO gap-up after green ≠ free long",
+        "seen": "07-19"
+      },
+      {
+        "#": "P23",
+        "rule": "Buyer-hunt after upside needs buyers who actually sat",
+        "seen": "07-19, user refinement"
+      },
+      {
+        "#": "P24",
+        "rule": "Soft open after upside often presses yesterday’s buyer SLs (fewer stops above)",
+        "seen": "07-19 + user"
+      },
+      {
+        "#": "P25",
+        "rule": "Huge news gap-down resets structure; wait first tape",
+        "seen": "07-20"
+      },
+      {
+        "#": "P26",
+        "rule": "Both-side prior day → cleared hold inventory; follow open",
+        "seen": "07-21"
+      },
+      {
+        "#": "P27",
+        "rule": "Continuous one-way no-retrace → follow; book on stall",
+        "seen": "07-22, 08-03"
+      },
+      {
+        "#": "P28",
+        "rule": "Thin/confident overnight shorts → bounce is entry, not cascade",
+        "seen": "07-23"
+      },
+      {
+        "#": "P29",
+        "rule": "Multi-day sell: don’t seller-hunt; sell the resume after bounce",
+        "seen": "07-24"
+      },
+      {
+        "#": "P30",
+        "rule": "Enter off lagging index when leaders sprint",
+        "seen": "07-24"
+      },
+      {
+        "#": "P31",
+        "rule": "Tiny green candles after sharp sell = turn risk",
+        "seen": "07-24"
+      }
+    ]
+  },
+  "levels": [
+    {
+      "date": "2026-07-19",
+      "index": "Bank Nifty",
+      "level": "~58,000",
+      "context": "teaching closed-chart psychology zone",
+      "source": "teaching OVs8-y2HTl8"
+    },
+    {
+      "date": "2026-07-20",
+      "index": "Bank Nifty",
+      "level": "59,300* / 57,950 / 57,640",
+      "context": "R/S (ASR)",
+      "source": "pre IrOy9cExWd8"
+    },
+    {
+      "date": "2026-07-20",
+      "index": "Nifty",
+      "level": "24,480 / 24,560",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-20",
+      "index": "Nifty",
+      "level": "24,240 / 24,140",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-20",
+      "index": "Sensex",
+      "level": "78,500* / 79,100*",
+      "context": "R (ASR)",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-20",
+      "index": "Sensex",
+      "level": "78,780*",
+      "context": "S (ASR)",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-21",
+      "index": "Nifty",
+      "level": "24,420 / 24,480",
+      "context": "R",
+      "source": "pre xrficoYHDSE"
+    },
+    {
+      "date": "2026-07-21",
+      "index": "Nifty",
+      "level": "24,210 / 24,090",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-21",
+      "index": "Bank Nifty",
+      "level": "58,580 / 59,000 / 59,500* / 59,860*",
+      "context": "R/S cluster (ASR)",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-21",
+      "index": "Sensex",
+      "level": "78,200 / 78,500",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-21",
+      "index": "Sensex",
+      "level": "77,610 / 77,200",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-21",
+      "index": "Bank Nifty",
+      "level": "~58,000",
+      "context": "live rejection / cut zone",
+      "source": "post 0HnoI5CMaFE"
+    },
+    {
+      "date": "2026-07-22",
+      "index": "Bank Nifty",
+      "level": "58,100 / 58,400",
+      "context": "R",
+      "source": "pre _iqRDjCHceM"
+    },
+    {
+      "date": "2026-07-22",
+      "index": "Bank Nifty",
+      "level": "57,500 / 57,250",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-22",
+      "index": "Nifty",
+      "level": "24,260 / 24,360",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-22",
+      "index": "Nifty",
+      "level": "24,090 / 23,960",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-22",
+      "index": "Sensex",
+      "level": "77,800 / 78,200",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-22",
+      "index": "Sensex",
+      "level": "77,200 / 76,800",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-23",
+      "index": "Sensex",
+      "level": "77,500 / 77,200",
+      "context": "R",
+      "source": "pre bL9NxsWmj3o"
+    },
+    {
+      "date": "2026-07-23",
+      "index": "Sensex",
+      "level": "76,500 / 76,200",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-23",
+      "index": "Bank Nifty",
+      "level": "57,830 / 57,500",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-23",
+      "index": "Bank Nifty",
+      "level": "56,960 / 56,800",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-23",
+      "index": "Nifty",
+      "level": "24,143* / 24,260*",
+      "context": "R (ASR)",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-23",
+      "index": "Nifty",
+      "level": "23,964 / 23,800*",
+      "context": "S (ASR)",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-23",
+      "index": "Bank Nifty",
+      "level": "~57,000",
+      "context": "held support / live context",
+      "source": "pre+post"
+    },
+    {
+      "date": "2026-07-24",
+      "index": "Bank Nifty",
+      "level": "57,232*",
+      "context": "R (ASR)",
+      "source": "pre ekVgnszh7tU"
+    },
+    {
+      "date": "2026-07-24",
+      "index": "Bank Nifty",
+      "level": "56,380 / 55,910",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-24",
+      "index": "Sensex",
+      "level": "76,650 / 76,854",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-24",
+      "index": "Sensex",
+      "level": "76,200 / 75,800",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-24",
+      "index": "Nifty",
+      "level": "24,035* / 24,143",
+      "context": "R (ASR)",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-24",
+      "index": "Nifty",
+      "level": "23,800 / 23,620",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-24",
+      "index": "Bank Nifty",
+      "level": "56,200 put",
+      "context": "live put strike mentioned",
+      "source": "post c6fC2LRkocE"
+    },
+    {
+      "date": "2026-07-27",
+      "index": "Bank Nifty",
+      "level": "57,232 / 57,500",
+      "context": "R",
+      "source": "pre WD2QzS0D0LI"
+    },
+    {
+      "date": "2026-07-27",
+      "index": "Bank Nifty",
+      "level": "56,430 / 56,076",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-27",
+      "index": "Nifty",
+      "level": "23,930 / 24,035",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-27",
+      "index": "Nifty",
+      "level": "23,734 / 23,620",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-27",
+      "index": "Sensex",
+      "level": "76,500 / 76,700",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-27",
+      "index": "Sensex",
+      "level": "75,800 / 75,400",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-28",
+      "index": "Bank Nifty",
+      "level": "57,000 / 57,500 / 57,832",
+      "context": "hold / R",
+      "source": "pre+post"
+    },
+    {
+      "date": "2026-07-28",
+      "index": "Nifty",
+      "level": "24,040 / 24,110 / 24,200",
+      "context": "invalidate / R",
+      "source": "pre+post"
+    },
+    {
+      "date": "2026-07-28",
+      "index": "Nifty",
+      "level": "23,940 / 23,860",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-28",
+      "index": "Sensex",
+      "level": "77,200 / 77,364",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-28",
+      "index": "Sensex",
+      "level": "76,650 / 76,040",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-29",
+      "index": "Bank Nifty",
+      "level": "56,930 / 57,126",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-29",
+      "index": "Bank Nifty",
+      "level": "56,430 / 56,076",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-29",
+      "index": "Nifty",
+      "level": "24,040 / 24,110",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-29",
+      "index": "Nifty",
+      "level": "23,860 / 23,730",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-29",
+      "index": "Sensex",
+      "level": "76,965 / 77,200",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-29",
+      "index": "Sensex",
+      "level": "76,400 / 76,100",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-30",
+      "index": "Bank Nifty",
+      "level": "57,500 / 57,680",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-30",
+      "index": "Bank Nifty",
+      "level": "57,126 / 56,990",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-30",
+      "index": "Nifty",
+      "level": "24,400 / 24,360",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-30",
+      "index": "Nifty",
+      "level": "24,200 / 24,140",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-30",
+      "index": "Sensex",
+      "level": "78,200 / 77,800",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-31",
+      "index": "Bank Nifty",
+      "level": "57,250 / 57,680",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-31",
+      "index": "Bank Nifty",
+      "level": "56,850 / 56,532",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-31",
+      "index": "Nifty",
+      "level": "24,480 / 24,400",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-31",
+      "index": "Nifty",
+      "level": "24,200 / 24,140",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-31",
+      "index": "Sensex",
+      "level": "78,200 / 78,500",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-07-31",
+      "index": "Sensex",
+      "level": "77,500 / 77,200",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-08-02",
+      "index": "Bank Nifty",
+      "level": "57,000",
+      "context": "weekly review reaction zone",
+      "source": "weekly iDV1obD78-c"
+    },
+    {
+      "date": "2026-08-03",
+      "index": "Bank Nifty",
+      "level": "57,680 / 57,820",
+      "context": "R",
+      "source": "pre yHEfrMUrmKk"
+    },
+    {
+      "date": "2026-08-03",
+      "index": "Bank Nifty",
+      "level": "57,154 / 56,850",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-08-03",
+      "index": "Nifty",
+      "level": "24,480 / 24,400",
+      "context": "R",
+      "source": "pre"
+    },
+    {
+      "date": "2026-08-03",
+      "index": "Nifty",
+      "level": "24,300 / 24,200",
+      "context": "S",
+      "source": "pre (ASR)"
+    },
+    {
+      "date": "2026-08-03",
+      "index": "Sensex",
+      "level": "78,500 / 78,850",
+      "context": "R",
+      "source": "pre (ASR)"
+    },
+    {
+      "date": "2026-08-03",
+      "index": "Sensex",
+      "level": "77,840 / 77,500",
+      "context": "S",
+      "source": "pre"
+    },
+    {
+      "date": "2026-08-03",
+      "index": "Bank Nifty",
+      "level": "~720–740 pts move",
+      "context": "live call target booked",
+      "source": "post cwgFEpiTwgE"
+    }
+  ]
+}

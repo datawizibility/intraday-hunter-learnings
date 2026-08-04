@@ -1,0 +1,282 @@
+{
+  "version": 1,
+  "title": "Intraday Hunter process quizzes",
+  "disclaimer": "Educational self-check only. Not SEBI advice.",
+  "questions": [
+    {
+      "id": "mx-buyers-solid-gapup",
+      "type": "matrix",
+      "prompt": "Inventory = buyers sitting. Open = solid gap-up. What is the matrix bias?",
+      "choices": [
+        "BUY — go with the market; don’t target those buyers",
+        "SELL — harvest the buyers immediately",
+        "FLAT — wait for afternoon",
+        "SELL — temptation trap on every gap-up"
+      ],
+      "correctAnswer": 0,
+      "explanation": "When buyers are sitting and the open is a solid gap-up, §4 says BUY with the market. Targeting buyers on a strong gap-up is the wrong branch.",
+      "sourceRefs": ["bible§4", "2026-08-03"]
+    },
+    {
+      "id": "mx-buyers-flat-gapdown",
+      "type": "matrix",
+      "prompt": "Inventory = buyers sitting. Open = flat / gap-down. Default map?",
+      "choices": [
+        "BUY breakout continuation",
+        "SELL — target the sitting buyers",
+        "FLAT always — no plan exists",
+        "Chase the first green candle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Soft open with buyers still inside → sell-the-buyers is the default (P8). Seen on 07-28 and 07-30.",
+      "sourceRefs": ["bible§4", "P8", "2026-07-28", "2026-07-30"]
+    },
+    {
+      "id": "mx-cleared-gapup",
+      "type": "matrix",
+      "prompt": "After holiday + recovery, inventory often looks cleared. Gap-up open — what’s the process read?",
+      "choices": [
+        "Free long — leftover shorts must cover forever",
+        "Temptation-trap risk → often SELL late FOMO buyers",
+        "Always FLAT until next week",
+        "Average into any red candle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P6 / 07-27: holiday/recovery clears short inventory; gap-up can tempt late buyers, then reject — not a free long.",
+      "sourceRefs": ["P6", "2026-07-27", "bible§4"]
+    },
+    {
+      "id": "mx-unclear-follow",
+      "type": "matrix",
+      "prompt": "You cannot cleanly tag buyer vs seller inventory. Market has been covering/holding for days. Best default?",
+      "choices": [
+        "Invent a counter-short for excitement",
+        "Follow the active regime (cover/recovery → buy bias)",
+        "Force a range scalp every open",
+        "Ignore companions and trade only one index"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P11 / 07-29: unclear inventory → follow what’s already happening. Don’t invent a counter-trade.",
+      "sourceRefs": ["P11", "2026-07-29", "bible§3"]
+    },
+    {
+      "id": "mx-runaway-gapup",
+      "type": "matrix",
+      "prompt": "You planned to sell sitting buyers, but the open is a huge runaway green gap-up. Action?",
+      "choices": [
+        "Chase puts harder — bigger gap, bigger edge",
+        "NO TRADE / stay away — don’t chase the runaway",
+        "Double size longs to ride FOMO",
+        "Enter at open with no stop"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P14 / 07-30 / §4: avoid runaway gap-up chases even when the soft-open sell plan was your preferred map.",
+      "sourceRefs": ["P14", "2026-07-30", "bible§4"]
+    },
+    {
+      "id": "day-0727-inventory",
+      "type": "day_replay",
+      "prompt": "07-27 pre: strong bounce after a very negative backdrop into holiday. What inventory read did he emphasize?",
+      "choices": [
+        "Fresh buyers flooding in forever",
+        "Bounce buyers likely booked; sellers may still sit — or inventory cleared into holiday",
+        "Guaranteed clear_buyers regime for a week",
+        "Only Nifty inventory matters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Post confirmed holiday+recovery → don’t assume short inventory still sitting; gap-up became a temptation trap sell.",
+      "sourceRefs": ["2026-07-27", "P6"]
+    },
+    {
+      "id": "day-0728-open",
+      "type": "day_replay",
+      "prompt": "07-28 (BN/Nifty expiry): BN held above 57k, companions positive, soft gap-down. Live action matched which plan?",
+      "choices": [
+        "Buy the dip with calls and hold through expiry crush",
+        "Sell / puts — target sitting buyers on the soft open",
+        "No trade because expiry forbids all entries",
+        "Short only Sensex, ignore BN"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Soft open + buyers sitting → sell-the-buyers. Expiry meant book sooner (premium crush risk).",
+      "sourceRefs": ["2026-07-28", "P8", "P10"]
+    },
+    {
+      "id": "day-0729-gapup",
+      "type": "day_replay",
+      "prompt": "07-29: inventory unclear, large gap-up with mild rejection. What did he do?",
+      "choices": [
+        "Short the gap because rejection candles looked scary",
+        "Follow ongoing cover → bought calls; watched for fast rejection risk",
+        "Stay flat all day with no thesis",
+        "Average puts after every bounce"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Unclear inventory → follow active cover regime. Gap size still raises trap risk even on a buy bias (P12).",
+      "sourceRefs": ["2026-07-29", "P11", "P12"]
+    },
+    {
+      "id": "day-0730-soft",
+      "type": "day_replay",
+      "prompt": "07-30 (Sensex expiry): multi-day buyers likely sitting; open almost flat / slight gap-down. Default map?",
+      "choices": [
+        "Sell setups targeting multi-day buyers",
+        "Must buy because prior day was green",
+        "Wait for a huge green runaway before acting",
+        "Trade only after 2pm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Multi-day bid + soft open → harvest buyers. Huge runaway would have been avoid (P14).",
+      "sourceRefs": ["2026-07-30", "P8", "P14"]
+    },
+    {
+      "id": "day-0731-range",
+      "type": "day_replay",
+      "prompt": "07-31 range day: what does a sudden large sell at the open imply?",
+      "choices": [
+        "Automatic buy-the-dip",
+        "Range warning — bad for forced longs",
+        "Guaranteed trend day down with no risk",
+        "Ignore companions forever"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P15: on range/shrinking-momentum days, large open sell is a range warning — don’t force longs.",
+      "sourceRefs": ["2026-07-31", "P15", "bible§5"]
+    },
+    {
+      "id": "day-0803-gapup",
+      "type": "day_replay",
+      "prompt": "08-03: multi-day buying context, solid gap-up, then light rejection/chop. Correct process?",
+      "choices": [
+        "Target buyers with puts because any rejection kills longs",
+        "Don’t target buyers — buy with market; light rejection ≠ deep liquidation",
+        "Exit instantly on first red tick",
+        "Hold one index forever until companions catch up"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P18: gap-up + multi-day buyers — light/slow rejection often = Friday booking, not thesis kill. He bought with the open.",
+      "sourceRefs": ["2026-08-03", "P18", "bible§5"]
+    },
+    {
+      "id": "exit-sideways",
+      "type": "exit",
+      "prompt": "You’ve booked a decent average target; tape turns sideways/slow with lots of time left. Best action?",
+      "choices": [
+        "Hold for a ‘big’ day that might still come",
+        "Exit — sideways after decent profit is an exit cue",
+        "Average more size into the chop",
+        "Ignore expiry pressure always"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P13 / §7: sideways after decent profit → exit; don’t wait for a fantasy extension.",
+      "sourceRefs": ["P13", "bible§7", "2026-07-29"]
+    },
+    {
+      "id": "exit-mapped-path",
+      "type": "exit",
+      "prompt": "Only Bank Nifty worked to a known target; Sensex/Nifty lagged and path beyond the setup is unclear. Rule?",
+      "choices": [
+        "Invent a larger target and overhold for confirmation",
+        "Book the mapped path; wait for a new opportunity",
+        "Revenge-enter the opposite side immediately",
+        "Move stop to zero and hope"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P7 + P20 / 08-03: one index alone → don’t overhold; book when you leave the mapped path.",
+      "sourceRefs": ["P7", "P20", "2026-08-03"]
+    },
+    {
+      "id": "notrade-messy",
+      "type": "no_trade",
+      "prompt": "Which is a valid FLAT / no-trade condition from the bible?",
+      "choices": [
+        "Inventory unknown and you refuse to follow regime, or sideways grind with no unlocked branch",
+        "Any red candle in the first minute",
+        "Whenever Nifty and BN differ by 1 point",
+        "Only after you already lost money"
+      ],
+      "correctAnswer": 0,
+      "explanation": "§10: allow_trade false, sideways grind, messy small gap-down with no plan, runaway gaps, unknown inventory without follow-regime — return FLAT.",
+      "sourceRefs": ["bible§10", "P11"]
+    },
+    {
+      "id": "reject-quality",
+      "type": "rejection_quality",
+      "prompt": "Solid gap-up long thesis. Open shows light, slow rejection. How to read it?",
+      "choices": [
+        "Real liquidation — cut all longs immediately always",
+        "Weak Friday / short-term booking — long thesis can stay valid",
+        "Proof inventory was sellers sitting",
+        "Signal to chase puts with no stop"
+      ],
+      "correctAnswer": 1,
+      "explanation": "§5 rejection filter + P18: light/slow rejection after solid gap-up ≠ deep long liquidation. Fast large selling is the real warning.",
+      "sourceRefs": ["bible§5", "P18", "2026-08-03"]
+    },
+    {
+      "id": "rule-p8",
+      "type": "permanent_rule",
+      "prompt": "Which permanent rule matches: soft open + buyers sitting → sell-the-buyers default?",
+      "choices": ["P3", "P8", "P15", "P17"],
+      "correctAnswer": 1,
+      "explanation": "P8 is the soft-open sell-the-buyers default (07-28, 07-30).",
+      "sourceRefs": ["P8", "bible§12"]
+    },
+    {
+      "id": "rule-rr",
+      "type": "permanent_rule",
+      "prompt": "For options buying, the bible prioritizes:",
+      "choices": [
+        "Tiny SL + 1:10 fantasy targets",
+        "Accuracy via root reading + sensible RR (~1:1)",
+        "Always 1:5 regardless of process",
+        "No stops — only targets"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P3 / §8: options prefer accuracy + ~1:1 RR; time decay fights tiny-SL fantasy targets.",
+      "sourceRefs": ["P3", "bible§8", "2026-08-02-weekly"]
+    },
+    {
+      "id": "rule-stall",
+      "type": "permanent_rule",
+      "prompt": "08-03 lesson on edge quality: what kills the edge after a good gap-up long?",
+      "choices": [
+        "Any companion lag of a few points",
+        "Continuous upside without pause (that’s the edge)",
+        "A stall that fills late buyers and invites reversal",
+        "Booking at a known target"
+      ],
+      "correctAnswer": 2,
+      "explanation": "P19: edge needs continuous momentum; stall invites late buyers and your trade can reverse.",
+      "sourceRefs": ["P19", "2026-08-03"]
+    },
+    {
+      "id": "flush-cover",
+      "type": "exit",
+      "prompt": "Flush-then-cover buy thesis: market sells straight through your hold assumption / loss limit. Next step?",
+      "choices": [
+        "Average more — the cover ‘must’ return",
+        "Exit — don’t think a dead thesis back to life",
+        "Widen stop without a new plan",
+        "Switch to investing timeframe mid-trade"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P16 / 07-31: flush-then-cover needs the hold; sell-through → exit. Wrong trade + accelerating adverse = cut.",
+      "sourceRefs": ["P16", "2026-07-31", "bible§7"]
+    },
+    {
+      "id": "multi-index",
+      "type": "permanent_rule",
+      "prompt": "Bot rule for extending targets requires:",
+      "choices": [
+        "Any single index printing a new high",
+        "companion_bias aligned with trade direction",
+        "Expiry day always means max target",
+        "Ignoring Sensex completely"
+      ],
+      "correctAnswer": 1,
+      "explanation": "§6: extend_target only if companions align with the trade. One index alone → take known target (P7).",
+      "sourceRefs": ["bible§6", "P5", "P7"]
+    }
+  ]
+}
