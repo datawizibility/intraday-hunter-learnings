@@ -1,0 +1,34 @@
+# July 2026 Intraday Hunter — missing videos (corrected live pairing)
+# date|kind|role|url|title
+
+2026-07-01|daily|pre|https://www.youtube.com/watch?v=yVFhGqGCjMc|Prediction For 01 JULY 2026
+2026-07-01|daily|post|https://www.youtube.com/watch?v=Jj9yec-QDvI|Live Bank Nifty Option Trading
+2026-07-02|daily|pre|https://www.youtube.com/watch?v=kW5phlWuMKM|Prediction For 02 JULY 2026
+2026-07-02|daily|post|https://www.youtube.com/watch?v=WhfVxV0h5bo|Live Bank Nifty Option Trading
+2026-07-03|daily|pre|https://www.youtube.com/watch?v=2vO3onLbhPc|Prediction For 03 JULY 2026
+2026-07-03|daily|post|https://www.youtube.com/watch?v=BvkCsOgkigI|Live Bank Nifty Option Trading
+2026-07-06|daily|pre|https://www.youtube.com/watch?v=F9APQ4MnAcA|Prediction For 06 JULY 2026
+2026-07-06|daily|post|https://www.youtube.com/watch?v=ohxweLy3H2Q|Live Bank Nifty Option Trading
+2026-07-07|daily|pre|https://www.youtube.com/watch?v=P3dFob-ZHtw|Prediction For 07 JULY 2026
+2026-07-07|daily|post|https://www.youtube.com/watch?v=pEXtxlA1u-k|Live Bank Nifty Option Trading
+2026-07-08|daily|pre|https://www.youtube.com/watch?v=DTd4Mtz1ppg|Prediction For 08 JULY 2026
+2026-07-08|daily|post|https://www.youtube.com/watch?v=4oV5tP8nzv4|Live Bank Nifty Option Trading
+2026-07-09|daily|pre|https://www.youtube.com/watch?v=_y-hk-sl-aQ|Prediction For 09 JULY 2026
+2026-07-09|daily|post|https://www.youtube.com/watch?v=n1wA3JVP7sk|Live Bank Nifty Option Trading
+2026-07-10|daily|pre|https://www.youtube.com/watch?v=LoT91UMHeVo|Prediction For 10 JULY 2026
+2026-07-10|daily|post|https://www.youtube.com/watch?v=sImrqns7fBo|Live Bank Nifty Option Trading
+2026-07-13|daily|pre|https://www.youtube.com/watch?v=qjz6uAM81Jg|Prediction For 13 JULY 2026
+2026-07-13|daily|post|https://www.youtube.com/watch?v=OvqxvtVbZFU|Live Bank Nifty Option Trading
+2026-07-14|daily|pre|https://www.youtube.com/watch?v=xssPyxt65Mc|Prediction For 14 JULY 2026
+2026-07-14|daily|post|https://www.youtube.com/watch?v=DuaQYSrYK2U|Live Bank Nifty Option Trading
+2026-07-15|daily|pre|https://www.youtube.com/watch?v=40j_l5DtwS4|Prediction For 15 JULY 2026
+2026-07-15|daily|post|https://www.youtube.com/watch?v=ciQ19XPXoXk|Live Bank Nifty Option Trading
+2026-07-16|daily|pre|https://www.youtube.com/watch?v=1uB29qR9V0A|Prediction For 16 JULY 2026
+2026-07-16|daily|post|https://www.youtube.com/watch?v=ojc_NGulszU|Live Bank Nifty Option Trading
+2026-07-17|daily|pre|https://www.youtube.com/watch?v=hGWenJz7Us4|Prediction For 17 JULY 2026
+2026-07-17|daily|post|https://www.youtube.com/watch?v=xTwmjkvkrQQ|Live Bank Nifty Option Trading
+
+2026-07-05|teaching|lesson|https://www.youtube.com/watch?v=lxY9snUinyg|Market Ke Rules Kaise Kaam Karte Hain Hidden Psychology
+2026-07-12|teaching|lesson|https://www.youtube.com/watch?v=G6Het7TsAI4|Master Advanced Analysis BIG GAP-UP OR BIG GAP-DOWN Part-6
+2026-07-18|teaching|lesson|https://www.youtube.com/watch?v=GTNGGCYuSxo|July 18 Bitcoin Prediction Live Trading Session
+2026-08-01|teaching|lesson|https://www.youtube.com/watch?v=ldLC70Q8i1E|BIG Gap Up BIG Gap Down Trading Q&A

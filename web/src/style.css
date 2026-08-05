@@ -269,6 +269,12 @@ main {
   color: var(--warn);
 }
 
+.chip.teaching {
+  background: rgba(154, 168, 212, 0.16);
+  border-color: rgba(154, 168, 212, 0.35);
+  color: #c5cef0;
+}
+
 .btn {
   appearance: none;
   border: 1px solid var(--sage);

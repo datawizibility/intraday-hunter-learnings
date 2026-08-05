@@ -23,9 +23,10 @@ Open the URL Vite prints (default http://localhost:5173).
 
 ## Pages
 
-- **Today** — latest daily note + morning checklist
-- **Day log** — all daily/weekly notes
-- **Playbook** — rendered `TRADING-BIBLE.md`
+- **Today** — latest *trading* day + morning checklist
+- **Day log** — Mon–Fri pre/post notes only
+- **Teachings** — Sunday / concept / weekly lessons (still feed the playbook)
+- **Playbook** — rendered `TRADING-BIBLE.md` (daily + teaching keep-permanently)
 - **Decision trainer** — inventory × open matrix
 - **Quiz** — self-grading questions (progress in `localStorage`)
 - **Levels** — levels-log table

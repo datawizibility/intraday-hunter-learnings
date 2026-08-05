@@ -8,13 +8,13 @@ Personal knowledge vault built from [Intraday Hunter](https://www.youtube.com/@I
 
 | Path | Purpose |
 |------|---------|
-| `daily/` | One note per video |
-| `playbook/` | Durable rules — start with `playbook/TRADING-BIBLE.md` |
+| `daily/` | Weekday pre + live session notes |
+| `teaching/` | Sunday / concept videos (experience sharing) |
+| `playbook/` | Durable rules — `TRADING-BIBLE.md` fed by **daily + teaching** |
 | `levels-log/` | Nifty / Bank Nifty / Sensex levels mentioned |
 | `mistakes/` | Process errors & psychology notes |
-| `weekly/` | Weekend pattern synthesis |
 | `templates/` | Note templates |
-| `web/` | Local learning app (quizzes, day log, decision trainer) |
+| `web/` | Local learning app (day log, teachings, quizzes, decision trainer) |
 
 ## Learning app
 

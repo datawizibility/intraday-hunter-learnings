@@ -19,6 +19,9 @@
 ## Setups / process shown
 -
 
+## Trade outcome
+- (win / loss / cut / booked / no trade — required on every daily note)
+
 ## Risk / sizing / RR
 -
 

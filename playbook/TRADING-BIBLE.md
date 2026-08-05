@@ -1,9 +1,10 @@
 # Trading Bible — Intraday Hunter process
 
-**Purpose:** one durable reference distilled from `daily/` notes. Use it to trade with a checklist, and later to encode a rules engine / bot.
+**Purpose:** one durable reference distilled from **weekday `daily/` notes and Sunday `teaching/` lessons**. Use it to trade with a checklist, and later to encode a rules engine / bot.
 
 **Not:** day-specific levels, exact quantities, or copied “signals.”  
-**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3, 2026 (update when new “Keep permanently” lessons appear).
+**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3, 2026 (update when new “Keep permanently” lessons appear).  
+**Note:** Sunday videos are experience-sharing — their permanent lines belong here alongside daily process lessons.
 
 **Disclaimer:** Educational synthesis only. Channel is not SEBI-registered. Your capital, broker rules, and risk limits override everything here.
 
@@ -91,12 +92,14 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 |-----------|----------------|-----|
 | **Buyers sitting** + solid gap-up (incl. ATH / strong continuation) | **BUY** with market | Buyers already in profit — little left to hunt above; ride continuation |
 | Soft / flat / mild gap after buyers sat on upside | **SELL** target buyers | Fewer stops above after upside; pressure yesterday’s buyer SLs below (user + Jul matrix) |
-| Buyers sat on **normal** continuation (not ATH / not explosive special momentum) + **some** gap-up | Can still **SELL** (IH Aug 4-style) | Stops to hunt sit under yesterday’s buyers; little useful inventory above |
+| Buyers sat on **normal** continuation (not ATH / not explosive special momentum) + gap-up / flat / normal gap-down | Can still **SELL** (Aug 4) | Stops to hunt sit under yesterday’s buyers; little useful inventory above; **ignore large gap-down** |
+| **Exact round-number support** hold across indices (no holiday between) + gap-up | **SELL** buyers, but wait **closing-price breakdown** | Buyers sat at exact support; they cut only after prior close breaks (Aug 4 vs Aug 3) |
+| Holiday-in-between + prior **retrace close** + solid gap-up | **BUY** with market | Risk-off holiday thins/changes inventory map; don’t force buyer-hunt on gap-up (Aug 3) |
 | Cleared inventory / holiday / FOMO crowd after green day (temptation) | Often **SELL** late buyers | Crowd buys the gap; trap risk (Jul 19 teaching, Jul 27) |
 | Sellers sitting / multi-day sell regime | Gap-up can still be **SELL** (trap / resume) | Not free long — bounce then resume (Jul 24) |
 | Unclear / both-side prior day | Follow open; solid gap-up → **BUY** | No held inventory to invent against (Jul 21) |
 
-**Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — the first is about **solid continuation gap-up**; the second is about **soft opens** (or temptation traps) when resting buyer inventory exists.
+**Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — check **holiday / retrace-close vs exact round-number hold**, then **open type**. Same gap-up shape can be buy-with (Aug 3) or sell-buyers-after-CP-breakdown (Aug 4).
 
 ---
 
@@ -109,6 +112,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 4. Size: first ticket **smaller**; add only if thesis holds.
 5. Prefer setups where **companions don’t violently oppose** the trade.
 6. When leaders sprint too fast to enter, use the **lagging index** pause/rejection as the entry cue (Jul 24).
+7. Sell-the-buyers after gap-up: prefer wait for **closing-price breakdown** before expecting buyer SL cascade (Aug 4).
 
 ### Forbidden
 1. Counter-trade invented because inventory is unclear.
@@ -132,6 +136,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | All three align | Extension / larger target allowed |
 | Only BN works; Nifty/Sensex lag | Take **known** target; don’t invent path |
 | Companions break against you | Stress / invalidate; tighten or exit |
+| Put thesis and **BN leads higher** | **Cut** — don’t hold for a bigger loss hoping (Aug 4) |
 | One index huge gap, others quiet | Trap / temptation setup more likely |
 
 **Bot rule:** `extend_target = true` only if `companion_bias == aligned_*` with trade direction.
@@ -150,6 +155,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 7. Thesis was flush-then-cover buy and market **sells through** your hold assumption.
 8. After a sharp sell, **tiny green candles** start printing while random late sellers pile in — reverse/SL-hunt risk rises; bank known target (Jul 24).
 9. Continuous adverse move with **no retrace** against you on a “recovery” thesis → runaway path; take the planned loss (Jul 20).
+10. Put book: **Bank Nifty rising** against thesis → cut; Nifty/Sensex alone bouncing is secondary to BN lead (Aug 4).
 
 ### Hold while
 - Thesis alive, loss within limit, companions not confirming the kill.
@@ -263,17 +269,21 @@ IDLE → wait for new opportunity (no revenge)
 | P29 | Multi-day sell: don’t seller-hunt; sell the resume after bounce | 07-24 |
 | P30 | Enter off lagging index when leaders sprint | 07-24 |
 | P31 | Tiny green candles after sharp sell = turn risk | 07-24 |
+| P32 | Normal (non-ATH) upside → buyers are targets; ignore large gap-down | 08-04 |
+| P33 | Holiday+retrace-close gap-up = buy-with; exact RN hold + gap-up = sell after CP breakdown | 08-03 vs 08-04 |
+| P34 | Puts: BN leading higher → cut; don’t hold bigger loss | 08-04 |
 
 ---
 
 ## 13. How to maintain this bible
 
-After each new `daily/YYYY-MM-DD.md`:
+After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 
 1. If a **Keep permanently** item is new → add a row to §12 and adjust §4/§5/§7 if needed.
-2. Never promote **day-specific** levels or sizes into this file.
-3. If a rule conflicts with an older one, prefer the clearer process rule and note the date in the ledger.
-4. Optional: append one line to `playbook/changelog.md` (create when needed).
+2. Prefer teaching notes for psychology / inventory *why*; prefer daily notes for open-type *execution* examples — both can mint rules.
+3. Never promote **day-specific** levels or sizes into this file.
+4. If a rule conflicts with an older one, prefer the clearer process rule and note the date in the ledger.
+5. Optional: append one line to `playbook/changelog.md` (create when needed).
 
 ---
 
@@ -284,12 +294,12 @@ After each new `daily/YYYY-MM-DD.md`:
 2. Buyers actually sat after upside — or cleared / thin?
 3. Companions aligned?
 4. Expiry?
-5. Open type → matrix bias? (solid gap-up buy-with vs soft-open sell-buyers)
-6. Rejection quality (if gap-up)?
+5. Open type → matrix bias? (holiday/retrace vs exact RN hold; gap-up buy-with vs sell-after-CP)
+6. Rejection quality / closing-price breakdown (if gap-up sell)?
 7. Stop / target set?
-8. If unclear path after target → FLAT and wait.
+8. If BN leads against put thesis → CUT. If unclear path after target → FLAT and wait.
 ```
 
 ---
 
-*Last distilled: 2026-08-04 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–3.*
+*Last distilled: 2026-08-04 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–4.*

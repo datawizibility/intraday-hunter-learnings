@@ -70,3 +70,11 @@
 | 2026-08-03 | Sensex | 78,500 / 78,850 | R | pre (ASR) |
 | 2026-08-03 | Sensex | 77,840 / 77,500 | S | pre |
 | 2026-08-03 | Bank Nifty | ~720–740 pts move | live call target booked | post cwgFEpiTwgE |
+| 2026-08-04 | Nifty | 24,610 / 24,700 | R | pre (ASR) |
+| 2026-08-04 | Nifty | 24,500 / 24,400* | S (ASR “2440” → 24,400) | pre |
+| 2026-08-04 | Bank Nifty | 57,820 / 58,100 | R | pre |
+| 2026-08-04 | Bank Nifty | 57,500 / 57,154 | S | pre |
+| 2026-08-04 | Sensex | 78,850 / 79,100 | R | pre |
+| 2026-08-04 | Sensex | 78,500 / 78,300 | S | pre |
+| 2026-08-04 | Bank Nifty | 57,800 / 57,700 put | live put strikes; trade cut | post |
+| 2026-08-04 | Sensex | 78,700 put | live put strike mentioned | post |

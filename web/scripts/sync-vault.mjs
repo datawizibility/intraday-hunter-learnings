@@ -1,6 +1,7 @@
 /**
  * Sync vault markdown → web/public/data/vault.json
- * Source of truth stays in the repo root (daily/, playbook/, levels-log/).
+ * Source of truth: daily/ (sessions), teaching/ (Sunday/concepts),
+ * playbook/TRADING-BIBLE.md (durable rules from BOTH).
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -23,7 +24,6 @@ function extractMetaField(section, label) {
 }
 
 function extractSubsection(section, heading) {
-  // Prefer ### then fall back to ## (weekly notes use ## Keep permanently)
   for (const level of ['###', '##']) {
     const re = new RegExp(
       `${level}\\s+${heading}\\s*\\n([\\s\\S]*?)(?=\\n#{2,3}\\s+|$)`,
@@ -81,20 +81,24 @@ function parseKeepPermanently(text) {
 
 function parsePlanByOpen(text) {
   const rows = parseMarkdownTable(text);
-  return rows.map((r) => ({
-    open: r.open || r['open'] || Object.values(r)[0] || '',
-    plan: r.plan || Object.values(r)[1] || '',
-  })).filter((r) => r.open || r.plan);
+  return rows
+    .map((r) => ({
+      open: r.open || r['open'] || Object.values(r)[0] || '',
+      plan: r.plan || Object.values(r)[1] || '',
+    }))
+    .filter((r) => r.open || r.plan);
 }
 
 function parseLevelsTable(text) {
   const rows = parseMarkdownTable(text);
-  return rows.map((r) => ({
-    index: r.index || '',
-    resistance: r.resistance || r.level || '',
-    support: r.support || r.role || '',
-    extra: r.why || r.context || '',
-  })).filter((r) => r.index);
+  return rows
+    .map((r) => ({
+      index: r.index || '',
+      resistance: r.resistance || r.level || '',
+      support: r.support || r.role || '',
+      extra: r.why || r.context || '',
+    }))
+    .filter((r) => r.index);
 }
 
 function sectionBetween(markdown, startRe, endRe) {
@@ -120,7 +124,6 @@ function summarize(text, maxLen = 220) {
 
 function parseDailyNote(filePath, fileName) {
   const raw = readUtf8(filePath);
-  const weekly = /weekly/i.test(fileName);
   const dateMatch =
     fileName.match(/(\d{4}-\d{2}-\d{2})/) ||
     raw.match(/^#\s+(\d{4}-\d{2}-\d{2})/m);
@@ -131,11 +134,6 @@ function parseDailyNote(filePath, fileName) {
 
   const pre = sectionBetween(raw, /^##\s+Pre-market/im, /^##\s+/m);
   const post = sectionBetween(raw, /^##\s+Post-market/im, /^##\s+/m);
-
-  // Weekly notes often lack Pre/Post — treat whole body as content
-  const bodyFallback = weekly && !pre && !post
-    ? raw.replace(/^#\s+.+\n?/, '').trim()
-    : '';
 
   const keepSource =
     extractSubsection(post, 'Keep permanently') ||
@@ -159,15 +157,15 @@ function parseDailyNote(filePath, fileName) {
     '';
 
   return {
-    id: date + (weekly ? '-weekly' : ''),
+    id: date,
     date,
     fileName,
-    weekly,
+    kind: 'daily',
+    weekly: false,
     title,
     summary: summarize(
       biasSource ||
         extractSubsection(post, 'What happened / what he did') ||
-        bodyFallback ||
         raw,
     ),
     pre: {
@@ -188,6 +186,51 @@ function parseDailyNote(filePath, fileName) {
       processLessons: extractSubsection(post, 'Process lessons'),
       keepPermanently: parseKeepPermanently(keepSource),
     },
+    keepPermanently: parseKeepPermanently(keepSource),
+    raw,
+  };
+}
+
+function parseTeachingNote(filePath, fileName) {
+  const raw = readUtf8(filePath);
+  const weekly = /weekly/i.test(fileName) || /weekly/i.test(raw.slice(0, 200));
+  const dateMatch =
+    fileName.match(/(\d{4}-\d{2}-\d{2})/) ||
+    raw.match(/^#\s+(\d{4}-\d{2}-\d{2})/m);
+  const date = dateMatch ? dateMatch[1] : fileName.replace(/\.md$/, '');
+
+  const titleMatch = raw.match(/^#\s+(.+)$/m);
+  const title = titleMatch ? titleMatch[1].trim() : date;
+
+  const teachingSec = sectionBetween(raw, /^##\s+Teaching/im, /^##\s+/m);
+  const body =
+    teachingSec ||
+    raw.replace(/^#\s+.+\n?/, '').trim();
+
+  const keepSource =
+    extractSubsection(raw, 'Keep permanently(?:\\s*\\(playbook candidates\\))?') ||
+    '';
+
+  const coreIdea =
+    extractSubsection(raw, 'Core idea') ||
+    extractSubsection(raw, 'Bias & structure') ||
+    extractSubsection(raw, 'Psychology / inventory examples(?:\\s*\\(week review style\\))?') ||
+    '';
+
+  const slug = fileName.replace(/\.md$/, '').replace(/^\d{4}-\d{2}-\d{2}-?/, '') || 'lesson';
+
+  return {
+    id: `${date}-teaching-${slug}`,
+    date,
+    fileName,
+    kind: 'teaching',
+    weekly,
+    title,
+    summary: summarize(coreIdea || body || raw),
+    video: extractMetaField(body, 'Video') || extractMetaField(raw, 'Video'),
+    url: extractMetaField(body, 'URL') || extractMetaField(raw, 'URL'),
+    duration: extractMetaField(body, 'Duration') || extractMetaField(raw, 'Duration'),
+    coreIdea,
     keepPermanently: parseKeepPermanently(keepSource),
     raw,
   };
@@ -231,32 +274,50 @@ function extractDecisionMatrix(bible) {
   };
 }
 
+function listMarkdown(dir) {
+  if (!fs.existsSync(dir)) return [];
+  return fs
+    .readdirSync(dir)
+    .filter((f) => f.endsWith('.md') && f.toLowerCase() !== 'readme.md')
+    .sort();
+}
+
 function main() {
   const dailyDir = path.join(VAULT_ROOT, 'daily');
+  const teachingDir = path.join(VAULT_ROOT, 'teaching');
   const biblePath = path.join(VAULT_ROOT, 'playbook', 'TRADING-BIBLE.md');
   const levelsPath = path.join(VAULT_ROOT, 'levels-log', 'README.md');
 
-  const dailyFiles = fs
-    .readdirSync(dailyDir)
-    .filter((f) => f.endsWith('.md'))
-    .sort();
-
-  const days = dailyFiles.map((f) =>
+  const days = listMarkdown(dailyDir).map((f) =>
     parseDailyNote(path.join(dailyDir, f), f),
   );
-  days.sort((a, b) => a.date.localeCompare(b.date) || Number(a.weekly) - Number(b.weekly));
+  days.sort((a, b) => a.date.localeCompare(b.date));
+
+  const teachings = listMarkdown(teachingDir).map((f) =>
+    parseTeachingNote(path.join(teachingDir, f), f),
+  );
+  teachings.sort((a, b) => a.date.localeCompare(b.date));
 
   const bibleMarkdown = fs.existsSync(biblePath) ? readUtf8(biblePath) : '';
   const levels = parseLevelsLog(levelsPath);
 
+  const latestTrading = days.length ? days[days.length - 1].date : null;
+  const latestTeaching = teachings.length
+    ? teachings[teachings.length - 1].date
+    : null;
+
   const vault = {
     generatedAt: new Date().toISOString(),
     sourceWindow: {
-      dayCount: days.filter((d) => !d.weekly).length,
-      weeklyCount: days.filter((d) => d.weekly).length,
-      latestDate: days.length ? days[days.length - 1].date : null,
+      dayCount: days.length,
+      teachingCount: teachings.length,
+      weeklyCount: teachings.filter((t) => t.weekly).length,
+      latestDate: [latestTrading, latestTeaching].filter(Boolean).sort().pop() || null,
+      latestTradingDate: latestTrading,
+      latestTeachingDate: latestTeaching,
     },
     days,
+    teachings,
     bible: {
       markdown: bibleMarkdown,
       morningCard: extractMorningCard(bibleMarkdown),
@@ -268,6 +329,7 @@ function main() {
           /^##\s+13\./m,
         ),
       ),
+      fedBy: ['daily/', 'teaching/'],
     },
     levels,
   };
@@ -275,7 +337,7 @@ function main() {
   fs.mkdirSync(OUT_DIR, { recursive: true });
   fs.writeFileSync(OUT_FILE, JSON.stringify(vault, null, 2), 'utf8');
   console.log(
-    `Synced ${days.length} notes → ${path.relative(WEB_ROOT, OUT_FILE)}`,
+    `Synced ${days.length} daily + ${teachings.length} teaching → ${path.relative(WEB_ROOT, OUT_FILE)}`,
   );
 }
 

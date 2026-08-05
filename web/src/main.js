@@ -17,6 +17,7 @@ const state = {
   quizzes: null,
   route: { name: 'home' },
   selectedDayId: null,
+  selectedTeachingId: null,
   quiz: {
     index: 0,
     answered: null,
@@ -64,7 +65,10 @@ function parseRoute() {
   if (name === 'day' && rest[0]) {
     return { name: 'days', dayId: decodeURIComponent(rest[0]) };
   }
-  return { name: name || 'home', dayId: null };
+  if (name === 'teaching' && rest[0]) {
+    return { name: 'teachings', teachingId: decodeURIComponent(rest[0]) };
+  }
+  return { name: name || 'home', dayId: null, teachingId: null };
 }
 
 function navigate(hash) {
@@ -72,8 +76,12 @@ function navigate(hash) {
 }
 
 function latestDaily(vault) {
-  const dailies = vault.days.filter((d) => !d.weekly);
-  return dailies.length ? dailies[dailies.length - 1] : vault.days[vault.days.length - 1];
+  const dailies = (vault.days || []).filter((d) => d.kind !== 'teaching' && !d.weekly);
+  return dailies.length ? dailies[dailies.length - 1] : null;
+}
+
+function teachingsList(vault) {
+  return [...(vault.teachings || [])].sort((a, b) => b.date.localeCompare(a.date));
 }
 
 function morningLines(vault) {
@@ -98,6 +106,7 @@ function renderShell() {
       <nav class="nav" aria-label="Primary">
         <button type="button" data-route="home">Today</button>
         <button type="button" data-route="days">Day log</button>
+        <button type="button" data-route="teachings">Teachings</button>
         <button type="button" data-route="playbook">Playbook</button>
         <button type="button" data-route="trainer">Decision trainer</button>
         <button type="button" data-route="quiz">Quiz</button>
@@ -132,21 +141,22 @@ function renderHome(view) {
     <section class="hero">
       <h1>Learn the process, not the signal.</h1>
       <p class="lede">
-        Day notes and the trading bible, synced from markdown — plus a decision trainer and quizzes
-        so the inventory × open matrix sticks before you ever wire a bot.
+        Weekday sessions for execution reps; Sunday teachings for the experience behind the matrix.
+        Both feed the playbook — then train and quiz so it sticks.
       </p>
     </section>
     <div class="grid-2">
       <article class="panel">
-        <h2>Latest · ${escapeHtml(day?.date || '—')}</h2>
+        <h2>Latest session · ${escapeHtml(day?.date || '—')}</h2>
         <p class="muted">${escapeHtml(day?.title || '')}</p>
         <p>${escapeHtml(day?.summary || 'No daily notes yet.')}</p>
         <div class="chip-row">
-          ${day?.weekly ? '<span class="chip weekly">Weekly</span>' : '<span class="chip">Daily</span>'}
+          <span class="chip">Daily</span>
           ${(keep || []).slice(0, 3).map((k) => `<span class="chip copper">${escapeHtml(k.slice(0, 72))}${k.length > 72 ? '…' : ''}</span>`).join('')}
         </div>
         <div class="actions">
           <button class="btn" type="button" data-go="day/${encodeURIComponent(day?.id || '')}">Open day</button>
+          <button class="btn ghost" type="button" data-go="teachings">Sunday teachings</button>
           <button class="btn ghost" type="button" data-go="trainer">Train matrix</button>
         </div>
       </article>
@@ -181,7 +191,7 @@ function renderHome(view) {
 }
 
 function renderDays(view, dayId) {
-  const days = [...state.vault.days].reverse();
+  const days = [...(state.vault.days || [])].reverse();
   const selected =
     days.find((d) => d.id === dayId) ||
     days.find((d) => d.id === state.selectedDayId) ||
@@ -191,7 +201,7 @@ function renderDays(view, dayId) {
   view.innerHTML = `
     <section class="hero">
       <h1>Day log</h1>
-      <p class="lede">Pre + post notes, plan-by-open branches, and keep-permanently chips — regenerated whenever you sync.</p>
+      <p class="lede">Mon–Fri pre + live notes — plan-by-open branches and keep-permanently chips. Sunday lessons live under Teachings.</p>
     </section>
     <div class="split-day">
       <div class="day-list" id="day-list"></div>
@@ -203,10 +213,9 @@ function renderDays(view, dayId) {
   days.forEach((d) => {
     const item = el(`
       <button type="button" class="day-item ${d.id === selected?.id ? 'active' : ''}">
-        <div class="date">${escapeHtml(d.date)}${d.weekly ? ' · weekly' : ''}</div>
+        <div class="date">${escapeHtml(d.date)}</div>
         <div class="muted">${escapeHtml(d.title)}</div>
         <div class="chip-row">
-          ${d.weekly ? '<span class="chip weekly">Weekly</span>' : ''}
           ${(d.keepPermanently || []).slice(0, 2).map((k) => `<span class="chip">${escapeHtml(k.slice(0, 48))}${k.length > 48 ? '…' : ''}</span>`).join('')}
         </div>
       </button>
@@ -221,7 +230,7 @@ function renderDays(view, dayId) {
     return;
   }
 
-  const planRows = (selected.pre.planByOpen || [])
+  const planRows = (selected.pre?.planByOpen || [])
     .map((r) => `<tr><td>${escapeHtml(r.open)}</td><td>${escapeHtml(r.plan)}</td></tr>`)
     .join('');
 
@@ -241,21 +250,78 @@ function renderDays(view, dayId) {
         : ''
     }
     ${
-      selected.pre.raw
+      selected.pre?.raw
         ? `<article class="panel"><h3>Pre-market</h3><div class="md-body">${md(selected.pre.raw.replace(/^##\s+Pre-market[^\n]*\n?/i, '### Pre-market\n'))}</div>
            ${selected.pre.url ? `<p><a href="${escapeHtml(selected.pre.url)}" target="_blank" rel="noopener">Pre video</a></p>` : ''}
            </article>`
         : ''
     }
     ${
-      selected.post.raw
+      selected.post?.raw
         ? `<article class="panel"><h3>Post-market</h3><div class="md-body">${md(selected.post.raw.replace(/^##\s+Post-market[^\n]*\n?/i, '### Post-market\n'))}</div>
            ${selected.post.url ? `<p><a href="${escapeHtml(selected.post.url)}" target="_blank" rel="noopener">Post / live video</a></p>` : ''}
            </article>`
-        : selected.weekly
-          ? `<article class="panel"><h3>Weekly note</h3><div class="md-body">${md(selected.raw)}</div></article>`
-          : ''
+        : ''
     }
+  `;
+}
+
+function renderTeachings(view, teachingId) {
+  const teachings = teachingsList(state.vault);
+  const selected =
+    teachings.find((t) => t.id === teachingId) ||
+    teachings.find((t) => t.id === state.selectedTeachingId) ||
+    teachings[0];
+  state.selectedTeachingId = selected?.id || null;
+
+  view.innerHTML = `
+    <section class="hero">
+      <h1>Teachings</h1>
+      <p class="lede">Sunday / concept videos — the experience behind the matrix. Keep-permanently lines still promote into the playbook with daily notes.</p>
+    </section>
+    <div class="split-day">
+      <div class="day-list" id="teaching-list"></div>
+      <div class="day-detail" id="teaching-detail"></div>
+    </div>
+  `;
+
+  const list = $('#teaching-list', view);
+  teachings.forEach((t) => {
+    const item = el(`
+      <button type="button" class="day-item ${t.id === selected?.id ? 'active' : ''}">
+        <div class="date">${escapeHtml(t.date)}${t.weekly ? ' · weekly' : ' · teaching'}</div>
+        <div class="muted">${escapeHtml(t.title)}</div>
+        <div class="chip-row">
+          <span class="chip teaching">${t.weekly ? 'Weekly' : 'Sunday'}</span>
+          ${(t.keepPermanently || []).slice(0, 2).map((k) => `<span class="chip">${escapeHtml(k.slice(0, 48))}${k.length > 48 ? '…' : ''}</span>`).join('')}
+        </div>
+      </button>
+    `);
+    item.addEventListener('click', () => navigate(`teaching/${encodeURIComponent(t.id)}`));
+    list.appendChild(item);
+  });
+
+  const detail = $('#teaching-detail', view);
+  if (!selected) {
+    detail.innerHTML = `<p class="empty">No teaching notes yet. Add files under teaching/ and run npm run sync.</p>`;
+    return;
+  }
+
+  detail.innerHTML = `
+    <article class="panel">
+      <h2>${escapeHtml(selected.title)}</h2>
+      <p class="muted">${escapeHtml(selected.summary)}</p>
+      <div class="chip-row">
+        <span class="chip teaching">${selected.weekly ? 'Weekly review' : 'Teaching'}</span>
+        ${(selected.keepPermanently || []).map((k) => `<span class="chip copper">${escapeHtml(k)}</span>`).join('') || '<span class="muted">No keep-permanently items</span>'}
+      </div>
+      ${selected.url ? `<p><a href="${escapeHtml(selected.url)}" target="_blank" rel="noopener">Watch video</a>${selected.duration ? ` · ${escapeHtml(selected.duration)}` : ''}</p>` : ''}
+      <p class="muted" style="margin-top:0.75rem">Feeds playbook: promote new keep-permanently lines into TRADING-BIBLE.md (same as daily).</p>
+    </article>
+    <article class="panel">
+      <h3>Full note</h3>
+      <div class="md-body">${md(selected.raw)}</div>
+    </article>
   `;
 }
 
@@ -266,7 +332,7 @@ function renderPlaybook(view) {
   view.innerHTML = `
     <section class="hero">
       <h1>Master playbook</h1>
-      <p class="lede">TRADING-BIBLE.md — the durable process layer your future bot should encode.</p>
+      <p class="lede">TRADING-BIBLE.md — durable rules distilled from <strong>weekday sessions and Sunday teachings</strong>. Encode this later; don’t skip the experience layer.</p>
     </section>
     <div class="toc">
       ${headings
@@ -543,9 +609,9 @@ function renderLevels(view) {
 function render() {
   state.route = parseRoute();
   if (state.route.dayId) state.selectedDayId = state.route.dayId;
+  if (state.route.teachingId) state.selectedTeachingId = state.route.teachingId;
   const view = $('#view');
   const name = state.route.name;
-  setActiveNav(['home', 'days', 'playbook', 'trainer', 'quiz', 'levels'].includes(name) ? (name === 'days' ? 'days' : name) : 'home');
 
   switch (name) {
     case 'days':
@@ -553,16 +619,25 @@ function render() {
       setActiveNav('days');
       renderDays(view, state.route.dayId || state.selectedDayId);
       break;
+    case 'teachings':
+    case 'teaching':
+      setActiveNav('teachings');
+      renderTeachings(view, state.route.teachingId || state.selectedTeachingId);
+      break;
     case 'playbook':
+      setActiveNav('playbook');
       renderPlaybook(view);
       break;
     case 'trainer':
+      setActiveNav('trainer');
       renderTrainer(view);
       break;
     case 'quiz':
+      setActiveNav('quiz');
       renderQuiz(view);
       break;
     case 'levels':
+      setActiveNav('levels');
       renderLevels(view);
       break;
     case 'home':
