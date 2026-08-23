@@ -3,7 +3,7 @@
 **Purpose:** one durable reference distilled from **weekday `daily/` notes and Sunday `teaching/` lessons**. Use it to trade with a checklist, and later to encode a rules engine / bot.
 
 **Not:** day-specific levels, exact quantities, or copied “signals.”  
-**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14, 2026 (update when new “Keep permanently” lessons appear).  
+**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21, 2026 (update when new “Keep permanently” lessons appear).  
 **Note:** Sunday videos are experience-sharing — their permanent lines belong here alongside daily process lessons.
 
 **Disclaimer:** Educational synthesis only. Channel is not SEBI-registered. Your capital, broker rules, and risk limits override everything here.
@@ -129,6 +129,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 8. Light gap-up **buy** of day-2 sellers: prefer a slight **dip / retracement** entry; skip if the dip is sudden large selling (Aug 6).
 9. Light GD **buyer-hunt**: a slight bounce can be **bait to average** — don’t treat it as thesis kill if CP still holds (Aug 7).
 10. Flat-open sell after flushed sellers: small **60–70 pt** breakout can be allowed then enter; prefer **no breakout**; entry from upper area → larger target room than a straight dump (Aug 10).
+11. **Closing-price breakdown** is the extension gate for sell-the-buyers: no CP break → no extended target (Aug 21).
 
 ### Forbidden
 1. Counter-trade invented because inventory is unclear.
@@ -178,6 +179,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 13. Hunting sellers with **tight SLs** → expect **sharp/fast** upside; don’t hold for huge momentum fantasies (Aug 6).
 14. While **both** buyers and sellers still participate, profit is safer; when tape becomes **one-sided only** → protect / exit risk rises (Aug 5).
 15. Strong multi-index sell from an **upper-area** entry → expand target; book **before round number** while momentum still pays (Aug 7, Aug 10).
+16. **No closing-price breakdown** after a sell entry → market likely sideways; cut per limit, don’t hold for a bigger loss (Aug 21).
 
 ### Hold while
 - Thesis alive, loss within limit, companions not confirming the kill.
@@ -200,6 +202,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Scale-in | Only with thesis intact |
 | Expiry | Prefer earlier booking |
 | Daily stop | Respect personal loss limit; missing a day is fine |
+| Expiry / slow-momentum risk | Cut size (e.g. reduce on weekly expiry) — Aug 17 |
 
 ---
 
@@ -215,6 +218,7 @@ Encode only as **warnings**, not hard entries:
 - Don’t force 100% conviction on one trade; long-term process > single-ticket heroics (Aug 6).
 - Process cuts stay correct even if later tape would have worked — don’t rewrite rules with hindsight (Aug 5 on Aug 4 cut).
 - Mistakes are more forgivable **in profit** than **in loss** — never “fix” a losing hope trade (Aug 6).
+- **Correct bias + no confirmation = small loss; that’s discipline, not failure** (Aug 21).
 
 ---
 
@@ -226,6 +230,7 @@ Encode only as **warnings**, not hard entries:
 - Huge runaway gap against the only plan you had
 - Inventory unknown **and** you refuse to follow regime
 - After booking: path unclear — wait for **new opportunity**, don’t force a second idea
+- No-trend / no-momentum day with no clean open plan → **FLAT** or follow-market only (Aug 19)
 
 ---
 
@@ -317,6 +322,16 @@ IDLE → wait for new opportunity (no revenge)
 | P52 | Separate direction risk from entry risk; measured risk required; cut at limit if direction wrong | 08-14 |
 | P53 | Low-momentum same-price inventory: GU → buy; flat/GD → sell (thin sellers above hold); prefer real gap over flat | 08-14 |
 | P54 | Breakdown→sharp retrace trap: stay while inside loss limit / structure OK; BN-only + companions sideways + long time → book | 08-14 |
+| P55 | Strong momentum after long trend → follow; don’t wait for retracement | 08-17 |
+| P56 | Cut size on weekly-expiry / slow-momentum risk | 08-17 |
+| P57 | Double bottom after fast down-move = trap (keep sellers out), not reversal | 08-17 |
+| P58 | Breakdown-then-recovery → breakout crowd trapped → follow market (buy) | 08-18 |
+| P59 | No-trend/no-momentum → only follow market intraday; don’t force/hold | 08-19 |
+| P60 | Option-writer flushing: who gets flushed first sets the next side (put writers flushed → call side works) | 08-20 |
+| P61 | Open trades pay better but punish undisciplined traders fast (5-10 min) | 08-20 |
+| P62 | Breakout close without momentum = trap → sell the gap-up temptation | 08-21 |
+| P63 | No closing-price breakdown = no extended target; cut per limit | 08-21 |
+| P64 | Sideways/choppy kills the edge even when the bias is correct | 08-21 |
 
 ---
 
@@ -344,9 +359,9 @@ After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 7. Open type → matrix bias? (holiday/retrace vs exact RN hold; hold-up buyers need decent GD to hunt / flat-GU buy-with; flushed sellers → flat sell / GU buy-with; day-1 vs day-2; chart-repeat dump trap?)
 8. Rejection quality / CP breakdown (if gap-up sell)? Dip/retrace (if light gap-up buy)? GD bounce = bait average? Big GU = no plan?
 9. Stop / target set? (tight-SL hunts → expect fast move; upper-entry sells → bigger target; book before RN; expiry → sooner / partial OK)
-10. If BN leads against put thesis → CUT. Round-number BN on puts → watch. Fear near target ≠ early exit. Direction risk ≠ entry risk — hold inside loss limit through traps. BN-only + companions sideways + long time → book.
+10. If BN leads against put thesis → CUT. Round-number BN on puts → watch. Fear near target ≠ early exit. Direction risk ≠ entry risk — hold inside loss limit through traps. BN-only + companions sideways + long time → book. No CP breakdown → cut per limit.
 ```
 
 ---
 
-*Last distilled: 2026-08-14 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14.*
+*Last distilled: 2026-08-21 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21.*
