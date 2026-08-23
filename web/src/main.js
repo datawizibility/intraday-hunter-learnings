@@ -234,6 +234,19 @@ function renderDays(view, dayId) {
     .map((r) => `<tr><td>${escapeHtml(r.open)}</td><td>${escapeHtml(r.plan)}</td></tr>`)
     .join('');
 
+  const demoteH2 = (raw, label) =>
+    raw.replace(/^##\s+[^\n]+\n?/, `### ${label}\n`);
+
+  const preLabel = /^##\s+IH\s+pre\b/im.test(selected.pre?.raw || '')
+    ? 'IH pre'
+    : 'Pre-market';
+  const postLabel = /^##\s+Live\b/im.test(selected.post?.raw || '')
+    ? 'Live / IH post'
+    : 'Post-market';
+
+  const hasStructured =
+    selected.vaultPre?.raw || selected.pre?.raw || selected.post?.raw;
+
   detail.innerHTML = `
     <article class="panel">
       <h2>${escapeHtml(selected.title)}</h2>
@@ -250,17 +263,32 @@ function renderDays(view, dayId) {
         : ''
     }
     ${
+      selected.vaultPre?.raw
+        ? `<article class="panel"><h3>Vault pre</h3><div class="md-body">${md(demoteH2(selected.vaultPre.raw, 'Vault pre'))}</div></article>`
+        : ''
+    }
+    ${
       selected.pre?.raw
-        ? `<article class="panel"><h3>Pre-market</h3><div class="md-body">${md(selected.pre.raw.replace(/^##\s+Pre-market[^\n]*\n?/i, '### Pre-market\n'))}</div>
+        ? `<article class="panel"><h3>${escapeHtml(preLabel)}</h3><div class="md-body">${md(demoteH2(selected.pre.raw, preLabel))}</div>
            ${selected.pre.url ? `<p><a href="${escapeHtml(selected.pre.url)}" target="_blank" rel="noopener">Pre video</a></p>` : ''}
            </article>`
         : ''
     }
     ${
       selected.post?.raw
-        ? `<article class="panel"><h3>Post-market</h3><div class="md-body">${md(selected.post.raw.replace(/^##\s+Post-market[^\n]*\n?/i, '### Post-market\n'))}</div>
+        ? `<article class="panel"><h3>${escapeHtml(postLabel)}</h3><div class="md-body">${md(demoteH2(selected.post.raw, postLabel))}</div>
            ${selected.post.url ? `<p><a href="${escapeHtml(selected.post.url)}" target="_blank" rel="noopener">Post / live video</a></p>` : ''}
            </article>`
+        : ''
+    }
+    ${
+      selected.vaultVsIh?.raw
+        ? `<article class="panel"><h3>Vault vs IH</h3><div class="md-body">${md(demoteH2(selected.vaultVsIh.raw, 'Vault vs IH'))}</div></article>`
+        : ''
+    }
+    ${
+      !hasStructured && selected.raw
+        ? `<article class="panel"><h3>Full note</h3><div class="md-body">${md(selected.raw)}</div></article>`
         : ''
     }
   `;

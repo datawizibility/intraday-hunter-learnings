@@ -110,6 +110,15 @@ function sectionBetween(markdown, startRe, endRe) {
   return from.slice(0, endMatch + 1).trim();
 }
 
+/** First matching ## section among alternatives (order = preference). */
+function firstSection(markdown, startPatterns) {
+  for (const startRe of startPatterns) {
+    const section = sectionBetween(markdown, startRe, /^##\s+/m);
+    if (section) return section;
+  }
+  return '';
+}
+
 function summarize(text, maxLen = 220) {
   const cleaned = text
     .replace(/^#+\s+.*/gm, '')
@@ -132,8 +141,18 @@ function parseDailyNote(filePath, fileName) {
   const titleMatch = raw.match(/^#\s+(.+)$/m);
   const title = titleMatch ? titleMatch[1].trim() : date;
 
-  const pre = sectionBetween(raw, /^##\s+Pre-market/im, /^##\s+/m);
-  const post = sectionBetween(raw, /^##\s+Post-market/im, /^##\s+/m);
+  // Dual-track (IH pre / Live) preferred; legacy Pre-market / Post-market still supported.
+  const pre = firstSection(raw, [
+    /^##\s+IH\s+pre\b/im,
+    /^##\s+Pre-market/im,
+  ]);
+  const post = firstSection(raw, [
+    /^##\s+Live\s*\/\s*IH\s+post\b/im,
+    /^##\s+Live\b/im,
+    /^##\s+Post-market/im,
+  ]);
+  const vaultPre = firstSection(raw, [/^##\s+Vault\s+pre\b/im]);
+  const vaultVsIh = firstSection(raw, [/^##\s+Vault\s+vs\s+IH\b/im]);
 
   const keepSource =
     extractSubsection(post, 'Keep permanently') ||
@@ -142,19 +161,25 @@ function parseDailyNote(filePath, fileName) {
 
   const planSource =
     extractSubsection(pre, 'Plan by open') ||
+    extractSubsection(vaultPre, 'Plan by open') ||
     extractSubsection(raw, 'Plan by open') ||
     '';
 
   const levelsSource =
     extractSubsection(pre, 'Levels mentioned') ||
+    extractSubsection(vaultPre, 'Levels watched') ||
     extractSubsection(raw, 'Key levels(?:\\s*\\(day-specific\\))?') ||
     extractSubsection(raw, 'Levels mentioned') ||
     '';
 
+  const biasHeading = 'Bias & structure(?:\\s*\\([^)]*\\))?';
   const biasSource =
-    extractSubsection(pre, 'Bias & structure') ||
-    extractSubsection(raw, 'Bias & structure') ||
+    extractSubsection(pre, biasHeading) ||
+    extractSubsection(vaultPre, biasHeading) ||
+    extractSubsection(raw, biasHeading) ||
     '';
+
+  const whatHappenedHeading = 'What happened / what he did(?:\\s*\\([^)]*\\))?';
 
   return {
     id: date,
@@ -165,9 +190,18 @@ function parseDailyNote(filePath, fileName) {
     title,
     summary: summarize(
       biasSource ||
-        extractSubsection(post, 'What happened / what he did') ||
+        extractSubsection(post, whatHappenedHeading) ||
         raw,
     ),
+    vaultPre: vaultPre
+      ? {
+          raw: vaultPre,
+          bias: extractSubsection(vaultPre, biasHeading),
+          planByOpen: parsePlanByOpen(
+            extractSubsection(vaultPre, 'Plan by open') || '',
+          ),
+        }
+      : null,
     pre: {
       raw: pre,
       video: extractMetaField(pre, 'Video'),
@@ -182,10 +216,11 @@ function parseDailyNote(filePath, fileName) {
       video: extractMetaField(post, 'Video'),
       url: extractMetaField(post, 'URL'),
       duration: extractMetaField(post, 'Duration'),
-      whatHappened: extractSubsection(post, 'What happened / what he did'),
+      whatHappened: extractSubsection(post, whatHappenedHeading),
       processLessons: extractSubsection(post, 'Process lessons'),
       keepPermanently: parseKeepPermanently(keepSource),
     },
+    vaultVsIh: vaultVsIh ? { raw: vaultVsIh } : null,
     keepPermanently: parseKeepPermanently(keepSource),
     raw,
   };

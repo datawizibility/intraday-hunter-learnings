@@ -3,7 +3,7 @@
 **Purpose:** one durable reference distilled from **weekday `daily/` notes and Sunday `teaching/` lessons**. Use it to trade with a checklist, and later to encode a rules engine / bot.
 
 **Not:** day-specific levels, exact quantities, or copied “signals.”  
-**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3, 2026 (update when new “Keep permanently” lessons appear).  
+**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14, 2026 (update when new “Keep permanently” lessons appear).  
 **Note:** Sunday videos are experience-sharing — their permanent lines belong here alongside daily process lessons.
 
 **Disclaimer:** Educational synthesis only. Channel is not SEBI-registered. Your capital, broker rules, and risk limits override everything here.
@@ -55,6 +55,11 @@ Fill these **before** 9:15. A bot needs the same fields as structured inputs.
 ### Sellers likely sitting when
 - Continuous selling then sharp recovery (sellers may be trapped / averaging)
 - Bounce after deep negative backdrop where fresh buyers were scarce
+- **Day-2** of selling after a prior positive/gap-up stretch — traders gain confidence to sell (Aug 6); contrast with thin **day-1** shorts
+
+### Sellers often thin / not worth hunting when
+- **First** sharp sell day after a strong positive / gap-up trend — retail can’t size much; those who sold often **book targets** and leave (Aug 5)
+- Don’t invent a seller-hunt on the next gap-up when inventory is thin — prefer sell-with if gap continues with **only buyers**
 
 ### Inventory often cleared when
 - Holiday + recovery → don’t assume short inventory still sitting
@@ -66,6 +71,10 @@ Fill these **before** 9:15. A bot needs the same fields as structured inputs.
 ### Unclear when
 - Slow selling, no momentum, repeated rejection↔bounce in a small range
 - Both sides around same price — **open decides**
+
+### After positional SLs are exhausted (next-zone lens)
+- Don’t stop at “who sat.” Ask **where demand/supply will be high next** (round numbers, breakouts, breakdowns) — that’s where the next SL pool forms (Aug 9 teaching).
+- Support-take surges and confirm BO/BD raise participation (people size up) even if the move itself isn’t huge — often harvested later / next session.
 
 ---
 
@@ -91,15 +100,19 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Situation | Gap-up default | Why |
 |-----------|----------------|-----|
 | **Buyers sitting** + solid gap-up (incl. ATH / strong continuation) | **BUY** with market | Buyers already in profit — little left to hunt above; ride continuation |
-| Soft / flat / mild gap after buyers sat on upside | **SELL** target buyers | Fewer stops above after upside; pressure yesterday’s buyer SLs below (user + Jul matrix) |
+| Soft / flat / mild gap after buyers sat on upside | **SELL** target buyers | Fewer stops above after upside; pressure yesterday’s buyer SLs below (user + Jul matrix) — **nuance:** non-explosive hold-up / gradual positive may need **decent GD** instead; flat/GU → buy-with (Aug 7) |
 | Buyers sat on **normal** continuation (not ATH / not explosive special momentum) + gap-up / flat / normal gap-down | Can still **SELL** (Aug 4) | Stops to hunt sit under yesterday’s buyers; little useful inventory above; **ignore large gap-down** |
 | **Exact round-number support** hold across indices (no holiday between) + gap-up | **SELL** buyers, but wait **closing-price breakdown** | Buyers sat at exact support; they cut only after prior close breaks (Aug 4 vs Aug 3) |
 | Holiday-in-between + prior **retrace close** + solid gap-up | **BUY** with market | Risk-off holiday thins/changes inventory map; don’t force buyer-hunt on gap-up (Aug 3) |
 | Cleared inventory / holiday / FOMO crowd after green day (temptation) | Often **SELL** late buyers | Crowd buys the gap; trap risk (Jul 19 teaching, Jul 27) |
 | Sellers sitting / multi-day sell regime | Gap-up can still be **SELL** (trap / resume) | Not free long — bounce then resume (Jul 24) |
+| **Day-1** sell after positive/gap-up + next gap-up (thin shorts) | Often **SELL** (don’t hunt thin sellers) | If continuation = **only buyers** → sell more likely (Aug 5) |
+| **Day-2** sell after that stretch + flat/gap-up | **BUY** day-2 sellers | Sellers now sit; hunt them — expect **fast** upside, not huge grind (Aug 6) |
+| **Hold-up buyers** after constructive positive (not explosive) | Flat / gap-up → **BUY** with market; need **decent gap-down** (farther from RN better) to **SELL** buyers | Soft open alone ≠ automatic sell — GD must be enough to hunt (Aug 7) |
+| **Sellers already flushed** by prior support-bounce momentum | Flat / GD → **SELL** with; solid gap-up → **BUY** with / target leftover sellers | Flat can’t sustainably go up (only buyers if RN/CP cross) (Aug 10) |
 | Unclear / both-side prior day | Follow open; solid gap-up → **BUY** | No held inventory to invent against (Jul 21) |
 
-**Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — check **holiday / retrace-close vs exact round-number hold**, then **open type**. Same gap-up shape can be buy-with (Aug 3) or sell-buyers-after-CP-breakdown (Aug 4).
+**Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — check **holiday / retrace-close vs exact round-number hold**, then **open type**. Same gap-up shape can be buy-with (Aug 3) or sell-buyers-after-CP-breakdown (Aug 4). After a first sell into an uptrend, also check **day-1 thin shorts vs day-2 sellers** before choosing hunt vs sell-with (Aug 5–6). After a hold-up buy day, require **decent GD** to hunt buyers — flat/GU often flips to buy-with (Aug 7). After sellers are flushed by a support-bounce, flat/GD prefers sell-with (Aug 10).
 
 ---
 
@@ -113,12 +126,16 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 5. Prefer setups where **companions don’t violently oppose** the trade.
 6. When leaders sprint too fast to enter, use the **lagging index** pause/rejection as the entry cue (Jul 24).
 7. Sell-the-buyers after gap-up: prefer wait for **closing-price breakdown** before expecting buyer SL cascade (Aug 4).
+8. Light gap-up **buy** of day-2 sellers: prefer a slight **dip / retracement** entry; skip if the dip is sudden large selling (Aug 6).
+9. Light GD **buyer-hunt**: a slight bounce can be **bait to average** — don’t treat it as thesis kill if CP still holds (Aug 7).
+10. Flat-open sell after flushed sellers: small **60–70 pt** breakout can be allowed then enter; prefer **no breakout**; entry from upper area → larger target room than a straight dump (Aug 10).
 
 ### Forbidden
 1. Counter-trade invented because inventory is unclear.
 2. Chase huge one-sided gap when matrix says avoid.
 3. Enter without `max_loss_pts`.
 4. Average a losing hope trade after continuous move against you.
+5. Blanket sell on every soft open after hold-up buyers — need enough GD / RN distance to hunt (Aug 7).
 
 ### Rejection quality filter (gap-up longs)
 | Observation | Read | Action |
@@ -156,6 +173,11 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 8. After a sharp sell, **tiny green candles** start printing while random late sellers pile in — reverse/SL-hunt risk rises; bank known target (Jul 24).
 9. Continuous adverse move with **no retrace** against you on a “recovery” thesis → runaway path; take the planned loss (Jul 20).
 10. Put book: **Bank Nifty rising** against thesis → cut; Nifty/Sensex alone bouncing is secondary to BN lead (Aug 4).
+11. Puts with heavy BN size: if BN approaches a major **round number**, breakout risk rises — tighten / respect that focus (Aug 5).
+12. After a prior-day **loss**, when a good profit is available → **book**; don’t stretch for a maximum day (Aug 5).
+13. Hunting sellers with **tight SLs** → expect **sharp/fast** upside; don’t hold for huge momentum fantasies (Aug 6).
+14. While **both** buyers and sellers still participate, profit is safer; when tape becomes **one-sided only** → protect / exit risk rises (Aug 5).
+15. Strong multi-index sell from an **upper-area** entry → expand target; book **before round number** while momentum still pays (Aug 7, Aug 10).
 
 ### Hold while
 - Thesis alive, loss within limit, companions not confirming the kill.
@@ -190,6 +212,9 @@ Encode only as **warnings**, not hard entries:
 - Don’t personalize clustered SL hits.
 - Process over P&L: if situation isn’t understood, skip; consistency compounds when it clicks.
 - Wrong trade + accelerating adverse move = cut; don’t “think” a dead thesis back to life.
+- Don’t force 100% conviction on one trade; long-term process > single-ticket heroics (Aug 6).
+- Process cuts stay correct even if later tape would have worked — don’t rewrite rules with hindsight (Aug 5 on Aug 4 cut).
+- Mistakes are more forgivable **in profit** than **in loss** — never “fix” a losing hope trade (Aug 6).
 
 ---
 
@@ -272,6 +297,26 @@ IDLE → wait for new opportunity (no revenge)
 | P32 | Normal (non-ATH) upside → buyers are targets; ignore large gap-down | 08-04 |
 | P33 | Holiday+retrace-close gap-up = buy-with; exact RN hold + gap-up = sell after CP breakdown | 08-03 vs 08-04 |
 | P34 | Puts: BN leading higher → cut; don’t hold bigger loss | 08-04 |
+| P35 | Day-1 sell after uptrend → thin sellers; don’t hunt; gap-up + only buyers → sell | 08-05 |
+| P36 | Day-2 sellers sit → flat/gap-up buy them; expect fast upside, not huge grind | 08-06 |
+| P37 | Puts + heavy BN: round-number approach = breakout risk focus | 08-05 |
+| P38 | After loss day, book when good profit available — don’t demand max day | 08-05 |
+| P39 | Both sides still in → profit safer; one-sided tape → protect | 08-05 |
+| P40 | Light gap-up buy of sellers: prefer dip/retrace entry | 08-06 |
+| P41 | Hold-up buyers: decent GD (far from RN) to sell them; flat/GU → buy with market | 08-07 |
+| P42 | Light GD bounce after buyers sat can be bait-to-average — watch CP as put risk | 08-07 |
+| P43 | After sellers flushed by support-bounce: flat/GD sell with; gap-up buy with | 08-10 |
+| P44 | Flat-open sell: prefer no breakout; small 60–70 pt breakout ok then enter; upper entry → bigger target | 08-10 |
+| P45 | Book before RN while strong multi-index momentum continues | 08-10 |
+| P46 | After positional SLs exhausted, next momentum prefers highest D/S zones (RN / BO / BD) | 08-09 teaching |
+| P47 | Fake BO/BD often raises participation then reverses — don’t only follow “who is sitting” | 08-09 teaching |
+| P48 | Charts normally don’t repeat — flat→dump then sharp recovery with thin inventory can trap sellers → flip | 08-12 |
+| P49 | Big / runaway GU after flushed sellers → often **no plan** (trap); mild GU may keep sell | 08-12 |
+| P50 | Fear near decided target is OK — don’t convert fear into early exit; early profit-cuts become habit | 08-13 |
+| P51 | Loss → cut at limit; profit → wait decided target; weak momentum + expiry + long time → partial book beats zero-zero | 08-13 |
+| P52 | Separate direction risk from entry risk; measured risk required; cut at limit if direction wrong | 08-14 |
+| P53 | Low-momentum same-price inventory: GU → buy; flat/GD → sell (thin sellers above hold); prefer real gap over flat | 08-14 |
+| P54 | Breakdown→sharp retrace trap: stay while inside loss limit / structure OK; BN-only + companions sideways + long time → book | 08-14 |
 
 ---
 
@@ -292,14 +337,16 @@ After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 ```
 1. Inventory today: buyers / sellers / cleared / unclear?
 2. Buyers actually sat after upside — or cleared / thin?
-3. Companions aligned?
-4. Expiry?
-5. Open type → matrix bias? (holiday/retrace vs exact RN hold; gap-up buy-with vs sell-after-CP)
-6. Rejection quality / closing-price breakdown (if gap-up sell)?
-7. Stop / target set?
-8. If BN leads against put thesis → CUT. If unclear path after target → FLAT and wait.
+3. Day-1 thin shorts vs day-2 sellers (if prior sell into uptrend)? Sellers already flushed by support-bounce?
+4. After positional SLs done → where is next high D/S (RN / BO / BD)?
+5. Companions aligned?
+6. Expiry?
+7. Open type → matrix bias? (holiday/retrace vs exact RN hold; hold-up buyers need decent GD to hunt / flat-GU buy-with; flushed sellers → flat sell / GU buy-with; day-1 vs day-2; chart-repeat dump trap?)
+8. Rejection quality / CP breakdown (if gap-up sell)? Dip/retrace (if light gap-up buy)? GD bounce = bait average? Big GU = no plan?
+9. Stop / target set? (tight-SL hunts → expect fast move; upper-entry sells → bigger target; book before RN; expiry → sooner / partial OK)
+10. If BN leads against put thesis → CUT. Round-number BN on puts → watch. Fear near target ≠ early exit. Direction risk ≠ entry risk — hold inside loss limit through traps. BN-only + companions sideways + long time → book.
 ```
 
 ---
 
-*Last distilled: 2026-08-04 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–4.*
+*Last distilled: 2026-08-14 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14.*

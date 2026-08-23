@@ -78,3 +78,63 @@
 | 2026-08-04 | Sensex | 78,500 / 78,300 | S | pre |
 | 2026-08-04 | Bank Nifty | 57,800 / 57,700 put | live put strikes; trade cut | post |
 | 2026-08-04 | Sensex | 78,700 put | live put strike mentioned | post |
+| 2026-08-05 | Bank Nifty | 57,800* / 57,650 | R (ASR “5780” → 57,800) | pre |
+| 2026-08-05 | Bank Nifty | 57,154 / 56,850 | S | pre |
+| 2026-08-05 | Sensex | 78,850 / 78,610 | R | pre |
+| 2026-08-05 | Sensex | 78,000 / 78,400* | S (ASR “7840” → 78,400) | pre |
+| 2026-08-05 | Nifty | 24,610 / 24,530 | R | pre |
+| 2026-08-05 | Nifty | 24,300 / 24,220 | S | pre |
+| 2026-08-05 | Bank Nifty | 57,800 put (qty 1170) | live put; profit booked | post |
+| 2026-08-05 | Bank Nifty | ~58,000 | put risk / round-number watch | post |
+| 2026-08-06 | Bank Nifty | 57,880 / 58,100 | R | pre |
+| 2026-08-06 | Bank Nifty | 57,150 / 56,850 | S | pre |
+| 2026-08-06 | Sensex | 78,850 / 79,100 | R | pre |
+| 2026-08-06 | Sensex | 78,000 / 78,400* | S (ASR “7840” → 78,400) | pre |
+| 2026-08-06 | Nifty | 24,700 / 24,610 | R | pre |
+| 2026-08-06 | Nifty | 24,420 / 24,300 | S | pre |
+| 2026-08-06 | Bank Nifty | 57,700 / 57,800 call | live calls; profit booked | post |
+| 2026-08-07 | Bank Nifty | 58,400 / 58,100 | R | pre |
+| 2026-08-07 | Bank Nifty | 57,100* / 57,500 | S (ASR “5710” → 57,100) | pre |
+| 2026-08-07 | Sensex | 79,200 / 79,500 | R | pre |
+| 2026-08-07 | Sensex | 78,650 / 78,300 | S | pre |
+| 2026-08-07 | Nifty | 24,720 / 24,800 | R | pre |
+| 2026-08-07 | Nifty | 24,610 / 24,500 | S | pre |
+| 2026-08-07 | Bank Nifty | 57,900 / 57,800 put | live puts; profit booked | post |
+| 2026-08-09 | Bank Nifty | ~58,000 | teaching D/S / breakout SL-zone example | teaching |
+| 2026-08-10 | Bank Nifty | 58,300 / 58,000 | R | pre |
+| 2026-08-10 | Bank Nifty | 57,500 / 57,340 | S | pre |
+| 2026-08-10 | Sensex | 78,640 / 78,920 | R | pre |
+| 2026-08-10 | Sensex | 78,200 / 78,000 | S | pre |
+| 2026-08-10 | Nifty | 24,670 / 24,590 | R | pre |
+| 2026-08-10 | Nifty | 24,400* / 24,360 | S (ASR “2440” → 24,400) | pre |
+| 2026-08-10 | Bank Nifty | 57,700 put (qty 1170) | live put; profit booked | post |
+| 2026-08-11 | Bank Nifty | 58,300 / 58,000 | R | pre (near-dup Aug 10 wording) |
+| 2026-08-11 | Bank Nifty | 57,500 / 57,340 | S | pre |
+| 2026-08-11 | Sensex | 78,640 / 78,920 | R | pre |
+| 2026-08-11 | Sensex | 78,200 / 78,000 | S | pre |
+| 2026-08-11 | Nifty | 24,670 / 24,590 | R | pre |
+| 2026-08-11 | Nifty | 24,400* / 24,360 | S (ASR “2440” → 24,400) | pre |
+| 2026-08-11 | Bank Nifty | 57,700 put (qty 1170) | live put; profit booked | post |
+| 2026-08-12 | Bank Nifty | 57,800 / 57,650 | R | pre |
+| 2026-08-12 | Bank Nifty | 57,100* / 56,960 | S (ASR “5710” → 57,100) | pre |
+| 2026-08-12 | Sensex | 78,640 / 78,475 | R | pre |
+| 2026-08-12 | Sensex | 78,046 / 77,810 | S | pre |
+| 2026-08-12 | Nifty | 24,610 / 24,560 | R | pre |
+| 2026-08-12 | Nifty | 24,430 / 24,345 | S | pre |
+| 2026-08-12 | Bank Nifty | 57,600 call (qty 1170) | live call; profit booked | post |
+| 2026-08-13 | Sensex | 78,500 / 78,145 | R | pre |
+| 2026-08-13 | Sensex | 77,500 / 77,200 | S | pre |
+| 2026-08-13 | Bank Nifty | 58,300 / 58,000 | R | pre |
+| 2026-08-13 | Bank Nifty | 57,500 / 57,310 | S | pre |
+| 2026-08-13 | Nifty | 24,600* / 24,500 | R (ASR) | pre |
+| 2026-08-13 | Nifty | 24,260 / 24,076* | S (ASR “2476” → 24,076) | pre |
+| 2026-08-13 | Bank Nifty | 57,600 / 57,500 put | live puts; partial profit booked | post |
+| 2026-08-13 | Nifty | 24,500 | live watch / cross risk | post |
+| 2026-08-14 | Bank Nifty | 57,890 / 58,000 | R | pre |
+| 2026-08-14 | Bank Nifty | 57,500 / 57,320 | S | pre |
+| 2026-08-14 | Sensex | 78,500 / 78,145 | R | pre |
+| 2026-08-14 | Sensex | 77,500 / 77,200 | S | pre |
+| 2026-08-14 | Nifty | 24,440 / 24,540 | R | pre |
+| 2026-08-14 | Nifty | 24,275 / 24,076* | S (ASR “2476” → 24,076) | pre |
+| 2026-08-14 | Bank Nifty | 57,400 put | live put; profit booked | post |
+| 2026-08-14 | Bank Nifty | ~57,500 | BD → retrace trap held | post |

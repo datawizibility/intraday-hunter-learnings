@@ -8,7 +8,7 @@ Personal knowledge vault built from [Intraday Hunter](https://www.youtube.com/@I
 
 | Path | Purpose |
 |------|---------|
-| `daily/` | Weekday pre + live session notes |
+| `daily/` | Weekday notes — **Vault/Agent pre** first, then IH pre/post paste, compare + outcome (`templates/daily-note.md`) |
 | `teaching/` | Sunday / concept videos (experience sharing) |
 | `playbook/` | Durable rules — `TRADING-BIBLE.md` fed by **daily + teaching** |
 | `levels-log/` | Nifty / Bank Nifty / Sensex levels mentioned |

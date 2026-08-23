@@ -8,7 +8,7 @@ Examples: closed-chart psychology, weekly market analysis, gap Q&A.
 
 | Source | Role |
 |--------|------|
-| `daily/` | Execution case studies (pre + live) |
+| `daily/` | Dual-track: Vault/Agent pre → IH paste → compare vs outcome (see `templates/daily-note.md`) |
 | `teaching/` | Deeper process / psychology he teaches on Sundays |
 | `playbook/TRADING-BIBLE.md` | Durable rules promoted from **both** — only “Keep permanently” items |
 
