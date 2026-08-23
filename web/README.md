@@ -12,6 +12,9 @@ npm run dev
 
 Open the URL Vite prints (default http://localhost:5173).
 
+**GitHub Pages:** https://datawizibility.github.io/intraday-hunter-learnings/  
+Build uses `GITHUB_PAGES=1` so asset paths include the repo base path.
+
 ## Scripts
 
 | Script | What it does |

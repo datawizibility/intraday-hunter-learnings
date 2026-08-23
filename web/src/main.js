@@ -682,9 +682,10 @@ async function boot() {
   view.innerHTML = `<div class="loading">Loading vault…</div>`;
 
   try {
+    const dataBase = `${import.meta.env.BASE_URL}data/`;
     const [vaultRes, quizRes] = await Promise.all([
-      fetch('/data/vault.json'),
-      fetch('/data/quizzes.json'),
+      fetch(`${dataBase}vault.json`),
+      fetch(`${dataBase}quizzes.json`),
     ]);
     if (!vaultRes.ok) throw new Error('vault.json missing — run npm run sync');
     if (!quizRes.ok) throw new Error('quizzes.json missing');

@@ -18,7 +18,12 @@ Personal knowledge vault built from [Intraday Hunter](https://www.youtube.com/@I
 
 ## Learning app
 
-Browse notes, train the open-type matrix, and quiz yourself:
+Browse notes, train the open-type matrix, and quiz yourself.
+
+**Hosted (GitHub Pages):** https://datawizibility.github.io/intraday-hunter-learnings/  
+(deploys automatically on push to `main` via `.github/workflows/deploy-pages.yml`)
+
+**Local:**
 
 ```bash
 cd web
@@ -27,5 +32,7 @@ npm run dev
 ```
 
 `npm run sync` regenerates `web/public/data/vault.json` from markdown. Dev/build run sync automatically.
+
+**Note:** GitHub Pages for a *private* repo needs GitHub Pro (or make the repo public). The site URL pattern is always `https://<user>.github.io/<repo>/`.
 
 Channel is not SEBI-registered. Treat notes as education; your risk rules win.
