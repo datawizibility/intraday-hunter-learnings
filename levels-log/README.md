@@ -181,3 +181,29 @@
 | 2026-08-31 | Nifty | 23,980 / 23,900 | S | pre |
 | 2026-08-31 | Bank Nifty | 58,000 / 57,700 | R | pre |
 | 2026-08-31 | Bank Nifty | 57,200 / 57,000 | S | pre |
+| 2026-09-01 | Nifty | 24,400 / 24,300 | R | pre dZqfpsKwqRQ |
+| 2026-09-01 | Nifty | 23,980 / 23,900 | S | pre dZqfpsKwqRQ |
+| 2026-09-01 | Bank Nifty | 58,000 / 57,700 | R | pre dZqfpsKwqRQ |
+| 2026-09-01 | Bank Nifty | 57,200 / 57,000 | S | pre dZqfpsKwqRQ |
+| 2026-09-01 | Nifty | 24,000 | live risk/reference | post kUZDZ42c-y8 |
+| 2026-09-01 | Bank Nifty | 57,500 area | live breakout reference | post kUZDZ42c-y8 |
+| 2026-09-01 | Sensex | 76,500 / 76,700 | psychology reference / S (as spoken) | pre dZqfpsKwqRQ |
+| 2026-09-02 | Bank Nifty | 57,800 / 57,500 | R | pre iPeDUGlpMoQ |
+| 2026-09-02 | Bank Nifty | 56,400 | S (as transcribed) | pre iPeDUGlpMoQ |
+| 2026-09-02 | Bank Nifty | 57,000 | live invalidation/reference | post fE8Sw4vQOSM |
+| 2026-09-02 | Sensex | 76,500 / 76,200 | S | pre iPeDUGlpMoQ |
+| 2026-09-02 | Nifty | 24,180 / 24,060 | R | pre iPeDUGlpMoQ |
+| 2026-09-02 | Nifty | 23,900 / 23,850 | S | pre iPeDUGlpMoQ |
+| 2026-09-03 | Sensex | 77,300 | R | pre 8GwfUa2LcL4 |
+| 2026-09-03 | Sensex | 76,275 / 75,940 | S | pre 8GwfUa2LcL4 |
+| 2026-09-03 | Bank Nifty | 57,500 / 57,800 | R | pre 8GwfUa2LcL4 |
+| 2026-09-03 | Bank Nifty | 57,000 / 56,770 | psychological reference / S | pre 8GwfUa2LcL4 |
+| 2026-09-03 | Nifty | 24,060 / 23,965 | R | pre 8GwfUa2LcL4 |
+| 2026-09-03 | Nifty | 23,800 / 23,730 | S | pre 8GwfUa2LcL4 |
+| 2026-09-04 | Bank Nifty | 58,200 / 57,800 | R | pre PywlkaQByoQ |
+| 2026-09-04 | Bank Nifty | 57,000 / 56,770 | S | pre PywlkaQByoQ |
+| 2026-09-04 | Bank Nifty | 57,500 / 57,560 area | live breakout / momentum reference | post duGx4E10IzQ |
+| 2026-09-04 | Sensex | 77,300 | R (audible level) | pre PywlkaQByoQ |
+| 2026-09-04 | Sensex | 76,200 / 75,940 | S | pre PywlkaQByoQ |
+| 2026-09-04 | Nifty | 24,060 / 24,180 | R | pre PywlkaQByoQ |
+| 2026-09-04 | Nifty | 23,800 / 23,730 | S | pre PywlkaQByoQ |
