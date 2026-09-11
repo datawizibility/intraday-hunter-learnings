@@ -207,3 +207,38 @@
 | 2026-09-04 | Sensex | 76,200 / 75,940 | S | pre PywlkaQByoQ |
 | 2026-09-04 | Nifty | 24,060 / 24,180 | R | pre PywlkaQByoQ |
 | 2026-09-04 | Nifty | 23,800 / 23,730 | S | pre PywlkaQByoQ |
+| 2026-09-07 | Bank Nifty | 58,100 / 57,570 | R | pre Qw55ggRNbBo |
+| 2026-09-07 | Bank Nifty | 57,200 / 57,000 | S | pre Qw55ggRNbBo |
+| 2026-09-07 | Bank Nifty | 57,000 | live target / breakdown reference (booked before BD) | post fHR7WJLY1Zg |
+| 2026-09-07 | Sensex | 77,200 / 76,800 | R | pre Qw55ggRNbBo |
+| 2026-09-07 | Sensex | 76,370 / 76,200 | S | pre Qw55ggRNbBo |
+| 2026-09-07 | Nifty | 24,000 / 24,140 | R (as spoken) | pre Qw55ggRNbBo |
+| 2026-09-07 | Nifty | 23,860 / 23,800 | S | pre Qw55ggRNbBo |
+| 2026-09-08 | Bank Nifty | 57,284 / 57,570 | R | pre mfCrKdkHlig |
+| 2026-09-08 | Bank Nifty | garbled in ASR ("5756800") | S | pre mfCrKdkHlig — values not reliably recoverable |
+| 2026-09-08 | Bank Nifty | 56,900 (ATM put strike) / 57,000 (round) | live reference | post NitY2pWf3p0 |
+| 2026-09-08 | Sensex | 76,200 / 76,370 | R | pre mfCrKdkHlig |
+| 2026-09-08 | Sensex | 75,950 / 75,800 | S | pre mfCrKdkHlig |
+| 2026-09-08 | Nifty | 23,860 / 23,940 | R | pre mfCrKdkHlig |
+| 2026-09-08 | Nifty | 23,720 / 23,600 (ASR "2360", trailing zeros dropped) | S | pre mfCrKdkHlig — second value uncertain |
+| 2026-09-09 | Bank Nifty | 57,100 / 57,876 | R | pre bwqMeOc-b8I |
+| 2026-09-09 | Bank Nifty | 56,500 / 56,370 | S | pre bwqMeOc-b8I |
+| 2026-09-09 | Bank Nifty | "400 area" put (strike unlabelled) | live position reference | post 6ZCIGnuRZpE |
+| 2026-09-09 | Sensex | 75,950 / 75,800 | R | pre bwqMeOc-b8I |
+| 2026-09-09 | Sensex | 75,300 / 75,000 (ASR "7530"/"750") | S | pre bwqMeOc-b8I — trailing zeros dropped |
+| 2026-09-09 | Nifty | 23,670 / 23,720 | R | pre bwqMeOc-b8I |
+| 2026-09-09 | Nifty | 23,540 / 23,480 | S | pre bwqMeOc-b8I |
+| 2026-09-10 | Bank Nifty | 56,876 / 56,600 | R | pre BbY6TwoC90o |
+| 2026-09-10 | Bank Nifty | 56,200 / 56,040 | S | pre BbY6TwoC90o |
+| 2026-09-10 | Bank Nifty | ~57,500 area ("500 area") | live — laggard push above it flushed late sellers | post JsdfH5uOuaw |
+| 2026-09-10 | Sensex | 75,200 / 75,500 | R (as spoken) | pre BbY6TwoC90o |
+| 2026-09-10 | Sensex | 74,500 / 74,300 | S | pre BbY6TwoC90o |
+| 2026-09-10 | Nifty | 23,540 / 23,674 | R (as spoken) | pre BbY6TwoC90o |
+| 2026-09-10 | Nifty | 23,400 / 23,340 | S | pre BbY6TwoC90o |
+| 2026-09-11 | Bank Nifty | 56,600 / 56,876 | R | pre xYh9Kd1qzm4 |
+| 2026-09-11 | Bank Nifty | 56,200 / 56,040 | S | pre xYh9Kd1qzm4 — both gapped below on the open |
+| 2026-09-11 | Bank Nifty | 55,800 call (qty 1,170) | live strike traded (under the pre supports) | post SW6rxOEMJkQ |
+| 2026-09-11 | Sensex | 75,700 / 75,200 (ASR "7575200") | R | pre xYh9Kd1qzm4 — flagged uncertain/garbled |
+| 2026-09-11 | Sensex | 74,500 / 74,300 | S | pre xYh9Kd1qzm4 — 74,300 also used as the live leg strike |
+| 2026-09-11 | Nifty | 23,500 / 23,540 | R | pre xYh9Kd1qzm4 |
+| 2026-09-11 | Nifty | 23,340 / 23,400 | S | pre xYh9Kd1qzm4 |

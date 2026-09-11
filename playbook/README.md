@@ -22,6 +22,8 @@ Leave day-specific levels in [`../levels-log/`](../levels-log/).
 ## Recent backfill
 - Jul 19 closed-chart teaching + Jul 20–24 sessions distilled into the bible (§3–4 gap-up buy-vs-sell; SL/buyer pressure after upside).
 - Aug 5–14 dual-track dailies + demand/supply teaching; Day-page sync for IH pre / Live post.
+- **Sep 7–11, 2026 week** (Mon–Fri dailies + raw `transcripts/`): distilled into the bible — §4 small-vs-large gap-up validation + huge-GD-after-retracement nuance, §5 retracement entry / ATM momentum strikes / "lower point", §7 time-based booking + limit-crossing exit, §12 **P65–P83**.
+  - Week in one line: 09-07 sell booked (M), 09-08 sell target booked (T), 09-09 **cut at loss** (W), 09-10 sell profit booked (Th), 09-11 **buy** — large gap-down, trapped sellers targeted, profit booked (F).
 
 ## Execution
 - Direction thesis first; re-entries allowed with smaller initial size.
