@@ -3,7 +3,7 @@
 **Purpose:** one durable reference distilled from **weekday `daily/` notes and Sunday `teaching/` lessons**. Use it to trade with a checklist, and later to encode a rules engine / bot.
 
 **Not:** day-specific levels, exact quantities, or copied “signals.”  
-**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21, 2026 (update when new “Keep permanently” lessons appear).  
+**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11, 2026 (update when new “Keep permanently” lessons appear).  
 **Note:** Sunday videos are experience-sharing — their permanent lines belong here alongside daily process lessons.
 
 **Disclaimer:** Educational synthesis only. Channel is not SEBI-registered. Your capital, broker rules, and risk limits override everything here.
@@ -95,6 +95,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 - **Large gap-up** after multi-day buyers: expect **shallow** Friday/short-term booking, not necessarily deep long liquidation — distinguish **slow light rejection** vs **fast large selling**.
 - **Huge green runaway** when you wanted to sell buyers → **stay away**.
 - **Huge gap-down / news** → structure **reset**; wait first tape (recovery vs continuous runaway) instead of forcing yesterday’s map (Jul 20).
+- **Small gap-up is not a bullish gap:** after a rejection close the buy case needs a **proper/meaningful** gap-up — a small one validates nothing, and flat/gap-down keeps the sell plan (Sep 7).
+- **Very large gap-down after a retracement was already given:** the small-gap-down sell plan breaks — re-read the **new chart**. When a decent retracement has already been handed to the market before a fall, everyone sells the fall and no buyers are left → recovery is the higher-probability path (Sep 11). Contrast Sep 9: a large gap-down into sellers who were already in profit offered no fuel → the sell side failed.
 
 ### When gap-up = BUY with market vs SELL (resolve the conflict)
 | Situation | Gap-up default | Why |
@@ -130,6 +132,10 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 9. Light GD **buyer-hunt**: a slight bounce can be **bait to average** — don’t treat it as thesis kill if CP still holds (Aug 7).
 10. Flat-open sell after flushed sellers: small **60–70 pt** breakout can be allowed then enter; prefer **no breakout**; entry from upper area → larger target room than a straight dump (Aug 10).
 11. **Closing-price breakdown** is the extension gate for sell-the-buyers: no CP break → no extended target (Aug 21).
+12. Don’t chase a market already moving straight from the open — wait for a **small retracement** for a usable entry; a direct dump/runaway gives you no entry (Sep 7).
+13. Momentum trades: default to the **at-the-money** strike — deep ITM ties up capital and hurts RR, far OTM bleeds if momentum is delayed (Sep 8).
+14. Define the **“lower point”** (the structural low that invalidates) before entering; crossing it turns the tape seller-only and no intraday buyer will step in (Sep 11).
+15. Buying against an already-negative multi-day tape (large gap-down, fearful sellers) only with a **pre-stated risk number** and the invalidation level — never discover the risk after being caught (Sep 11).
 
 ### Forbidden
 1. Counter-trade invented because inventory is unclear.
@@ -180,6 +186,11 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 14. While **both** buyers and sellers still participate, profit is safer; when tape becomes **one-sided only** → protect / exit risk rises (Aug 5).
 15. Strong multi-index sell from an **upper-area** entry → expand target; book **before round number** while momentum still pays (Aug 7, Aug 10).
 16. **No closing-price breakdown** after a sell entry → market likely sideways; cut per limit, don’t hold for a bigger loss (Aug 21).
+17. **Time is part of the trade:** momentum has paid and time has run long → book, even if the mapped path (round-number breakdown etc.) has not completed (Sep 7, Sep 8).
+18. The market **repeatedly crossing your loss limit** → exit; waiting is allowed *inside* the limit while structure holds, never outside it (Sep 9).
+19. After entry there are only **two** exits — breakdown, or loss beyond the limit; a growing loss alone is not an exit while the structure is intact (Sep 11).
+20. If the other side still has **stops available**, expect the market to reverse and take them first; continuation only runs when nothing is left overhead (Sep 10).
+21. Book on the **first good recovery** once the round-number breakout has happened — the second leg only buys extra risk (Sep 11).
 
 ### Hold while
 - Thesis alive, loss within limit, companions not confirming the kill.
@@ -203,6 +214,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Expiry | Prefer earlier booking |
 | Daily stop | Respect personal loss limit; missing a day is fine |
 | Expiry / slow-momentum risk | Cut size (e.g. reduce on weekly expiry) — Aug 17 |
+| Momentum strike choice | **At-the-money** default (deep ITM ties capital; far OTM bleeds on delay) — Sep 8 |
+| Trading against the opening trend | Only with a pre-stated risk number + invalidation level (e.g. the “lower point”) — Sep 11 |
 
 ---
 
@@ -219,6 +232,11 @@ Encode only as **warnings**, not hard entries:
 - Process cuts stay correct even if later tape would have worked — don’t rewrite rules with hindsight (Aug 5 on Aug 4 cut).
 - Mistakes are more forgivable **in profit** than **in loss** — never “fix” a losing hope trade (Aug 6).
 - **Correct bias + no confirmation = small loss; that’s discipline, not failure** (Aug 21).
+- A counter-spike with **no stops above to fuel it** is a mindset-changing move, not a trend change — the original direction resumes (Sep 8).
+- No regret after a process exit: a plan followed is a plan followed, even if the level breaks later (Sep 8).
+- The market is **neither friend nor enemy**; money is made across 10–20 trades, not one trade (Sep 9).
+- **Hold-then-break flush:** a level held for hours (~2 h) then broken shakes out positional sellers and removes their stops — continuation can then run with nothing overhead (Sep 10).
+- Laggard-index brief breakout (e.g. BN lagging Sensex/Nifty) is often the flush of late/high-quantity sellers — allow time instead of exiting on the counter-move (Sep 10).
 
 ---
 
@@ -332,6 +350,25 @@ IDLE → wait for new opportunity (no revenge)
 | P62 | Breakout close without momentum = trap → sell the gap-up temptation | 08-21 |
 | P63 | No closing-price breakdown = no extended target; cut per limit | 08-21 |
 | P64 | Sideways/choppy kills the edge even when the bias is correct | 08-21 |
+| P65 | Small gap-up ≠ bullish validation; the buy case needs a proper gap-up (flat/GD keeps sell plan) | 09-07 |
+| P66 | Don’t chase an open that is already falling/running — wait for a small retracement | 09-07 |
+| P67 | Momentum-continuation days give **small** retracements; a large retracement = the move is changing | 09-07 |
+| P68 | Time is part of the trade: momentum paid + time long → book, don’t wait for the full mapped path | 09-07, 09-08 |
+| P69 | Read the 2–3 day chart the market built — the same open type means different things on different structure | 09-07 |
+| P70 | Option premiums as an inventory clue: expensive premiums at the extreme → thin large-quantity holds → follow continuation | 09-08 |
+| P71 | Momentum trades: use at-the-money strikes | 09-08 |
+| P72 | Counter-spike with no SLs above = mindset change, not trend change | 09-08 |
+| P73 | Never sell blindly into a large gap-down (everyone sells, nobody buys → recovery can be large) | 09-09 |
+| P74 | Sellers are targetable on a gap-up; on flat/GD target the invested/positional holder instead | 09-09 |
+| P75 | Repeated crossing of your loss limit = exit; cut inside the limit, never outside | 09-09 |
+| P76 | Hold-then-break flush (~2 h hold then break) removes positional seller stops → continuation runs | 09-10 |
+| P77 | If the other side still has stops available, expect a reversal to take them before continuation | 09-10 |
+| P78 | Laggard-index brief breakout = flush of late/high-quantity sellers; allow time, don’t exit on it | 09-10 |
+| P79 | Large retracement given **before** a fall → further falling is hard (no buyers left) → recovery favored | 09-11 |
+| P80 | “Target the sellers” needs a **small** gap-down; a very large gap-down → re-read the new chart | 09-11 |
+| P81 | Define the “lower point” pre-entry: crossing it turns the tape seller-only | 09-11 |
+| P82 | After entry only two exits: breakdown, or loss beyond the limit — growing loss alone isn’t one | 09-11 |
+| P83 | Book on the first good recovery after the round-number breakout; second leg = extra risk only | 09-11 |
 
 ---
 
@@ -360,8 +397,9 @@ After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 8. Rejection quality / CP breakdown (if gap-up sell)? Dip/retrace (if light gap-up buy)? GD bounce = bait average? Big GU = no plan?
 9. Stop / target set? (tight-SL hunts → expect fast move; upper-entry sells → bigger target; book before RN; expiry → sooner / partial OK)
 10. If BN leads against put thesis → CUT. Round-number BN on puts → watch. Fear near target ≠ early exit. Direction risk ≠ entry risk — hold inside loss limit through traps. BN-only + companions sideways + long time → book. No CP breakdown → cut per limit.
+11. Small gap-up ≠ bull validation (need a proper gap). Don’t chase an extended open — wait a small retracement. Large retracement given before a fall → recovery favored; huge GD after that → new chart, not the old sell plan. Sellers targetable mainly on a gap-up. Loss limit crossed repeatedly → out. Lower point defined before entry. Time long + momentum paid → book on the first recovery.
 ```
 
 ---
 
-*Last distilled: 2026-08-21 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21.*
+*Last distilled: 2026-09-11 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11.*
