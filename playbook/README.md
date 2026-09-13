@@ -24,6 +24,8 @@ Leave day-specific levels in [`../levels-log/`](../levels-log/).
 - Aug 5–14 dual-track dailies + demand/supply teaching; Day-page sync for IH pre / Live post.
 - **Sep 7–11, 2026 week** (Mon–Fri dailies + raw `transcripts/`): distilled into the bible — §4 small-vs-large gap-up validation + huge-GD-after-retracement nuance, §5 retracement entry / ATM momentum strikes / "lower point", §7 time-based booking + limit-crossing exit, §12 **P65–P83**.
   - Week in one line: 09-07 sell booked (M), 09-08 sell target booked (T), 09-09 **cut at loss** (W), 09-10 sell profit booked (Th), 09-11 **buy** — large gap-down, trapped sellers targeted, profit booked (F).
+- **Sep 13, 2026 — “The Power of an Edge in Trading”** (Sunday teaching, [video](https://www.youtube.com/watch?v=uC4PeLdGFmo)): distilled into the bible — §1 edge ≠ certainty, §3 **reversal gate** + reversal-prone days, §5 reversal-entry gate, §8 capital-size / analysis-vs-trade rows, §9 psychology, §12 **P84–P92**.
+  - One line: an edge is never 100% (every setup needs a loss branch); learn **analysis before execution**; after a long one-way run test whether buyers actually arrived (→ target buyers) or seller SLs are still left (→ continuation) — and be prepared on **both sides** instead of predicting.
 
 ## Execution
 - Direction thesis first; re-entries allowed with smaller initial size.

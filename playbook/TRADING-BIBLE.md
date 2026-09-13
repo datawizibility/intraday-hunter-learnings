@@ -3,7 +3,7 @@
 **Purpose:** one durable reference distilled from **weekday `daily/` notes and Sunday `teaching/` lessons**. Use it to trade with a checklist, and later to encode a rules engine / bot.
 
 **Not:** day-specific levels, exact quantities, or copied “signals.”  
-**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11, 2026 (update when new “Keep permanently” lessons appear).  
+**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 edge teaching, 2026 (update when new “Keep permanently” lessons appear).  
 **Note:** Sunday videos are experience-sharing — their permanent lines belong here alongside daily process lessons.
 
 **Disclaimer:** Educational synthesis only. Channel is not SEBI-registered. Your capital, broker rules, and risk limits override everything here.
@@ -20,6 +20,7 @@
 6. **Options buying:** prefer **accuracy + sensible RR (~1:1)** over tiny SL + fantasy targets (time decay fights you).
 7. **Personalize risk math, not “SL hunting.”** Market hits clustered retail stops; it isn’t hunting *you*.
 8. **Zero-sum / inventory pressure (conceptual):** index-option dynamics need *someone’s* clustered stops. After an upside stretch there are often **fewer useful stops above**, so soft opens more often pressure **yesterday’s buyers** (stops below). This refines *why* soft opens target buyers after upside — educational framing only.
+9. **Edge ≠ certainty (Sep 13 teaching):** no setup is ever 100%. Every working setup contains a loss branch; a setup that looks loss-proof should be **re-checked**, not traded bigger.
 
 ---
 
@@ -75,6 +76,15 @@ Fill these **before** 9:15. A bot needs the same fields as structured inputs.
 ### After positional SLs are exhausted (next-zone lens)
 - Don’t stop at “who sat.” Ask **where demand/supply will be high next** (round numbers, breakouts, breakdowns) — that’s where the next SL pool forms (Aug 9 teaching).
 - Support-take surges and confirm BO/BD raise participation (people size up) even if the move itself isn’t huge — often harvested later / next session.
+
+### Reversal gate (after a long one-way run) — Sep 13 teaching
+Before accepting that a reversal has started, test the inventory in this order:
+1. **Did buyers actually arrive** during the reversal? → If yes, **buyers are now the target** (they hold the SLs).
+2. If buyers did **not** arrive (classic Friday-before-holiday: nobody wants to hold a reversal) → continuation of the old direction needs **seller SLs still available**.
+   - Seller SLs available → continuation can run.
+   - Nothing left overhead → the market has no fuel and starts falling again.
+
+Corollary: **available SLs decide the opening.** If seller SLs are available the market knows it and prints the opening that takes them — the trap is built pre-open, and the open type reveals which pool was chosen. Reversal odds are elevated on **Friday** and **the day before expiry** after a long one-way run.
 
 ---
 
@@ -136,6 +146,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 13. Momentum trades: default to the **at-the-money** strike — deep ITM ties up capital and hurts RR, far OTM bleeds if momentum is delayed (Sep 8).
 14. Define the **“lower point”** (the structural low that invalidates) before entering; crossing it turns the tape seller-only and no intraday buyer will step in (Sep 11).
 15. Buying against an already-negative multi-day tape (large gap-down, fearful sellers) only with a **pre-stated risk number** and the invalidation level — never discover the risk after being caught (Sep 11).
+16. Reversal entries only after the **reversal gate** passes: buyers must actually have arrived (then they are the target); if they haven’t, the continuation leg needs seller SLs still available overhead — nothing left means the market falls again (Sep 13 teaching).
 
 ### Forbidden
 1. Counter-trade invented because inventory is unclear.
@@ -216,6 +227,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Expiry / slow-momentum risk | Cut size (e.g. reduce on weekly expiry) — Aug 17 |
 | Momentum strike choice | **At-the-money** default (deep ITM ties capital; far OTM bleeds on delay) — Sep 8 |
 | Trading against the opening trend | Only with a pre-stated risk number + invalidation level (e.g. the “lower point”) — Sep 11 |
+| Capital size | **Not** a solution: large capital eases position management but worsens psychology and the loss size; small capital eases emotion control only (Sep 13) |
+| Analysis vs trade | Analysis edge (no entry/exit pressure) is higher than execution edge — a right read can still trade as a loss; keep the process, fix entry/exit (Sep 13) |
 
 ---
 
@@ -237,6 +250,9 @@ Encode only as **warnings**, not hard entries:
 - The market is **neither friend nor enemy**; money is made across 10–20 trades, not one trade (Sep 9).
 - **Hold-then-break flush:** a level held for hours (~2 h) then broken shakes out positional sellers and removes their stops — continuation can then run with nothing overhead (Sep 10).
 - Laggard-index brief breakout (e.g. BN lagging Sensex/Nifty) is often the flush of late/high-quantity sellers — allow time instead of exiting on the counter-move (Sep 10).
+- **An edge is not 100%** — every setup needs a loss branch; a setup that cannot lose is a recheck signal, not a bigger ticket (Sep 13 teaching).
+- **Analysis accuracy ≠ trade accuracy:** most traders already know the direction and lose on entry/exit; one wrong trade is not a reason to abandon the setup (Sep 13 teaching).
+- Being **prepared on both sides** beats predicting: when the reversal forms you only need a setup, not a decision (Sep 13 teaching).
 
 ---
 
@@ -369,6 +385,15 @@ IDLE → wait for new opportunity (no revenge)
 | P81 | Define the “lower point” pre-entry: crossing it turns the tape seller-only | 09-11 |
 | P82 | After entry only two exits: breakdown, or loss beyond the limit — growing loss alone isn’t one | 09-11 |
 | P83 | Book on the first good recovery after the round-number breakout; second leg = extra risk only | 09-11 |
+| P84 | Edge ≠ 100%: every setup needs a loss branch; a loss-proof-looking setup should be re-checked | 09-13 teaching |
+| P85 | Chasing 100% kills the edge — a setup profiting up, down, sideways **and** momentum is a warning | 09-13 teaching |
+| P86 | Learn analysis before execution: analysis has no entry/exit pressure; a correct read can still trade as a loss | 09-13 teaching |
+| P87 | A wrong trade ≠ a wrong setup — don’t abandon the process; most traders lose on entry/exit, not on direction | 09-13 teaching |
+| P88 | Capital size is not the solution (large = management room + worse psychology; small = emotion control) | 09-13 teaching |
+| P89 | Reversal gate: buyers arrived → target buyers; if not, continuation needs seller SLs left; none left → market falls again | 09-13 teaching |
+| P90 | Available SLs decide the opening — seller SLs available → market prints the opening that takes them (trap built pre-open) | 09-13 teaching |
+| P91 | Reversal-prone days: Friday and the day before expiry after a long one-way run | 09-13 teaching |
+| P92 | Prepare both sides instead of predicting — be ready on the side the reversal is forming | 09-13 teaching |
 
 ---
 
@@ -398,8 +423,9 @@ After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 9. Stop / target set? (tight-SL hunts → expect fast move; upper-entry sells → bigger target; book before RN; expiry → sooner / partial OK)
 10. If BN leads against put thesis → CUT. Round-number BN on puts → watch. Fear near target ≠ early exit. Direction risk ≠ entry risk — hold inside loss limit through traps. BN-only + companions sideways + long time → book. No CP breakdown → cut per limit.
 11. Small gap-up ≠ bull validation (need a proper gap). Don’t chase an extended open — wait a small retracement. Large retracement given before a fall → recovery favored; huge GD after that → new chart, not the old sell plan. Sellers targetable mainly on a gap-up. Loss limit crossed repeatedly → out. Lower point defined before entry. Time long + momentum paid → book on the first recovery.
+12. Edge ≠ 100% — every setup needs a loss branch. Reversal gate: buyers arrived? → target buyers; if not, are seller SLs left? none → market falls again. Friday / expiry-1 after a long one-way run → reversal odds up. Prepare both sides — don’t predict.
 ```
 
 ---
 
-*Last distilled: 2026-09-11 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11.*
+*Last distilled: 2026-09-13 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching.*
