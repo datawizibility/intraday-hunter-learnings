@@ -66,6 +66,46 @@ The earliest video processed. Establishes what later becomes the spine of the wh
 
 ---
 
+**2022-02-06 — How to Find Stop-Loss in the Market, Part 2** 🟡 REFINED + 🔵 NEW
+`9wGgKx2xYMg` · note: `teaching/2022-02-06-stoploss-part2.md`
+
+15 classification marks against Part 1 — **and no contradictions.** That is itself the
+finding: across one week the framework held, and grew.
+
+- 🟢 **STABLE (4)** — the core survived intact: *the market cannot move without stop-losses*
+  (his phrase *"केवल और केवल स्टॉपलॉस"* recurs nearly verbatim); the SL you hunt is someone
+  else's; support/resistance first; only-two-exits (loss or target).
+- 🟡 **REFINED (5)**:
+  - The breakout thesis is **extended to direct breakdowns**, with a **probability filter**.
+  - "Stops consumed in order" gains its **creation half**: crossing a high **forms new
+    positions**, and the crowd **re-builds in the next expiry**.
+  - Queue-line/retracement pools get the **liquidity mechanism**: fills happen only where
+    counterparty quantity exists — otherwise price simply travels.
+  - ⭐ **Scope widened to POSITIONAL** (Part 1 said "आज intraday only"). ⚠️ Positional-derived
+    rules must be **date-stamped 2022-02-06**, not back-dated to Part 1.
+  - Part 1's open question *"where does a stop sit"* is made **quantitative for the OTHER
+    side** (how many points their stops can be eaten) — **still no placement formula.**
+- 🔵 **NEW (6)** — psychology level as a **level type**; **expiry-day mechanics** (post-noon
+  premium softening, small positional stops, next-expiry re-build); sentiment as a
+  **filter only**; trader-side risk rules; the **oversize-candle / 1-minute tell**;
+  *"never dry-run your skill in the live market — practise on formed charts."*
+- 🔴 **CONTRADICTS: none found.** Two near-tensions recorded without picking a winner
+  (scope; live-market learning vs Part 1's live-call claim).
+
+**Deferred accounting:** Part 1 deferred *momentum* → Part 2 **partially delivers** it
+(SL-driven + the oversize-candle tell). **Part 2 defers nothing** — so the stop-loss thread
+is **NOT closed**; videos #3, #21, #25, #36 must be checked.
+
+**Garbled, flagged not invented:** no levels were usable. Word-level ASR garbles logged
+(Store→stop-loss, काजल→candles, बाइक→buy, सैलरी→seller, ब्रेड→trade, टोपी→top,
+फादर→further, प्रॉपर्टी→probability, मैडम→momentum). **Nothing routed to `levels-log/`.**
+
+> **Evolution verdict:** one week in, the method is **strengthening, not shifting**. Part 1
+> said *where* stops are; Part 2 explains *why they must be there* (liquidity) and *what
+> happens when they go* (new positions form). Same spine, deeper. ⭐ The **absence of any
+> contradiction** across the pair is strong evidence this is bedrock.
+
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
