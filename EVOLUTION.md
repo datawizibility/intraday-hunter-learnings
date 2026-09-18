@@ -129,6 +129,28 @@ is **NOT closed**; videos #3, #21, #25, #36 must be checked.
 > the available side. The spine is stable; the process is becoming operational.
 
 
+**2022-02-19 — Price Action vs Indicators | Reality of Intraday Stock Market** 🟡 REFINED + 🔵 NEW + 🔴 TENSION
+`FUb9yl-SGT4` · note: `teaching/2022-02-19-price-action-vs-indicators-reality-of-intraday-s.md`
+
+- 🟢 **STABLE** — buyer/seller profits are still explained through the opposite side's stops;
+  pre-defined frequency, independent execution and risk–reward remain core controls.
+- 🟡 **REFINED** — "keep trading simple" becomes **method neutrality**: indicators,
+  support/resistance and price action can all make or lose money.
+- 🟡 **REFINED** — risk–reward is judged across a sample (roughly one month), and is placed
+  ahead of accuracy or one-trade outcomes.
+- 🔵 **NEW** — explicit prohibition on **recovery trading**; a prior loss has no deadline for
+  recovery and is not a valid reason for a new trade.
+- 🔵 **NEW** — price action and indicators differ mainly in timing/flexibility: indicators
+  require their condition to form; price action can offer more flexible opportunities.
+- 🔴 **TENSION RECORDED** — 2022-02-13 defines meaningful price action as impossible without
+  stop identification; 2022-02-19 says indicators and S/R can earn equally with proper trader
+  controls. Both versions are retained: one defines his method, the other rejects exclusivity.
+
+> **Evolution verdict:** the corpus shifts from explaining the setup to explaining why traders
+> fail with any setup. The method is not being dropped; it is explicitly subordinated to
+> patience, discipline and viable payoff structure.
+
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
