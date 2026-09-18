@@ -151,6 +151,29 @@ is **NOT closed**; videos #3, #21, #25, #36 must be checked.
 > patience, discipline and viable payoff structure.
 
 
+**2022-02-20 — Impact of News on Stock Market | Harsh Reality Behind** 🟡 REFINED + 🔵 NEW + 🔴 CONTRADICTS
+`TBYBzGdT9jE` · note: `teaching/2022-02-20-impact-of-news-on-stock-market-harsh-reality-beh.md`
+
+- 🟢 **STABLE** — stops, rather than headlines or chart patterns, remain the operative
+  explanation; sentiment is translated into participant positions and stops.
+- 🟡 **REFINED** — news is split into **immediate/unexpected** and **anticipated/discounted**.
+  Only a genuine surprise earns initial directional deference; otherwise chart/stops govern.
+- 🟡 **REFINED** — pattern failure gets a causal test: a W/trend-line break cannot continue
+  when the required stop pool is absent.
+- 🟡 **REFINED** — pool creation is demonstrated across sessions: late sentiment induces
+  positions, then a next-day gap can hunt the newly created stops.
+- 🔵 **NEW** — recovery percentage is used to estimate remaining profit and likely weekend
+  exits, explicitly not as a Fibonacci/golden-ratio forecast.
+- 🔵 **NEW** — professional/smart-money **unwinding** is named as momentum fuel.
+- 🔴 **CONTRADICTS / narrow exception** — 2022-02-06: never buy because of sentiment.
+  2022-02-20: genuinely immediate positive/negative news may be traded in its direction.
+  Both dated versions stand; the later lesson limits the exception to unforeseen information.
+
+> **Evolution verdict:** news is not rejected; it is subordinated to a classification and
+> then translated into inventory. This is a meaningful refinement—and the first explicit
+> exception to the earlier blanket “never buy because of sentiment” wording.
+
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
