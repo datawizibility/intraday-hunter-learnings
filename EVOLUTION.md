@@ -211,7 +211,7 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | |
 |---|---|
 | Corpus size | **191 videos** |
-| Processed | **1** |
-| Remaining | **190** |
+| Processed | **5** |
+| Remaining | **186** |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` |
 | Status file | `ih_teaching/manifest.json` |
