@@ -9,8 +9,8 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **1** |
-| Remaining | **190** |
+| Processed | **2** |
+| Remaining | **189** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -25,16 +25,17 @@ only from recent daily notes; this is the other half.
 
 ## Processed so far
 - `20220130` **HOW TO FIND STOPLOSS IN STOCK MARKET | PRICE ACTION TRADING** — [`rz5tQaWLfgo`](https://www.youtube.com/watch?v=rz5tQaWLfgo)
+- `20220206` **HOW TO FIND STOPLOSS IN STOCK MARKET | PRICE ACTION TRADING** — [`9wGgKx2xYMg`](https://www.youtube.com/watch?v=9wGgKx2xYMg)
 
 ## Next up (chronological)
-1. `20220206` **HOW TO FIND STOPLOSS IN STOCK MARKET | PRICE ACTION TRADING**
-2. `20220213` **How To Trade in  Stock Market Using Stoploss**
-3. `20220219` **PRICE ACTION VS INDICATORS | REALITY OF INTRADAY STOCK MARKET**
-4. `20220220` **IMPACT OF NEWS ON STOCK MARKET | HARSH REALITY BEHIND**
-5. `20220227` **Price Action Trading Masterclass By Intraday Hunter**
-6. `20220306` **How to Draw Support and Resistance Levels For Intraday Trading**
-7. `20220320` **How To Trade with Psychology Levels | Intraday Trading Psychology By I**
-8. `20220402` **Why Price Action Not Work in Live Stock Market | Intraday Psychology B**
+1. `20220213` **How To Trade in  Stock Market Using Stoploss**
+2. `20220219` **PRICE ACTION VS INDICATORS | REALITY OF INTRADAY STOCK MARKET**
+3. `20220220` **IMPACT OF NEWS ON STOCK MARKET | HARSH REALITY BEHIND**
+4. `20220227` **Price Action Trading Masterclass By Intraday Hunter**
+5. `20220306` **How to Draw Support and Resistance Levels For Intraday Trading**
+6. `20220320` **How To Trade with Psychology Levels | Intraday Trading Psychology By I**
+7. `20220402` **Why Price Action Not Work in Live Stock Market | Intraday Psychology B**
+8. `20220410` **How Many Previous Days Chart Must Be Analysed For Intraday Trading By **
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
