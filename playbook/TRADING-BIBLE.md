@@ -61,6 +61,8 @@ Fill these **before** 9:15. A bot needs the same fields as structured inputs.
 ### Sellers often thin / not worth hunting when
 - **First** sharp sell day after a strong positive / gap-up trend — retail can’t size much; those who sold often **book targets** and leave (Aug 5)
 - Don’t invent a seller-hunt on the next gap-up when inventory is thin — prefer sell-with if gap continues with **only buyers**
+- After a **one-way move followed by a sideways hold**, participants who took the counter-trade had no momentum for hours — they cut and left. The stop-loss pool is empty, so don’t wait to “target them”: follow continuation instead (Sep 16, Sep 17)
+- Settling **near the prior closing price** with the round number intact on the next day often means few fresh counter-traders are sitting — the day can stay in the old direction (Sep 18)
 
 ### Inventory often cleared when
 - Holiday + recovery → don’t assume short inventory still sitting
@@ -72,6 +74,7 @@ Fill these **before** 9:15. A bot needs the same fields as structured inputs.
 ### Unclear when
 - Slow selling, no momentum, repeated rejection↔bounce in a small range
 - Both sides around same price — **open decides**
+- **Volatile two-sided range** (up X, down X, repeat): deliberately no directional momentum. Stop-loss-location logic assumes directional expansion — in this regime a “correct” SL read still loses (Sep 17)
 
 ### After positional SLs are exhausted (next-zone lens)
 - Don’t stop at “who sat.” Ask **where demand/supply will be high next** (round numbers, breakouts, breakdowns) — that’s where the next SL pool forms (Aug 9 teaching).
@@ -147,6 +150,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 14. Define the **“lower point”** (the structural low that invalidates) before entering; crossing it turns the tape seller-only and no intraday buyer will step in (Sep 11).
 15. Buying against an already-negative multi-day tape (large gap-down, fearful sellers) only with a **pre-stated risk number** and the invalidation level — never discover the risk after being caught (Sep 11).
 16. Reversal entries only after the **reversal gate** passes: buyers must actually have arrived (then they are the target); if they haven’t, the continuation leg needs seller SLs still available overhead — nothing left means the market falls again (Sep 13 teaching).
+17. Flat-to-slightly-negative open in a selling tape: **don’t chase the open fall** — prefer a small positive move first. A direct fall invites fresh sellers, builds a trap, and gives a worse entry (Sep 16).
+18. Gap-up **after** a breakdown-and-recovery: the buy case needs positive momentum to appear quickly; if rejection is **slow** (small candles) the market can keep drifting down — wait, don’t force the recovery trade (Sep 15). ⚠️ On Sep 15 the *fast-rejection* branch also failed (gap-up, fast rejection, no recovery → loss), so treat this branch as **conditional + must have the exit rule (§7.22)** — a fast rejection is not automatically a trap.
 
 ### Forbidden
 1. Counter-trade invented because inventory is unclear.
@@ -202,6 +207,9 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 19. After entry there are only **two** exits — breakdown, or loss beyond the limit; a growing loss alone is not an exit while the structure is intact (Sep 11).
 20. If the other side still has **stops available**, expect the market to reverse and take them first; continuation only runs when nothing is left overhead (Sep 10).
 21. Book on the **first good recovery** once the round-number breakout has happened — the second leg only buys extra risk (Sep 11).
+22. **Recovery setups must recover promptly.** If the expected recovery does not come and the market breaks the prior **closing price**, the thesis is dead — exit; do not re-story a failed entry (Sep 15).
+23. If an index **breaks out against** the position and the loss limit is already spent → exit. Waiting for the laggard indices to follow is not a reason to hold (Bank Nifty ran while Sensex/Nifty stayed behind, Sep 17).
+24. When several indices hold around the prior **closing price**, the index carrying the largest quantity (normally Bank Nifty) decides the P&L — read the target off that index, not off the cheapest one (Sep 18).
 
 ### Hold while
 - Thesis alive, loss within limit, companions not confirming the kill.
@@ -229,6 +237,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Trading against the opening trend | Only with a pre-stated risk number + invalidation level (e.g. the “lower point”) — Sep 11 |
 | Capital size | **Not** a solution: large capital eases position management but worsens psychology and the loss size; small capital eases emotion control only (Sep 13) |
 | Analysis vs trade | Analysis edge (no entry/exit pressure) is higher than execution edge — a right read can still trade as a loss; keep the process, fix entry/exit (Sep 13) |
+| Structural: Bank Nifty has **no weekly expiry** (monthly only) | Overall BN momentum is structurally lower than in the weekly-expiry era; plan smaller/faster targets on slow days (Sep 15) |
+| Expiry-day index behaviour | The expiring index can be slower and retrace more than the others — read targets accordingly (Sep 15 Sensex/Nifty expiry notes) |
 
 ---
 
@@ -253,6 +263,11 @@ Encode only as **warnings**, not hard entries:
 - **An edge is not 100%** — every setup needs a loss branch; a setup that cannot lose is a recheck signal, not a bigger ticket (Sep 13 teaching).
 - **Analysis accuracy ≠ trade accuracy:** most traders already know the direction and lose on entry/exit; one wrong trade is not a reason to abandon the setup (Sep 13 teaching).
 - Being **prepared on both sides** beats predicting: when the reversal forms you only need a setup, not a decision (Sep 13 teaching).
+- **Yesterday’s loss is not today’s trade:** a loss does not authorize flipping the bias out of fear — re-derive the read from today’s structure, then execute the rule (Sep 15, Sep 18).
+- Rules are the emotion-control mechanism: trading the market instead of the plan produces no entry, no accepted loss, and no booked profit. More thinking while in a loss = worse decisions (Sep 15, Sep 17).
+- Knew the inventory read was right and the trade still went wrong (Sep 17): use the mind **in profit**, cut mechanically **in loss**.
+- Position size trains discipline only in the middle: too small and fear disappears, too large and any adverse tick panics (Sep 18).
+- After a bad patch, booking an available valid profit beats stretching for the maximum day (Sep 18).
 
 ---
 
@@ -394,6 +409,14 @@ IDLE → wait for new opportunity (no revenge)
 | P90 | Available SLs decide the opening — seller SLs available → market prints the opening that takes them (trap built pre-open) | 09-13 teaching |
 | P91 | Reversal-prone days: Friday and the day before expiry after a long one-way run | 09-13 teaching |
 | P92 | Prepare both sides instead of predicting — be ready on the side the reversal is forming | 09-13 teaching |
+| P93 | Sideways hold after a breakdown-and-recovery: counter-traders already cut → no SL pool to hunt → follow continuation | 09-16, 09-17 |
+| P94 | Flat open then an immediate fall: wait for a small positive move for the sell entry — a direct fall builds a trap | 09-16 |
+| P95 | Recovery trades must recover promptly; no recovery + prior-close breakdown = exit, don’t re-story the trade | 09-15 |
+| P96 | Loss limit spent + an index breaks out against the position → out; laggard catch-up is not a reason to wait | 09-17 |
+| P97 | Volatile two-sided range ≠ directional day: SL-location logic needs directional expansion, else even a right SL read loses | 09-17 |
+| P98 | Yesterday’s loss ≠ today’s tape: re-derive the read from today’s structure; never flip bias out of fear | 09-18 |
+| P99 | Size to the middle: too small removes fear, too large creates panic — the comfortable band is what enforces discipline | 09-18 |
+| P100 | Bank Nifty has no weekly expiry now → structurally lower momentum; expiring index can be slower/more retracement-prone | 09-15 |
 
 ---
 
@@ -428,4 +451,4 @@ After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 
 ---
 
-*Last distilled: 2026-09-13 from notes through Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching.*
+*Last distilled: 2026-09-20. Sources: Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching + Sep 15–18 trading week (P93–P100).*
