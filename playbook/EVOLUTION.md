@@ -262,6 +262,111 @@ is **NOT closed**; videos #3, #21, #25, #36 must be checked.
 > being process.
 
 
+**2022-04-02 — Why Price Action Not Work in Live Stock Market (Intraday Psychology)** 🟡 REFINED + 🔵 NEW
+`y6tkiUb5Poc` · note: `teaching/2022-04-02-why-price-action-not-work-in-live-stock-market-i.md`
+
+- 🟢 **STABLE** — the 36,500 breakout is read as a print made of stops with no participation behind
+  it, so it reverses: the 2022-01-30 thesis, now demonstrated on the same chart family as
+  2022-03-20.
+- 🟢 **STABLE** — comparative pool rule revisited as a chart question ("stops are not there,
+  plenty of stops are here"); psychology level as a level type (2022-02-06 → 2022-02-27 → 2022-03-20).
+- 🟡 **REFINED** — *"a reversal needs a reason"* (2022-03-20) becomes a **chart-level read**: at a
+  psychology level with nothing fresh behind it, the breakout itself supplies the reason to
+  reverse, and the reversal prints immediately past the level.
+- 🟡 **REFINED** — 2022-02-20's pattern-failure logic becomes an explicit **precondition**: a
+  pattern earns a trade only when positions are already built on the target side; pattern alone
+  is "subscription" (you are the liquidity). Pattern validity is judged by the **market's
+  response** (immediate reversal vs a "fold" that continues).
+- 🔵 **NEW** — ⭐ **the temptation rule**: a setup the market hands you **repeatedly**, and a
+  **slow creeping continuation**, are traps; the signal is the **momentum print** — the first
+  rate-of-movement filter in the corpus.
+- 🔵 **NEW** — **stop-first execution cost**: a real momentum move can still lose money because the
+  market takes your stop-loss **before the entry order fills**.
+- 🔵 **NEW** — the **method-hopping ladder** (chart guess → indicator → candlestick → pattern →
+  timeframe → course → S/R) and the explicit rejection of *"only money makes money"*; plus
+  **"marking levels is not projection"** and the **teacher-plus-student-processor** model of learning.
+- 🔴 **CONTRADICTS: none.** The failed-breakout case is a special case of the pool rule; he states
+  the discriminator himself (stops available at that point or not).
+
+> **Evolution verdict:** the corpus turns the stop-loss thesis into a **filter on setups** — what
+> makes a shape tradeable — and adds the first *behavioural* tell (repeat/slow = trap). It answers
+> the question 2022-02-27 raised (how to read a chart that has been re-priced) with an execution
+> rule: trade the shape only where the inventory is already sitting. No conflict with the earlier
+> trade-path content; the standing 2022-02-27 ↔ 2022-03-06 tension over **learning order** is
+> untouched by this session.
+
+
+**2022-04-10 — How Many Previous Days Chart Must Be Analysed For Intraday Trading** 🟡 REFINED + 🔵 NEW
+`yc2dHH2pFjU` · note: `teaching/2022-04-10-how-many-previous-days-chart-must-be-analysed-fo.md`
+
+- 🟢 **STABLE** — stops explain movement, and the market travels to the side of **higher
+  probability**; here applied over time ("someone who has already exited cannot be hunted").
+- 🟢 **STABLE** — expiry mechanics: positions are rebuilt in the **next expiry** (2022-02-06) —
+  which becomes the reason to read the new expiry's chart.
+- 🟢 **STABLE** — the 2022-03-20 learning rules (back-study the formed chart; instruction does not
+  transfer) repeat as "go to the chart and see what actually happens".
+- 🟡 **REFINED** — **never target the consumed side** (2022-03-20) becomes a **follow rule**: follow a
+  chart while its stops are unconsumed (**first approach = the trade**); once they are eaten, the
+  chart is finished.
+- 🟡 **REFINED** — the position-rebuild insight becomes an **operational chart window**: trade the
+  fresh expiry's chart, **mostly one day**, 1–2 days only under a stated condition — and the general
+  condition is explicitly **deferred**, so no fixed lookback rule exists yet.
+- 🟡 **REFINED** — stop locations get a **chart recipe**: at the top of the move / where selling
+  began, and at a level's **closing print (red or green)** — both sides' stops sit there.
+- 🔵 **NEW** — ⭐ **momentum manufactures the crowd**: the fast print appears because "the market
+  will not stop" pulls in positions that should never have been taken, and **their** stops become
+  the next pool. A causal mechanism for momentum, beyond 2022-02-20's "unwinding is fuel".
+- 🔵 **NEW** — the **self/other split in position management**: exit on your own analysis; separately
+  infer the counterparty's exit from the chart (profit given back / channel low crossed ⇒ that side
+  has cut).
+- 🔵 **NEW (low fidelity)** — the **post-momentum lower-level check**: after a momentum print, audit
+  the lower level for available stops; if absent, the market can return to take the down-side stops.
+  ⚠️ ASR-unclear — recorded as a lead, not a rule.
+- ⚠️ **CROSS-CHECK (not a contradiction yet):** 2022-04-02 reads a **slow creeping continuation as
+  temptation → do not enter**; 2022-04-10 says a market building a projection **slowly will not rush**
+  ("it tracks them and then starts moving"). Both dated statements retained. They can be one process
+  (grind, then enter on the momentum print) but that is an **interpretation** — recorded, not resolved.
+- 🔴 **CONTRADICTS: none found.**
+
+> **Evolution verdict:** the first session in the corpus that answers a **mechanics-of-study**
+> question (how much history) rather than a concept — the process is now specified enough that the
+> trader asks operational questions. The lookback answer is deliberately left condition-gated.
+
+
+**2022-04-17 — How To Make Big Intraday Profit | Analyse Loss and Mistakes** 🟡 REFINED + 🔵 NEW
+`DvfafiUIpa8` · note: `teaching/2022-04-17-how-to-make-big-intraday-profit-analyse-loss-and.md`
+
+- 🟢 **STABLE** — ⭐ the **stop-inventory check is the spine**: his **own** loss is attributed to not
+  verifying that nearby buy-side stops were available (2022-01-30 → 2022-04-10, fourth appearance).
+- 🟢 **STABLE** — trader-side controls (2022-02-06, 2022-02-13) return as the **distraction rule**,
+  the **2–3 rules** discipline, and "emotions can be *reduced*, not eliminated".
+- 🟢 **STABLE** — 2022-04-10's "positions are built that should never exist" is consistent with his
+  case study of a trader buying the retracement the market was waiting for.
+- 🟡 **REFINED** — the 2022-02-13 readiness gates gain an **entry-quality gate** with a diagnostic
+  (repeated heat-before-target, or a target that takes too long ⇒ the entry is wrong) and a
+  **tolerance band** (10–40% deviation survivable; beyond that, entry wrong).
+- 🟡 **REFINED** — the projection measurement of 2022-03-20 becomes a **pre-trade filter**:
+  "the momentum you need must be available" (his working figure: 100–150 points).
+- 🟡 **REFINED** — 2022-02-19's ban on **recovery trading** reappears behaviourally: a **missed first
+  entry** must not be recovered by abandoning a rule (the case-study trader broke 1 of his 3 rules).
+- 🔵 **NEW** — **entry accuracy named as the root cause**, with the chain entry → broken/late target
+  → no patience → degraded process; and **time-to-target as an explicit cost for option buyers**
+  (the corpus now prices *how long* a trade takes, not only where it goes).
+- 🔵 **NEW** — the **distraction rule** (never trade while mentally occupied) and the **"wait for a
+  better entry" prescription** (if the market has not moved away yet, the entry will be bad).
+- 🔵 **NEW** — the **target ladder in small steps** (₹1,000 → ₹1 crore) and **"fix small repeated
+  mistakes"** as the route to profitability, with daily-profit figures declared non-universal.
+- 🔴 **CONTRADICTS: none found.**
+- 📌 **Pairing with 2026:** this is the 2022 counterpart of 2026-09-13's *"an edge is never 100%"* —
+  2026 sets the expectation (a loss branch always exists); April 2022 already says to **audit why**
+  that branch fired (entry price, distraction, broken rule) instead of blaming the method.
+
+> **Evolution verdict:** the corpus moves from *where the stops are* to *the price you pay for a
+> correct read* — entry accuracy becomes a first-class rule. Four sessions running now treat the
+> stop-inventory check as the core: the spine is not just stable, it is being **re-used as the
+> explanation for personal losses**, which is the strongest evidence in this corpus so far.
+
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -299,7 +404,7 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | |
 |---|---|
 | Corpus size | **191 videos** |
-| Processed | **8** |
-| Remaining | **183** |
+| Processed | **11** |
+| Remaining | **180** |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` |
 | Status file | `ih_teaching/manifest.json` |
