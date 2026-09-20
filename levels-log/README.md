@@ -242,3 +242,31 @@
 | 2026-09-11 | Sensex | 74,500 / 74,300 | S | pre xYh9Kd1qzm4 — 74,300 also used as the live leg strike |
 | 2026-09-11 | Nifty | 23,500 / 23,540 | R | pre xYh9Kd1qzm4 |
 | 2026-09-11 | Nifty | 23,340 / 23,400 | S | pre xYh9Kd1qzm4 |
+| 2026-09-15 | Bank Nifty | 56,876 / 57,100 | R | pre xB8Jt0d4Ll8 — Sep 15 opened 56,884 on the level, then collapsed |
+| 2026-09-15 | Bank Nifty | 56,200 / 56,040 | S | pre xB8Jt0d4Ll8 — both broken (Sep 15 low 55,795) |
+| 2026-09-15 | Bank Nifty | 56,900 call (qty 1,170) | live strike traded | post Yl-m6yX2Fok |
+| 2026-09-15 | Sensex | 75,200 / 75,500 | R | pre xB8Jt0d4Ll8 |
+| 2026-09-15 | Sensex | 74,500 / 74,300 | S | pre xB8Jt0d4Ll8 — broken (Sep 15 low 73,994) |
+| 2026-09-15 | Nifty | 23,500 / 23,560 | R | pre xB8Jt0d4Ll8 — Sep 15 opened 23,576 above both, then fell |
+| 2026-09-15 | Nifty | 23,320 / 23,370 (ASR "2370") | S | pre xB8Jt0d4Ll8 — second value uncertain; broken (low 23,119) |
+| 2026-09-16 | Bank Nifty | 56,650 / 56,300 | R | pre 2siXRlm4_jo — Sep 16 high 56,369 |
+| 2026-09-16 | Bank Nifty | 55,500 / 55,200 | S | pre 2siXRlm4_jo — unbroken (Sep 16 low 55,812) |
+| 2026-09-16 | Bank Nifty | 56,000 put (round-number breakdown) | live strike traded | post TXiU5Odet04 |
+| 2026-09-16 | Sensex | 74,800 / 74,500 | R | pre 2siXRlm4_jo — high tagged 74,506 |
+| 2026-09-16 | Sensex | 73,800 / 73,650 | S | pre 2siXRlm4_jo |
+| 2026-09-16 | Nifty | 23,280 / 23,340 | R | pre 2siXRlm4_jo — high tagged 23,285 |
+| 2026-09-16 | Nifty | 23,080 / 23,000 | S | pre 2siXRlm4_jo |
+| 2026-09-17 | Bank Nifty | 56,300 / 56,650 | R | pre SQIo4PisLw0 — broken (Sep 17 high 56,570); the breakout cut the put trade |
+| 2026-09-17 | Bank Nifty | 55,810 / 55,500 | S | pre SQIo4PisLw0 — unbroken (low 56,039) |
+| 2026-09-17 | Bank Nifty | 56,200 put (qty 1,170) | live strike traded | post ICw5RD1xTVg |
+| 2026-09-17 | Sensex | 75,000 / 74,500 (ASR "7574500" — trailing zeros dropped) | R | pre SQIo4PisLw0 — first value inferred, uncertain |
+| 2026-09-17 | Sensex | 74,000 / 73,650 (ASR "7473650" — "74" + "73650") | S | pre SQIo4PisLw0 — inferred, uncertain |
+| 2026-09-17 | Nifty | 23,420 / 23,280 | R | pre SQIo4PisLw0 — Sep 17 high 23,364 stayed below |
+| 2026-09-17 | Nifty | 23,100 / 23,000 | S | pre SQIo4PisLw0 — low 23,194 |
+| 2026-09-18 | Bank Nifty | 56,650 / 56,300 | R | pre I7gORF7zm4o — Sep 18 high 56,497 |
+| 2026-09-18 | Bank Nifty | 55,810 / 55,500 | S | pre I7gORF7zm4o — unbroken (low 56,074) |
+| 2026-09-18 | Bank Nifty | 56,400 put (qty 1,170) | live strike traded | post Z3D-p6RvPc0 |
+| 2026-09-18 | Sensex | 75,200 / 74,700 | R | pre I7gORF7zm4o — high 74,728 |
+| 2026-09-18 | Sensex | 74,000 / 73,650 (ASR "7473650") | S | pre I7gORF7zm4o — inferred, uncertain; unbroken (low 74,295) |
+| 2026-09-18 | Nifty | 23,500 / 23,360 | R | pre I7gORF7zm4o — high 23,389 |
+| 2026-09-18 | Nifty | 23,100 / 23,000 | S | pre I7gORF7zm4o — unbroken |
