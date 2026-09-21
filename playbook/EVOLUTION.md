@@ -367,6 +367,275 @@ is **NOT closed**; videos #3, #21, #25, #36 must be checked.
 > explanation for personal losses**, which is the strongest evidence in this corpus so far.
 
 
+**2022-04-23 — Why Stock Market is Gambling By Intraday Hunter** 🔵 NEW (framing) + 🟢 STABLE
+`RoKylDRBZHQ` · note: `teaching/2022-04-23-why-stock-market-is-gambling-by-intraday-hunter.md`
+
+The first **identity** session in the corpus: after eleven mechanics sessions it asks *what kind of
+game is this*, and answers by arguing the question in the title down.
+
+- 🟢 **STABLE** — ⭐ the **majority-position rule**: the market travels **opposite the crowd** because
+  the crowd's positions *are* the fuel — "100 positioned one way, 10 the other; the market does not
+  run for the hundred, because their stops are the momentum you follow". This is the 2022-01-30
+  stop-pool thesis stated as a law of the market rather than a chart rule.
+- 🟢 **STABLE** — **never take the visible trade** (a line/level/option-chain structure that is obvious
+  to everyone): continuous with 2022-04-02's temptation rule and 2022-04-10's "positions that should
+  never exist".
+- 🔵 **NEW** — ⭐ the **information-symmetry argument**: in cards luck decides, but in the market *both
+  sides see the same chart, the same news, the same option chain* — so the edge cannot be information,
+  only the **reaction sequence**. This is the corpus's first argument for *why* the skill model must be
+  right, rather than a demonstration that it works.
+- 🔵 **NEW** — **"read the other participant's mind"** as an explicit named method: from chart / option
+  chain / data / news, first construct *what position others will build, what they will think, what
+  plan they will make* — then position yourself. Prior sessions assumed the counterparty; this one
+  makes modelling him the primary exercise.
+- 🔵 **NEW** — the **examination analogy** for learning order (answer the question you know first, or you
+  lose the time you needed for the ones you did know) — the clearest statement yet that **scope
+  selection is process**, not a beginner's compromise.
+- 🔵 **NEW** — **guru-independence argued from capital**: nobody else knows your capital, your point
+  size or your setup, so follow another trader only up to the boundary of your own understanding;
+  watching others is for orientation, not copying.
+- 🔵 **NEW** — the **quantity ladder** (increase size only after sustained profitability) and the
+  anti-rush framing that pairs with it.
+- 🔴 **CONTRADICTS: none found.** A framing session by construction — it argues about the nature of the
+  activity and lands on the same operational spine the previous eleven sessions had built.
+
+> **Evolution verdict:** no new mechanics, and that is the point. Twelve sessions in, he is willing to
+> state the stop-pool thesis as a **law of the market** ("the market moves opposite the crowd") and to
+> argue it from information symmetry — evidence the spine has hardened rather than drifted. The two
+> genuinely new items are process-shaped, not chart-shaped: **scope selection** and **size scaling**.
+
+
+**2022-04-24 — How To Use My Intraday Trading Setup** 🟡 REFINED + 🔵 NEW
+`xGcbcBeMHHE` · note: `teaching/2022-04-24-how-to-use-my-intraday-trading-setup-by-intraday.md`
+
+The corpus's first **negative condition** on the core setup: *knowing when I do not work on it is more
+important for you than knowing how I work on it*, because using it wrongly causes loss.
+
+- 🟡 **REFINED (load-bearing)** — ⭐ the first **explicit do-not-trade window**: the setup is for markets
+  where stop inventory is available, and it must **not** be used in the aftermath of a momentum print
+  that has already consumed that side. 2022-04-10 ("once the stops are eaten, that chart is finished")
+  and 2022-03-20 ("never target the consumed side") were *understanding* rules; 2022-04-24 converts
+  them into a standing **prohibition on trading**, with the counter-trend recovery position named as
+  the failure — and as potentially the largest loss in his own experience.
+- 🟢 **STABLE** — the stop-inventory spine restated as the market's only source of big momentum ("it eats
+  one side, then the other"); sixth-plus appearance, still no drift.
+- 🟢 **STABLE** — **sentiment takes time to change a trend**, now applied reflexively as an
+  anti-stubbornness instruction to himself ("do not decide that the market will not go against your
+  direction") — continuous with 2022-02-20 and 2022-03-20's *reversal-needs-a-reason*.
+- 🟢 **STABLE** — **work only where the stops are clearly visible**: the second consecutive session
+  (after 2022-04-23) to make **scope discipline** an explicit instruction.
+- 🟡 **REFINED** — 2022-04-17's *entry accuracy* gains its **ex-ante** form: rather than diagnosing a bad
+  entry afterwards (heat before target), **enter a little late on purpose**, accepting the stated price
+  (first entry = bigger stop-loss, smaller target).
+- 🟡 **REFINED** — the target becomes **fuel-bounded**: he exits before his own stated target when no
+  stops remain ahead. Extends 2022-03-20's projection measurement from "how big is the pool" to "how
+  long does the pool last".
+- 🔵 **NEW** — ⭐ **others' stop-losses outrank your own**: your own stop you set from your own target,
+  but *theirs* is what makes entry, exit and target better. Earlier sessions used the counterparty's
+  inventory to choose **direction**; this one makes it an input to **placement**.
+- 🔵 **NEW** — **unreadable moves are legitimate**: ten/twenty-year target bookings and already-priced
+  news produce prints with causes you cannot see — do not force an interpretation, and do not trade
+  there.
+- 🔵 **NEW** — **combination-not-replacement**: never abandon an existing working setup to adopt one
+  new technique; layer them (this also softens the 2022-02-19/2022-02-27/2022-03-06 breadth tension
+  without formally resolving it).
+- 🔵 **NEW** — **"not every day is yours"** stated as an explicit rule: if nothing is clear, *no trade*
+  is a valid day's output.
+- 🔴 **CONTRADICTS: none found.** The narrowing is presented as part of the method, not a revision of it.
+
+> **Evolution verdict:** the first **risk-appetite** session. Thirteen sessions had answered *where* the
+> stops are and *how* the market travels; this one defines **when the method must not be used at all**
+> and ranks the counterparty's stop above your own as the information that actually pays. Two earlier
+> understanding rules become a standing do-not-trade window — exactly the kind of change a
+> chronological read exists to surface.
+
+
+**2022-05-08 — How To Start Option Trading** 🔵 NEW (sizing + segment) + 🟢 STABLE
+`5jYLndL-rAA` · note: `teaching/2022-05-08-how-to-start-option-trading-by-intraday-hunter.md`
+
+The corpus's first **money-management** session. It answers *how should a trader start options?* in an
+inverted order — **decide the loss first, derive the capital, then decide whether to be in options at
+all.**
+
+- 🔵 **NEW** — ⭐ **loss-first capital sizing**: the loss is knowable and the profit is not, so capital
+  requirement is derived from the **maximum possible loss**. His worked model (archive, May 2022,
+  ASR-rough): ≈₹500 ATM premium → ≈₹12,000/12,500 per lot → **15%** per-trade risk ≈₹1,875, rounded to
+  ≈₹2,000 with slippage/brokerage → × ~20 days ≈₹40,000/month → **two months** (the learning period,
+  because premium decays) ≈₹80,000 buffer → + two lots ≈₹24,000 ⇒ **≈₹1 lakh minimum capital**. The
+  arithmetic is his; the **rule** (size from the loss) is the durable part. This is the corpus's first
+  sizing model, and the missing half of every execution rule taught so far.
+- 🔵 **NEW** — ⭐ **segment progression**: cash/futures/index first, options **afterwards**; a course does
+  not substitute for the base, and a segment change needs a written plan of capital and profit before
+  entry.
+- 🔵 **NEW** — ⭐ **time-accuracy** as a separate skill for option buyers: the useful move must arrive
+  inside ~**10–20 minutes**; a correct direction that takes an hour is "no benefit" (sideways tape
+  decays the buyer). Completes the direction → entry → **time** ladder.
+- 🔵 **NEW** — **strike-drift caution**: moving to further strikes changes the loss profile and lowers
+  the profit probability — the cheap strike is a different risk, not a discount.
+- 🔵 **NEW** — **survivorship bias named in his own market**: everyone sees the ₹100 → ₹200 print, nobody
+  looks at ₹100 → ₹0; any segment decision must state the capital and the *mechanism* of profit, not the
+  best-case multiple.
+- 🟢 **STABLE** — **no recovery trading**, one size larger: 2022-02-19 banned recovery trades; here the
+  ban extends to **recovering by switching to a more leveraged segment**.
+- 🟢 **STABLE** — **no rush**: the six-month settling period and loss budget are the anti-rush rule
+  (2022-04-23/24) expressed in rupees.
+- 🟢 **STABLE** — **know your own numbers first** (2022-02-13 readiness gates, 2022-04-17 rule
+  discipline), with **already-incurred losses** added as an input.
+- 🟡 **REFINED** — "entry quality is the root cause" (2022-04-17) gains a **segment-level precondition**:
+  entry quality cannot exist in options without base skill plus time-accuracy.
+- ⚠️ **CROSS-CHECK (not a contradiction):** 2022-01-30 stated an **intraday-only** scope; 2022-02-06
+  widened it to positional; here intraday is recommended **over investing** because investing carries
+  overnight risk. All three dated statements retained — the intraday/positional question is now a
+  three-point series awaiting Amit's adjudication.
+- 🔴 **CONTRADICTS: none found** — nothing here revises direction logic; the session is capital,
+  sequence and readiness.
+
+> **Evolution verdict:** the corpus finally prices the process. Fourteen sessions of *where the stops
+> are* are followed by *how much money should stand behind the read, and in which segment a trader
+> should begin* — and the answer is measured from the **loss**, not the profit. Note the shape of the
+> run 2022-04-23 → 2022-05-08: framing (what game is this) → prohibition (when not to trade) → sizing
+> (how much can I lose). The method is being handed over as a **business**, not a technique.
+
+
+**2022-05-29 — How Long Does It Take To Become A Profitable Trader In Stock Market** 🔵 NEW + 🟢 STABLE
+`MrzE3qh8QjM` · note: `teaching/2022-05-29-how-long-does-it-take-to-become-a-profitable-tra.md`
+
+The corpus's first **time-and-commitment** session: fourteen sessions built the read, 2022-05-08
+priced the capital, this one prices the **calendar**.
+
+- 🔵 **NEW** — ⭐ **the phased time budget**: tooling (**2–4 months** — segment, quantity, reward) →
+  judgement/maturity (**~4–5 months**, ASR says "मिनट", almost certainly months) → own setup
+  (**5–6 months, "even a year"**) → floor **1–1.5 years**, realistic ceiling **1.5–2 years**. First
+  time the corpus decomposes *how long* each block of learning costs.
+- 🔵 **NEW** — ⭐ **the backup-plan rule as the master time variable**: the biggest reason a tested
+  setup still fails is that the trader has **no income outside the market** — so he cannot enter
+  quickly, cut quickly, or hold a stated target, and ends up deciding profit from other people's
+  profits. Better backup plan ⇒ time collapses (his promise: 2 years becomes 1–1.5).
+- 🔵 **NEW** — ⭐ **regime-dependence of a setup**: a setup is valid for a market *condition*; built
+  in a continuous trend, it fails when the market turns sideways, and the trader only discovers this
+  when the condition changes — which is where a *second* year gets spent. Study-side twin of
+  2022-04-24's same-day do-not-trade window.
+- 🔵 **NEW** — **full-time decision rule**: do not leave the job/business on first profits; test the
+  setup properly and keep a proper record first. Gated on documented evidence, not confidence.
+- 🔵 **NEW** — **quality of screen time over quantity**: 1 focused hour of *"why did my setup fail
+  today, and when does it work"* beats 2–3 passive hours — including his own admission of idle desk
+  time. Plus: try the **small parameter shift** (level up/down) before declaring a new setup needed.
+- 🟢 **STABLE** — **independent analysis, not following others** (2022-04-02 method-hopping,
+  2022-04-23 guru-independence argued from capital) returns with its **mechanism**: an external
+  setup cannot be traded by you because **trust is not transferable** — trust arrives only when you
+  have worked the setup yourself. Third appearance.
+- 🟢 **STABLE** — **instruction does not transfer** (2022-03-20, 2022-04-10) — fourth appearance.
+- 🟢 **STABLE** — **psychology is the binding constraint** (2022-02-13, 2022-03-20, 2022-04-17),
+  now explicitly *financed* by the backup plan rather than treated as mindset alone.
+- 🟡 **REFINED** — 2022-04-17's *"fix small repeated mistakes"* gains a **setup-side** form: the
+  setup's own parameters need small corrections too. *(ASR-weak wording — direction recorded, word
+  "अवार्ड" unresolvable.)*
+- ⚠️ **CROSS-CHECK (not a contradiction):** 2022-05-08 said **~6 months to settle** for a brand-new
+  trader (~2 months to options profitability); 2022-05-29 says **1–1.5 years minimum**. Both dated
+  figures retained — they may measure different milestones, but they are not reconcilable as stated,
+  and the ASR-broken phase-2 duration weakens the later one. **For Amit to adjudicate.**
+- 🔴 **CONTRADICTS: none found** — no direction, stop-inventory or execution rule is revised.
+
+> **Evolution verdict:** the corpus's fourth and last pricing question — after *where the stops are*
+> and *how much money*, it now prices the **time and the income structure**. ⭐ Two durable additions:
+> **the phased time budget** and **the backup-plan rule**. ⭐ One durable warning: **a setup has a
+> shelf life defined by the market regime, not by the calendar.**
+
+
+**2022-06-04 — INTRADAY TRADING PSYCHOLOGY Masterclass** 🔵 NEW + 🟢 STABLE
+`bxZN-V6JcAI` · note: `teaching/2022-06-04-intraday-trading-psychology-masterclass-by-intra.md`
+
+The corpus's first **reading-method** session — not where the stops are, not capital, not time, but
+*how to interrogate a print*.
+
+- 🔵 **NEW** — ⭐ **the "justify the print" habit**: before trading or explaining a momentum print,
+  ask whether positions were sitting there whose exit **had to** happen. A print you cannot justify
+  is a print you have not finished reading — do not invent the cause.
+- 🔵 **NEW** — ⭐ **the 90 / 10 split**: psychology ≈ **90%** of the work, trend/other-people factors
+  ≈ 10%. First time the corpus puts a *weight* on psychology rather than calling it the hardest part.
+- 🔵 **NEW** — ⭐ **study-material selection rule**: learn the psychology on charts with **continuous
+  one-way moves**; retracement-heavy charts make the read unstable and teach the wrong thing. First
+  rule in the corpus about *which chart to learn from*.
+- 🔵 **NEW** — ⭐ **the anti-overfit warning**: **2–4 charts are not a conclusion**, and you must
+  deliberately go looking for the charts where the read **fails**. (2022-02-27 had warned only against
+  generalising from *rare extreme prints*.)
+- 🟢 **STABLE** — **momentum needs aggressive counterparties** (2022-02-27: momentum requires *market*
+  orders; limit unwinding is drift) — restated as *"momentum when a trader or group is ready to buy
+  or sell at the market rate"*, now with a **who**: the operator, not the average participant.
+- 🟢 **STABLE** — **positions that should never have existed become the next pool** (2022-04-10) — now
+  the **engine** of the fast candle: the late crowd's forced exit *is* the momentum print.
+- 🟢 **STABLE** — **instruction does not transfer** (2022-03-20, 2022-04-10, 2022-05-29) — fourth
+  appearance, here as explicit homework: *"I show you a few charts; you must look at many."*
+- 🟢 **STABLE** — **the market repeats its behaviour, not its chart** (2022-02-27) is this session's
+  premise, which is *why* psychology transfers and chart shapes do not.
+- 🟡 **REFINED** — 2022-04-02's **temptation rule** gains its **build phase**: the market has to
+  *manufacture* the crowd before it can take it out — the slow phase is the manufacture.
+- ⚠️ **CROSS-CHECK (not a contradiction):** 2022-05-29 gave the *setup* a regime shelf life; this
+  session gives the *read itself* chart conditions in which it does not work. Same shape, two
+  objects; both dated statements retained.
+- 📌 **Fidelity:** chart **directions** are ASR-unreliable and were **not** reconstructed; `"220"`
+  and `"80 रिप्लेसमेंट"` are unresolved fragments. **Nothing routed to `levels-log/`.**
+
+> **Evolution verdict:** the corpus turns from *what to look for* to *how to read what you are
+> looking at*. ⭐ Three durable additions: **justify the print**, **learn on continuous one-way
+> charts**, **hunt the failing case**. ⭐ One warning the repo itself must obey: **never conclude
+> from 2–4 examples.**
+
+
+**2022-06-05 — Stock Market Is Equal To Reading Others' Mind** 🟡 REFINED + 🔵 NEW + ⚠️ TENSION
+`9BoMI81S_iQ` · note: `teaching/2022-06-05-stock-market-is-equal-reading-others-mind-by-int.md`
+
+2022-04-23 named "read the other participant's mind" as *the* method; this is the session that
+finally explains **why it is possible**, and it gives two execution rules the corpus did not have.
+
+- 🟢 **STABLE (hardening)** — ⭐ the **majority-position rule**: *"the market tracks the opposite of
+  where the majority works"* — with the **profit identity** attached (*your money is made when
+  someone else's goes*). Second dated statement of 2022-04-23's law, unchanged.
+- 🟡 **REFINED (load-bearing)** — ⭐ **read-the-mind gets an operational mechanism**: you cannot track
+  two crore participants, but they all follow the same small toolset (channel / pattern / indicator /
+  price action), so **behaviour repeats and the chart repeats** — which is what makes the counterparty
+  inferable. 2022-04-23 said *do it*; this says *here is why it works*.
+- 🟡 **REFINED** — ⭐ 2022-04-24's *"enter a little late on purpose"* becomes **mechanical**: after a
+  good breakout, **wait for the retest** — taking the break itself is what hands the market your
+  stop-loss. Pairs with 2022-03-06's one-style mandate by telling you which of the two styles to trade.
+- 🟡 **REFINED** — **expiry-day mechanics** (2022-02-06 rebuild → 2022-02-20 unwinding → 2022-02-27
+  decay) become a **named trap sequence for the large premium seller**: someone with big capital and
+  little market read keeps re-forming triangle straddles at successive strikes; the market makes him
+  **cut the profitable leg and hold the losing leg**, then takes those stops. First time the corpus
+  states *who* an expiry move is built for.
+- 🔵 **NEW** — ⭐ **"long-term survival" as the payoff of the read**: when the market condition
+  changes, what survives is the ability to read the participant, not the setup. This is the **answer
+  to 2022-05-29's problem** — not a contradiction: one is the setup's validity, the other the
+  trader's durability.
+- 🟢 **STABLE** — ⭐ the **stop-pool thesis in trend form**: repeated selling at each resistance
+  supplies the stops that carry the market up (2022-01-30 pools → 2022-03-06 role-flip → 2022-03-20
+  "the market goes where MORE stops are"). Sixth-plus appearance, no drift.
+- 🟢 **STABLE** — **never take the visible trade** (2022-04-02, 2022-04-23): here the visible trade is
+  the obvious sell at resistance — taking it is exactly how the stops get fed.
+- 🟢 **STABLE** — **guru boundary** (2022-04-23, 2022-05-29, 2022-06-04): *"I only give direction;
+  the digging is yours."* Fifth appearance.
+- ⚠️ **TENSION RECORDED (tools) — NOT resolved:** 2022-02-19 said indicators, S/R and price action
+  **can all make or lose money** and rejected method exclusivity; 2022-03-06 then taught S/R drawing
+  in full. Here he states that **learning only S/R, trendline or indicators will not get you there.**
+  Reconcilable as *tools are neutral but insufficient without the participant read* — 2022-02-19's own
+  subordination of method to trader controls — **but as spoken it reads as a downgrade of the toolset
+  and must not be silently averaged. Both dates stand; for Amit to adjudicate.**
+- 📌 **Low-fidelity lead (do not promote):** *"when a gap fills, people perceive it will act like
+  resistance"* — the crowd-belief mechanism; ASR too weak to rule in.
+- 📌 **Fidelity:** the `3500 / 3480 / 347` strike series is ASR-truncated and the instrument unnamed —
+  **do NOT reconstruct 35,000/34,800/34,700**, do not route to `levels-log/`. `₹12 crore` describes a
+  counterparty class in an illustration.
+- 🔴 **CONTRADICTS: none found** on substance — the session extends *who* the counterparty is.
+
+> **Evolution verdict:** the first arc of the corpus closes here. 2022-01-30 → 2022-04-17 built *where
+> the stops are and what they cost*; 2022-04-23 → 2022-04-24 said *what game this is and when not to
+> play it*; 2022-05-08 → 2022-05-29 priced *capital and time*; 2022-06-04 → 2022-06-05 answer *how to
+> interrogate a print and how to model the person who made it*. ⭐ Durable adds: **wait for the retest
+> of a good breakout**, **the resistance that keeps being sold is the fuel**, **the big low-knowledge
+> premium seller is the expiry-day counterparty** — and for the first time, a stated reason the method
+> **survives a regime change**: the read, not the setup, is the durable asset.
+
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -404,7 +673,7 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | |
 |---|---|
 | Corpus size | **191 videos** |
-| Processed | **11** |
-| Remaining | **180** |
+| Processed | **17** |
+| Remaining | **174** |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` |
 | Status file | `ih_teaching/manifest.json` |
