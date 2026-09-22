@@ -497,6 +497,301 @@ all.**
 > (how much can I lose). The method is being handed over as a **business**, not a technique.
 
 
+**2022-05-29 — How Long Does It Take To Become A Profitable Trader In Stock Market** 🔵 NEW + 🟢 STABLE
+`MrzE3qh8QjM` · note: `teaching/2022-05-29-how-long-does-it-take-to-become-a-profitable-tra.md`
+
+The corpus's first **time-and-commitment** session: fourteen sessions built the read, 2022-05-08
+priced the capital, this one prices the **calendar**.
+
+- 🔵 **NEW** — ⭐ **the phased time budget**: tooling (**2–4 months** — segment, quantity, reward) →
+  judgement/maturity (**~4–5 months**, ASR says "मिनट", almost certainly months) → own setup
+  (**5–6 months, "even a year"**) → floor **1–1.5 years**, realistic ceiling **1.5–2 years**. First
+  time the corpus decomposes *how long* each block of learning costs.
+- 🔵 **NEW** — ⭐ **the backup-plan rule as the master time variable**: the biggest reason a tested
+  setup still fails is that the trader has **no income outside the market** — so he cannot enter
+  quickly, cut quickly, or hold a stated target, and ends up deciding profit from other people's
+  profits. Better backup plan ⇒ time collapses (his promise: 2 years becomes 1–1.5).
+- 🔵 **NEW** — ⭐ **regime-dependence of a setup**: a setup is valid for a market *condition*; built
+  in a continuous trend, it fails when the market turns sideways, and the trader only discovers this
+  when the condition changes — which is where a *second* year gets spent. Study-side twin of
+  2022-04-24's same-day do-not-trade window.
+- 🔵 **NEW** — **full-time decision rule**: do not leave the job/business on first profits; test the
+  setup properly and keep a proper record first. Gated on documented evidence, not confidence.
+- 🔵 **NEW** — **quality of screen time over quantity**: 1 focused hour of *"why did my setup fail
+  today, and when does it work"* beats 2–3 passive hours — including his own admission of idle desk
+  time. Plus: try the **small parameter shift** (level up/down) before declaring a new setup needed.
+- 🟢 **STABLE** — **independent analysis, not following others** (2022-04-02 method-hopping,
+  2022-04-23 guru-independence argued from capital) returns with its **mechanism**: an external
+  setup cannot be traded by you because **trust is not transferable** — trust arrives only when you
+  have worked the setup yourself. Third appearance.
+- 🟢 **STABLE** — **instruction does not transfer** (2022-03-20, 2022-04-10) — fourth appearance.
+- 🟢 **STABLE** — **psychology is the binding constraint** (2022-02-13, 2022-03-20, 2022-04-17),
+  now explicitly *financed* by the backup plan rather than treated as mindset alone.
+- 🟡 **REFINED** — 2022-04-17's *"fix small repeated mistakes"* gains a **setup-side** form: the
+  setup's own parameters need small corrections too. *(ASR-weak wording — direction recorded, word
+  "अवार्ड" unresolvable.)*
+- ⚠️ **CROSS-CHECK (not a contradiction):** 2022-05-08 said **~6 months to settle** for a brand-new
+  trader (~2 months to options profitability); 2022-05-29 says **1–1.5 years minimum**. Both dated
+  figures retained — they may measure different milestones, but they are not reconcilable as stated,
+  and the ASR-broken phase-2 duration weakens the later one. **For Amit to adjudicate.**
+- 🔴 **CONTRADICTS: none found** — no direction, stop-inventory or execution rule is revised.
+
+> **Evolution verdict:** the corpus's fourth and last pricing question — after *where the stops are*
+> and *how much money*, it now prices the **time and the income structure**. ⭐ Two durable additions:
+> **the phased time budget** and **the backup-plan rule**. ⭐ One durable warning: **a setup has a
+> shelf life defined by the market regime, not by the calendar.**
+
+
+**2022-06-04 — INTRADAY TRADING PSYCHOLOGY Masterclass** 🔵 NEW + 🟢 STABLE
+`bxZN-V6JcAI` · note: `teaching/2022-06-04-intraday-trading-psychology-masterclass-by-intra.md`
+
+The corpus's first **reading-method** session — not where the stops are, not capital, not time, but
+*how to interrogate a print*.
+
+- 🔵 **NEW** — ⭐ **the "justify the print" habit**: before trading or explaining a momentum print,
+  ask whether positions were sitting there whose exit **had to** happen. A print you cannot justify
+  is a print you have not finished reading — do not invent the cause.
+- 🔵 **NEW** — ⭐ **the 90 / 10 split**: psychology ≈ **90%** of the work, trend/other-people factors
+  ≈ 10%. First time the corpus puts a *weight* on psychology rather than calling it the hardest part.
+- 🔵 **NEW** — ⭐ **study-material selection rule**: learn the psychology on charts with **continuous
+  one-way moves**; retracement-heavy charts make the read unstable and teach the wrong thing. First
+  rule in the corpus about *which chart to learn from*.
+- 🔵 **NEW** — ⭐ **the anti-overfit warning**: **2–4 charts are not a conclusion**, and you must
+  deliberately go looking for the charts where the read **fails**. (2022-02-27 had warned only against
+  generalising from *rare extreme prints*.)
+- 🟢 **STABLE** — **momentum needs aggressive counterparties** (2022-02-27: momentum requires *market*
+  orders; limit unwinding is drift) — restated as *"momentum when a trader or group is ready to buy
+  or sell at the market rate"*, now with a **who**: the operator, not the average participant.
+- 🟢 **STABLE** — **positions that should never have existed become the next pool** (2022-04-10) — now
+  the **engine** of the fast candle: the late crowd's forced exit *is* the momentum print.
+- 🟢 **STABLE** — **instruction does not transfer** (2022-03-20, 2022-04-10, 2022-05-29) — fourth
+  appearance, here as explicit homework: *"I show you a few charts; you must look at many."*
+- 🟢 **STABLE** — **the market repeats its behaviour, not its chart** (2022-02-27) is this session's
+  premise, which is *why* psychology transfers and chart shapes do not.
+- 🟡 **REFINED** — 2022-04-02's **temptation rule** gains its **build phase**: the market has to
+  *manufacture* the crowd before it can take it out — the slow phase is the manufacture.
+- ⚠️ **CROSS-CHECK (not a contradiction):** 2022-05-29 gave the *setup* a regime shelf life; this
+  session gives the *read itself* chart conditions in which it does not work. Same shape, two
+  objects; both dated statements retained.
+- 📌 **Fidelity:** chart **directions** are ASR-unreliable and were **not** reconstructed; `"220"`
+  and `"80 रिप्लेसमेंट"` are unresolved fragments. **Nothing routed to `levels-log/`.**
+
+> **Evolution verdict:** the corpus turns from *what to look for* to *how to read what you are
+> looking at*. ⭐ Three durable additions: **justify the print**, **learn on continuous one-way
+> charts**, **hunt the failing case**. ⭐ One warning the repo itself must obey: **never conclude
+> from 2–4 examples.**
+
+
+**2022-06-05 — Stock Market Is Equal To Reading Others' Mind** 🟡 REFINED + 🔵 NEW + ⚠️ TENSION
+`9BoMI81S_iQ` · note: `teaching/2022-06-05-stock-market-is-equal-reading-others-mind-by-int.md`
+
+2022-04-23 named "read the other participant's mind" as *the* method; this is the session that
+finally explains **why it is possible**, and it gives two execution rules the corpus did not have.
+
+- 🟢 **STABLE (hardening)** — ⭐ the **majority-position rule**: *"the market tracks the opposite of
+  where the majority works"* — with the **profit identity** attached (*your money is made when
+  someone else's goes*). Second dated statement of 2022-04-23's law, unchanged.
+- 🟡 **REFINED (load-bearing)** — ⭐ **read-the-mind gets an operational mechanism**: you cannot track
+  two crore participants, but they all follow the same small toolset (channel / pattern / indicator /
+  price action), so **behaviour repeats and the chart repeats** — which is what makes the counterparty
+  inferable. 2022-04-23 said *do it*; this says *here is why it works*.
+- 🟡 **REFINED** — ⭐ 2022-04-24's *"enter a little late on purpose"* becomes **mechanical**: after a
+  good breakout, **wait for the retest** — taking the break itself is what hands the market your
+  stop-loss. Pairs with 2022-03-06's one-style mandate by telling you which of the two styles to trade.
+- 🟡 **REFINED** — **expiry-day mechanics** (2022-02-06 rebuild → 2022-02-20 unwinding → 2022-02-27
+  decay) become a **named trap sequence for the large premium seller**: someone with big capital and
+  little market read keeps re-forming triangle straddles at successive strikes; the market makes him
+  **cut the profitable leg and hold the losing leg**, then takes those stops. First time the corpus
+  states *who* an expiry move is built for.
+- 🔵 **NEW** — ⭐ **"long-term survival" as the payoff of the read**: when the market condition
+  changes, what survives is the ability to read the participant, not the setup. This is the **answer
+  to 2022-05-29's problem** — not a contradiction: one is the setup's validity, the other the
+  trader's durability.
+- 🟢 **STABLE** — ⭐ the **stop-pool thesis in trend form**: repeated selling at each resistance
+  supplies the stops that carry the market up (2022-01-30 pools → 2022-03-06 role-flip → 2022-03-20
+  "the market goes where MORE stops are"). Sixth-plus appearance, no drift.
+- 🟢 **STABLE** — **never take the visible trade** (2022-04-02, 2022-04-23): here the visible trade is
+  the obvious sell at resistance — taking it is exactly how the stops get fed.
+- 🟢 **STABLE** — **guru boundary** (2022-04-23, 2022-05-29, 2022-06-04): *"I only give direction;
+  the digging is yours."* Fifth appearance.
+- ⚠️ **TENSION RECORDED (tools) — NOT resolved:** 2022-02-19 said indicators, S/R and price action
+  **can all make or lose money** and rejected method exclusivity; 2022-03-06 then taught S/R drawing
+  in full. Here he states that **learning only S/R, trendline or indicators will not get you there.**
+  Reconcilable as *tools are neutral but insufficient without the participant read* — 2022-02-19's own
+  subordination of method to trader controls — **but as spoken it reads as a downgrade of the toolset
+  and must not be silently averaged. Both dates stand; for Amit to adjudicate.**
+- 📌 **Low-fidelity lead (do not promote):** *"when a gap fills, people perceive it will act like
+  resistance"* — the crowd-belief mechanism; ASR too weak to rule in.
+- 📌 **Fidelity:** the `3500 / 3480 / 347` strike series is ASR-truncated and the instrument unnamed —
+  **do NOT reconstruct 35,000/34,800/34,700**, do not route to `levels-log/`. `₹12 crore` describes a
+  counterparty class in an illustration.
+- 🔴 **CONTRADICTS: none found** on substance — the session extends *who* the counterparty is.
+
+> **Evolution verdict:** the first arc of the corpus closes here. 2022-01-30 → 2022-04-17 built *where
+> the stops are and what they cost*; 2022-04-23 → 2022-04-24 said *what game this is and when not to
+> play it*; 2022-05-08 → 2022-05-29 priced *capital and time*; 2022-06-04 → 2022-06-05 answer *how to
+> interrogate a print and how to model the person who made it*. ⭐ Durable adds: **wait for the retest
+> of a good breakout**, **the resistance that keeps being sold is the fuel**, **the big low-knowledge
+> premium seller is the expiry-day counterparty** — and for the first time, a stated reason the method
+> **survives a regime change**: the read, not the setup, is the durable asset.
+
+
+**2022-06-11 — How To Take Trade on RETRACEMENT & REVERSAL** 🟡 REFINED + 🔵 NEW
+`Eo-1OOVpX30` · note: `teaching/2022-06-11-how-to-take-trade-on-retracement-reversal-in-sto.md`
+
+The session dedicated to the single hardest live decision — **is this a retracement or a reversal?** —
+and its answer is consistent with everything built since January: **the shape does not decide, the
+participants do.** Two charts nearly identical on candle shape are shown; one was a reversal, one a
+retracement.
+
+- 🟡 **REFINED (load-bearing)** — ⭐ 2022-06-05's *"after a good breakout, wait for the retest"* gains a
+  **measurable precondition**: the market should first give back a stated band — *"सौ से डेढ़ सौ प्वाइंट"*
+  (**100–150 points**) — before the continuation entry. Idea existed; the band is new.
+- 🟡 **REFINED (load-bearing)** — ⭐ 2022-04-24's **fuel-bounded exit** gains its **trigger sentence**: a
+  level tested *directly* with **no stop inventory beyond it** ⇒ reversal or sideways is live ⇒ book.
+  Understanding rule → decision rule (third appearance of the no-stops-ahead logic: 2022-04-10 → 2022-04-24 → here).
+- 🔵 **NEW** — ⭐ **the reversal-vs-retracement trap tell**: if the market **takes support** where it should
+  have printed the break first, that support is bait — the market trapped there, so a reversal can come.
+  First *positive* chart tell for choosing between the two (2022-04-24 gave only the negative window).
+- 🔵 **NEW** — ⭐ **the four-question participant check for a pullback**: (1) who built the position and how
+  deliberately; (2) is the **distance** too large for the market to hunt them; (3) have they already booked
+  at a **round number** (so no fear is left to trigger capitulation); (4) did the market trap instead of
+  break. Behavioural, not structural — the operational sequel to 2022-06-05's symmetry argument.
+- 🔵 **NEW (promoted from a lead)** — **gap-fill as a cut level**: where a gap fills / where the market had
+  gone, pressing that level is where positions get cut. 2022-06-05 recorded the gap-fill *perception* as a
+  low-fidelity lead; this gives it a **use**. ⚠️ Promoted to rule-shape only — still no level, still ASR-weak.
+- 🔵 **NEW** — ⭐ **the demonstration gap named**: he separates what he says live from *"जो मैं अपने आप से
+  करता हूं"* — what he does inside his own head — because the missing dots are why viewers cannot connect
+  the print. The corpus is now documenting **how the read is produced**, not only what it concludes.
+- 🟢 **STABLE** — the market takes one side's stops before it moves; S/R structure as the *frame*, never as
+  the reason (2022-03-06); the retest-then-momentum sequence, now with its mechanism spelled out (the early
+  buyer's exit is what the retest collects); intraday position-building flexibility; discipline produces
+  profit; instruction does not transfer (*"केवल मेरे सिखाने से आप नहीं सीख सकते"*) — fifth-plus appearance.
+- 📌 **Cross-check (not a contradiction):** 2022-04-24 said **do not trade** once that side's stops are
+  consumed; here he trades a chart that has just delivered ~300–350 points. 2022-06-11 adds the
+  **precondition** (a fresh 100–150 point retracement + a re-read of the participants). Both dates stand.
+- 📌 **Fidelity:** `1999` (bare chart number) is **unresolvable**; `110013 / 1 lakh / 94350` are ASR-garbled
+  rupee strings that **do not reconcile** as a target-and-exit pair; `25201` and the *"कोकोनट पाउडर"*
+  corruption are unresolved. **Nothing routed to `levels-log/`; no P&L claim derived.**
+- 🔴 **CONTRADICTS: none found** on substance.
+
+> **Evolution verdict:** the corpus converts two earlier *understanding* rules into *execution* rules.
+> ⭐ Durable adds: **the four-question participant check**, **the trap tell (support taken instead of a break
+> printed)**, **the 100–150 point retracement band**, **booking when no stop inventory remains beyond the
+> tested level** — and **the filled gap becomes a cut level**.
+
+
+**2022-06-18 — Reality of STOPLOSS HUNTING Strategy** 🔵 NEW + ⚠️ TENSION
+`4vYGOe8ui_8` · note: `teaching/2022-06-18-reality-of-stoploss-hunting-strategy-by-intraday.md`
+
+Written against the naive version of its own title: *"if there are no stops below and you buy there, you
+can take a big loss — so stop-loss hunting is dangerous."* He **rejects the objection** and doubles down
+(*"केवल स्टॉपलॉस एक ऐसी चीज है जो बताती है कि मार्केट अपसाइड जाएगा या नहीं"*), then immediately bounds
+his own claim — *not* "money is made only from hunting stops", but the **profit identity**.
+
+- 🔵 **NEW (load-bearing)** — ⭐ **the capital test as a decision procedure**: *would the person deploying
+  ₹500 crore buy here?* — and the instruction that follows is relative: *"अगर वह बाय करे तो आप बाय कीजिए,
+  वह सेल करे तो सेल कीजिए — क्योंकि मार्केट उसके अकॉर्डिंग करने वाला है, ना कि हमारे."* Prior sessions used
+  the counterparty's inventory to choose direction and (2022-04-23) argued guru-independence from capital;
+  this makes **capital the criterion for the reference trade itself**.
+- 🔵 **NEW (load-bearing)** — ⭐ **the large player moves when the stops are gone, not before**: *"जब उन सभी
+  के स्टॉप लूटेंगे, तब मैं यहां ₹500 लगाऊंगा… तब वह मार्केट भागना शुरू करता है."*
+- 🔵 **NEW** — ⭐ **the "no stops below ⇒ buy" shortcut is rejected on the record**: the check is
+  **two-sided** — absence of supply *and* a reason to go up. First time the corpus separates *where the
+  stops are* from *whether the trade exists*.
+- 🔵 **NEW** — ⭐ **do not abandon the setup when it gives a loss** — *"यह सबसे बड़ी गलती है"*; keep it and
+  layer other work alongside while the learning time runs. Pairs with 2022-04-24 (combination-not-replacement)
+  and 2022-06-05 (the read is the durable asset), but is stated here as a **behavioural failure mode under
+  drawdown**. His own loss is disclosed with the read attached and **without a number**.
+- 🔵 **NEW** — ⭐ **small, attributable changes** as the method of convergence: profit and loss *"का कन्वर्जन
+  सेम-सेम टाइप होता है"*, so vary one thing at a time (quantity; **how you look at the setup**) — too small
+  or too many at once and you cannot tell what mattered.
+- 🔵 **NEW** — ⭐ **the experience curve quantified**: *"10 में से 8"* charts identifiable with time — the
+  corpus's first stated competence measure, complementing 2022-05-29's time budget.
+- 🟢 **STABLE** — stop-inventory spine (stops taken before the move); the **profit identity**, second
+  consecutive session, explicitly limited to the identity rather than an exclusivity claim; crowd
+  positioning as the setup (*"काफी लोगों ने ट्रेड बिछा रखे हैं"*); **read the chart for the other person**
+  — here the closing one-line essence; stops consumed in order; instruction does not transfer
+  (*"आपकी मर्जी, आपका पैसा"*).
+- ⚠️ **TENSION RECORDED (tools) — NOT resolved, and now sharpened:** 2022-06-05 said learning only S/R,
+  trendline or indicators *"will not get you there"*; this session states that a **trendline gives no reason
+  at all** (it only reports hesitation) and that **money is not made from support–resistance but from
+  stop-loss hunting**. Against that: 2022-02-19 (tools can all make or lose money) and 2022-03-06 (taught
+  S/R drawing in full), and he has used trendline/S-R structure in every session since. Reconcilable as
+  *tool = location, participant = reason* — **but this is a third consecutive downgrade of the toolset and
+  must not be silently averaged. Both dates stand; for Amit to adjudicate.**
+- 📌 **Fidelity:** `650` is an unnamed instrument's move on a shared chart; `एंड सिस` and the *"चांद"*
+  fragment are corrupted. **Nothing routed to `levels-log/`; no entry, target, stop or outcome recorded.**
+  `₹500 crore` describes a **counterparty class**, not a requirement.
+- 🔴 **CONTRADICTS: none found** beyond the recorded tools escalation (a tension, not a silent revision).
+
+> **Evolution verdict:** 2022-06-05 explained *why* mind-reading works; this makes it a **go/no-go
+> question** — *would the large position buy here?* — and rejects the naive hunting shortcut its own title
+> promises to expose. ⭐ Durable adds: **the capital test**, **the two-sided check**, **do not abandon the
+> setup under drawdown**, **small attributable changes**, and the first **experience curve (8 of 10 charts)**.
+
+
+**2022-07-02 — Hero Zero Trading is Right or Wrong** 🔵 NEW (player + product) + 🟡 REFINED
+`IMZuRZN7XzU` · note: `teaching/2022-07-02-hero-zero-trading-is-right-or-wrong-in-stock-mar.md`
+
+The corpus turns from *what to trade and when* to **who is allowed to trade a given product** — and
+answers with a track record, not an idea. Hero-zero (cheap premium that either goes to zero or pays
+large) is *"गलत नहीं, लेकिन इसमें खिलाड़ी कौन होना चाहिए, वह पता होना चाहिए."*
+
+- 🔵 **NEW (load-bearing)** — ⭐ **the player test / product-prerequisite rule**: the player must be someone
+  who **has already made profit in the market** (*"जिसने आलरेडी मार्केट में प्रॉफिट बना चुका हो"*). A beginner
+  has no patience, no discipline and no chart read — three separate disqualifiers. Previously the corpus
+  gated *segments* (2022-05-08) and *size* (2022-04-23); this gates a **product inside a segment**.
+- 🔵 **NEW (load-bearing)** — ⭐ **the zero-promise asymmetry**: *"मैं तो ज़ीरो के लिए लिया था, जब तक ज़ीरो नहीं
+  होगा तब तक मैं निकलने वाला नहीं"* is **right on the loss side and fatal on the profit side** — the same
+  rule that lets you eat the loss stops you collecting the win. The advertised payoff is not collectable
+  without a **separate exit discipline on the profit side**.
+- 🔵 **NEW** — ⭐ **the one-lot start as a diagnostic requirement** (not a risk preference): difficulties —
+  including *"दो-तीन एक्सपायरी ऐसी भी हो सकती हैं जिसमें आपको मोमेंटम न मिले"* — only become visible at one lot.
+  📌 First explicit **null period** for a strategy; 2022-04-24's *"not every day is yours"* now has a
+  strategy-level twin: **not every expiry is yours.**
+- 🔵 **NEW** — ⭐ **loss spillover**: a loss in the speculative sleeve **degrades the base system**, because
+  the trader arrives at the ordinary trade already damaged. First statement that an *unrelated* trade's
+  loss is a risk to the working method.
+- 🔵 **NEW** — ⭐ **news is already priced**: the expected event may produce no move, or the opposite move
+  (*"यहां ऑलरेडी इसे प्राइस करना होगा"*). First appearance of discounting in the corpus; it **qualifies**
+  the news-creates-stops line (2022-02-13, 2022-02-20) — the tradeable part is the positioning, not the event.
+- 🔵 **NEW** — ⭐ **the hero-zero entry gate** (momentum returning after 2–3 days / news or an event due /
+  breakdown-givers present — else the market chops sideways) **plus** a **payoff-size requirement**: a
+  directionally right but small move is worth nothing to a cheap premium.
+- 🔵 **NEW** — ⭐ **watch vs trade as two feedback channels**: *"ट्रेडिंग से गलतियां पकड़ सकते हो… मार्केट को
+  देखने से मार्केट को पकड़ नहीं सकते"* — watching teaches you the market, only trading teaches you yourself.
+  Explains why 2022-06-04's chart-study homework cannot substitute for the one-lot start.
+- 🟡 **REFINED** — the **50% boundary quantified**: his direction/information is **50%**, the other 50% is
+  the trader's — capital protection, no random trades, no copying, own plan, entry understanding, error
+  removal, fund utilisation. Itemised, where 2022-04-23/2022-05-29/2022-06-18 stated it as a boundary only.
+- 🟡 **REFINED** — the **size ladder in rupees**: **₹30 → ₹60 → ₹100, never straight to ₹300**, with the
+  hunting analogy (*"पहले आप छोटे जानवरों को मारिए"*). Extends 2022-04-23's quantity ladder and 2022-06-18's
+  small-attributable-changes rule to position size.
+- 🟢 **STABLE** — loss-first thinking (*"एक लॉट में पैसा नहीं बनता तो बड़े लॉट में कैसे बनाओगे"*, 2022-05-08);
+  the cheap-strike caution (2022-05-08: *the cheap strike is a different risk, not a discount*) now argued
+  behaviourally; **no recovery trading** in its fourth form — the re-entry loop (come back 2–3 hours later
+  and buy again); psychology/discipline as the binding constraint; independent analysis
+  (*"दूसरे की कॉपी से बचना पड़ेगा"*); **no read, no trade** (2022-06-04's justify-the-print; 2022-06-18's
+  two-sided check) applied to a premium purchase.
+- 📌 **Cross-checks (not contradictions):** (1) 2022-04-24 — *not every day is yours* (day selection) vs this
+  session's **product selection**; both retained. (2) news **creates positioning** (2022-02-13/20) vs news
+  **is already priced** (here) — different levels of the same process; **neither averaged.**
+- 📌 **Fidelity:** ⚠️ `"मिनिमम 5728 पॉइंट … हजार पॉइंट का"` is **unresolvable** — the *direction* (he wants a
+  large, four-figure-scale move) is recorded, **no minimum-points filter may be quoted from this session**.
+  ⚠️ `[130]` and `[19]` are bare unresolved numbers — **`19` must NOT be reconstructed as a date**.
+  ⚠️ `एक नोट` / `सोंठ` are garbled for **lot / size**. The ₹3 → ₹100 → 40 → 10 path and the ₹30 → ₹60 →
+  ₹100 ladder are **teaching illustrations**. **Nothing routed to `levels-log/`; no P&L, capital figure or
+  win rate appears.**
+- 🔴 **CONTRADICTS: none found** on substance.
+
+> **Evolution verdict:** after pricing **capital** (2022-05-08), **time** (2022-05-29) and the **read**
+> (2022-06-04 → 2022-06-18), the corpus prices the **player** — and refuses the high-variance product to
+> anyone who has not yet been paid by the market. ⭐ Durable adds: **the player test**, **the zero-promise
+> asymmetry**, **the one-lot diagnostic start**, **loss spillover**, **news already priced**, and
+> **watch-vs-trade**.
+
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -521,8 +816,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 1. **Levels are missing from the 2021–2022 corpus** (ASR quality). If levels matter to the
    method, early videos may need manual level extraction from the visuals, not the audio.
 2. Named clusters already spotted and awaiting chronological processing:
-   stop-loss hunting (**6 videos**: #1, 2, 3, 21, 25, 36), Support & Resistance Master
-   Course, Price Action vs Indicators, operator/market traps, Retracement & Reversal,
+   stop-loss hunting (**6 videos**: #1, 2, 3, 21, 25, 36 — #3 processed 2022-02-13, the rest pending),
+   Support & Resistance Master Course, Price Action vs Indicators, operator/market traps,
+   **Retracement & Reversal** (✅ first video processed — **#18, 2022-06-11**),
    Trading Psychology, Chart Rules, Option Trading.
 3. The corpus likely contains **contradictions by construction** (a 2021 view vs a 2026
    view). The 🔴 mark exists for exactly that — do not average them.
@@ -534,7 +830,7 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | |
 |---|---|
 | Corpus size | **191 videos** |
-| Processed | **14** |
-| Remaining | **177** |
+| Processed | **20** |
+| Remaining | **171** |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` |
 | Status file | `ih_teaching/manifest.json` |
