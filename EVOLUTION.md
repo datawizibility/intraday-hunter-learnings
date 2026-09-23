@@ -792,6 +792,164 @@ large) is *"गलत नहीं, लेकिन इसमें खिला
 > **watch-vs-trade**.
 
 
+**2022-07-03 — How Market or Operator Trap Buyer and Seller Position** 🔵 NEW (greed/fear + placement) + 🟡 REFINED
+`37Fh2gDpBxA` · note: `teaching/2022-07-03-how-market-or-operator-trap-buyer-and-seller-pos.md`
+
+The session turns the loss causes themselves into the subject: **greed** (*लालच*), **fear** (*डर*), and
+**a setup copied from a course** are named up front as the three ways a trader loses — and the body shows
+the market installing them **in that order**.
+
+- 🔵 **NEW (load-bearing)** — ⭐ **the greed → fear sequence**: greed is installed first, by an *obvious*
+  read (a laggard that "must" catch up — Nifty already sharply down while Bank Nifty held; and later a
+  clean breakout of a major resistance), the crowd is thereby put in, and only then does fear arrive:
+  *"लालच और डर, मार्केट एक साथ [दे] रहा है."* 2022-04-02 had *temptation* (repeatedly handed setups) and
+  2022-03-20 had *psychology levels*; this states the **emotional order of operations** for the first time.
+- 🔵 **NEW (load-bearing)** — ⭐ **the sell-placement rule inside strength**: sell where **(a) the sellers
+  already in the tape are exhausted** (*"सभी की हिम्मत खत्म"*) **and (b) buyers' greed has turned into
+  add-on quantity** (*"छोटा-मोटा रीटेस्ट आएगा, दोबारा ऊपर चलने लगेगा"*). 2022-06-05 said a repeatedly-sold
+  resistance *is the fuel*; this says **where to stand** on it.
+- 🔵 **NEW** — ⭐ **the direct-test rule**: a level tested *directly* out of continuous momentum has no
+  fresh positions behind it, so the market **prepares** the level (retest → activate the other side) before
+  the real move; hence *"रिजेक्शन तो बहुत ही ज्यादा प्रोबेबिलिटी होती है."* 2022-06-05's *wait for the
+  retest* was an instruction to the trader; this is the market's own mechanism. ⚠️ The **direction of
+  activation** is ASR-ambiguous — mechanism only, no usable side.
+- 🔵 **NEW** — ⭐ **the corpus's first session clock**: an entry he expected to work was **cut at 11:00**
+  because the momentum window (**12:00–15:00**) had not opened, and the move arrived right after the cut
+  (*"मैंने यहीं पे पोज़िशन काटा, उसके बाद हमें अपसाइड मोमेंटम देखने को मिला"*). He files it as **his own
+  error** (no number, no size given). 2022-05-08's option-buyer *time-accuracy* was 10–20 minutes; this is
+  the first **session-hour** content.
+- 🔵 **NEW** — ⭐ **the level where both sides sit**: one line where the crowd buys *and*, after the
+  breakdown, sells — which is exactly why the market must travel to it. Extends "stops consumed in order."
+- 🟡 **REFINED** — ⭐ **the big-candle mechanism**: 2022-01-30 (*a print made of stops has no participation
+  behind it*) and 2022-04-02 (*the failed breakout*) re-stated as *"बड़ी-बड़ी कैंडल हमेशा [एसएल] की होती है"*
+  — now with a **size reason**: ₹1/10/20-crore capital *"एक ही कैंडल पे नहीं लगता… धीरे-धीरे accumulate
+  करता हूं, फिर मोमेंटम करने की कोशिश करता हूं."*
+- 🟡 **REFINED** — **the target check** (2022-06-11's 100–150 band; 2022-06-18's two-sided check) becomes a
+  **two-direction travel measurement** before entry (how far it can still go against you; how far it can go
+  for you before the retracement *should* start) — plus the flat rule *"कोई ब्रेकआउट से बाय/सेलिंग नहीं होता."*
+- 🟢 **STABLE** — stops before the move (buyers activated → breakdown → selling → *"अपसाइड मोमेंटम, जहां
+  स्टॉपलॉस हिट हो गए"*), seventh-plus appearance; never take the visible trade; read the chart for the
+  other participant; pattern credibility judged over a sample; guru boundary (here as a *cause of loss*).
+- ⚠️ **Cross-checks (not contradictions):** (1) 2022-06-11's **trap tell** (support *taken* = bait, reversal
+  possible) vs this session's **direct-test → rejection** — different levels (*which side got taken* vs
+  *whether the level was prepared*); both dates stand. (2) 2022-06-18 said *do not abandon the setup when it
+  gives a loss*; here he cuts for **time** and the move comes after — recorded, both dates kept.
+- 📌 **Fidelity:** the **30–40 / 100–150 / 50-60-70** point figures, the **5/15-min close** condition and
+  the **11:00 / 12-2-3** clock are that chart's context. *"बिन शर्ट"*, *"लाल ऑर्डर"*, *"असर हंटिंग"* and the
+  hammer names are ASR-corrupted. **Nothing routed to `levels-log/`; no P&L, size or win rate recorded.**
+- 🔴 **CONTRADICTS: none found.**
+
+> **Evolution verdict:** after capital (2022-05-08), time (2022-05-29), the read (2022-06-04 → 06-18) and
+> the player (2022-07-02), this session prices **the order in which the market installs emotion** — greed
+> first, fear after — and converts it into two placements: *sell into the winners' confidence*, and *do not
+> trade a level that has not been prepared*. ⭐ Durable adds: **the two-lever sequence**, **the
+> exhaustion-plus-greed sell placement**, **the direct-test rule**, **the both-sides level**, and the
+> corpus's **first session clock**.
+
+
+**2022-07-09 — How Operator Handle the Stock Market** 🔵 NEW (direct-move + closing read) + 🟡 REFINED
+`gXlOOh-ZtmY` · note: `teaching/2022-07-09-how-operator-handle-the-stock-market-by-intraday.md`
+
+Delivered the day after #21 on the same theme, from the other end: not *what the trap looks like* but
+**how the morning is read** — where the operator is activated and where the retailer is. He labels the
+material himself as personal experience, not book material.
+
+- 🔵 **NEW (load-bearing)** — ⭐ **the fear axiom**: *"जहां पर ज्यादा डर लगता है, वैसा ही मार्केट काम करता
+  है"* — and the **generator** is named: the market needs the retailer's *profit to turn into a loss*
+  (*"जब तक प्रॉफिट से लॉस में नहीं जाएगा, मार्केट आपको ज्यादा डर लगेगा"*). First time fear is stated as the
+  market's **working location** rather than a level type (2022-03-20) or a trap tell (2022-04-02).
+- 🔵 **NEW (load-bearing)** — ⭐ **the direct-selling / retracement rule**: *"अगर मार्केट में डायरेक्टली
+  सेलिंग आने लगे तो आपको रिट्रेसमेंट के बाद [ही] सेल साइड में जाना है"* — because a direct drop
+  *"कोई भी रिटेलर पोज़िशन बनाकर अपना पैसा बना सकता है."* 2022-06-05's *wait for the retest* was the buy side;
+  this is its **mirror with the mechanism attached** (the market must hand you a profit first).
+- 🔵 **NEW (load-bearing)** — ⭐ **the closing-position rule**: where the market closes inside its last range
+  tells you **which side is still in it** — *"मार्केट बिल्कुल हाईएस्ट क्लोज़िंग है… सेलर बहुत कम, ऑलमोस्ट
+  बाहर ही अवेलेबल [है]."* Extends 2022-04-10's closing-print stop location from *where the stops sit* to
+  *who is left standing*.
+- 🔵 **NEW** — ⭐ **the buy-inside-a-downtrend checklist**: either the sellers are properly activated, or
+  **2–3 days of continuous selling → one upside-momentum day → even on a gap-up, wait for selling to reappear
+  after a small retracement**. The corpus's first **counter-trend long condition**, built on *who is afraid*
+  (buyers greedy, sellers fearful in a downtrend) rather than on any oversold measure.
+- 🔵 **NEW** — **the operator is not a cartel**: *"सभी एक जैसे थोड़ी काम करते हैं"* — the method is reading
+  **where others are sitting**, and big capital buys **adjustment room**, not certainty. First explicit
+  rejection of the coordinated-operator story.
+- 🟡 **REFINED** — the **repeatedly-sold resistance** (2022-06-05) gets its **ordering**: sellers keep
+  selling into every rally, the market keeps rising, and *"सेल का [दम] खत्म हो जाता है, तब जाकर कुछ
+  रिट्रेसमेंट मार्केट दिखाता है"* — **exhaustion first, retracement second**.
+- 🟡 **REFINED** — *"the market rises after the weak position is removed"*: the random buyer exits, the
+  retailer cuts at the breakdown, *"उसके बाद मार्केट ऊपर जाने लगा."* The 2022-01-30/02-13 sequence as narrative.
+- 🟢 **STABLE** — buyers activate on structure (breakout / trendline / candlestick / base / pattern);
+  **capital = adjustment capacity, never certainty** (2022-06-18 → 07-02 → here); read the chart for the
+  other participant (this is literally the operator's own stated method); learn by observation, not subscription.
+- ⚠️ **Cross-checks (not contradictions):** (1) 2022-07-03's *a level must be prepared* vs this session's
+  *a move must be prepared* — same observation, level vs move; both dates stand. (2) 2022-04-24's *do not
+  trade after that side's stops are consumed* vs the new buy rule (b) — different objects (index pool vs
+  counter-trend exhaustion), **not averaged.**
+- 📌 **Fidelity:** ⚠️ **`220`** is unresolvable (instrument unnamed, unit unclear) — **not a level, not routed.**
+  *"डिपॉजिट/definition"*, *"किसी के एडिट"*, *"सैलरी साइड पॉसिबल"* are corrupt; the *conclusion* drawn from the
+  "no level available above the open" check is **not recoverable from the audio** — only the *check* is recorded.
+  The **2–3-day** lookback and the **1-minute** close detail are that chart's context. **No P&L, no trade disclosed.**
+- 🔴 **CONTRADICTS: none found.**
+
+> **Evolution verdict:** the corpus moves from *where the positions are* (2022-01-30 → 2022-06-18) to **how a
+> day is opened and who is left in it** — the closing print, the preparation of a move, and fear as the
+> market's working location. ⭐ Durable adds: **the fear axiom**, **the direct-move rule**, **the
+> closing-position rule**, **the operator-is-not-a-cartel read**, and the first **counter-trend long checklist**.
+
+
+**2022-07-10 — How Stop Loss Hunting Works in Stock Trading** 🔵 NEW (index-vs-stock scope + circuits) + 🟡 REFINED
+`cPpIRD3VtXI` · note: `teaching/2022-07-10-how-stop-loss-hunting-works-in-stock-trading-by-.md`
+
+The corpus stops treating the counterparty as an anonymous crowd and asks **which instrument the counterparty
+can actually be**. *"अगर आप स्टॉक ट्रेडिंग में बायर-सेलर के खेल को समझना चाहते हो, तो पहले उस पर्सन को
+समझना पड़ेगा जो इस गेम को चलाता है."*
+
+- 🔵 **NEW (load-bearing)** — ⭐ **the index-vs-single-stock split (a scope rule for the whole method)**: an
+  **index** has high valuation, needs large money (*"छोटे-मोटे पैसे से ऊपर-नीचे नहीं किया जा सकता"*), binds the
+  operator to rules (*"रूल को तोड़ना नहीं होता"*), and puts institutions opposite you (*"गलती करने का कोई भी
+  चांस नहीं होता"* → *"उसको adjust कीजिए, पोज़िशन निकालिए"*, because *"आपसे दुगनी पावर का पर्सन बैठा हो सकता है"*).
+  A **low-valuation single stock** can be run by **one or two parties**, and *"छोटी-मोटी न्यूज़ फैला दी, फंडामेंटल
+  गिरा दिया… पब्लिक ज्यादा डर जाते हैं."* First time the corpus says **which instrument the counterparty can be.**
+- 🔵 **NEW (load-bearing)** — ⭐ **stop-loss hunting in a stock = repeated lower circuits until the buyers'
+  courage is exhausted**: pull up → *"कुछ बायर एक्टिवेट होते हैं"* → slam → lower circuit → set up again →
+  activate buyers again → lower circuit again, *"ताकि बाय जो करना चाहते हैं उनकी हिम्मत खत्म हो जाए"* — then
+  *"जब उनकी हिम्मत खत्म हो जाएगी, तब हम अपनी जो क्वांटिटी उसको लगा देंगे"*, and only then the fundamental carries
+  it. Hunting was previously *a print that takes a level's stops*; here it is **sequential and emotional**.
+- 🔵 **NEW (load-bearing)** — ⭐ **the multi-month footprint**: *"इस पर्टिकुलर डे में [मैनिपुलेशन] नज़र नहीं आएगी,…
+  वन मंथ नज़र न आए, लेकिन दो-तीन महीनों में रिज़ल्ट देखने को मिलेगा."* 2022-05-29 priced the **trader's** time;
+  this prices the **counterparty's** time — and explains why one day's clean chart proves nothing.
+- 🔵 **NEW** — ⭐ **volume as the operator's audience signal**: mark up **5% → 2% → 10%** (cumulative
+  **20–25%**) to draw the public in, and *"वॉल्यूम नज़र आने लगे — तभी पब्लिक का इंटरेस्ट हो गया"*, after which
+  *"5-7 परसेंट और लगाएंगे"* and booking begins. **The rise becomes dangerous exactly when the public arrives.**
+- 🔵 **NEW** — ⭐ **the lower circuit as the operator's EXIT tool**: *"हम लोअर सर्किट लेकर निकाल देंगे — तुरंत अपना
+  माल निकालना शुरू कर देंगे, ताकि दूसरे अपना माल न निकाल पाएं."* And the pre-news move: if good news is known
+  in advance, *"उस स्टॉक को गिरा देंगे"* first, to clear standing positions. **First circuit content in the corpus.**
+- 🟡 **REFINED** — the **capital/valuation test** (2022-06-18's ₹500-crore test; 2022-07-02's capital-vs-psychology)
+  gains a **valuation scope**: not only *who* has the money but *what the instrument is worth* — because a
+  low-valuation stock can be run by one party and an index cannot.
+- 🟡 **REFINED** — **greed** (2022-07-02's expiry temptation; 2022-07-03's greed→fear) gets an **instrument hook**:
+  the tiny unknown stock that *"वापस आ जाएगा"* — *"वहीं पर मार्केट आपको ट्रैक करके [फँसा] देता है."* The trap is
+  now located in the **choice of stock**, before any entry.
+- 🟢 **STABLE** — ⭐ **news creates positioning** (2022-02-13/02-20), now shown from the **manufacturer's side**
+  (*"छोटी-मोटी न्यूज़ फैला दी"*) — the strongest confirmation of the positioning thesis; buyers activated by
+  structure (the operator's own use of it); capital = adjustment room; **the 50% boundary**, second consecutive session.
+- ⚠️ **Cross-check (not a contradiction):** 2022-07-02 said **news is already priced**; this session shows news
+  being **manufactured**. Different objects — *the market's processing of a public event* vs *the operator's use
+  of a news item to move the public* — **both dates stand, not averaged.**
+- 📌 **Fidelity:** ⚠️ *"304 रुपये"* (operator capital), *"625 … 400"* (a price path, **NOT levels**), *"12 बार
+  लोअर सर्किट"* (almost certainly 1–2), *"दो से चार सो गया"*, *"10 मंदिर"*, *"निफ्टी का टॉप लेडीस"* (contextually
+  Nifty 50 / Next 50) are **corrupted or unit-less — reproduced as heard, not corrected, not used.** The
+  5%/2%/10%/20–25%/5–7% ladder is his **illustration** of an operator's method. **No levels routed to `levels-log/`;
+  no entry, exit, size, outcome or P&L recorded.**
+- 🔴 **CONTRADICTS: none found.**
+
+> **Evolution verdict:** the corpus asks **what you are trading** before it asks where the trade is, and answers
+> with a scope rule (index = rules and many parties; low-valuation stock = one or two parties and a circuit) plus
+> the operator's two full sequences — **mark-up to attract the public** and **repeated lower circuits to exhaust
+> the buyers**. ⭐ Durable adds: **the index-vs-stock split**, **circuit-based hunting**, **the multi-month
+> footprint**, **volume as the audience signal**, **the circuit exit tool**, and **the instrument-side greed hook**.
+
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -816,21 +974,33 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 1. **Levels are missing from the 2021–2022 corpus** (ASR quality). If levels matter to the
    method, early videos may need manual level extraction from the visuals, not the audio.
 2. Named clusters already spotted and awaiting chronological processing:
-   stop-loss hunting (**6 videos**: #1, 2, 3, 21, 25, 36 — #3 processed 2022-02-13, the rest pending),
-   Support & Resistance Master Course, Price Action vs Indicators, operator/market traps,
+   stop-loss hunting (**6 videos**: #1, 2, 3, 21, 25, 36 — #3 processed 2022-02-13, **#21 processed
+   2022-07-03**, **#36 processed 2022-07-10** — #25 (2022-09-04, *How Operators Take Advantage Of
+   Intraday Traders Weakness*) still pending),
+   Support & Resistance Master Course (**next video, #24, 2022-08-06**), Price Action vs Indicators,
+   operator/market traps (**#21–#23 processed — the "operator" thread is now open**),
    **Retracement & Reversal** (✅ first video processed — **#18, 2022-06-11**),
    Trading Psychology, Chart Rules, Option Trading.
 3. The corpus likely contains **contradictions by construction** (a 2021 view vs a 2026
    view). The 🔴 mark exists for exactly that — do not average them.
+4. **The circuit / single-stock arena is new (2022-07-10) and unverified**: circuit-based hunting,
+   the multi-month footprint and the "high-valuation / F&O names only" scope rule are all stated
+   once, in a 2022 session, and no later processed video has tested them. Check them against the
+   operator videos still queued (#25, and the undated `Nlw85C_wufs` / `o1cU-YPL9pc` / `m79HfFq8ibY`
+   SL-hunting set) before treating them as settled.
+5. **The session clock (11:00 cut / 12:00–15:00 window, 2022-07-03) is single-session evidence** and
+   sits uneasily beside 2022-05-08's 10–20-minute option-buyer time rule. Both dates stand; confirm
+   from later videos whether the window is a rule or that day's observation.
 
 ---
 
 ## Progress
 
-| | |
-|---|---|
-| Corpus size | **191 videos** |
-| Processed | **20** |
-| Remaining | **171** |
-| Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` |
-| Status file | `ih_teaching/manifest.json` |
+| | | |
+|---|---|---|
+| Corpus size | **191 videos** | |
+| Processed | **23** | |
+| Remaining | **168** | |
+| Next (chronological) | `20220806 eaCop70yD3s` Support and Resistance Levels Master Course | |
+| Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
+| Status file | `ih_teaching/manifest.json` | |
