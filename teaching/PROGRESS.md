@@ -9,8 +9,8 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **20** |
-| Remaining | **171** |
+| Processed | **23** |
+| Remaining | **168** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -44,16 +44,19 @@ only from recent daily notes; this is the other half.
 - `20220611` **How To Take Trade on RETRACEMENT & REVERSAL in Stock Market By Intraday Hunter** — [`Eo-1OOVpX30`](https://www.youtube.com/watch?v=Eo-1OOVpX30)
 - `20220618` **Reality of STOPLOSS HUNTING Strategy By Intraday Hunter** — [`4vYGOe8ui_8`](https://www.youtube.com/watch?v=4vYGOe8ui_8)
 - `20220702` **Hero Zero Trading is Right or Wrong in Stock Market By Intraday Hunter** — [`IMZuRZN7XzU`](https://www.youtube.com/watch?v=IMZuRZN7XzU)
+- `20220703` **How Market or Operator Trap Buyer and Seller Position By Intraday Hunter** — [`37Fh2gDpBxA`](https://www.youtube.com/watch?v=37Fh2gDpBxA)
+- `20220709` **How Operator Handle the Stock Market By Intraday Hunter** — [`gXlOOh-ZtmY`](https://www.youtube.com/watch?v=gXlOOh-ZtmY)
+- `20220710` **How Stop Loss Hunting Works in Stock Trading By Intraday Hunter** — [`cPpIRD3VtXI`](https://www.youtube.com/watch?v=cPpIRD3VtXI)
 
 ## Next up (chronological)
-1. `20220703` **How Market or Operator Trap Buyer and Seller Position By Intraday Hunt**
-2. `20220709` **How Operator Handle the Stock Market  By Intraday Hunter**
-3. `20220710` **How Stop Loss Hunting Works in Stock Trading By Intraday Hunter**
-4. `20220806` **Support and Resistance Levels Master Course By Intraday Hunter**
-5. `20220904` **How Operators Take Advantage Of Intraday Traders Weakness**
-6. `20220910` **How To Trade Using Volume and Candlestick By Intraday Hunter**
-7. `20220917` **OPTION TRADING STRATEGY BY INTRADAY HUNTER**
-8. `20220918` **Trading Psychology of Intraday Trading by Intraday Hunter**
+1. `20220806` **Support and Resistance Levels Master Course By Intraday Hunter**
+2. `20220904` **How Operators Take Advantage Of Intraday Traders Weakness**
+3. `20220910` **How To Trade Using Volume and Candlestick By Intraday Hunter**
+4. `20220917` **OPTION TRADING STRATEGY BY INTRADAY HUNTER**
+5. `20220918` **Trading Psychology of Intraday Trading by Intraday Hunter**
+6. `20220924` **How To Make Big Capital in Intraday Trading**
+7. `20220925` **How I Trade in Stock Market MasterClass by Intraday Hunter**
+8. `20221008` **How Stock Market Brainwash A Trader | By Intraday Hunter**
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
