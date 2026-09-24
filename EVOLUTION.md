@@ -1244,6 +1244,171 @@ windfall: *"पैसा बनने की शुरुआत हमेशा 
 > **plan-your-trade completed by the market's own plan**.
 
 
+**2022-09-25 — How I Trade in Stock Market MasterClass** 🔵 NEW (trade-building procedure + pool-formation time) + 🟡 REFINED + 🟢 STABLE
+`lZ3ozXuKtkA` · note: `teaching/2022-09-25-how-i-trade-in-stock-market-masterclass-by-intra.md`
+
+The corpus's first **procedural masterclass**: it stops describing what a trade *is* and states the **order of operations** that
+produces one. He walks four trades from that week and narrates the decision sequence, not the outcome.
+
+- 🔵 **NEW (load-bearing)** — ⭐ **the trade-building sequence, with a hierarchy**: (1) what psychology/mindset is running;
+  (2) **where stop-losses are available — and where they are NOT**; (3) what the candle/pattern is doing; (4) the chart questions
+  (who comes in on a level cross, cross-index behaviour, expiry-day status). His weighting: *"जो मेरा मेजर ट्रेड होता है, वह ज्यादा
+  डिसाइड करते हैं — साइकोलॉजी क्या है और मार्केट के अंदर स्टॉपलॉस कहां पे अवेलेबल है"*, and the demotion of the candle:
+  *"कैंडलेस्टिक का जो काम होता है वह स्टॉप लॉस को फाइंड आउट करने का ही काम होता है."* Every earlier session *used* this order;
+  this is the first that **states** it — and it settles the practitioner side of 2022-02-19 (*price action vs indicators*).
+- 🔵 **NEW (load-bearing)** — ⭐ **time as the raw material of a stop pool**. He refuses a buy at a closing-price rejection where
+  *"स्टॉप लॉस तो यहां पर सैलरी मिल जाएंगे"* — because *"क्या सैलरी को यहां पे मार्केट में टाइम दिया?"* The rejection candle, the
+  red candle that followed, and the conversion of that candle green mean **nobody got seated**: no pool, no target. He wants a
+  *"मेजर स्टॉप फ्लो"* **because he wants a target**, and a fast up-down manufactures nothing. 2022-02-06/02-13 said pools are
+  *created*; this supplies the missing condition — **formation requires time**.
+- 🔵 **NEW** — ⭐ **the momentum-continuation law stated as probability**: *"जितना फास्ट मोमेंटम, उसी साइड मार्केट के जाने की
+  प्रॉपर्टी बढ़ जाती है"* — never plan the opposite. The **single exception** is a psychology/mindset point, and he is explicit
+  that it is visible *neither on the chart nor in the option chain*.
+- 🔵 **NEW** — ⭐ **a risk licence tied to account state**: profit-makers and profit-loss-profit-loss traders may carry the
+  counter-momentum trade; beginners in training and traders in a loss phase may not (*"तब आपको इस प्रकार की अपोजिट ट्रेड नहीं लेनी
+  चाहिए"*). First time a **specific setup** is gated by the trader's account state.
+- 🟡 **REFINED** — 2022-09-18's cross-index rule becomes an **exit trigger under load**: *"निफ्टी ने एक लेवल का ब्रेकडाउन बड़ा ही
+  जल्दी दे दिया … और मेरी पोज़िशन ज्यादा बैंक निफ्टी में होती है"* ⇒ cut, with the target met. The index that is **not** carrying
+  the money decides the exit.
+- 🟡 **REFINED** — *never target the consumed side* (2022-03-20 → 2022-04-24) gets its **object**: *"जो यहां सेलिंग करके बैठा था,
+  उसको यहां तक प्रॉफिट नज़र आ चुका है … जब मार्केट ने रिकवरी किया होगा तो ये निकल गया होगा."* A side that has seen its profit
+  **has exited** and is no longer a pool.
+- 🟡 **REFINED** — 2022-02-27's *engineered* print is generalised into a narration: the market was taken up deliberately
+  (*"जानबूझकर मार्केट ऊपर लेकर गया"*) to create the seller inventory later eaten; his own loss became the **confirmation** that a
+  seller was sitting there.
+- 🟢 **STABLE** — ⭐ **trade only where the stops are visible / refuse where they are absent** (2022-01-30 → 2022-09-18), in its
+  negative form — the rejection bought *after* time was given, never before; **the market travels to the side with more available
+  stops** (2022-03-20 → 2022-09-18) as *"नीचे सेलिंग साइड में पावर है, ऊपर पावर ही नहीं है"*; **never plan the opposite of a
+  one-way move** (2022-04-10/04-24); **build your own thing** (2022-04-23); **luck exists** (2022-07-02).
+- ⚠️ **CROSS-CHECK (recorded, NOT resolved) — profit as licence vs profit as no-licence:** 2022-09-04 (*whose money decides which
+  method you may copy*) and 2022-09-24 (*the "market's money" fallacy*: a profit gives **no** licence) both treat profit as money
+  that must not loosen play; this session grants a profit-maker an **explicit licence** to carry the counter-momentum risk. The
+  objects differ (a random windfall-financed trade vs a defined psychology-point trade carried with a stop) but the two dated
+  readings pull opposite ways. **Both stand; for Amit to adjudicate.**
+- 📌 **Fidelity:** ⚠️ **two mutually inconsistent Bank Nifty level fragments — `41 520` and `40 430` / `40520 30 40`** — are
+  ASR-uncertain and day-specific (Sept 2022); the **structure** (a level below which the selling side has power) is reliable, the
+  **number** is not. **Nothing routed to `levels-log/`; no entry, exit, size, strike or closed P&L asserted.** ASR set: सैलरी =
+  seller, वायर = buyer/writer, टॉपलेस = stop-losses, अंग्रेजी = average, एक्सेल हंटिंग = SL-hunting, पुलिस मोमेंटम = positive
+  momentum.
+- 🔴 **CONTRADICTS: none found** on substance.
+
+> **Evolution verdict:** ⭐ Durable adds: **the build sequence with the candlestick demoted to a stop-loss-locating tool**,
+> **time as the raw material of a pool**, **the momentum-continuation law with one psychology-point exception**, and **a risk
+> licence tied to account state**. ⚠️ One cross-check opened against 2022-09-04 / 2022-09-24 and left standing.
+
+
+**2022-10-08 — How Stock Market Brainwash A Trader** 🔵 NEW (the comfort rule + aggression decay) + 🟡 REFINED + 🟢 STABLE
+`8OQccQxgnu4` · note: `teaching/2022-10-08-how-stock-market-brainwash-a-trader-by-intraday-.md`
+
+The corpus moves from *what a trap is* to **how the trap is built** — and how the trader's own aggression should decay inside it.
+He had been selling the whole week aggressively enough that the trade was built by ~9:15, *"चाहे गैप अप हो, गैप डाउन हो."*
+
+- 🔵 **NEW (load-bearing)** — ⭐ **the comfort rule**: *"जहां पर आपको कंफर्ट लगने लगे कि मार्केट ऐसा अब करेगा, तो वहां पर मार्केट काम
+  ही नहीं कर सकता — क्योंकि वहां पर सभी लोगों को कंफर्ट आ जाता है"* (unless a bigger plan requires the market to pay there).
+  A genuinely new **filter on setups**, and the reason behind 2022-09-18's *the visible trade is never the trade*: the visible
+  trade **is** the comfortable trade. Corollary: *"सेलिंग का कोई भरोसा नहीं होता कि रिप्लेसमेंट होगा या नहीं"* — **no guarantee of
+  a retracement**, and no comfort even if it arrives.
+- 🔵 **NEW (load-bearing)** — ⭐ **the chart as the instrument that installs the belief**, with its build phase: 10–15 days in which
+  every gap was covered while the global market was negative produced the belief sentence *"स्टॉक मार्केट और इंसान तो ऊपर ही जाता
+  है"*; then *"ट्रेड इस वाले चार्ट को नहीं देख रहा था — वह 10 से 15 दिन वाले चार्ट को देख रहा था"* and averaged into the fall. And
+  the causal claim: *"मार्केट में चार्ट इसीलिए बनाया था, ताकि वो ऐसा कर पाए."* 2022-09-18 named *print → belief → parked stops*;
+  this adds the **construction period** — the trap is designed, not accidental.
+- 🔵 **NEW (load-bearing)** — ⭐ **aggression scales inversely with how public the move is**: *"जब सभी को नज़र आने लगे कि अब
+  मार्केट में सेलिंग हो सकती है, फिर आप अपना धीरे-धीरे [साइज़] कम करते जाइए."* Third sizing variable in the corpus, and the first
+  driven by **crowd visibility** rather than account progress (2022-04-23's ladder, 2022-09-24's one-lot-at-a-time).
+- 🔵 **NEW** — ⭐ **the second-round trap (the rebuilders)**: after the buy side is destroyed — *"वह भी डर जाता है, वह भी अपनी
+  पोज़िशन काट लेता है"* — the failures **rebuild the losing side** (*"मार्केट ने ब्रेकडाउन दिया है, तो क्यों न मैं यहां पे सेलिंग
+  करने का प्लान बनाऊं"*) and the very next day's gap-up punishes them. 2022-02-06 said *crossing a high forms new positions*;
+  2022-04-10 said *positions get built that should never exist*; this names their **emotional supply**.
+- 🔵 **NEW** — ⭐ **sharp/vertical moves are hard for the market to cover back** (*"शार्प सेलिंग … में मार्केट को वापस कवर करना थोड़ा
+  सा मुश्किल हो जाता है"*) — the reason he was comfortable being aggressive in that window, and a reason the retracement may
+  simply never come.
+- 🟡 **REFINED** — *never target the consumed side* becomes a **writer-distance** argument on a big gap-up: *"जो वायर बैठे हैं उनका
+  डिस्टेंस बहुत ज्यादा हो जाएगा, सैलरी यहां ऑलरेडी ट्रैप हो चुके हैं — तो इस तरफ काम नहीं होगा, बाय के बारे में सोचना पड़ेगा."*
+- 🟡 **REFINED** — 2022-09-24's *the market's plan must be visible* restated as an entry gate: *"सोचने से कुछ नहीं होता, मार्केट में
+  नज़र आना चाहिए"* — he waited for the vertical print before buying on a day he had already decided the buy side was the only
+  side.
+- 🟢 **STABLE** — ⭐ **the crowd's positions are the fuel**, now as the **symmetric operating law**: *"जब दूसरे लोग अपोजिट करने के
+  लिए तैयार हों, तब आप मार्केट के साथ चलने के लिए तैयार हो जाओ; और जब वो मार्केट के साथ चलने के लिए तैयार हों, तब आप अपोजिट करना
+  शुरू कर दो."* Also STABLE: **cut when wrong, never average** (2022-02-06 → 2022-09-18) with the anti-argument named —
+  *"मार्केट इतना गिर चुका है, अब रिकवरी होनी चाहिए"*; **expiry as a clock** (selling continued *until the monthly expiry completed*
+  — 2022-02-06 → 2022-09-18); **learning vs earning** (*"एक साल बाद वही रहेंगे"* — 2022-04-23 → 2022-09-04).
+- ⚠️ **CROSS-CHECK (recorded, NOT resolved):** 2022-09-24 required the **market's plan to match** and to act only on an opening
+  that fits; this session describes trading one-way — selling only — *"चाहे गैप अप हो, गैप डाउन हो, कैसा भी कैंडल बन रहा हो."*
+  They reconcile only if the momentum itself is read as the market's plan (which the words *"जब तक सेलिंग नज़र आ रही है"* imply),
+  but that reconciliation is an **interpretation, not his statement. Both dates stand.**
+- 📌 **Fidelity:** no usable levels; the only numbers are scale talk — *"हजार पॉइंट नीचे, 2000 पॉइंट नीचे"*, *"दो-तीन दिन में कवर"*,
+  *"10 से 15 दिन"*. ⚠️ The two-sided/hedged-position passage (*"पोज़िशन होगी … बाय भी क्या होगा, सेल भी क्या होगा"*) and
+  *"मैग्नीफाई"* are ASR-unclear — **recorded as leads only; NOTHING routed to `levels-log/`; no entry, exit, size or P&L.**
+- 🔴 **CONTRADICTS: none found** on substance.
+
+> **Evolution verdict:** ⭐ Durable adds: **the comfort rule**, **the chart as the belief-installing instrument**, **aggression
+> scaling inversely with public visibility**, **the second-round trap of rebuilders**, and **vertical moves being hard to
+> cover**. ⚠️ One cross-check opened against 2022-09-24 and left standing.
+
+
+**2022-10-16 — Price Action Trading Weekly Masterclass** 🔵 NEW (operator sequencing + price action's missing exit) + 🟡 REFINED + 🟢 STABLE
+`32f4S7KqwPA` · note: `teaching/2022-10-16-price-action-trading-weekly-masterclass-by-intra.md`
+
+The corpus's most complete **operator-sequencing** session: not only where the stops are, but **in what order the market takes
+them and who it invites in next**. Opening thesis: ⭐ *"जो चार्ट बनता है, वह ट्रेड के माइंडसेट के अकॉर्डिंग बनता है."*
+
+- 🔵 **NEW (load-bearing)** — ⭐ **the repeated-breakout courage ladder**: the **first** breakout accumulates the crowd; the
+  **second** traps the retracement-buyers (*"काफी लोग रिट्रेसमेंट बाय के बाद डायरेक्टली बाय करते हैं, फंस जाते हैं"*); by the
+  **third** *"उनकी हिम्मत ही नहीं होती … अब यहां बाय ही नहीं कर पाएंगे"* — **courage is spent before the real move**, and the market
+  leaves without them. They then wait for a retracement that never comes, and a **closing-price rejection** traps the late
+  sellers. This is the operator-side account of 2022-04-02's *temptation rule* (a setup handed to you repeatedly is a trap) —
+  the same observation, now explained as **intentional exhaustion**.
+- 🔵 **NEW (load-bearing)** — ⭐ **extraction sequencing: collect one side, then invite the other.** *"मार्केट ने पहले सेलर का पैसा
+  निकाला, उसके बाद बायर को अच्छा खास यहां पे टाइम दिया — चलो तुम मुझे बाय कर लो."* The market's exit is preceded by an **open
+  door** for the opposite side; and the buyer who will not cut *"क्योंकि उसे लगता है मार्केट रिट्रेसमेंट करेगा … लेकिन मार्केट उनको
+  निकलती ही दम लेता है."*
+- 🔵 **NEW (load-bearing)** — ⭐ **price action has no built-in exit**: *"प्राइस एक्शन का कोई अता-पता नहीं होता"*, whereas an
+  indicator mechanically shows the cross — and *"आपको रोकने वाला कोई नहीं होता."* The corpus has defended price action since
+  2022-02-19; this is the first session that states its **structural disadvantage**, and the strongest case yet that the
+  **stop-loss discipline, not the chart, is the trader's protection.**
+- 🔵 **NEW** — ⭐ **the absence of opposing inventory licenses the attempt**: *"हो सकता है कोई ब्रेकआउट हो जाए, मेरा लॉस हो जाए —
+  लेकिन यहां पे ऊपर स्टॉप लॉस नहीं हैं, तो मैं यहां पर कोशिश ज़रूर करूंगा."* 2022-04-24 ranked the counterparty's stop above your own
+  for **placement**; this uses the counterparty's **absence** as the reason to try (with a defined stop).
+- 🔵 **NEW** — ⭐ **hero-zero answered**: 90–95% of traders asked which trade they would take to play hero on expiry pick the
+  side of the **visible momentum** (buy calls), because they think the market *should* recover; the market *invites* exactly that
+  behaviour (*"हीरो-ज़ीरो खेलेंगे? चलो आ जाओ"*) and can zero them in either direction. **No point playing hero until you can read
+  the sentiment.**
+- 🔵 **NEW** — ⭐ **the trapped participants are the day's asset**: *"गैप डाउन से ज्यादा मतलब है एक्सपायरी का, और एक्सपायरी से
+  ज्यादा मतलब है यहां जो ट्रैप करके बैठे हैं — क्योंकि अगर आज मार्केट इनको छोड़ दिया, तो आगे मिलेंगे नहीं."* Expiry is read as the
+  **last chance to reach a specific inventory.**
+- 🟡 **REFINED** — ⭐ **the retracement's distance, not its existence, decides the side**: *"जो रिट्रेसमेंट इतना हो चुका था कि आसपास
+  ये लेवल नज़र आने लगा था, तो प्रोबेबिलिटी बन चुकी थी … हो सकता है इसका ब्रेकआउट देखने को मिले."* 2022-09-25's breakout-vs-rejection
+  fork needed the same judgement; here the **measuring variable is named.**
+- 🟡 **REFINED** — the expiry read from the writer's side (2022-09-18 → 2022-10-08) gains **queue logic**: the call writers have
+  *already exited*, therefore *"अब पुट राइटर हमें मिल जाएंगे"* — read the chain for **who is still standing**.
+- 🟡 **REFINED** — 2022-09-25's *never take the opposite of a sharp move* is restated more absolutely (*"आपका सेंटीमेंट कुछ भी बोले,
+  उसको करना ही नहीं है"*) and applied to himself twice — including an **admitted loss** on a sell attempt that converted green
+  (*"मुझे लॉस भी देखना पड़ा"*), later recovered into a profitable exit. 🔵 *The rule is now being used as self-restraint after
+  being wrong*, one week after it was taught.
+- 🟢 **STABLE** — ⭐ **the chart records the trader's mindset** (2022-09-18, 2022-10-08), now the **opening thesis** of a price-action
+  masterclass; **buy where the sellers' stops are** (the green candle after selling, with the retracement *adding* to the seller
+  crowd); **cut when wrong** as *"स्टॉप लॉस एक मशीन है जो आपका पैसा बचाती है — सेंटीमेंट, चार्ट, टेक्निकल कुछ भी हो, पोज़िशन गलत हो
+  तो काटो"*; **observation is the only route** (2022-04-10 → 2022-07-02 → 2022-09-04) as *"दूसरा कोई रास्ता नहीं है."*
+- ⚠️ **TENSION (recorded, NOT resolved — new):** *"यहां आसपास कोई स्टॉप अवेलेबल नहीं थे … लेकिन सेंटीमेंट ऐसा बना हुआ था कि यहां बाय
+  किया जा सकता था"* — as spoken, a **sentiment-led trade taken where no stop inventory was available**, which cuts against the
+  spine (2022-01-30 → 2022-04-24 → 2022-09-25). The sentence is ASR-ambiguous (it may mean *no stop inventory around on either
+  side* or *no nearby place for his own stop*). **Recorded both ways; not averaged; for Amit to adjudicate.**
+- ⚠️ **CROSS-CHECK (recorded, NOT resolved — new) — the averaging softening:** 2022-10-08 treats averaging as the mistake to be
+  avoided; this session says *"जरूरी है कि अपनी पोज़िशन को एवरेज करने में … देखोगे कि **कब** लेना है."* As spoken it is a
+  **condition on a behaviour the corpus otherwise forbids**, not an endorsement. **Both dates stand.**
+- 📌 **Fidelity:** day-specific chart references only — **10 October** and **14 October**. ⚠️ The rupee figures — *"50 से 60 हजार का
+  लॉस नज़र आ रहा था, 70 हजार का टोटल रिस्क, 70 से 80 हजार चला जाता, 90,000 चला जाता"* — are his **stated live/unrealised risk** on
+  that expiry-day short, reported for realism: **not a P&L claim, not a size table**; *"90 से 95%"* is an estimate of how many
+  traders would pick the call side, **not a win rate**. **Nothing routed to `levels-log/`; no entry, exit or strike asserted.**
+- 🔴 **CONTRADICTS: none** beyond the two items above, neither of which is a clean reversal.
+
+> **Evolution verdict:** ⭐ Durable adds: **the repeated-breakout courage ladder**, **collect-one-side-then-invite-the-other**,
+> **the absence of opposing inventory as the licence to act**, **the trapped participant as the expiry day's asset**,
+> **hero-zero answered**, and **price action's missing exit**. ⚠️ One tension (sentiment trade without stop inventory) and one
+> cross-check (averaging) opened and left standing.
+
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -1283,6 +1448,12 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
    **✅ #28 (2022-09-18) and #29 (2022-09-24) also done** — note #28 shipped as a *Trading Psychology*
    title but is in fact an execution debrief of his own week's trades, and #29 is profit/capital
    psychology, not mechanics).
+   **✅ #30 (2022-09-25), #31 (2022-10-08) and #32 (2022-10-16) also done** — #30 is the
+   **trade-building masterclass** (procedure, pool-formation time, risk licence by account state), #31 is the
+   **brainwash / comfort-rule** session (how a trap is built, aggression decay), #32 is the
+   **operator-sequencing** price-action session (courage ladder, extraction order, price action's missing
+   exit). **None of the three touched the circuit / single-stock material either** — after #24–#32 the
+   2022-07-10 circuit rules remain single-session evidence.
 3. The corpus likely contains **contradictions by construction** (a 2021 view vs a 2026
    view). The 🔴 mark exists for exactly that — do not average them.
 4. **The circuit / single-stock arena is new (2022-07-10) and unverified**: circuit-based hunting,
@@ -1311,6 +1482,23 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
    (index-pair divergence vs a volume-confirmed breakout in one instrument) — **both dated statements
    stand, neither averaged.** Confirm from later sessions whether the divergence read is a general
    cross-index rule or that week's observation.
+8. **NEW (opened 2022-09-25) — profit as LICENCE vs profit as NO-LICENCE.** #30 (*How I Trade in Stock Market MasterClass*)
+   grants a **profit-making** trader an explicit licence to carry the counter-momentum risk, and denies it to a beginner or a
+   loss-phase trader. 2022-09-04 (*whose money decides which method you may copy*) and 2022-09-24 (*the "market's money" fallacy*:
+   a profit buys **no** looser play) both pull the other way. The objects differ (a defined psychology-point trade carried with a
+   stop vs a random windfall-financed trade) but the readings are opposite. **Both dated statements stand, not averaged.**
+9. **NEW (opened 2022-10-08) — "the market's plan must match" vs one-way trading.** 2022-09-24 required the market's plan to be
+   visible and to act only on an opening that fits; #31 describes trading the whole week *selling only*, *"चाहे गैप अप हो, गैप डाउन
+   हो, कैसा भी कैंडल बन रहा हो."* They reconcile only under an interpretation (the momentum itself *is* the market's plan) that he
+   does not state. **Both dates stand.**
+10. **NEW (opened 2022-10-16) — two items, both from #32.**
+    (a) **Sentiment trade without stop inventory:** *"यहां आसपास कोई स्टॉप अवेलेबल नहीं थे … लेकिन सेंटीमेंट ऐसा बना हुआ था"* — as
+    spoken a sentiment-led trade where no pool was available, against the spine (2022-01-30 → 2022-09-25). ASR-ambiguous: it
+    may mean *no inventory on either side* or *no nearby place for his own stop*. **Not averaged; needs a later sentiment /
+    price-action session.**
+    (b) **Averaging softening:** 2022-10-08 treats averaging as *the* mistake to avoid; 2022-10-16 says *"जरूरी है कि एवरेज करने
+    में देखोगे कि कब लेना है"* — a **condition** on a behaviour the corpus otherwise forbids. Not an endorsement, but not the
+    prohibition either. **Both dates stand.**
 
 ---
 
@@ -1319,8 +1507,8 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **29** | |
-| Remaining | **162** | |
-| Next (chronological) | `20220925 lZ3ozXuKtkA` How I Trade in Stock Market MasterClass by Intraday Hunter | |
+| Processed | **32** | |
+| Remaining | **159** | |
+| Next (chronological) | `20221022 5ek3m09Vy-Y` Do Not Try to Recover Losses in Stock Market by Intraday Hunter | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
