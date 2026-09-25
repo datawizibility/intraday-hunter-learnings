@@ -1579,6 +1579,171 @@ you disagree — and **in what order the inputs rank**.
 > (divergence used to hold vs to cut) opened as open question 11; the `41 200` passage left standing as spoken.
 
 
+**2022-11-12 — Rules of Chart Masterclass** 🔵 NEW (anti-mechanical rule set) + 🟡 REFINED + 🟢 STABLE
+`dlGOa28haw0` · note: `teaching/2022-11-12-rules-of-chart-masterclass-by-intraday-hunter.md`
+
+The session where the corpus turns its own rules around and looks at the back of them: every failure that week is traced
+to **a plan carried in from a rule** rather than built from the market's condition.
+
+- 🔵 **NEW (load-bearing) — the front-end rule for the opposite trade.** *"जब भी मार्केट में आपको अपोजिट रेट लेना हो तो आप
+  प्लान बना के मत जाना."* 2022-11-06 supplied the **reversal procedure** (participant read → chart → the plan you brought);
+  this supplies the **pre-entry prohibition**: the opposite side cannot be planned at home at all. His stated reason:
+  *"अगर आपने मार्केट के साथ चलना सिख लिया, तो कभी-कभी गलत हो जाओगे, लेकिन जो प्रोबेबिलिटी रहेगी वो हमेशा आपके [पक्ष] में
+  रहेगी."*
+- 🔵 **NEW — a big gap licenses no direction.** *"जब हम एक बड़ा गैप मार्केट के अंदर मिलता है, तो वहां पे हम डायरेक्टली ये प्लान
+  नहीं बना सकते की मार्केट गिरेगा"* — first allow for **opposite momentum** (*"क्या पता कोई अपोजिट का मोमेंटम आए"*), and
+  keep more attention on the moving instrument. An **around/flat** opening is the opposite case: *"अगर आसपास मार्केट ओपन हो
+  जाता है, फिर तो मार्केट में बायर को कैप्चर करने की उम्मीद ज्यादा रहती है."* ⚠️ The corpus has read gaps as *evidence*
+  (2022-04-02/23, 2022-09-17, 2022-11-06); this makes the **size of the gap a gate on whether a direction plan may be made
+  at all.** Different objects; **both dated readings stand.**
+- 🔵 **NEW — the expiry-day writer-exit mechanic.** *"एक्सपायरी का दिन होता है, तो यहां पर कुछ राइटर बैठे हो, उनको भी
+  निकलने के लिए मार्केट आ जाता है; कुछ ऊपर वालों को भी निकलने की कोशिश करता है."* The first fresh explicit expiry-structure
+  input in the teaching corpus (2022-09-17 covered strikes/SL/decay, not who needs an exit). **One expiry, one reading.**
+- 🔵 **NEW — the self-attributed loss with a priced counterfactual.** *"अगर ब्रेकडाउन के बाद ही हम ट्रेड करें, तो बहुत ही अच्छा
+  एक ट्रेड मिलता — ₹1 का भी लॉस नजर नहीं आता … लेकिन मैंने वेट नहीं किया, तो उसका मुझे भुगतान करना पड़ा, मुझे लॉस देखना
+  पड़ा."* Every earlier loss in the corpus is reported causelessly (2022-10-16, 2022-10-22, 2022-10-30, 2022-11-06). ⭐ **First
+  time he names the loss as the price of ignoring his own stated rule** — evidence that *waiting for confirmation after a
+  level cross* is a rule, not a preference.
+- 🟡 **REFINED — the round number becomes a place to WAIT, not a place to act.** 2022-11-06 used the crowd's attention-order
+  (*breakout seen before closing price*) to justify selling a cross; here it makes him **wait for the breakdown**. Same
+  mechanism, opposite execution, one week apart. ⚠️ **Recorded as a tension, not resolved** (see open question 13, new).
+- 🟡 **REFINED — "the chart that is not forming the expected pattern"** (2022-09-18 → 2022-10-30): the rare
+  sell-into-recovery rhythm is the stated reason he **refused a direct plan**: *"सेलिंग आकर वैसा ही आना बड़ा मुश्किल [मिलता
+  है]."*
+- 🟡 **REFINED (scope) — positional vs intraday.** 2022-01-30 said **intraday only** and excluded positional; here both are
+  allowed, with size split *big in the mode you like, small in the other*, and the choice called a mindset question.
+  About **where size is deployed**, not the method — but a change of stated scope. **Both dated statements stand** (open
+  question 12, new).
+- 🟢 **STABLE** — the plan you arrived with is the lowest-ranked input (*"पहले वो प्लान का देखेंगे, अगर वो नहीं बन रहा है, फिर
+  हम चार्ट को देखेंगे"*, matching 2022-09-24 / 2022-10-08 / 2022-11-06); *"जैसा मार्केट वैसा प्लान"* (2022-02-19 → 2022-09-24);
+  the closing price as the crowd's resting place (2022-04-02/23 → 2022-11-06); *decisions are built slowly* (2022-04-10 →
+  2022-11-06); **a loss admitted without ceremony**.
+- 📌 **Fidelity:** ⚠️ level as spoken — **`42,000`** (round number, market opening above it). **No instrument named**; the
+  session is a Bank Nifty walkthrough and Bank Nifty traded ~41,000–43,000 in Nov 2022 ⇒ *plausible*, **inference, not
+  statement**. ⚠️ `"एसडीएक्स"` (the index with the opening gap) is **ASR-unresolved** (probably Sensex). The
+  `₹10,000 / ₹20,000` figures are a **hypothetical sizing example** (ASR *"लोन"* for *"लॉस"*), **not P&L**. **No real P&L,
+  size, strike or price is spoken.** Nothing routed to `levels-log/`.
+- 🔴 **CONTRADICTS: none found** on substance.
+
+> **Evolution verdict:** the corpus's **anti-mechanical** session. ⭐ Durable adds: *"जैसा मार्केट वैसा प्लान"*, **never arrive
+> carrying the opposite plan**, **a big gap licenses no direction**, **wait for the breakdown after a round number**, **ask
+> who needs an exit on expiry day**, and the **priced counterfactual** for breaking his own wait rule. ⚠️ Two tensions
+> recorded, not resolved (round-number wait-vs-act; the 2022-01-30 intraday-only scope).
+
+---
+
+**2022-11-20 — How to Trade with Time** 🔵 NEW (time as an input) + 🟡 REFINED + 🟢 STABLE
+`jm5u75xXSS0` · note: `teaching/2022-11-20-how-to-trade-with-time-by-intraday-hunter.md`
+
+The missing input, named after 36 sessions. The parameter is not price — it is **the length of the day**.
+
+- 🔵 **NEW (load-bearing) — the trading day is a fixed-length shift that somebody has to fill.** *"मार्केट को ट्रेड करना है 6
+  घंटे से ऊपर, तो मार्केट कंटिन्यू 3:30 [बजे] तक बाय साइड में मोमेंटम पर नहीं होगा."* Every earlier session reasoned *where*
+  the crowd is (stops, levels, closing price, zones); this reasons **when the crowd must be released**.
+- 🔵 **NEW (load-bearing) — the operator simulation, run FORWARD.** *"आपको ये ऑपरेटर बन्ना पड़ेगा … क्या आप इस लेवल का ब्रेक
+  आउट इतना जल्दी कर सकते थे?"* 2022-11-06 counted **points on both sides** (static); this adds the **sequential** test.
+  ⭐ **A plan whose size cannot be exited by the operator who owns the day is not a plan.**
+- 🔵 **NEW — the exit-liquidity constraint as a rule.** *"जहां पर जस्ट एक जैसा सेंटीमेंट हो जाए, वहां पर आप अपनी क्वांटिटी
+  नहीं निकाल सकते."* 2022-02-06 had the **market-side** version (fills need counterparty quantity); this is the
+  **trader-side** version — **your own size constrains the setup you may take.**
+- 🔵 **NEW — an explicit entry-time window.** Earliest **after 9:40** (*"कम से कम 9:40 के बाद ही ट्राई करना है"*), best to
+  **~10:20**, and the classic **10:00–11:00 hold then breakout**. ⚠️ In tension with **the same session's** *"वो 11:00 बजे आए
+  चाहे 12:00 बजे"* (enter when the seller is finally seated) and with 2022-07-03's session clock / 2022-05-08's 10–20-minute
+  option rule. **All four dated statements recorded; none averaged** (open question 5 widened).
+- 🔵 **NEW — a second self-attributed impatience, one week after the first.** *"मैं थोड़ा सा जल्दबाज़ी कर लेता हूं, मेरा कुछ
+  रीजन होता [है]."* ⭐ Two consecutive sessions naming his own deviation from his own waiting rule.
+- 🟡 **REFINED — the closing price promoted from a location to a constraint.** After a pre-10:00 breakdown,
+  *"क्लोजिंग प्राइस के ऊपर आप ले जा नहीं पाओगे"*, and sitting below it creates one-sided sentiment (*"मैं बाय करूंगा ही
+  नहीं"*). Upgraded from *a place to trade* (2022-04-02 → 2022-11-12) to **a line that shapes the whole day**.
+- 🟡 **REFINED — the round number used in the negative.** *"यहां पे कोई राउंड नंबर भी अवेलेबल नहीं है, तो मार्केट में सेलर
+  यहां पे आएंगे नहीं"* — the **absence** of a level is why buyers keep trying and why a breakout cannot be trusted to run.
+  Consistent with the level-feed logic (2022-11-06); used here to judge **sustainability**.
+- 🟢 **STABLE** — the crowd's mechanical rule is the trap (2022-02-19 → 2022-11-12), restated as *"क्लोजिंग प्राइस के ऊपर
+  जाते ही हम बाय करेंगे, रेजिस्टेंस ले रहा है तो सेलिंग करेंगे"*; **let the crowd be seated, then move** (2022-07-03,
+  2022-07-09, 2022-11-06) as *"पहले सेल को बैठने देना"*; **price action over indicators, clean chart** (2022-02-19,
+  2022-06-05) now with *"इंडिकेटर वगैरा सब कुछ हटा दीजिए … एक-एक कैंडल को देखो"*; **extract points from a method, never
+  merge the style** (2022-01-30, 2022-09-04); **it takes months, start small** (2022-05-29, 2022-09-04); **trading must be
+  bounded** (2022-06-04, 2022-09-18) as *"एक लिमिट के साथ करना … ज्यादा इसके अंदर मत घुसाना, रात को नींद नहीं आएगी."*
+- 📌 **Fidelity:** ⚠️ **no price levels at all** — the numbers are **clock times** (9:15 / 9:20 / 9:40 / 10:00 / 10:20 /
+  11:00 / 12:00 / 3:30) plus the *~6-hour* day. ⚠️ The chart-1 instrument (`"एसजीएस"`) is **ASR-unresolved** (same corrupt
+  idea as 2022-11-12's `"एसडीएक्स"`, probably Sensex). ⚠️ The external trader's name (`"डीएन" / "डी जेनुइन"`) is
+  **ASR-unresolved**; the description matches **W. D. Gann** — **an inference, not asserted**. **No P&L, size, strike or
+  price is spoken.** Nothing routed to `levels-log/`.
+- 🔴 **CONTRADICTS: none found**; the two items flagged are **tensions**, not reversals.
+
+> **Evolution verdict:** the corpus's **time** session. ⭐ Durable adds: **the day is a fixed shift**, **become the operator
+> and run the day forward**, **one-sided sentiment destroys your exit** (your size is part of the setup), **an early
+> breakdown commits the whole day**, **the entry window (9:40 → ~10:20; classic 10:00–11:00 hold)**. ⚠️ The entry-window
+> tension is recorded and routed to **open question 5**, not reconciled.
+
+---
+
+**2022-11-26 — How to Understand Market Momentum** 🔵 NEW (process audit) + 🟡 REFINED + 🟢 STABLE
+`auWGX_BnPVQ` · note: `teaching/2022-11-26-how-to-understand-market-momentum-by-intraday-hu.md`
+
+The corpus's **first week-review with his own trades** — the format moves from *a concept* to *a week's positions walked
+through day by day, including the ones that made nothing*. Purpose stated at the top: **error identification**, slowly.
+
+- 🔵 **NEW (format) — the session is a process audit.** *"ट्रेड का काम क्या होता है — धीरे-धीरे अपनी गलतियों को आईडेंटिफाई
+  करना और आईडेंटिफाई करके उनको दूर करना."* Habits change **gradually** (*"आप तुरंत उसको छोड़ना चाहोगे, आप नहीं छोड़ सकते"*).
+- 🔵 **NEW (load-bearing) — the plan is branched on WHERE the open lands, as a WORKED SET.** *"अगर ये मार्केट यहां कहीं ओपन
+  होता … तो हम ऐसे प्लान बना सकते हैं; अगर कोई अपसाइड का [गैप] आएगा, तो थोड़ा सा डाउन साइड के बारे में प्लान बना सकते
+  हैं."* 2022-11-12 only **stated** the dependency; here it is **demonstrated** — one structure, three open locations, three
+  plans: *"अगर यही मार्केट यहां पर मिलता, तो क्या बनाते? सेलिंग का."* ⭐ It also **cross-confirms last week's gap rule**:
+  *"अगर मार्केट में थोड़ा बहुत गैप है [या] फ्लैट ओपनिंग मिलेगा, तो हम थोड़ा सा बाय करने का प्लान रख सकते हैं"* and
+  *"गैप अप ज्यादा है, तो ये सेलर ऑलरेडी ट्रैप हो जाएंगे"*. 🟢 **Stable across 2022-11-12 → 2022-11-20 → 2022-11-26.**
+- 🔵 **NEW (load-bearing) — the edge has a popularity-decay clause.** *"ये ऐसा नहीं की हर बार करेगा, लेकिन मोस्ट ऑफ दी
+  टाइम आप उसे कर सकते हो — जब तक ये ज्यादा लोगों को न पता लगे."* ⭐ First rule in the corpus given **with an expiry
+  condition attached to how widely it is known** — an information edge, not a law.
+- 🔵 **NEW — the index that breaks down becomes the ENTRY CONFIRMATION on the index that holds.** *"अगर निफ़्टी के अंदर मुझे
+  ब्रेकडाउन पहले मिल जाता, तो मुझे यहां पे एंट्री करने में और भी ज्यादा आसानी होती — तो वो एक कन्फर्मेशन था."* ⚠️ The
+  divergence rule now has **three dated applications — cut (2022-09-25) / hold (2022-11-06) / entry-confirmation
+  (2022-11-26)**. This session adds the **mechanism** none of them named: *"ये ट्रैपिंग की एक चाल [है]"*, and he says he
+  trades it himself (*"काफी बार मैं भी करता हूं"*), immediately capped by *"जरूरी नहीं की आप सपोर्ट देख कर [करो] — ओवरऑल
+  मार्केट के सेंटीमेंट को देख के भी [कर सकते हो]."* **All three stand; none averaged** (open questions 7 and 11 widened).
+- 🔵 **NEW — the cost of adapting to a changed operator: about three days of losses.** *"जब ऑपरेटर [नई] चाल करेगा, तीन दिन
+  लॉस होंगे — उसके बाद हम समझना शुरू कर देंगे वो करना क्या चाहता है."* First **cost-of-regime-change** statement in the
+  corpus.
+- 🔵 **NEW — distance-to-the-high as a range input.** *"यहां पे एक हाई मार्केट ने बना रखा था जो काफी ऊंचाई के ऊपर था — यानी
+  डिस्टेंस काफी ज्यादा था — तो मार्केट को … ऊपर चला जाएगा, नीचे चला जाएगा, ऊपर चला जाएगा."* Pairs with 2022-11-20's
+  fixed-shift argument.
+- 🟡 **REFINED — the two-exit rule meets the time rule.** The Tuesday exit is justified by both at once: *"लॉस लेके निकल जाओ —
+  फिर हम उसमें कोई ज्यादा बेनिफिट है या नहीं. और हमारा टाइम भी हो चुका था."* (2022-01-30/02-06 + 2022-11-20, used as one
+  decision.)
+- 🟡 **REFINED — the closing price, now with the seated buyers' intact stops attached.** *"काफी लोग बाय करके गए होंगे —
+  मार्केट में उनका [स्टॉप] तो अभी तक काटा नहीं है, क्योंकि क्लोजिंग प्राइस के नीचे मार्केट गया नहीं."*
+- 🟡 **REFINED — "a side already paid cannot be targeted."** *"जो बायर हैं, वो ऑलरेडी बेनिफिट में आ चुके थे, क्योंकि उन्हें
+  गैप अच्छा मिल रहा था — तो डाउन साइड हम टारगेट कर नहीं सकते थे."* = *follow deploying money, not remembered money*
+  (2022-10-30 → 2022-11-06) applied **to the gap as a cushion**.
+- 🟢 **STABLE** — level read for who it seats (2022-11-06) as *"काफी लोग 22 से ऊपर सेलिंग करना पसंद करते हैं, तो काफी लोग
+  बाय करके बैठे होंगे"*; **stops consumed in order** (2022-01-30/02-06); **never assume what the market cannot do**
+  (2022-06-18 → 2022-11-06); **reduce indicators gradually, never abruptly** (2022-02-19, 2022-06-05, 2022-11-20) with the
+  explicit refusal to tell a trader to switch overnight; **walk with the market, neither ahead nor behind** (2022-11-12,
+  2022-11-20) as the closing line; **persistence over outcome** (2022-04-10 → 2022-11-06).
+- 🟢 **STABLE — his own deviation named without ceremony, THIRD consecutive session**: the un-taken target (*"टारगेट के
+  अकॉर्डिंग निकलना चाहिए था"*), the late entry (*"मैं थोड़ा लेट था"*), the missed cross-index check (*"मेरा यहां पे थोड़ा सा
+  ये ध्यान नहीं रहा"*). ⭐ **A self-audit habit is now visible across three weeks** — the most transferable finding here.
+- 📌 **Fidelity:** ⚠️ levels as spoken — **`42,200`** (repeated: buyers parked above it, sellers prefer to sell above it),
+  **`42,920`** (his stated Friday target), **`43,200`** (given only as an *example* of a pattern level). Bank Nifty traded
+  ~42,000–43,000 that week ⇒ *plausible*, **inference, not statement**; **day-specific; nothing routed to `levels-log/`.**
+  ⚠️ `"4243 241 200"` is corrupt (read as 42,200/43,xxx). ⚠️ `"21" / "22"` read as **21/22 November** — an inference; the
+  ASR never says *"तारीख"*. ⚠️ **`₹1 लाख` is the first money figure found in the teaching corpus and is AMBIGUOUS**
+  (*"we could still make ~₹1 lakh"* vs, with *"पैसा अपना काफी कम हो गया"*, *"we could only make ~₹1 lakh"*) — **both
+  readings recorded, not resolved; do not quote it as a result.** No size, strike, premium, entry or exit price is spoken
+  anywhere. ⚠️ **ASR KEY for this transcript: `"क्वेश्चन"` = `"पोज़िशन"` (position)** — e.g. *"तब मैंने एक क्वेश्चन बना ली
+  थी"* means **"I built a position"**; also `"इंडस्ट्री"` = **indicator**, `"प्रूफेड"` = **profit**, `"रिप्लेसमेंट"` =
+  **retracement**, `"व्यापम"` = **a workable move**. Any passage read without those substitutions is wrong.
+- 🔴 **CONTRADICTS: none found.** The divergence applications are a **widening** (three uses of one rule), and the ₹1-lakh
+  item is **ASR-ambiguous**, not a disagreement.
+
+> **Evolution verdict:** the corpus's first **process audit** — his own week, his own errors, on the record. ⭐ Durable
+> adds: **plan branched on the open location (worked set)**, **the edge has a popularity-decay clause**, **the index that
+> breaks down confirms the entry on the index that holds** (third divergence application), **a changed operator costs ~3
+> days of losses**, **distance-to-the-high**, **the trade itself is the error-correction loop**. ⚠️ The ₹1-lakh remark is
+> ASR-ambiguous; levels are day-specific and unrouted.
+
+
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -1638,6 +1803,11 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 5. **The session clock (11:00 cut / 12:00–15:00 window, 2022-07-03) is single-session evidence** and
    sits uneasily beside 2022-05-08's 10–20-minute option-buyer time rule. Both dates stand; confirm
    from later videos whether the window is a rule or that day's observation.
+   **WIDENED (2022-11-20) — and now an *internal* tension as well.** *How to Trade with Time* gives an
+   explicit window — **earliest entry after 9:40, best to ~10:20, classic 10:00–11:00 hold then breakout**
+   — and in the **same session** says the real entry may be *"वो 11:00 बजे आए चाहे 12:00 बजे"*, i.e. whenever the
+   seller is finally seated. Four dated statements now (2022-05-08, 2022-07-03, 2022-11-20 ×2). **None averaged;
+   the 9:40–10:20 filter must not be applied mechanically until Amit adjudicates.**
 6. **NEW (opened 2022-09-17) — mechanical template vs participant read.** #27 hands over the corpus's
    first **rule-based entry template** (15-min, 10:00 candle colour, cross of its high, OTM 600–700,
    200-point index SL, hold to decay). That sits closer to the template approach the corpus rejected in
@@ -1652,6 +1822,13 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
    (index-pair divergence vs a volume-confirmed breakout in one instrument) — **both dated statements
    stand, neither averaged.** Confirm from later sessions whether the divergence read is a general
    cross-index rule or that week's observation.
+   **WIDENED again (2022-11-26).** The week-review uses the **same divergence** as an **entry confirmation** —
+   *"अगर निफ़्टी के अंदर मुझे ब्रेकडाउन पहले मिल जाता, तो मुझे यहां पे एंट्री करने में और भी ज्यादा आसानी होती — तो वो एक
+   कन्फर्मेशन था"* (buy the index holding at support once the other index has already broken down) — and names it as
+   **a trap being set**: *"ये ट्रैपिंग की एक चाल [है]"*, with an explicit **popularity-decay clause**
+   (*"मोस्ट ऑफ दी टाइम आप उसे कर सकते हो — जब तक ये ज्यादा लोगों को न पता लगे"*). Three dated applications now:
+   **cut (2022-09-25) / hold (2022-11-06) / entry-confirmation (2022-11-26)**. This helps but does **not** touch the
+   original object of question 7 (breakout **strength** as buyers activating, 2022-06-05 / 2022-09-10). **Still open.**
 8. **NEW (opened 2022-09-25) — profit as LICENCE vs profit as NO-LICENCE.** #30 (*How I Trade in Stock Market MasterClass*)
    grants a **profit-making** trader an explicit licence to carry the counter-momentum risk, and denies it to a beginner or a
    loss-phase trader. 2022-09-04 (*whose money decides which method you may copy*) and 2022-09-24 (*the "market's money" fallacy*:
@@ -1676,6 +1853,21 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
    stays negative, and on that basis he **held** through the other instrument's adverse print. The objects may differ (an exit
    near a completed target vs a hold early in a position), but he does not say so. **Both dated statements stand; not
    averaged; for Amit to adjudicate.** Related open item: #7 (divergence rule vs breakout strength) remains open.
+   **WIDENED (2022-11-26) — a THIRD application, and now a named mechanism.** The week-review uses the divergence as an
+   **entry confirmation** (buy the index parked at support once the other index has broken down; *"तो वो एक कन्फर्मेशन
+   था"*) and calls the whole construction **a trap** (*"ये ट्रैपिंग की एक चाल [है]"*), with a **popularity-decay clause**.
+   All three applications stand: **cut (2022-09-25) / hold (2022-11-06) / entry (2022-11-26)**. Still **not averaged, not
+   resolved** — the trap framing narrows the gap but he never says when to cut vs when to hold.
+12. **NEW (opened 2022-11-12) — the 2022-01-30 intraday-only scope vs the 2022-11-12 positional allowance.**
+   2022-01-30 stated the method's scope as **intraday only** and explicitly excluded positional. 2022-11-12 allows both
+   modes, with the split *"जो पसंद है उसमें बड़ी क्वांटिटी में, जो ना पसंद उसमें छोटी क्वांटिटी"*, and calls the choice a
+   **mindset** question. The object is the same (which mode the method covers), the statements are not. It may be simply
+   *where size is deployed* rather than a change of doctrine — he does not say. **Both dates stand; not averaged.**
+13. **NEW (opened 2022-11-12) — the round number as a place to WAIT vs a place to ACT.** 2022-11-06 used the crowd's
+   attention-order (*"पहले उनको ब्रेकआउट नज़र आएगा, क्लोज़िंग प्राइस तो वो बाद में देखेंगे"*) to justify **selling the cross**;
+   2022-11-12 uses the same fact to **wait for the breakdown** and refuse the cross as an entry — and prices the
+   alternative (*"₹1 का भी लॉस नजर नहीं आता"*). One week apart, same mechanism, opposite execution. Related to question 11
+   and to #7. **Both dated statements stand; for Amit to adjudicate.**
 
 ---
 
@@ -1684,8 +1876,8 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **35** | |
-| Remaining | **156** | |
-| Next (chronological) | `20221112 dlGOa28haw0` Rules of Chart Masterclass by Intraday Hunter | |
+| Processed | **38** | |
+| Remaining | **153** | |
+| Next (chronological) | `20221211 w8o3nCH-9cg` Identify Smart Money Positions in Stock Market by Intraday Hunter | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
