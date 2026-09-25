@@ -9,8 +9,8 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **35** |
-| Remaining | **156** |
+| Processed | **38** |
+| Remaining | **153** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -59,13 +59,15 @@ only from recent daily notes; this is the other half.
 - `20221022` **Do Not Try to Recover Losses in Stock Market by Intraday Hunter** — [`5ek3m09Vy-Y`](https://www.youtube.com/watch?v=5ek3m09Vy-Y)
 - `20221030` **Comfort Rule for Stop Loss Hunting by Intraday Hunter** — [`kOC9UPLfQ7g`](https://www.youtube.com/watch?v=kOC9UPLfQ7g)
 - `20221106` **Reverse Strategy for Chart by Intraday Hunter** — [`SW3AMP_CuSA`](https://www.youtube.com/watch?v=SW3AMP_CuSA)
+- `20221112` **Rules of Chart Masterclass by Intraday Hunter** — [`dlGOa28haw0`](https://www.youtube.com/watch?v=dlGOa28haw0)
+- `20221120` **How to Trade with Time by Intraday Hunter** — [`jm5u75xXSS0`](https://www.youtube.com/watch?v=jm5u75xXSS0)
+- `20221126` **HOW TO UNDERSTAND MARKET MOMENTUM BY INTRADAY HUNTER** — [`auWGX_BnPVQ`](https://www.youtube.com/watch?v=auWGX_BnPVQ)
 
 ## Next up (chronological)
-1. `20221112` **Rules of Chart Masterclass by Intraday Hunter** — [`dlGOa28haw0`](https://www.youtube.com/watch?v=dlGOa28haw0)
-2. `20221120` **How to Trade with Time by Intraday Hunter** — [`jm5u75xXSS0`](https://www.youtube.com/watch?v=jm5u75xXSS0)
-3. `20221126` **HOW TO UNDERSTAND MARKET MOMENTUM BY INTRADAY HUNTER** — [`auWGX_BnPVQ`](https://www.youtube.com/watch?v=auWGX_BnPVQ)
-4. `20221211` **Identify Smart Money Positions in Stock Market by Intraday Hunter** — [`w8o3nCH-9cg`](https://www.youtube.com/watch?v=w8o3nCH-9cg)
-5. `20230101` **No More Loss in Stock Market By Intraday Hunter** — [`Rajp1zCMKHM`](https://www.youtube.com/watch?v=Rajp1zCMKHM)
+1. `20221211` **Identify Smart Money Positions in Stock Market by Intraday Hunter** — [`w8o3nCH-9cg`](https://www.youtube.com/watch?v=w8o3nCH-9cg)
+2. `20230101` **No More Loss in Stock Market By Intraday Hunter** — [`Rajp1zCMKHM`](https://www.youtube.com/watch?v=Rajp1zCMKHM)
+3. `20230115` **Support Resistance and Trendline Masterclass by Intraday Hunter** — [`CGooC4nNLKg`](https://www.youtube.com/watch?v=CGooC4nNLKg)
+4. `20230122` **How To Make Money from Stock Market by Intraday Hunter** — [`v94zUtFtNNE`](https://www.youtube.com/watch?v=v94zUtFtNNE)
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
