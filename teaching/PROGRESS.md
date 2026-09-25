@@ -9,8 +9,8 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **23** |
-| Remaining | **168** |
+| Processed | **35** |
+| Remaining | **156** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -47,16 +47,25 @@ only from recent daily notes; this is the other half.
 - `20220703` **How Market or Operator Trap Buyer and Seller Position By Intraday Hunter** — [`37Fh2gDpBxA`](https://www.youtube.com/watch?v=37Fh2gDpBxA)
 - `20220709` **How Operator Handle the Stock Market By Intraday Hunter** — [`gXlOOh-ZtmY`](https://www.youtube.com/watch?v=gXlOOh-ZtmY)
 - `20220710` **How Stop Loss Hunting Works in Stock Trading By Intraday Hunter** — [`cPpIRD3VtXI`](https://www.youtube.com/watch?v=cPpIRD3VtXI)
+- `20220806` **Support and Resistance Levels Master Course By Intraday Hunter** — [`eaCop70yD3s`](https://www.youtube.com/watch?v=eaCop70yD3s)
+- `20220904` **How Operators Take Advantage Of Intraday Traders Weakness** — [`outD-jcBbig`](https://www.youtube.com/watch?v=outD-jcBbig)
+- `20220910` **How To Trade Using Volume and Candlestick By Intraday Hunter** — [`FVDTz7gzGHY`](https://www.youtube.com/watch?v=FVDTz7gzGHY)
+- `20220917` **OPTION TRADING STRATEGY BY INTRADAY HUNTER** — [`jlrdNMNJlcs`](https://www.youtube.com/watch?v=jlrdNMNJlcs)
+- `20220918` **Trading Psychology of Intraday Trading by Intraday Hunter** — [`xL2vY30cc1A`](https://www.youtube.com/watch?v=xL2vY30cc1A)
+- `20220924` **How To Make Big Capital in Intraday Trading** — [`t5hMPeLcPqQ`](https://www.youtube.com/watch?v=t5hMPeLcPqQ)
+- `20220925` **How I Trade in Stock Market MasterClass by Intraday Hunter** — [`lZ3ozXuKtkA`](https://www.youtube.com/watch?v=lZ3ozXuKtkA)
+- `20221008` **How Stock Market Brainwash A Trader | By Intraday Hunter** — [`8OQccQxgnu4`](https://www.youtube.com/watch?v=8OQccQxgnu4)
+- `20221016` **Price Action Trading Weekly Masterclass By Intraday Hunter** — [`32f4S7KqwPA`](https://www.youtube.com/watch?v=32f4S7KqwPA)
+- `20221022` **Do Not Try to Recover Losses in Stock Market by Intraday Hunter** — [`5ek3m09Vy-Y`](https://www.youtube.com/watch?v=5ek3m09Vy-Y)
+- `20221030` **Comfort Rule for Stop Loss Hunting by Intraday Hunter** — [`kOC9UPLfQ7g`](https://www.youtube.com/watch?v=kOC9UPLfQ7g)
+- `20221106` **Reverse Strategy for Chart by Intraday Hunter** — [`SW3AMP_CuSA`](https://www.youtube.com/watch?v=SW3AMP_CuSA)
 
 ## Next up (chronological)
-1. `20220806` **Support and Resistance Levels Master Course By Intraday Hunter**
-2. `20220904` **How Operators Take Advantage Of Intraday Traders Weakness**
-3. `20220910` **How To Trade Using Volume and Candlestick By Intraday Hunter**
-4. `20220917` **OPTION TRADING STRATEGY BY INTRADAY HUNTER**
-5. `20220918` **Trading Psychology of Intraday Trading by Intraday Hunter**
-6. `20220924` **How To Make Big Capital in Intraday Trading**
-7. `20220925` **How I Trade in Stock Market MasterClass by Intraday Hunter**
-8. `20221008` **How Stock Market Brainwash A Trader | By Intraday Hunter**
+1. `20221112` **Rules of Chart Masterclass by Intraday Hunter** — [`dlGOa28haw0`](https://www.youtube.com/watch?v=dlGOa28haw0)
+2. `20221120` **How to Trade with Time by Intraday Hunter** — [`jm5u75xXSS0`](https://www.youtube.com/watch?v=jm5u75xXSS0)
+3. `20221126` **HOW TO UNDERSTAND MARKET MOMENTUM BY INTRADAY HUNTER** — [`auWGX_BnPVQ`](https://www.youtube.com/watch?v=auWGX_BnPVQ)
+4. `20221211` **Identify Smart Money Positions in Stock Market by Intraday Hunter** — [`w8o3nCH-9cg`](https://www.youtube.com/watch?v=w8o3nCH-9cg)
+5. `20230101` **No More Loss in Stock Market By Intraday Hunter** — [`Rajp1zCMKHM`](https://www.youtube.com/watch?v=Rajp1zCMKHM)
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
