@@ -270,3 +270,7 @@
 | 2026-09-18 | Sensex | 74,000 / 73,650 (ASR "7473650") | S | pre I7gORF7zm4o — inferred, uncertain; unbroken (low 74,295) |
 | 2026-09-18 | Nifty | 23,500 / 23,360 | R | pre I7gORF7zm4o — high 23,389 |
 | 2026-09-18 | Nifty | 23,100 / 23,000 | S | pre I7gORF7zm4o — unbroken |
+| 2023-02-12 | Bank Nifty | ~42,000 / ~40,000 | post-budget range top / lower level | teaching rdetVddnPyk (ASR) |
+| 2023-02-12 | Bank Nifty | 40,500 | seller's minimum target (round number) | teaching rdetVddnPyk |
+| 2023-02-12 | Bank Nifty | 41,600 / 41,800 | exit-up fork for a sell position (safe / more room) | teaching rdetVddnPyk (ASR) |
+| 2023-02-12 | Bank Nifty | 41,200 | buy-side cut level — LOW confidence, do not reuse | teaching rdetVddnPyk (ASR unclear) |
