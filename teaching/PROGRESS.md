@@ -9,8 +9,8 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **38** |
-| Remaining | **153** |
+| Processed | **41** |
+| Remaining | **150** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -62,12 +62,15 @@ only from recent daily notes; this is the other half.
 - `20221112` **Rules of Chart Masterclass by Intraday Hunter** — [`dlGOa28haw0`](https://www.youtube.com/watch?v=dlGOa28haw0)
 - `20221120` **How to Trade with Time by Intraday Hunter** — [`jm5u75xXSS0`](https://www.youtube.com/watch?v=jm5u75xXSS0)
 - `20221126` **HOW TO UNDERSTAND MARKET MOMENTUM BY INTRADAY HUNTER** — [`auWGX_BnPVQ`](https://www.youtube.com/watch?v=auWGX_BnPVQ)
+- `20221211` **Identify Smart Money Positions in Stock Market by Intraday Hunter** — [`w8o3nCH-9cg`](https://www.youtube.com/watch?v=w8o3nCH-9cg)
+- `20230101` **No More Loss in Stock Market By Intraday Hunter** — [`Rajp1zCMKHM`](https://www.youtube.com/watch?v=Rajp1zCMKHM)
+- `20230115` **Support Resistance and Trendline Masterclass by Intraday Hunter** — [`CGooC4nNLKg`](https://www.youtube.com/watch?v=CGooC4nNLKg)
 
 ## Next up (chronological)
-1. `20221211` **Identify Smart Money Positions in Stock Market by Intraday Hunter** — [`w8o3nCH-9cg`](https://www.youtube.com/watch?v=w8o3nCH-9cg)
-2. `20230101` **No More Loss in Stock Market By Intraday Hunter** — [`Rajp1zCMKHM`](https://www.youtube.com/watch?v=Rajp1zCMKHM)
-3. `20230115` **Support Resistance and Trendline Masterclass by Intraday Hunter** — [`CGooC4nNLKg`](https://www.youtube.com/watch?v=CGooC4nNLKg)
-4. `20230122` **How To Make Money from Stock Market by Intraday Hunter** — [`v94zUtFtNNE`](https://www.youtube.com/watch?v=v94zUtFtNNE)
+1. `20230122` **How To Make Money from Stock Market by Intraday Hunter** — [`v94zUtFtNNE`](https://www.youtube.com/watch?v=v94zUtFtNNE)
+2. `20230212` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intraday Hunter** — [`rdetVddnPyk`](https://www.youtube.com/watch?v=rdetVddnPyk)
+3. `20230219` **Best Way to Understand SL Hunting in Stock Market by Intraday Hunter** — [`8XhyyVJyFOU`](https://www.youtube.com/watch?v=8XhyyVJyFOU)
+4. `20230226` **How To Start Trading in Stock Market | Masterclass for Beginners by Intraday Hunter** — [`dkTBkMCw_c8`](https://www.youtube.com/watch?v=dkTBkMCw_c8)
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
