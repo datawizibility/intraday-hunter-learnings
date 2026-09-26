@@ -9,8 +9,8 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **41** |
-| Remaining | **150** |
+| Processed | **44** |
+| Remaining | **147** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -45,7 +45,7 @@ only from recent daily notes; this is the other half.
 - `20220618` **Reality of STOPLOSS HUNTING Strategy By Intraday Hunter** — [`4vYGOe8ui_8`](https://www.youtube.com/watch?v=4vYGOe8ui_8)
 - `20220702` **Hero Zero Trading is Right or Wrong in Stock Market By Intraday Hunter** — [`IMZuRZN7XzU`](https://www.youtube.com/watch?v=IMZuRZN7XzU)
 - `20220703` **How Market or Operator Trap Buyer and Seller Position By Intraday Hunter** — [`37Fh2gDpBxA`](https://www.youtube.com/watch?v=37Fh2gDpBxA)
-- `20220709` **How Operator Handle the Stock Market By Intraday Hunter** — [`gXlOOh-ZtmY`](https://www.youtube.com/watch?v=gXlOOh-ZtmY)
+- `20220709` **How Operator Handle the Stock Market  By Intraday Hunter** — [`gXlOOh-ZtmY`](https://www.youtube.com/watch?v=gXlOOh-ZtmY)
 - `20220710` **How Stop Loss Hunting Works in Stock Trading By Intraday Hunter** — [`cPpIRD3VtXI`](https://www.youtube.com/watch?v=cPpIRD3VtXI)
 - `20220806` **Support and Resistance Levels Master Course By Intraday Hunter** — [`eaCop70yD3s`](https://www.youtube.com/watch?v=eaCop70yD3s)
 - `20220904` **How Operators Take Advantage Of Intraday Traders Weakness** — [`outD-jcBbig`](https://www.youtube.com/watch?v=outD-jcBbig)
@@ -65,12 +65,19 @@ only from recent daily notes; this is the other half.
 - `20221211` **Identify Smart Money Positions in Stock Market by Intraday Hunter** — [`w8o3nCH-9cg`](https://www.youtube.com/watch?v=w8o3nCH-9cg)
 - `20230101` **No More Loss in Stock Market By Intraday Hunter** — [`Rajp1zCMKHM`](https://www.youtube.com/watch?v=Rajp1zCMKHM)
 - `20230115` **Support Resistance and Trendline Masterclass by Intraday Hunter** — [`CGooC4nNLKg`](https://www.youtube.com/watch?v=CGooC4nNLKg)
+- `20230122` **How To Make Money from Stock Market by Intraday Hunter** — [`v94zUtFtNNE`](https://www.youtube.com/watch?v=v94zUtFtNNE)
+- `20230212` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intraday Hunter** — [`rdetVddnPyk`](https://www.youtube.com/watch?v=rdetVddnPyk)
+- `20230219` **Best Way to Understand SL Hunting in Stock Market by Intraday Hunter** — [`8XhyyVJyFOU`](https://www.youtube.com/watch?v=8XhyyVJyFOU)
 
 ## Next up (chronological)
-1. `20230122` **How To Make Money from Stock Market by Intraday Hunter** — [`v94zUtFtNNE`](https://www.youtube.com/watch?v=v94zUtFtNNE)
-2. `20230212` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intraday Hunter** — [`rdetVddnPyk`](https://www.youtube.com/watch?v=rdetVddnPyk)
-3. `20230219` **Best Way to Understand SL Hunting in Stock Market by Intraday Hunter** — [`8XhyyVJyFOU`](https://www.youtube.com/watch?v=8XhyyVJyFOU)
-4. `20230226` **How To Start Trading in Stock Market | Masterclass for Beginners by Intraday Hunter** — [`dkTBkMCw_c8`](https://www.youtube.com/watch?v=dkTBkMCw_c8)
+1. `20230226` **How To Start Trading in Stock Market | Masterclass for Beginners by In**
+2. `20230312` **How I Trade in Stock Market | Weekly Trade Explanation by Intraday Hun**
+3. `20230326` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intrad**
+4. `20230423` **How Operators Works ?**
+5. `20230514` **How I Plan a Single Trade for intraday Trading By Intraday Hunter**
+6. `20230521` **From Stock Market Gambling to Earn Money by Intraday Hunter**
+7. `20230709` **Bank Nifty Trend Identify Master Class by Intraday Hunter**
+8. `20230716` **Intraday Trading | How to Do It | By Intraday Hunter**
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
