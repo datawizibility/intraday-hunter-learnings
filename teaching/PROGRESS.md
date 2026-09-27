@@ -9,8 +9,9 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **44** |
-| Remaining | **147** |
+| Processed | **47** |
+| Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` |
+| Remaining | **143** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
