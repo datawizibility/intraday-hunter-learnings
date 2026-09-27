@@ -274,3 +274,5 @@
 | 2023-02-12 | Bank Nifty | 40,500 | seller's minimum target (round number) | teaching rdetVddnPyk |
 | 2023-02-12 | Bank Nifty | 41,600 / 41,800 | exit-up fork for a sell position (safe / more room) | teaching rdetVddnPyk (ASR) |
 | 2023-02-12 | Bank Nifty | 41,200 | buy-side cut level — LOW confidence, do not reuse | teaching rdetVddnPyk (ASR unclear) |
+| 2023-04-23 | Bank Nifty | 42,000 | S — taken as support; a close above it is the retail buy trigger (his read of the trap) | teaching cC51wiGqihc (ASR, day-specific) |
+| 2023-04-23 | Bank Nifty | 42,500 | level above which a bigger operator may step in — his own speculation, not a statement | teaching cC51wiGqihc (ASR, speculative) |
