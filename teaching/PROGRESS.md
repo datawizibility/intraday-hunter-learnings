@@ -9,9 +9,9 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **47** |
+| Processed | **50** |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` |
-| Remaining | **143** |
+| Remaining | **140** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -69,16 +69,16 @@ only from recent daily notes; this is the other half.
 - `20230122` **How To Make Money from Stock Market by Intraday Hunter** — [`v94zUtFtNNE`](https://www.youtube.com/watch?v=v94zUtFtNNE)
 - `20230212` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intraday Hunter** — [`rdetVddnPyk`](https://www.youtube.com/watch?v=rdetVddnPyk)
 - `20230219` **Best Way to Understand SL Hunting in Stock Market by Intraday Hunter** — [`8XhyyVJyFOU`](https://www.youtube.com/watch?v=8XhyyVJyFOU)
+- `20230312` **How I Trade in Stock Market | Weekly Trade Explanation by Intraday Hun** — [`oLPZzflC1Ps`](https://www.youtube.com/watch?v=oLPZzflC1Ps)
+- `20230326` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intrad** — [`wfJdqWm3z30`](https://www.youtube.com/watch?v=wfJdqWm3z30)
+- `20230423` **How Operators Works ?** — [`cC51wiGqihc`](https://www.youtube.com/watch?v=cC51wiGqihc)
+- `20230514` **How I Plan a Single Trade for intraday Trading By Intraday Hunter** — [`6RtWjwDoqN0`](https://www.youtube.com/watch?v=6RtWjwDoqN0)
+- `20230521` **From Stock Market Gambling to Earn Money by Intraday Hunter** — [`bdRzAkgfvXg`](https://www.youtube.com/watch?v=bdRzAkgfvXg)
+- `20230709` **Bank Nifty Trend Identify Master Class by Intraday Hunter** — [`TYZrl7obTJc`](https://www.youtube.com/watch?v=TYZrl7obTJc)
 
 ## Next up (chronological)
-1. `20230226` **How To Start Trading in Stock Market | Masterclass for Beginners by In**
-2. `20230312` **How I Trade in Stock Market | Weekly Trade Explanation by Intraday Hun**
-3. `20230326` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intrad**
-4. `20230423` **How Operators Works ?**
-5. `20230514` **How I Plan a Single Trade for intraday Trading By Intraday Hunter**
-6. `20230521` **From Stock Market Gambling to Earn Money by Intraday Hunter**
-7. `20230709` **Bank Nifty Trend Identify Master Class by Intraday Hunter**
-8. `20230716` **Intraday Trading | How to Do It | By Intraday Hunter**
+1. `20230716` **Intraday Trading | How to Do It | By Intraday Hunter**
+2. `20230723` **How to Make Money in Intraday Trading**
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
