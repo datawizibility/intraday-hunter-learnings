@@ -2315,6 +2315,213 @@ viewer **twice** not to trade it: *"**इसके ऊपर आपको ट्
 
 ---
 
+**2023-05-14 — How I Plan a Single Trade for intraday Trading** 🔵 NEW (closing-window pre-plan · plan-invalidation gate · capped re-entry ladder · alternate-day therapy) + 🟡 REFINED (61% as a planning input · direction-first exact S/R · index divergence) + 🟢 STABLE
+`6RtWjwDoqN0` · note: `teaching/2023-05-14-how-i-plan-a-single-trade-for-intraday-trading-b.md`
+
+The corpus's **pre-trade-procedure** session: the plan is built the evening *before*, killed or confirmed by the open,
+and graded before entry. Not a setup — a routine. No recoverable level.
+
+- 🔵 **NEW (load-bearing) — the closing-window pre-plan.** *"सबसे पहले मेरी शुरुआत हो जाती है — मार्केट में जो **लास्ट का 30 मिनट**
+  होता है… आने वाला मोमेंटम कैसे होगा वो डिसाइड हो रहा होता है"* (fallback 15 min, ideally 30–40). Live only:
+  *"जो लाइव मार्केट में फील होता है वो बंद मार्केट में कभी नहीं मिलेगा"*; *"डेड मार्केट आपको कुछ भी नहीं बोलेगा."*
+  ⚠️ vs **2023-03-12** (the afternoon is *safer* because momentum is absent — a noon statement, not a closing-window one)
+  and vs **2022-11-20** (entry windows only). **Single-session; do not convert into a fixed routine yet.**
+- 🔵 **NEW — the evening read is a test of your own BIAS.** *"अगर आप यहां पर गलत हो रहे हो, तो आने वाले जो मॉर्निंग का सेशन होगा,
+  वहां पर भी आप गलत हो सकते हो."* Nothing earlier uses the pre-close as a bias detector.
+- 🔵 **NEW — the OPEN as an invalidation gate.** Gap-down plan + *"बड़ा सा कैंडल बना के खड़ा हो जाता है"* or
+  *"क्लोजिंग इसके ऊपर ट्रेड करना शुरू कर दिया"* ⇒ *"अगर फिर भी आपका वही प्लान रहेगा … आप मार्केट के साथ **रूट बिहेवियर**
+  (= रूड बिहेवियर) कर रहे हो — फिर … गलती हो जाएगी."* Continuity with **2022-11-12** (*"प्लान बना के मत जाना"* — the plan you
+  brought is the lowest-ranked input), now operational and named.
+- 🔵 **NEW — placement is DIRECTION-FIRST and EXACT, and role-flips are refused.** *"मैं एक डायरेक्शन को देख के सपोर्ट रेजिस्टेंस
+  लगाने की कोशिश करता हूं… **एग्जैक्ट**, नंबर वाइस"*; *"मेरा ऐसा कोई इंटेंशन नहीं होता की सपोर्ट एक रेजिस्टेंस बन जाएगा."*
+  ⚠️ **New open pair with 2023-01-15** (*"जो पहले सपोर्ट बना हुआ था, वो रेजिस्टेंस बन गया … बड़ा ही सिंपल सी कहानी है"*) —
+  and in this very session a level he had placed as **resistance did work as support** once the gap-down failed.
+  **Both dated statements stand; not averaged** → question 20.
+- 🟡 **REFINED — the 61% retracement (2023-04-23) moves from "setup" to "planning input".** *"मार्केट जो रेट रिट्रेसमेंट कर रहा
+  है **0.61%** का कर रहा है… तो यहां पे जो **सेल** है वो मार्केट निकाल चुका है"* ⇒ the morning's base case is written
+  before the open. ⚠️ **Second consecutive Sunday; the figure is still ASR-loose — two mentions are not doctrine.**
+- 🟡 **REFINED — "a level works only if the market must go there" now governs HIS OWN placement** (*"वो काम तभी करेगा जब
+  मार्केट को वहां पर जाना होगा… क्योंकि वो **डायरेक्शनल** सपोर्ट रेजिस्टेंस होते हैं"*), where 2023-04-23 stated it from the
+  market's side.
+- 🟡 **REFINED — the probability grade enters the ENTRY decision.** An **80%** place vs a **60%** place: *"जिसे लगाना है वो
+  आराम से एक सेटअप का वेट करे"*, with *"चाहे मुझे **10:00** ट्रेड बनाना पड़े, **11 बजे**"*. 2023-03-12's 70/50/30/90 ladder
+  applied *inside* one plan — **not** a second ladder.
+- 🟡 **REFINED — over-trading (2022-10-22's motive test) gets a PROTOCOL.** *"फाइव डेज … एक दिन ट्रेड करोगे, एक दिन छोड़ दोगे …
+  **2 दिन ट्रेड के मिस** हो जाएंगे, **तीन ट्रेड** आपको मिल जाएंगे"*; skip days = *"केवल आपको मार्केट में देखना है"*; reason
+  *"ओवर ट्रेडिंग से यही कैपिटल का लॉस ज्यादा होता है."* The count is reduced deliberately; **the motive test is untouched**.
+- 🟡 **REFINED — the index divergence (2023-01-22) as PRE-ENTRY CHECK and as the loss's cause.** *"निफ़्टी ने … क्लोजिंग प्राइस
+  ब्रेकडाउन कर दिया, और बैंक निफ़्टी … अपना क्लोजिंग प्राइस का सपोर्ट लेना शुरू कर दिया"*; already in the sell and in profit,
+  he held ⇒ *"मार्केट ऊपर चला गया … तो लॉस हो गया."* ⚠️ **Widens questions 7 and 11 again.**
+- 🔵 **NEW — the capped re-entry ladder with DECREASING premium.** *"**ट्रायल और एरर मेथड** … **नंबर ऑफ एंट्री** भी डिसाइड
+  करना पड़ेगा … मान लेते हैं **4 एंट्री**"*, then *"नेक्स्ट प्रीमियम उसको कम कर दो, **250** का कर दो"* (₹300 → ₹250 → ₹150 →
+  ₹100) ⇒ *"छोटा प्रीमियम भी आपका बड़ा बन जाएगा… और जब लॉस होगा तो धीरे-धीरे कम होता चलेगा."*
+  ⚠️ **New open pair vs 2023-03-26's broken-bone rule** (design averaging out) — bounded and shrinking vs unbounded;
+  he does not reconcile them → question 19.
+- 🟢 **STABLE — intraday only; the gap is the reason.** *"केवल **इंट्राडे** में करता हूं, **पोज़िशन मार्केट में नहीं** …
+  इंट्राडे में सब कुछ हमारे कंट्रोल में रहता है."* (Question 12's **eighth** dated statement, again on the intraday side.)
+- 🟢 **STABLE** — **stops exist because a pool exists** (*"डायरेक्ट [स्टॉपलॉस] वगैरा अवेलेबल नहीं थे"* ⇒ *"एक छोटा ही मोमेंटम"*;
+  2022-01-30 → 2023-02-12); **give the market time** (*"पहले भी देखो, बाद में भी देखो"*; 2022-09-25 / 2023-01-01);
+  **experience is bought in years** (*"24 घंटे भी चार्ट देखोगे … उसका एक्सपीरियंस ज्यादा रहेगा"*; 2022-05-29 / 2022-09-25);
+  **sustainability over a month's number** (*"मैं एक सस्टेनेबिलिटी मार्केट में चाहता हूं"*; 2023-03-12); **self-audit** — his own
+  loss told in the first person with **no figure attached**.
+- 📌 **Fidelity:** ⚠️ **NO usable index level.** The only repeated level-shaped number is **`500`** (4×), spoken with its
+  leading digits **ASR-cut** (*"500 के ऊपर लगाना रेजिस्टेंस"*, *"500 का लेवल था"*), and the same *"500"* also appears as a
+  **strike** on the expiry chart (*"500 का अपना ये था"*) ⇒ **do not reconstruct; no `levels-log/` row.** The expiry-chart
+  premiums **₹12 / ₹33–35 / close above ₹25** are day-specific. *"30 से 40 पॉइंट"*, *"100 से 150 पॉइंट"*, **₹300→₹400**, the
+  **₹300/250/150/100** ladder and the **"4 एंट्री"** cap are illustrations (*"मान लेते हैं"*). *"200 का"* is
+  **unresolved** (period vs size). ⚠️ **No P&L, size, strike, entry or exit price anywhere.** ASR: *"कल"* = कॉल,
+  *"पट/फुट"* = पुट, *"नियुक्ति"* = निफ़्टी, *"जॉन"* = ज़ोन, *"रिप्लेसमेंट/रेट रेस्टमेंट"* = रिट्रेसमेंट, *"पोषण"* = पोज़िशन,
+  *"असल"* = स्टॉपलॉस, *"कम/राहत"* = काम/रहता है.
+- 🔴 **CONTRADICTS: none found** — two new open pairs (19, 20); questions 7 / 11 / 12 widened.
+
+> **Evolution verdict:** the corpus's **pre-trade-procedure** session. ⭐ Durable adds: **start the trade in the live closing
+> window (15–30 min) and use it to test your own bias**, **only a live market gives right/wrong feedback**, **the open validates
+> or voids the plan — defending it is rude behaviour with the market**, **direction first, then exact numbers, no intended role
+> flip**, **grade the setup (80% vs 60%) and wait for it**, **check the second index**, **the setup's life is the trade's life**,
+> **treat over-trading with alternate-day trading**, **cap the re-entries and shrink the premium each time**, **sustainability over
+> any monthly number**. ⚠️ No usable level; two new open pairs; questions 7, 11, 12 widened. Nothing routed to `levels-log/`.
+
+---
+
+**2023-05-21 — From Stock Market Gambling to Earn Money** 🔵 NEW (sour-grapes diagnosis · repetition⇒reason · one-trade-vs-a-thousand · winner/loser work asymmetry · open-type gate · high/low regime) + 🟡 REFINED (probability concession · closing-price clock) + 🟢 STABLE + 🔴 ONE SOFT TENSION
+`bdRzAkgfvXg` · note: `teaching/2023-05-21-from-stock-market-gambling-to-earn-money-by-intr.md`
+
+Sequel in title to **2022-04-23**: the *same* claim, answered from the other end. 2022 asked whether the market is
+*gambling* and refuted it with **information symmetry**; 2023 asks **who says so** — and answers: the trader who could not
+profit, the fox and his sour grapes.
+
+- 🔵 **NEW (load-bearing) — the SOUR-GRAPES diagnosis.** *"कुछ ऐसे ट्रेड[s] जिनका बार-बार … लॉस हो रहा है … 'यहां पर केवल
+  गैंबलिंग होता है' … प्रॉफिट तो मार्केट के अंदर बंता [बनता] है, लेकिन जब हमारा नहीं बंता तो **अंगूर खट्टे हो जाते हैं**"* ⇒
+  the label is issued **after** the loss, by the participant, not by the market. 2022-04-23 answered the claim as a thesis;
+  this answers it as a **symptom**.
+- 🔵 **NEW — repetition is the proof it is not luck.** *"हजारों नंबर में से हम एक नंबर में सपोर्ट आइडेंटिफाई करते हैं … और
+  मार्केट एक पॉइंट भी ऊपर नहीं जाता … **अगर हमारे पास केवल गैंबलिंग होता तो वो एक बार हो जाता, दो बार हो जाता; बार-बार मार्केट
+  ऐसा नहीं करता**"* — and he explicitly refuses an accuracy claim (*"यहां पर आपको यह नहीं बता रहा हूं की … कितनी एक्यूरेसी"*).
+  A new **argument form** (frequency), where 2022 used symmetry.
+- 🟡 **REFINED — the verdict becomes a conditional concession.** *"प्रोबेबिलिटी का गेम होता है, आप इसको गैंबलिंग का सकते हो —
+  लेकिन गैंबलिंग में भी आपको **किस बुक के ऊपर काम करना है**"* (2022-04-23's *not gambling* → here *call it what you like,
+  the bet still needs preparation*; bridge = 2023-03-12's probability spine).
+- 🔵 **NEW — one self-identified trade = a thousand copied trades.** *"एक ट्रेड … हजारों ट्रेड के बराबर हो [सकती है]"*, against
+  *"टीवी पे देखा, टेलीग्राम पे देखा, किसी भी सोशल मीडिया पे देखके बाय-सेल कर लिया — तो … उनमें कुछ नहीं मिलेगा"* (extends
+  2023-01-22's reason⇒experience with a **ratio + source list**; 2022-04-23's orientation-not-copying).
+- 🔵 **NEW — the winner/loser work asymmetry.** *"जो प्रॉफिट बना रहे … वो अपने ट्रेड को एनालिसिस करते हैं … कहां पर हमने गलत
+  ट्रेड लिया, कहां पर सही; और जो लॉस कर रहा है वो **बिल्कुल भी नहीं करते**"* — the losers wait for the open or for someone
+  to name the trade.
+- 🔵 **NEW — the open-type gate.** *"कोई मार्केट ऊपर जा रहा है, यहां पे सेल करने के लिए तुक्का लगाना आसान है … लेकिन अगर कोई
+  **बड़ा गैप-डाउन ओपन** हो जाता है या **बिल्कुल मिडिल में** ओपन हो जाता है … **दोनों साइड की प्रोबेबिलिटी** हो जाएगी"* ⇒
+  *"यहां पे आप थोड़ा **वेट** करो."* (earlier cousin of 2026-09-13's *available stop-losses decide the opening*).
+- 🔵 **NEW, unexplained — two regimes, two logics.** *"मार्केट **ओल्ड टाइम हाय** के आसपास … **अलग लॉजिक** लगाना पड़ेगा; …
+  **लोअर पॉइंट** के आसपास … अलग लॉजिक"* — no mechanics given; **do not build a rule on it yet**.
+- 🟡 **REFINED — the closing price gets a THIRD role: the seated seller's give-up line.** 2023-01-15 **excluded** it,
+  2023-04-23 called it the operator's bait; here *"वो **तब तक अपनी पोज़िशन नहीं काटेंगे जब तक मार्केट क्लोजिंग प्राइस नहीं
+  करेगा**"*, and trading below it is *"[बायर] के ऊपर प्रेशर"*. All three dated statements stand.
+- 🟢 **STABLE** — **S/R precision** (*"मार्केट एक पॉइंट भी ऊपर नहीं जाता"* ≈ 2023-04-23); **a conditional level is a regime, not
+  a trigger** (2023-01-15), here with a **30–40 point buffer** before flipping side; **loss asymmetry** — *"जब वो दिन आते हैं
+  तो मैं लॉस छोटा ले लेता हूं, और जब मेरा प्रॉफिट बनाने वाला दिन आता है … एक अच्छा टारगेट बनाने की कोशिश करता हूं"*
+  (2022-10-22 / 2023-01-01 / 2023-03-26); **size-and-loss spine** (2022-05-08 / 2022-04-23); **discipline + reason**
+  (2022-06-05 / 2022-09-18 / 2023-01-22).
+- 🔴 **SOFT TENSION (self-reconciled in-session)** — *"मार्केट के अंदर **गैंबलिंग भी करता हूं**, लेकिन अगर मेरा तुक्का सही लग
+  रहा है तो मेरे लिए वो गैंबलिंग अच्छी है"* against **2022-04-23's** central verdict. He reconciles it himself (it is a
+  probability game; the guess still needs preparation) ⇒ **concession, not retraction; both dated statements stand**.
+- ⚪ **DROPPED in this session: none** — 2022-04-23's information-symmetry argument and majority-position rule are simply not
+  restated (absence, not retraction).
+- 📌 **Fidelity:** ⚠️ May-2023 tape only. **`44,000` = the pivot** (*"44000 के नीचे रहेगा हम नेगेटिव ट्रेड करेंगे, इसके ऊपर
+  रहेगा तो बाय का ट्रेड करें"*; spoken 3×, **medium-high**); a support marked two days earlier, ASR-spaced **"43 540"**
+  (**low-medium**, one mention); 43,000 / 43,720 appear only in a list of the chart's *"हजारों नंबर"*; **"30 से 40 पॉइंट का
+  मार्जिन"** (buffer, one mention); **"5 पॉइंट का मिस"** (Nifty, one mention — **no Nifty level**). ⚠️ **Instrument never
+  named** — 43,000–44,000 fits **Bank Nifty by inference only**; no entry, exit, size, strike or premium spoken.
+  ⚠️ **₹30–30 करोड़ / ₹80–90 करोड़ are unnamed traders' hearsay, NOT his P&L.** ⚠️ ASR: *"अंग्रेज/अंग्रेजी"* = एवरेज,
+  *"सैलरी"* = सेलर, *"पोषण"* = पोज़िशन, *"प्रोफाइल"* = प्रॉफिट, *"कहानी ना कानी"* = कहीं ना कहीं, *"बंता"* = बनता, *"कम"* = काम.
+  **Nothing routed to `levels-log/`.**
+- 🔴 **CONTRADICTS: one soft, self-reconciled** (above). No earlier teaching withdrawn; no open question widened.
+
+> **Evolution verdict:** the corpus's **self-diagnosis** session — the sequel that answers the 2022 title from the loser's
+> side. ⭐ Durable adds: **a level that repeats cannot be luck**, **"it is gambling" is the fox's verdict, issued after the
+> loss — check the verdict before you check the market**, **you may call it a probability game but the bet needs preparation**,
+> **one self-identified trade = a thousand copied ones**, **the profit-makers audit; the losers wait**, **the open type decides
+> whether a guess has any edge — otherwise wait**, **high-zone and low-zone tape need different logics (unexplained)**,
+> **the closing price is where the seated seller gives up**. ⚠️ All levels are May-2023 tape, instrument unnamed.
+
+---
+
+**2023-07-09 — Bank Nifty Trend Identify Master Class** 🔵 NEW (the trend as error budget · failed-pattern continuation · pattern-event trend change) + 🟡 REFINED (61% becomes a trend read · S/R diagnostic ×2 · candle gate) + 🟢 STABLE
+`TYZrl7obTJc` · note: `teaching/2023-07-09-bank-nifty-trend-identify-master-class-by-intrad.md`
+
+The session on **how to identify the trend** — stated as *"ट्रेड इस योर फ्रेंड"* ("trend is your friend") — built as a
+three-layer ladder (**pattern → candle → price action**), with the instruction repeated throughout: *"हमें ट्रेड नहीं करना,
+हमें **ट्रेड को आईडेंटिफाई** करना है."*
+
+- 🔵 **NEW (load-bearing) — a FAILED pattern does NOT change the trend.** *"अगर ये पैटर्न **फेल** हो चुका है, तो यहां पे **ट्रेड
+  चेंज नहीं हुआ** — ये वो ट्रेड … **ऑलरेडी चल रहा था, वही ट्रेड मार्केट के अंदर चलेगा**."* The nearest ancestor (2022-04-02)
+  judged pattern validity only by the market's response and left the continuation case as an aside; **this makes the failure
+  an affirmative continuation signal**, with the hold instruction attached — *"जब तक ये फेल नहीं होता या दोबारा से कोई पैटर्न
+  अलग से नजर नहीं आता, तब तक हम मार्केट के अंदर … पोस्ट में रहते हैं."*
+- 🔵 **NEW (the session's spine) — the TREND as an ERROR BUDGET.** *"जब हम **ट्रेन के अकॉर्डिंग** कोई ट्रेड बनाते हैं … अगर थोड़ा
+  बहुत **एंट्री भी गलत** हो गया … तब भी मार्केट हमारे [अ]कॉर्डिंग चलने की काफी ज्यादा **प्रोबेबिलिटी** रहती है — लेकिन जब हम
+  **ट्रेन की अपोजिट** को ट्रेड … लेते हैं … तभी मार्केट हमारे अपोजिट [जा] सकते हैं."* 2022-02-19 / 2023-02-19 established
+  direction-primacy and 2023-03-12 probability-over-perfection; **this is the first session to price the two states through
+  the entry's tolerance.** His own framing, not a measurement.
+- 🔵 **NEW — the trend changes on a PATTERN EVENT.** *"ट्रेड चेंज कब होगा? … मार्केट **दोबारा से कोई पैटर्न बनाया**"* — not on a
+  candle, not on a level break. No earlier session gave a discrete trigger for a trend change (2022-06-11: the shape does
+  not decide, the participants do; 2023-01-15: levels graded, no trigger). ⚠️ Stated in the lesson register, not as a rule.
+- 🟡 **REFINED — the 61% rung (2023-04-23) is promoted from an ENTRY filter to a TREND-MEASURING instrument.** *"ये **एक्जेक्टली
+  पॉइंट सिक्स वन परसेंट** के आसपास ही हुआ … यही से मार्केट दोबारा से नीचे आने की कोशिश कर रहा है"*, *"अगर कोई **अच्छा
+  [सेलर]** बैठा [है] … **0.61 को ऊपर नहीं जाने देगा**"*, *"मार्केट … ऊपर नहीं जाने दिया — तो … **बड़ा सेल[र] है**, कोई बड़ा
+  **ऑपरेटर** … बैठा हुआ है."* ⭐ Same number, one step earlier in the chain — **the refusal IS the read**. Rung refusal repeated
+  (🟢): *"ना ही तो 5 देखना है, ना 32, ना 23 … डायरेक्ट पॉइंट सिक्स वन परसेंट."*
+- 🟡 **REFINED — the S/R diagnostic (2023-04-23) restated as the trend test, now stable across two sessions.** *"अगर मेरा ट्रेड
+  सही है … तो मेरा **सपोर्ट एक्जेक्टली काम करते हैं**; अगर मेरा ट्रेड गलत है … वो **सपोर्ट का भी ब्रेकडाउन** कर देगा, या फिर
+  **रेजिस्टेंस का ब्रेक आउट**."* ⭐ Which side of your own level breaks is the tell — the durable part; the levels are not.
+- 🟡 **REFINED — trend reading uses NO trendline, and nothing is drawn.** *"हमें कुछ लगाना ना पड़े … **आंखों से भी अगर देखें** तो
+  यहां पे ऐसा पैटर्न बन रहा है."* Consistent extension of 2023-01-15's S/R-over-trendline ranking, **not a retraction** —
+  he still teaches the drawing there.
+- 🟡 **REFINED — candle weakness + a gap become the pattern-CONFIRMATION gate (2022-09-10 gains a variant).** *"पैटर्न बने के
+  बाद अगर **कैंडल वगैरा मिल गए तो बहुत ही अच्छी बात**; अगर … **अपोजिट में मिल रहे हैं**, तो … मार्केट आपको **परेशान कर सकते**
+  [हैं]"*; worked as weak candles left behind and trapped (*"ये **वीक वाला कैंडल** … **ट्रैप** कर लिया … तो ये होता है
+  **कैंडल का पावर**"*) plus a gap-down open, on which basis *"9:15 पे मैंने ट्रेड बना लिया था."* ⚠️ **Volume — central on
+  2022-09-10 — is absent here.** Both dated statements stand.
+- 🟢 **STABLE — only real quantity moves a trend.** *"जब तक कोई **बड़ा क्वांटिटी** मार्केट के अंदर **सेलिंग में नहीं जाएगा**, तब
+  तक ऐसा काम नहीं हो सकता … **रिटेल ट्रेडर्स** सेल नहीं करते … छोटे क्वांटिटी में"*, plus *"हमारे जैसे लोगों की **हिम्मत नहीं
+  होती** … वो डरते हैं, तो वहां पे **ऑपरेटर ही काम करता है**"* (2023-02-19 crowd-cannot-carry; 2023-04-23 operator-constraint).
+- 🟢 **STABLE — the operator fight sequence, ending in a gap-down day.** Seller tries ⇒ fails ⇒ the counterparty adds with
+  *"ज्यादा ही कॉन्फिडेंस"* ⇒ the seller leaves part of the job to the crowd (*"चलो **दूसरे लोग सेलिंग करेंगे**"*) and is trapped
+  ⇒ returns knowing *"इस बार मैं नहीं छोड़ूंगा"* ⇒ *"अगले दिन **गैप डॉ** ओपन हो गया."* Same structure as 2023-04-23 and
+  2022-07-03 / 2022-07-09.
+- 🟢 **STABLE — the visible closing-price level is where he himself was trapped.** *"यहां पे **क्लोजिंग प्राइस का रेजिस्टेंस** लिया
+  … जैसे ही **ब्रेक आउट** किया, हमने **सेल का ट्रेड** बनाया — **थोड़ा बहुत हमारा गलत हुआ**."* (2023-01-15 exclusion /
+  2023-04-23 bait, now from the losing side.)
+- 🟢 **STABLE — the self-audit continues** (chain since 2022-11-12): overconfidence on the seated seller, a rushed breakout
+  entry, a loss, and the fix *"यहां पे **ब्रेक आउट में वेट कर ले**[ता] हूं"*; with the tolerant framing *"**लॉस कोई दिक्कत नहीं**
+  — अगर आप **कंटिन्यू काम करो** … मार्केट में काम चलेगा."*
+- ⚪ **Absent in this session (absence, NOT retraction):** volume (2022-09-10), index-pair divergence (2023-01-22),
+  option/expiry content (2022-09-17 / 2023-03-12), time-of-day input (2022-11-20 / 2023-03-12). ⚠️ **No earlier treatment**
+  in the processed corpus of a session framed as *trend identification* (nearest ancestors: 2022-04-02, 2022-06-11,
+  2022-11-26, 2023-02-19).
+- 📌 **Fidelity:** ⚠️ **Despite the Bank Nifty title, NO Bank Nifty price is spoken anywhere** — the only clean price level is
+  **Nifty `19,420`** (*"19420 का एक्जेक्टली बोला था और मार्केट यही पे ओपन हुआ, डायरेक्ट ऊपर चला गया"*), a level he marked in an
+  **earlier, unprocessed "analysis session" video**, **medium-high**, July-2023, day-specific — **do not reuse**; no Bank Nifty
+  row can be logged. The **61%** is a tool (*"पॉइंट सिक्स वन परसेंट"*, five ASR variants, value consistent); refused rungs
+  0.5 / 0.32(≈0.38) / 0.23. ⚠️ P&L is his own narration — **≈₹3 lakh booked** (said twice, medium) with a **₹60–70k leg whose
+  DIRECTION is garbled** (spoken as *loss*; cf. 2023-03-26 where the same figure is *profit seen* → loss booked) —
+  **do not quote the order**; *"40000 के आसपास"* is **unresolved, do not use**. ⚠️ ASR: *"फ्रेंड के बड़े में"* = *"ट्रेंड के
+  बारे में"*, *"ट्रेड इस योर फ्रेंड"* = "Trend is your friend", *"ट्रेन"* = trend, *"कम"* = काम, *"कलर/सदर/सैलरी/सेल्फी"* =
+  सेलर/सेलिंग, *"गेम डॉ/गैप डॉ"* = gap down, *"निक लाइन"* = neckline, *"कैप्टन ओपन"* = मार्केट ओपन; ⚠️ *"**गार्डन** वाला
+  कैंडल"* **unresolved** (his own definition ⇒ the low-wick / inverse-wick pair), *"ब्लू पैटर्न"* identified only by his
+  description as a **double bottom**; *"घोटाला की गंद मार्केट"*, *"बोरीवली"* corrupt.
+- 🔴 **CONTRADICTS: none found.** ⚠️ Two soft tensions flagged, unresolved: the **9:15 gap-down entry** vs 2022-11-12's
+  *"a big gap licenses no direction"* (→ question 21); and **one-index reliance** (sells banking, tolerates Nifty noise
+  *"निफ़्टी थोड़ा बहुत ऊपर नीचे करें तो कोई ज्यादा दिक्कत नहीं"*) vs 2023-01-22, where the missing index-pair check caused the
+  loss. Question 16 unchanged; question 12 untouched.
+
+> **Evolution verdict:** the corpus's **trend-identification** session — the first attempt to make the trend itself the object
+> of the read. ⭐ Durable adds: **the trend is the error budget**, **read in layers (pattern → candle → price action)**,
+> **a failed pattern does not flip the trade**, **the trend changes only on a new pattern**, **the 61% refusal is evidence of
+> who is seated**, **which side of your own S/R breaks is the trend test**, **read it with the naked eye**, **hold on
+> conformance and momentum; a loss on a correct read is tolerable**. ⚠️ One clean number in the whole session and it is a
+> **Nifty** level from an unprocessed earlier video; **no Bank Nifty level exists to log**; the P&L leg is ASR-garbled.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -2537,6 +2744,41 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
    opens**. ⚠️ **These reconcile easily** (*a profiler with no obligations to you*) — but he never states the reconciliation,
    so both are recorded rather than merged. **Both dated statements stand.**
 
+19. **NEW (opened 2023-05-14) — CAPPED RE-ENTRY LADDER vs the BROKEN-BONE rule.** **2023-05-14** teaches a bounded
+   retry ladder as technique: *"**ट्रायल और एरर मेथड** … **नंबर ऑफ एंट्री** भी डिसाइड करना पड़ेगा … मान लेते हैं **4 एंट्री**"*,
+   after which *"नेक्स्ट प्रीमियम उसको कम कर दो, **250** का कर दो"* (₹300 → ₹250 → ₹150 → ₹100), so that
+   *"छोटा प्रीमियम भी आपका बड़ा बन जाएगा… और जब लॉस होगा तो धीरे-धीरे कम होता चलेगा."* **2023-03-26** states the opposite
+   principle in the strongest terms in the corpus: *"अगर हमने **AVERAGING** कर लिया और अपने कैपिटल को ज्यादा लॉस [दे] गए…"* —
+   the **broken-bone rule**, *"ऐसा सिस्टम ही मत बनाइए जहां आपको averaging में करना पड़े"*. ⚠️ **The objects differ** — 2023-05-14
+   is **bounded** (a fixed maximum number of entries) and **shrinking** (each retry is smaller, so the total risk decays),
+   while 2023-03-26 is about **unbounded** averaging into a losing position — so they *may* reconcile as *"never add to a
+   loser; you may re-enter a live setup with shrinking size"*. **But he never states that distinction, and both are called
+   re-entry.** **Both dated statements stand; not averaged; for Amit to adjudicate.**
+20. **NEW (opened 2023-05-14) — do support/resistance ROLES flip, or not?** **2023-05-14** refuses the flip as a matter of
+   intent: *"मेरा ऐसा कोई इंटेंशन नहीं होता की **सपोर्ट एक रेजिस्टेंस** बन जाएगा"*, and he places levels **direction-first and
+   exact** (*"डायरेक्शन को देख के सपोर्ट रेजिस्टेंस लगाने की कोशिश करता हूं… **एग्जैक्ट**, नंबर वाइस"*). Earlier the corpus
+   teaches the flip as a plain rule — **2022-03-06** (*"broken support → resistance, sold on the retest; broken resistance →
+   support, bought on the retest"*) and **2023-01-15** (*"जो पहले सपोर्ट बना हुआ था, वो रेजिस्टेंस बन गया … बड़ा ही सिंपल सी
+   कहानी है"*). ⚠️ **And in the 2023-05-14 session itself** a level he had marked as resistance *did* work as support once the
+   gap-down failed, which he glosses by saying a level working both ways only tells you the direction. **Both dated
+   statements stand; not averaged.**
+21. **NEW (opened 2023-07-09) — a 9:15 entry taken ON a gap-down expectation vs 2022-11-12's "a big gap licenses no
+   direction".** **2023-07-09** describes exactly that trade: after a gap-down open and weak candles left trapped,
+   *"9:15 पे मैंने ट्रेड बना लिया था."* **2022-11-12** (🚫 *Rules of Chart Masterclass*) treats the **size of the gap** as a
+   gate on whether a direction plan is even licensed. ⚠️ Not a plain contradiction as spoken — in 2023-07-09 he had a
+   **pre-built pattern read** and the gap merely confirmed it, while 2022-11-12 is about *planning* a direction off a gap —
+   but he does not address the distinction. **Both stand; for Amit to adjudicate.**
+22. **NEW (opened 2023-07-09) — one-index reliance: tolerated (2023-07-09) vs blamed for a loss (2023-01-22).** **2023-07-09**
+   sells banking and explicitly tolerates the other index moving: *"निफ़्टी थोड़ा बहुत ऊपर नीचे करें तो कोई ज्यादा दिक्कत
+   नहीं."* **2023-01-22** and again **2023-05-14** attribute a loss to the **index pair diverging** (one index holding its
+   closing price while the other gives it up). ⚠️ Same asymmetry of attention, opposite instruction. **Both dated statements
+   stand; not averaged.** *(Related, unchanged: questions 7 and 11 were widened again by 2023-05-14, which turns the
+   divergence into a **pre-entry check** and names it as the cause of his own loss.)*
+23. **NEW (opened 2023-05-21) — SOFT, self-reconciled: "I also gamble in the market" vs 2022-04-23's "the market is not
+   gambling".** **2023-05-21** concedes: *"मार्केट के अंदर **गैंबलिंग भी करता हूं**, लेकिन अगर मेरा तुक्का सही लग रहा है तो मेरे
+   लिए वो गैंबलिंग अच्छी है"*, after reframing the whole question as *"प्रोबेबिलिटी का गेम … लेकिन गैंबलिंग में भी आपको **किस बुक
+   के ऊपर काम करना है**"*. ⚠️ He reconciles it in-session (a probability game still needs preparation), so this is recorded
+   as a **concession, not a retraction** — **both dated statements stand.**
 ---
 
 ## Progress
@@ -2544,9 +2786,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **47** | |
+| Processed | **50** | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | |
-| Remaining | **143** | |
-| Next (chronological) | `20230514 6RtWjwDoqN0` How I Plan a Single Trade for intraday Trading | |
+| Remaining | **140** | |
+| Next (chronological) | `20230716 jyAkiOdG-cU` Intraday Trading \| How to Do It | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
