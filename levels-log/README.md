@@ -270,6 +270,43 @@
 | 2026-09-18 | Sensex | 74,000 / 73,650 (ASR "7473650") | S | pre I7gORF7zm4o — inferred, uncertain; unbroken (low 74,295) |
 | 2026-09-18 | Nifty | 23,500 / 23,360 | R | pre I7gORF7zm4o — high 23,389 |
 | 2026-09-18 | Nifty | 23,100 / 23,000 | S | pre I7gORF7zm4o — unbroken |
+| 2026-09-21 | Bank Nifty | 56,650 / 57,100 | R | pre iFZVyDEzeJk — Sep 21 high 56,668 tagged 56,650; 57,100 never reached |
+| 2026-09-21 | Bank Nifty | 56,155 / 55,810 | S | pre iFZVyDEzeJk — ASR "561 55 810", first value uncertain; unbroken (low 56,270) |
+| 2026-09-21 | Bank Nifty | ~56,500 ("500" round number) | live cap | post YLhsZu6D658 — BN refused to cross it, so Sensex/Nifty breakouts converted to failure; ASR value uncertain |
+| 2026-09-21 | Sensex | 74,700 / 75,200 | R | pre iFZVyDEzeJk — 74,700 taken out (high 74,987); 75,200 unbroken |
+| 2026-09-21 | Sensex | 74,350 / 74,000 | S | pre iFZVyDEzeJk — unbroken (low 74,454) |
+| 2026-09-21 | Nifty | 23,500 / 23,600 | R | pre iFZVyDEzeJk — 23,500 unbroken (high 23,467) |
+| 2026-09-21 | Nifty | 23,270 / 23,160 | S | pre iFZVyDEzeJk — unbroken (low 23,315) |
+| 2026-09-22 | Bank Nifty | 57,000 / 57,200 | R | pre 1ariOZ4dAVQ — unbroken (high 56,671) |
+| 2026-09-22 | Bank Nifty | 56,400 / 56,100 | S | pre 1ariOZ4dAVQ — 56,400 broken; 56,100 tagged (low 56,107) |
+| 2026-09-22 | Bank Nifty | 56,500 CE | live strike traded | post FWgM1TFKWxA |
+| 2026-09-22 | Sensex | 75,200 / 75,500 | R | pre 1ariOZ4dAVQ — unbroken (high 75,039) |
+| 2026-09-22 | Sensex | 74,700 / 74,350 | S | pre 1ariOZ4dAVQ — 74,700 broken; 74,350 defended (low 74,424) |
+| 2026-09-22 | Sensex | 75,000 CE | live strike traded | post FWgM1TFKWxA |
+| 2026-09-22 | Nifty | 23,500 / 23,570 | R | pre 1ariOZ4dAVQ — 23,500 held by 11 pts (high 23,489) |
+| 2026-09-22 | Nifty | 23,350 / 23,270 | S | pre 1ariOZ4dAVQ — broken (low 23,286) |
+| 2026-09-23 | Bank Nifty | 56,540 / 57,000 | R | pre FBDx9zcN9Sw — 56,540 breakout printed (high 56,624) but close back below; 57,000 unbroken |
+| 2026-09-23 | Bank Nifty | 56,100 / 55,910 | S | pre FBDx9zcN9Sw — unbroken (low 56,210) |
+| 2026-09-23 | Sensex | 75,200 / 75,500 | R | pre FBDx9zcN9Sw — unbroken (high 74,974) |
+| 2026-09-23 | Sensex | 74,350 / 74,000 | S | pre FBDx9zcN9Sw — unbroken (low 74,600) |
+| 2026-09-23 | Nifty | 23,500 / 23,560 | R | pre FBDx9zcN9Sw — unbroken (high 23,467) |
+| 2026-09-23 | Nifty | 23,270 / 23,230 | S | pre FBDx9zcN9Sw — unbroken (low 23,350) |
+| 2026-09-24 | Bank Nifty | 56,800 / 57,000 | R | pre 4BKhLKn4zHY — gapped far below (open 55,711); never tested |
+| 2026-09-24 | Bank Nifty | 56,370 / 56,100 | S | pre 4BKhLKn4zHY — gapped through; broken (low 55,341) |
+| 2026-09-24 | Sensex | 75,100 / 75,300 | R | pre 4BKhLKn4zHY — gapped below (open 74,272); never tested |
+| 2026-09-24 | Sensex | 74,650 / 74,430 | S | pre 4BKhLKn4zHY — gapped through; broken (low 73,564) |
+| 2026-09-24 | Nifty | 23,570 | R | pre 4BKhLKn4zHY — gapped below; unbroken (high 23,282) |
+| 2026-09-24 | Nifty | 23,500 | important psychology number (as spoken) | pre 4BKhLKn4zHY — gapped below at the open |
+| 2026-09-24 | Nifty | 23,360 / 23,370 (ASR "2360 2370") | S | pre 4BKhLKn4zHY — reading uncertain; broken (low 23,046) |
+| 2026-09-25 | Bank Nifty | 55,800 / 56,000 | R | pre mlKuAuR_U2I — high 55,763 stopped 37 pts short of 55,800; 56,000 (round) never crossed |
+| 2026-09-25 | Bank Nifty | ~55,100 / 55,000 (ASR "550 55000") | S | pre mlKuAuR_U2I — first value uncertain; unbroken (low 55,374) |
+| 2026-09-25 | Bank Nifty | 55,500 CE + 55,600 CE (1,170 qty each) | live strikes traded | post Y0tPI9uWJVU — basket bought under the 55,800 resistance |
+| 2026-09-25 | Sensex | 74,250 / 74,000 | R | pre mlKuAuR_U2I — unbroken (high 73,968) |
+| 2026-09-25 | Sensex | 73,330 / 73,000 | S | pre mlKuAuR_U2I — unbroken (low 73,478) |
+| 2026-09-25 | Sensex / Nifty | 900 qty / 1,430 qty | live positions (strikes unstated) | post Y0tPI9uWJVU |
+| 2026-09-25 | Nifty | 23,200 / 23,270 | R | pre mlKuAuR_U2I — unbroken (high 23,163) |
+| 2026-09-25 | Nifty | ~23,1xx / 23,000 (ASR "232900") | S | pre mlKuAuR_U2I — garbled; unbroken (low 23,021) |
+| 2026-09-26 | Bank Nifty | 56,650 / 56,700 / 56,750 | gap-up reference in the weekly concept session — no SL available above → don't sell a gap-up | teaching dVCXZ1PXVYI |
 | 2023-02-12 | Bank Nifty | ~42,000 / ~40,000 | post-budget range top / lower level | teaching rdetVddnPyk (ASR) |
 | 2023-02-12 | Bank Nifty | 40,500 | seller's minimum target (round number) | teaching rdetVddnPyk |
 | 2023-02-12 | Bank Nifty | 41,600 / 41,800 | exit-up fork for a sell position (safe / more room) | teaching rdetVddnPyk (ASR) |
