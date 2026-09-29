@@ -9,9 +9,9 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **50** |
+| Processed | **53** |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` |
-| Remaining | **140** |
+| Remaining | **137** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -75,10 +75,13 @@ only from recent daily notes; this is the other half.
 - `20230514` **How I Plan a Single Trade for intraday Trading By Intraday Hunter** — [`6RtWjwDoqN0`](https://www.youtube.com/watch?v=6RtWjwDoqN0)
 - `20230521` **From Stock Market Gambling to Earn Money by Intraday Hunter** — [`bdRzAkgfvXg`](https://www.youtube.com/watch?v=bdRzAkgfvXg)
 - `20230709` **Bank Nifty Trend Identify Master Class by Intraday Hunter** — [`TYZrl7obTJc`](https://www.youtube.com/watch?v=TYZrl7obTJc)
+- `20230716` **Intraday Trading | How to Do It | By Intraday Hunter** — [`jyAkiOdG-cU`](https://www.youtube.com/watch?v=jyAkiOdG-cU)
+- `20230723` **How to Make Money in Intraday Trading** — [`6KcIOrp5-hg`](https://www.youtube.com/watch?v=6KcIOrp5-hg)
+- `20230730` **Stop Trading Now: How Regular Losses Can Ruin Your Money** — [`0l-13NjLn6M`](https://www.youtube.com/watch?v=0l-13NjLn6M)
 
 ## Next up (chronological)
-1. `20230716` **Intraday Trading | How to Do It | By Intraday Hunter**
-2. `20230723` **How to Make Money in Intraday Trading**
+1. `20230813` **How to Understand Stock Market Momentum**
+2. `20230820` **How to Accept Loss in Stock Market by Intraday Hunter**
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
