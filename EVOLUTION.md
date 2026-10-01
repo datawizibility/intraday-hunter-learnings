@@ -2803,6 +2803,106 @@ holding past the deal on offer, and averaging through the market's "recoveries".
 
 ---
 
+**2023-08-13 — How to Understand Stock Market Momentum** 🔵 NEW (the concept/setup split · the two-steps-behind / two-steps-ahead timing rule · the capital → manual-work → no-risk chain · the no-retracement condition) + 🟡 REFINED (the weak candle becomes a stop-loss MAP · "sell where they buy" gets its detection clause · the closing-price level ×5) + 🟢 STABLE (money is made by taking the other's stop-loss · being wrong 1–3 days · the closing-rule list) + ⚠️ ONE SOFT TENSION (concept-vs-setup vs 2023-07-30)
+`n6tI3ZOYs2o` · note: `teaching/2023-08-13-how-to-understand-stock-market-momentum.md`
+
+The Sunday after the ruin session, taking the title's word — momentum — and dissolving it into mechanism: the market is not paid by
+direction, it is paid by **taking the other trader's stop-loss**, and momentum is only the delivery. The session then supplies a
+**hierarchy** (the concept is permanent, the setups are fallible), a **timing law** (the market lags your read when you are right and
+leads it when you are wrong), and a **causal psychology chain** (low capital converts the method into manual work under pressure, so
+risk-taking stops and losses repeat). ⚠️ **No market level is spoken anywhere.**
+
+- 🔵 **NEW (the session's spine) — the market is paid in STOP-LOSSES, not in direction.** *"मार्केट ऊपर बड़े नीचे बड़े किसी का पैसा नहीं बंता, पैसा तभी बंता है जब वो दूसरे का [एसएल] आता है"*; *"मार्केट में [एसएल] खाने से मतलब है"*; and why the wide move is not the point — *"मार्केट ऊपर जा सकता था, कम पैसे लगता … ऊपर नीचे ले जाने से किसी को कोई मतलब नहीं है."* ⚠️ ASR renders **एसएल** as *"असर"* throughout. Same spine as 2022-08-06 / 2023-04-23 / 2023-05-14 / 2023-07-30 — **now in its plainest form**.
+- 🔵 **NEW — the CONCEPT / SETUP split, stated as a hierarchy.** *"कॉन्सेप्ट वही रहेगा, सेटअप चेंज हो सकते हैं"*, *"ये सेटअप फेलियर हो सकते हैं … जो कॉन्सेप्ट होता है वो 100% हमेशा काम करता है"*, and the fade template as the illustration — *"ब्रेक आउट के बाद हम [सेल] कर लेना चाहिए, ब्रेकडाउन के [बाद] बाय कर लेना चाहिए"*.
+- 🔵 **NEW — the TWO-STEPS-BEHIND / TWO-STEPS-AHEAD timing rule.** *"जैसे हम सोच रहे हैं उसके दो कम पीछे चला जाता है और जैसे हम सोच रहे हो उसके दो कम आगे निकाल जाता है"*, both directions spelled out, with the intraday corollary — *"जब हम इंट्राडे में ट्रेड करते हैं … हमें यहां पे सही तो होना होता है"*. Grep of the chronology finds no earlier rightness-**lag** separate from the direction read.
+- 🔵 **NEW — capital → MANUAL WORK → risk-incapacity, as an explicit chain.** *"जब कैपिटल कम होता है ना तो [एसएल हंटिंग] … मैन्युअल काम होता है"* ⇒ *"आप [एसएल] हंटिंग को ना देख कर कैपिटल को देखने के लिए जाओगे"* ⇒ *"आप रिस्क ले नहीं पाओगे"* ⇒ *"बार-बार लॉस … क्योंकि आप ज्यादा से ज्यादा सही होने की कोशिश करते हो"*. 2022-05-08 priced capital and 2026-09-13 ruled that no capital size is the solution; the **manual-work link** is new here.
+- 🔵 **NEW — the NO-RETRACEMENT condition.** *"अगर सपोर्ट का आप ब्रेकडाउन करना है और मार्केट में इन [सेलर्स] को टारगेट करना है तो मार्केट को कंटिन्यू [निकलना] पड़ेगा; अगर [रिट्रेसमेंट] होता तो फिर इतना बड़ा मोमेंटम मार्केट नहीं कर [पाता]"* ⇒ *"रिट्रेसमेंट के बिना ही मार्केट नीचे जाके … मैंने तुरंत ट्रेड बनाए"*. When the target pool sits behind a level, the absence of retracement **is** the confirmation.
+- 🔵 **NEW — the MEASURED COST of one step of impatience.** *"अगर हम बैठे रहते … ब्रेकडाउन किया, बाय करते, दो-चार मिनट के अंदर प्रॉफिट हो जाता है"* — against the advance-buy that he had to exit at a loss (*"मैं यहां पे लॉस ले के निकाला था"*), justified at the time by *"डायरेक्ट यहां पे [एसएल] वगैरह अवेलेबल नहीं थी"*.
+- 🟡 **REFINED — the weak candle becomes a stop-loss MAP.** 2023-07-09 used weak candles as a **pattern-confirmation gate**; here *"वीक वाले कैंडल के नीचे क्या होंगे, दूसरे लोग अपना [एसएल] वगैरह रखेंगे"* — the placement map, with the visibility test *"जो मैं आंखों से नज़र आ जाए"*.
+- 🟡 **REFINED — "buy where they sell / sell where they buy" gets its HOW.** Stated as a principle in 2023-07-23; here paired with the detector — *"वो पता लगता है मार्केट के कैरेक्टर को देखकर, मार्केट के मोमेंटम को देखकर"* — i.e. a **read**, not a rule to apply.
+- 🟢 **STABLE — the closing-price level ×5.** *"क्लोजिंग प्राइस का सपोर्ट बना"*, *"मार्केट में क्लोजिंग प्राइस का सपोर्ट लिया है"*. Same object as 2023-01-15, 2023-04-23, 2023-07-09 and 2023-07-30.
+- 🟢 **STABLE — being wrong 1–3 days does not invalidate the method.** *"एक दिन गलत होना बुरी बात नहीं होती, 2 दिन भी … तीन दिन भी … लेकिन मैथ में अगर हम नेट में प्रॉफिट बना रहे हैं"* (2023-03-26, 2023-07-30).
+- 🟢 **STABLE — the closing-rule list, spoken in one breath.** *"जब गलत हो तो लॉस लो … जब सही होते [हो] तो टारगेट बुकिंग करना चाहिए; गलत ट्रेड नहीं करना चाहिए; ओवर ट्रेडिंग से बचना चाहिए; लालच नहीं करना चाहिए; टाइम के साथ ट्रेड; कैपिटल को बचा के रखना"* (2023-01-01 / 2023-02-19 / 2023-07-16).
+- ⚪ **Absent (absence, NOT retraction):** trend-identification apparatus, **volume**, time-of-day inputs, index-pair divergence, **options/expiry** (the word is never spoken), **stop-loss placement mechanics** — and **every market level**.
+- ⚠️ **ONE SOFT TENSION, left open:** *"कॉन्सेप्ट वही रहेगा, सेटअप चेंज हो सकते हैं"* re-scopes the durable layer to the **concept**, one week after 2023-07-30 made the **setup itself** the machine (*"जब तक आप ट्रेडिंग में अपना कुछ सेटअप नहीं बनोगे … प्रोडक्ट नहीं बनेगा"*). **Both dated statements stand for Amit to adjudicate.** 🔴 **No outright contradiction found.**
+
+> **Evolution verdict:** a **momentum-as-mechanism** session. ⭐ Durable adds: **money is made by taking the other's stop-loss**,
+> **the concept is permanent and the setup is fallible**, **the market lags your read when you are right and leads it when you are
+> wrong**, **when the target pool sits behind a level the market cannot afford a retracement**, **low capital turns the method into
+> manual work under pressure**, **the 3–4 loss window (1–2 months in) is where the method is abandoned, not where it fails**,
+> **do not try to be "more right" than the setup allows**. ⚠️ A session with **no levels at all**, one unresolved *"0.6"*, and one
+> concept-vs-setup tension against the previous week.
+
+---
+
+**2023-08-20 — How to Accept Loss in Stock Market** 🔵 NEW (the sacrifice ledger · "start from profit" as an ordering rule · never read one profit as a profit journey · the gambling-vs-market luck/skill asymmetry · motivation valued above profit · the structural rules: never on a loan, the family must know, do not quit your income) + 🟡 REFINED (last week's capital chain gets a floor number and a cliff · the loss-fighting loop gets a convergence argument) + 🟢 STABLE (an easy loss is the healthy signature · loss is universal · option buying is where retail is damaged) + ⚠️ TWO SOFT TENSIONS (no-add-funds vs capped averaging; no-guarantee vs the 2023-07-30 return expectation)
+`XA2fYDltiE0` · note: `teaching/2023-08-20-how-to-accept-loss-in-stock-market-by-intraday-h.md`
+
+The corpus's **acceptance** session, answering the title from the **trader's own ledger** rather than the market's mechanics. The spine:
+a loss is refused not because the analysis is wrong but because **the trader paid to be here and expects different treatment** — and the
+market has none. From that come a loss-fighting loop that must end in a drawdown, an ordering rule (*start from profit*), a warning
+against reading one good trade as a method, and five concrete structural prescriptions about money and income. ⚠️ **No market level is
+spoken anywhere; every figure is a capital-journey illustration.**
+
+- 🔵 **NEW (the session's spine) — the SACRIFICE LEDGER.** *"जब हम ट्रेडिंग को जॉइन करते [हैं] तो हमने बहुत सी चीज़ों का सैक्रिफिस किया होता"* — *"बिज़नेस को छोड़ दिया या कम किया … किसी ने लोन लिया … किसी ने फैमिली फंड उसे कर रखा है"* ⇒ *"हमें लगता है की हमें कुछ अलग इनाम मिलेगा"* vs *"मार्केट के लिए ये बातें मैटर नहीं करती … मार्केट के लिए सभी एक समान है"*. The chronology had priced capital (2022-05-08), the player (2022-07-02), the read (2022-06-04), the setup (2023-07-30) and the manual-work chain (2023-08-13) — never **what the trader paid to be here**. ⭐ This is the answer the title asks for.
+- 🔵 **NEW — "START FROM PROFIT" as an ORDERING rule.** *"हमें शुरुआत ही प्रॉफिट से करनी होगी, तभी जाकर हम आगे बढ़ पाएंगे, तभी जाकर हमारा कैपिटल बढ़ पाएगा"*, with the explicit prohibition that a loss is **not** a reason to add funds or quantity.
+- 🔵 **NEW — NEVER READ ONE PROFIT AS A PROFIT JOURNEY**, with the options example: *"₹25,000 … ₹40,000 में कन्वर्ट कर दिया, कोई बड़ी बात नहीं … एक दिन के अंदर भी ऐसा किया जा सकता है"* ⇒ *"कुछ ट्रेड इसको … [प्रॉफिटेबल] जर्नी समझ लेते हैं"* ⇒ *"₹5 लाख रुपए मार्केट के अंदर डाल दो[ंगे]"* ⇒ *"एक से [डेढ़] लाख, ₹2 लाख का लॉस"* ⇒ *"फिर आप लॉस को एक्सेप्ट नहीं कर पाओगे."* 2022-09-24 priced greed, 2023-07-30 the over-generous deal; this prices the **one-good-day**.
+- 🔵 **NEW — the GAMBLING asymmetry, told against himself.** In gambling he never claims skill — *"गैंबलिंग में हमें क्या लगता रहता है की अपना किस्मत था"*; in the market one good stretch yields *"हमारे अंदर कुछ ना कुछ स्किल आ गए"* ⇒ *"ये फूल होना बहुत ही बुरी बात है."* And the test he draws from it: *"अगर आप प्रॉफिटेबल ट्रेड हो तो … लॉस लिया जा सकता है, आराम से ले लेते हैं"* — **an easy loss is the healthy signature.**
+- 🔵 **NEW — MOTIVATION MUST BE VALUED ABOVE PROFIT.** *"अगर आप प्रॉफिट को देखकर मार्केट के अंदर आए … तो डेफिनेटली आपको डिमोटिवेशन देखने को मिलेगा"*, corrected by *"कुछ ऐसा थिंकिंग बनाकर आओ जो आपकी प्रॉफिट से आपके लिए ज्यादा वैल्यूएशन होगा"* (father, mother, wife, children, sister) — *"वो मोटिवेशन कभी कम नहीं होता."* 2023-03-26 made mindset first; this supplies the **substitution object**.
+- 🔵 **NEW — the STRUCTURAL rules, stated plainly, some for the first time.** (a) do not quit your income — *"जो [बिज़नेस] छोड़कर ट्रेडिंग के अंदर जंपिंग करना बहुत ही गलत बात होती है"*; (b) **never trade on a loan** — *"लोन लेकर बिल्कुल भी ट्रेड नहीं करना चाहिए"*, with the counter-example explicitly rejected — *"वो एग्ज़ाम्पल आपके लिए ठीक नहीं रहेगा"*; (c) if it is family money, **the family must be told** — *"मैं पर्टिकुलर फंड को ट्रेडिंग के लिए उसे कर रहा हूं"*; (d) grow the business and come with its funds; (e) carry everyone — *"अकेले-अकेले कुछ नहीं होगा."* ⚠️ The loan prohibition was **implied** by earlier ruin narratives; here it is a stated rule.
+- 🔵 **NEW — the honest NO-GUARANTEE statement.** *"यहां पे मैं आपको बोल नहीं सकता की आपका एक साल में कम से कम इतना प्रॉफिट बनना शुरू जाएगा … कोई यहां पर गारंटीड कुछ नहीं है … जो प्रॉफिट बना रहा है वो भी लॉस में जा सकते हैं."*
+- 🟡 **REFINED — last week's capital chain gets a FLOOR and a CLIFF.** 2023-08-13 stated *"जब कैपिटल कम होता है … मैन्युअल काम होता है"* **without a threshold**; here the pressure is given a number — *"25 → 20 → 18 → 17 [लाख] … हैंडल कर लो"*, then *"जैसे ही वह 15 लाख से कम जाएगा, आपको प्रॉब्लम होना शुरू हो जाएगा"* — and the small-capital mirror case (*"₹1 लाख … 50000"*, no second capital) is stated as the **same failure**. The pressure then relocates onto trading. ⚠️ The number is *"मान लेते हैं"*; the structure is the durable part.
+- 🟡 **REFINED — the loss-fighting loop gets a CONVERGENCE argument.** 2022-10-22 installed the motive test on averaging, 2023-07-30 the recovery loop (*"आप बैठे रहोगे और मार्केट रिकवर करेगा"*). Here the loop is *"लॉस होगा, आप काम करोगे"* and the new element is **why it must end in a drawdown**: *"हो सकता है दो-तीन बार कम हो, तो एक बार वो बढ़ाने की भी कोशिश करेगा"* ⇒ *"एक ही पोज़िशन के अंदर, क्वांटिटी इंक्रीज़ करने के लिए"* ⇒ *"अचानक से आपका कैपिटल मार्केट के अंदर चला जाता है."* (⚠️ ASR *"डोर डॉ"* read as **ड्रॉ डाउन**.)
+- 🟢 **STABLE — loss is universal and not an exit signal.** *"जो प्रॉफिट बना रहा है वो भी लॉस में जा सकते हैं, जो लॉस में जा रहे हैं वो प्रॉफिट बना सकते हैं"* (2023-03-26, 2023-07-30).
+- 🟢 **STABLE — option buying is where the retail damage happens.** *"वो भी स्पेशली ऑप्शन [में]"*, with the ₹25,000 → ₹40,000 single-day illustration (2022-09-17 / 2023-03-12 / 2023-07-23).
+- ⚪ **Absent (absence, NOT retraction):** the **entire chart apparatus** — no S/R, no retracement (the 0.61 rung is absent), no closing price, no pattern, no weak candle, no stop-loss placement mechanics; **no level of any kind**; volume, time-of-day and index-pair divergence absent. ⚠️ A **psychology-and-structure** session end to end.
+- ⚠️ **TWO SOFT TENSIONS, left open.** (i) *"शुरुआत ही प्रॉफिट से करनी होगी"* / no-add-funds sits on the **no-add** side against the **capped-averaging** strand (2023-07-16, 2023-07-23) — the corpus already carries one unresolved averaging contradiction from 2023-07-16. (ii) The no-guarantee statement (no time, no return) stands beside 2023-07-30's **stated return expectation** (2–3% vs 10–15%, period unstated); this session **guarantees nothing and does not retract the figure**. **Both dated statements stand for Amit to adjudicate.** 🔴 **No outright contradiction asserted.**
+
+> **Evolution verdict:** the corpus's **acceptance** session — the first to answer "why can't I take a loss?" from the trader's ledger
+> instead of the market's mechanics. ⭐ Durable adds: **the sacrifice ledger**, **pressure has a floor number and then a cliff**,
+> **the loss-fighting loop must end in a drawdown because one attempt overshoots**, **start from profit — a loss is not a reason to add
+> funds or quantity**, **never read one profit as a profit journey**, **luck in gambling / skill in the market — the asymmetry is the
+> tell**, **an easy loss is the healthy signature**, **motivation must be valued above profit**, **never trade on a loan; if it is
+> family money the family must know; do not quit your income to trade**. ⚠️ A session with **no levels at all**, and two soft tensions
+> left for Amit.
+
+---
+
+**2023-08-27 — Why Stock Market Does Not Work on News** 🔵 NEW (the three-class news taxonomy · every news prints a HIGH either way · novelty-not-sign in a result print · the direct-impact test on named companies · news avoided for psychology not analysis · his own cut/capture parameters · be out before the big candles on event days · do not mix disciplines) + 🟡 REFINED (the option chain declared unnecessary — writers read off the chart · the expiry-completion shape ×2 · the quick-entry defect gets its completion) + 🟢 STABLE (the stop-loss pool decides the plan ×6 · both sides have stops · a repeated mistake is the real error) + ⚠️ ONE SOFT TENSION (don't-mix vs correlate)
+`MU6rndS4_M8` · note: `teaching/2023-08-27-why-stock-market-does-not-work-on-news-by-intrad.md`
+
+The corpus's **news** session, and its answer is not *ignore the news* but **classify it by whether it can reach the chart**. The spine:
+**every news event prints a high, positive or negative**, so a news day is a stop-loss day; a **positive result is already in the price**
+unless it carries something new; and the only news that matters for intraday is the news that **never appears in the chart**. ⚠️ Includes
+the session's own two errors and **no market level**.
+
+- 🔵 **NEW (the session's spine) — the THREE-CLASS news taxonomy.** (1) *always available* — dollar index, FII flow, *"हमेशा मार्केट में आपके लिए अवेलेबल रहेंगे"*; (2) **direct impact and invisible in the chart** — *"जो डायरेक्टली आपको मार्केट में इंपैक्ट डालेगी, वो आपको चार्ट के अंदर नज़र नहीं आएगी"*, e.g. *"किसी ने हमला कर दिया … दो देश ने मिलकर कुछ कर लिया"* ⇒ *"इस प्रकार की न्यूज़ के ऊपर हमें काफी ज्यादा ध्यान रखना चाहिए"*; (3) *future-useful* — Chandrayaan, population/growth, oil, gold, other countries ⇒ *"इन्वेस्टर के लिए ज्यादा यूज़फुल."* The chronology had **never** classified news. ⭐ This is the answer the title asks for.
+- 🔵 **NEW — EVERY NEWS PRINTS A HIGH, POSITIVE OR NEGATIVE.** *"जब कोई न्यूज़ होता है, स्पेशली चाहे पॉजिटिव या फिर नेगेटिव, वहां पे हाई क्रिएट हो जाता है."* One sentence converts a news event into a **stop-loss pool** and hands the topic back to the method.
+- 🔵 **NEW — NOVELTY, NOT SIGN, IS THE INPUT.** *"जो रिजल्ट पॉजिटिव आ रहा है वो ऐसा ऑलरेडी उस स्टॉक के अंदर आएगा"* ⇒ dumping on a good print (*"आपको डंपिंग देखने को मिलेगा, डाउनफॉल देखने को मिलेगा"*); **but** a genuinely new element — a **new product line** (*"केवल गाड़ियों का फाइनेंस करती थी … आगे से मैं बाइक का भी फाइनेंस करूंगी"*) or a **management change** — means *"आपको डंपिंग देखने को नहीं मिलेगी"*. Both outcomes are stated: *"काफी बार पॉजिटिव रिजल्ट आने के बाद मार्केट बढ़ता ही जाता है; काफी बार पॉजिटिव रिजल्ट तो आ जाता है लेकिन मार्केट गिर जाता है."*
+- 🔵 **NEW — the DIRECT-IMPACT TEST on named companies.** *"आज HDFC बैंक को डायरेक्टली इंपैक्ट मिला? … एक्सिस बैंक? SBI?"* — if nothing hit the specific stock, a sector-wide growth story is *"एक [चल] है जो आपके सामने दिखाई जा रही है"* ⇒ **avoid it**. Contrast the genuine case (a rule change, e.g. the Budget) where the investor buys the **2–4 year** view and *"वो इन्वेस्ट करेगा तो वो तो निकलेगा नहीं."* The Chandrayaan counter-example closes it: *"अगर बैंक में इन्वेस्ट कर दिया, तो उसको क्या मिला? कुछ नहीं मिला."*
+- 🔵 **NEW — WHO IS ON THE OTHER SIDE.** *"या तो ऑपरेटर या फिर ट्रेड है — ये दोनों पैसा बनाएंगे; इन्वेस्टर अपना पैसा नहीं [लगाता]"*, because the investor *"रिस्क भी ज्यादा लेते हैं, वो 50 से 60% किसी स्टॉक में लगाते [हैं] … वो मार्केट में वेट भी करते हैं टाइम के साथ."* ⇒ a *"40 से 50 पॉइंट"* result-day move belongs to the traders.
+- 🔵 **NEW — news is avoided for PSYCHOLOGY, not analysis.** *"मेरा ध्यान उसकी ऊपर जा चला जाता है और मेरा साइकोलॉजी ज्यादा चेंज हो जाता है"*, and *"वीडियो के सामने वाला बोल रहा है की यहां पर ऐसा हुआ है, तो इतने डर में हम एनालाइज़ नहीं कर पाते की वो सही बोल रहा है या गलत."* ⇒ *"तो न्यूज़ के ऊपर ट्रेड करना काफी मुश्किल होता है, स्पेशली इंट्राडे के लिए."* The information-era reading has changed too: *"न्यूज़ को भी अब एक ट्रेडिंग की तरह करना शुरू कर दिया"* — the channel has already bought before telling you to buy, and when the public follows, *"ऑपरेटर वहीं पर काम करना शुरू कर देते हैं."*
+- 🔵 **NEW — his own stated intraday parameters.** *"पांच से 10 पॉइंट में कैट दूंगा … अदरवाइज़ अगर बढ़ता रहा है तो 10 से 15 कैप्चर करके निकल जाऊंगा"*, against *"इंट्राडे के अंदर 100 से 200 पॉइंट चाहिए."* ⭐ The first **cut/capture numbers** in the teaching corpus, in his own voice.
+- 🔵 **NEW — the EVENT-DAY exit rule.** *"मैं 10:00 बजे से पहले वहां पर ट्रेड [से] भाग जाता हूं, क्योंकि … जब अपना बजट आना शुरू होगा तो वहां पे प्रॉब्लम होगा, अचानक से बड़े-बड़े कैंडल बने शुरू हो जाएंगे."* Be out before the big candles start.
+- 🔵 **NEW — DO NOT MIX disciplines.** *"कभी भी केवल चार्ट को देखोगे तो वहां पे क्या होता है — मिक्स हो जाएगा. हमें एक रूल बनाना पड़ता है."* ⚠️ He then also permits *"न्यूज़ को भी अपना [कोरिलेट] करके"* — **one soft tension, recorded as spoken.**
+- 🟡 **REFINED — the OPTION CHAIN is declared unnecessary, and the chart made its substitute.** *"क्या आपको ऑप्शन चेन देखने की आवश्यकता है? वहां पे अगर देखोगे कुछ ऊपर नीचे, तब भी हमें कोई दिक्कत नहीं."* The writers are read off the price: *"कॉल राइटर हो चुके … लेकिन पुट राइटर थोड़े कम होंगे, क्योंकि मार्केट ने अचानक से मोमेंटम कर दिया."* 2023-07-23 used *premium vs direction*; 2022-09-17 / 2023-03-12 used expiry structure — this **derives** it from the chart.
+- 🟡 **REFINED — the expiry-completion shape.** *"धीरे-धीरे [कॉल] भी राइट हो जाएंगे, धीरे-धीरे [पुट] भी राइट हो जाएंगे, ऐसा करके वो एक्सपायरी अपना कंप्लीट कर लेंगे — थोड़ा बहुत ऊपर जाए, थोड़ा बहुत नीचे जाएगा"*, with *"अगर कोई [राइटर] अच्छे हैं तो वो मार्केट को … बढ़ाने भी नहीं देंगे."* 2023-07-30's *"writers bank and leave"* scene, now drawn as a **two-sided pinned range**.
+- 🟡 **REFINED — the quick-entry defect gets its completion.** 2023-08-13 named buying **in advance** of an unavailable stop-loss; here he enters *"जल्दी से"* on the look of an unfinished candle — *"कैंडल रेड बनाए[ं], तो प्रॉफिट बुकिंग आ रहा है"* — and the fix is stated: *"थोड़ा वेट करके ट्रेड बनाया, उसमें बेनिफिट मिल गया."*
+- 🟢 **STABLE — the stop-loss pool decides the plan, whatever the narrative says — six dated sessions now.** *"न्यूज़ चाहे नेगेटिव आए चाहे पॉजिटिव आए, उसमें कुछ नहीं होता; मार्केट के अंदर आपको देखना है की ओपनिंग कहां पे ओपन हो रहा है"*; and the gap condition — *"अगर कोई बड़ा गैप डाउन ओपन हो गया तो फिर यहां पे जो [सेलर] बैठे थे … उनका मार्केट [वैसा] नहीं कर पाएगा."*
+- 🟢 **STABLE — both sides have stops; do not plan one side only.** *"ऐसा नहीं होता की [बायर] नहीं होते, [बायर] भी होते हैं."*
+- 🟢 **STABLE — a repeated mistake is the real error.** *"कोशिश ये करो की जब गलती हो जाए तो उसको दोबारा से रिपीट ना करो"* (2023-03-26, 2023-07-30).
+- ⚠️ **His own two errors, both self-reported:** the **put-side trade the day after Chandrayaan** — *"यहां पे हमारा लॉस हो गया"*, and his refusal of the causal story (*"इस वजह से नहीं हुआ था की न्यूज़ पॉजिटिव था"*) — and the **expiry-day entry**, *"थोड़ा सा [हाई] के अंदर हम ट्रैप हो गए."* ⭐ Same defect class as 2023-08-13, three weeks apart.
+- ⚪ **Absent (absence, NOT retraction):** the **0.61 retracement rung**, the **weak candle**, **volume**, **stop-loss placement mechanics**, **index-pair divergence**; the capital/psychology chains of 2023-08-13 and 2023-08-20 (except the news-psychology remark).
+- 🔴 **CONTRADICTS: none asserted.** ⚠️ One soft tension (don't-mix vs correlate), left as spoken.
+
+> **Evolution verdict:** the corpus's **news** session — *classify by whether it can reach the chart*, not *ignore it*. ⭐ Durable adds:
+> **the three-class taxonomy**, **news prints a high either way**, **novelty not sign is the input**, **the direct-impact test on named
+> companies**, **operators and traders own the result-day move, not investors**, **news is avoided for psychology not analysis**, **cut
+> 5–10 / capture 10–15**, **be out before the big candles on event days**, **do not mix a news discipline with a chart discipline**.
+> ⚠️ Carries the session's own two errors, one ASR-broken range (*"2300"*) reproduced as spoken, and one soft tension left open.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -3077,9 +3177,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **53** | |
+| Processed | **56** | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | |
-| Remaining | **137** | |
-| Next (chronological) | `20230813 n6tI3ZOYs2o` How to Understand Stock Market Momentum | |
+| Remaining | **134** | |
+| Next (chronological) | `20230910 LgI0uKTzXUk` Mastering Stock Market Volatility: Approaches and Techniques | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
