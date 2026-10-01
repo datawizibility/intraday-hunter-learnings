@@ -2903,6 +2903,94 @@ the session's own two errors and **no market level**.
 
 ---
 
+**2023-09-10 — Mastering Stock Market Volatility: Approaches and Techniques** 🟡 REFINED (the retracement condition on the breakout buy · the market itself as an evolving input) + 🔵 NEW (notice-and-note as a learning discipline · the repeated non-round price as a level) + 🟢 STABLE (the chart does not repeat — psychology, not shape · the closing-price level · the gap-shape plan · probability) + 🔴 ONE SOFT RED, SELF-REPORTED (averaging a loser)
+`LgI0uKTzXUk` · note: `teaching/2023-09-10-mastering-stock-market-volatility-approaches-and.md`
+
+The title says *volatility*; the session is really **the week's ledger plus the rule that made two of its five trades wrong**. Its spine:
+after a breakout you buy — but **with proportion**, i.e. **on the retracement**; chase a running move and the same correct read ends in a forced cut.
+And the reason a shape cannot be trusted: **the chart does not repeat**, because the psychology underneath has changed. ⚠️ Carries his own
+averaging error and **two ASR-unresolvable numbers**.
+
+- 🟡 **REFINED — the RETRACEMENT CONDITION on the buy side of a breakout.** *"ब्रेक आउट के बाद हम क्या करते हैं — बाय करते हैं, लेकिन कैसे करते हैं, विद प्रोपोर्टेशन."* The failure is named in the same breath: *"अगर किसी ने बाइक कर भी लिया ... मार्केट डायरेक्टली भाग रहा है, अच्छा मोमेंटम ... मैं यहां पर एंट्री कर लेट हूं"* ⇒ *"उसके बाद इतना तेजी से मार्केट गिरेगी की उसको अपनी पोषण को लॉस में काटना ही पड़ेगा."* The corpus has carried the fade template since 2022 and 2022-02-06 added a probability filter — this is the **first entry rule for the breakout buy**.
+- 🟡 **REFINED — “the chart does not repeat” gets its mechanism, stated against a formed pattern.** *"कभी भी मार्केट आना चार्ट को रिपीट नहीं करता, बहुत ही ज्यादा साइकोलॉजी कुछ अलग चल रहा है ... कुछ न्यूज़ वगैरा है तब तो आप भूल जाइए."* The same shape printed one day later and fell **differently** from the same closing-price resistance. 2022-06-05 taught *the market is psychology*; this turns it into **a veto on any formed-shape argument**.
+- 🔵 **NEW — the MARKET ITSELF is an input that must be re-captured.** *"पहले यहां से आप 10 से 15 साल पहले जाओगे कुछ अलग चला था ... आज के दिन ऑप्शन में पैसा बनाना बहुत मुश्किल हो रहा है, मोमेंटम आते हैं लेकिन कैप्चर करना बहुत मुश्किल हो जाता है, खर्च भी ज्यादा हो गए हैं."* ⇒ *"मार्केट के अंदर हमें जो भी चेंज ए रहा है उसको कैप्चर करना पड़े, उसको आईडेंटिफाई करना होगा."* **Market evolution becomes a stated input** — the corpus had never asked the method to update itself.
+- 🔵 **NEW — NOTICE-AND-NOTE as an explicit learning discipline.** *"अगर हमने नोटिस नहीं किया किसी बात को तो पता लगा दूर ... हो सकता है तीन बार मिस हो लेकिन एक बार पता लगे — लेकिन एक टाइम आएगा जब मैं तीन बार पता होगा, एक बार मिस हुआ."* And the method: *"पहले आप कहानी पर नोट करना शुरू कर दो"*, *"जो भी बातें होती है कम से कम उनको याद रखो."* A **rehearsal procedure**, new to the corpus.
+- 🔵 **NEW — a REPEATED NON-ROUND PRICE is a level.** *"45 218 219 200 — तो ये भी इतना ही कम हो रहा है ... वैसे तो राउंड नंबर नहीं है, लेकिन बहुत ज्यादा इसका उसे किया जा रहा है मार्केट के लिए, तो मैं इसको भी कंसीडर कर लेट हूं."* 2023-01-15 handled round numbers; here the **repetition** is what makes a price a level.
+- 🟢 **STABLE — the closing-price level as the working reference.** Used twice: as the **sell resistance** (*"यहां पे भी क्लोजिंग प्राइस का लगभग रेजिस्टेंस लेकर मार्केट गिरा था"*) and as the **support to wait for** when buying (*"क्लोजिंग प्राइस का सपोर्ट देखकर बाय करो"*).
+- 🟢 **STABLE — nobody-sideways, and never decide for the market.** The gap-shape logic of 2023-08-27 (*"गैप डॉ मिलता है ... अगर ऊपर बढ़ाना शुरू करें तो ... गिर रहा है फिर हम यहां पे बाय नहीं करेंगे"*) is restated, with *"मोमेंटम [अपसाइड] का आना चाहिए."*
+- 🔴 **CONTRADICTS (soft, self-reported) — AVERAGING.** *"मार्केट के अंदर इतना बड़ा लगा ये कैंडल देख कर तो मैंने यहां पे एवरेज भी कर लिया था कुछ क्वांटिटी"* — he **added quantity to a loser**, against 2023-03-26 (*"ऐसा सिस्टम ही मत बनाइए जहां पर आपको एवरेजिंग में करना पड़े"*) and 2023-08-20 (*"एक लॉस [का] कारण नहीं है की आप एक्स्ट्रा फंड्स लगाओ, एक्स्ट्रा क्वांटिटी लगाओ"*). ⚠️ **He reports it as his own mistake, not as doctrine** — recorded as spoken, **both dated statements stand**, feeds the corpus's open averaging question (Q19).
+- ⚠️ **His own two losses, both self-reported:** the **buy taken expecting a psychology change** (*"मुझे लगा की यहाँ ... एक सेंटीमेंट एक साइकोलॉजी चेंज होने के लिए ... तो मैं यहां पर इस[एवरेज] कर लेट हूं"* — the market converted to selling instead), and the **missed second loss** (*"मिस हो गया"*), which he says he could have avoided **had he remembered** the previous day's closing-price reaction. ⭐ One loss is about **entry location**, the other about **memory** — the same lesson seen twice.
+- ⚪ **Absent (absence, NOT retraction):** the news taxonomy (one week earlier) survives only as a caveat (*"कुछ न्यूज़ वगैरा है तब तो भूल जाइए"*); the stop-loss pool is not named in those words; no volume, no expiry mechanics, no index-pair divergence.
+- 📌 **Fidelity:** ⚠️ **Two numbers UNRESOLVABLE and reproduced as spoken** — *"45 218 219 200"* (a run of digits, no single level recoverable) and *"200 के नीचे क्लोज हुआ"* (leading digits dropped; probably *"45,200 के नीचे"*). **`45,000`** is spoken as the round-number support. The Fibonacci rung is spoken as *"0.6%"* — the corpus's rung is **0.61**; **reproduced as spoken, not corrected.** **No strike, premium, quantity, stop or target price, and no rupee P&L.**
+- 🔴 **CONTRADICTS: one soft RED (averaging), self-reported.** All else STABLE or REFINED; no other conflicts.
+
+> **Evolution verdict:** the session that puts **proportion** on the breakout buy and **suspicion** on the formed chart. ⭐ Durable adds:
+> **buy the breakout with proportion (on the retracement)**, **the chart does not repeat — same shape, different psychology**, **a repeated
+> non-round price is a level**, **the market evolves and the method must be re-captured**, **notice-and-note as a discipline**, **when selling is
+> on, do not buy quickly — wait for a logical support**. ⚠️ Carries his own averaging error (feeding the open Q19) and two ASR-unresolvable numbers.
+
+---
+
+**2023-09-17 — How Operator Destroy Psychology in Stock Market** 🔵 NEW (psychology cannot be back-tested · the watched-round-number no-fade zone · the counterparty condition as an entry test · the market *wants* the other side to keep arriving) + 🟡 REFINED (the missed-momentum trap gains its mechanism · the trap sequence drawn step by step) + 🟢 STABLE (flat opening is the trap zone · probability not certainty · the closing-price level · continuous-trend discipline)
+`IWqDMIcWHcg` · note: `teaching/2023-09-17-how-operator-destroy-psychology-in-stock-market-.md`
+
+The corpus's **psychology** session — and its hardest claim: the read is **live and cannot be rehearsed.** Two mechanical additions ride on it:
+the **counterparty condition** (buy where the other side sells) and the **one situation where his own fade template is switched off** — inside a
+**watched round number**. ⚠️ Two ASR tokens flagged, one number unresolvable.
+
+- 🔵 **NEW — THE READ CANNOT BE BACK-TESTED.** *"साइकोलॉजी आप बैक्रस[बैक-टेस्ट] नहीं कर सकते ... जो अभी चल रहा है उसको ही देख सकते हो, जो ऑलरेडी हो चुका है उसको आप नहीं आईडेंटिफाई कर पाओगे, क्योंकि वहां पे कुछ न्यूज़ भी था ... वो बातें अगर आप मिस कर दो तो साइकोलॉजी को बैक-टेस्ट नहीं हो पाएगा."* The corpus had said *the market is psychology* (2022-06-05, 2022-07-09); this says the skill **must be read present-tense and grows only with experience.** ⭐ The strongest statement in the corpus against learning from old charts.
+- 🔵 **NEW — THE WATCHED-ROUND-NUMBER ZONE, where the fade is forbidden.** At Nifty's 20,000 touch he had told students **not to make a plan at all** — *"जो भी प्लेन बनोगे वो खराब कर दिया मार्केट"*, because *"दूसरे प्लेन बना के बैठे हैं."* Then the exception: *"अगर यहां पे कोई ब्रेक आउट हो जाए तब आपको सेल नहीं करना है, और ब्रेकडाउन हो जाए तो आपको मार्केट के अंदर बाय नहीं करना."* Contrast his own default and its condition: *"वो कम तब होता जब नॉर्मली मार्केट रेंज कर रहा होता, छोटे-छोटे मोमेंटम करके — ऐसी सिचुएशन है जहां पर डिफरेंट साइकोलॉजी कम कर होता है."* ⭐ **First explicit off-switch on the fade template.**
+- 🔵 **NEW — THE COUNTERPARTY CONDITION, as a checkable entry test.** *"अगर दूसरे लोग भी बाय करें और हम भी बाय करें तो वहां पे कम नहीं चल पाएगा"*; *"अगर वो बाय नहीं करके सेल कर रहे होंगे तब हमें मार्केट के अंदर बाय करना होगा."* And the reason, flatly: *"मार्केट के ऊपर नीचे जाने से मतलब नहीं है, मार्केट को पैसा बनाने से मतलब है ... ऐसा कभी भी मार्केट नहीं करता की आपका पैसा बनाने के लिए नीचे आया हूं."* The corpus had *described* the operator; this makes the trader's side of it a **pre-trade test**.
+- 🔵 **NEW — THE MARKET WANTS THE OTHER SIDE TO KEEP ARRIVING.** *"जब मार्केट बाढ़ रहा था तब धीरे-धीरे सेलर ए रहे थे, और मार्केट यही चाहता था की सेलर आते रहे — क्योंकि मार्केट को ऐसे ले जाकर किसी को बेनिफिट नहीं मिलता ... जब दूसरे लोग सेल कर रहे होते, वो बाय कर लेते हैं; जो वो बाय करते हैं, वो सेल कर लेते हैं."* ⇒ **Explains WHY a sustained rise is slow and grindy**: it is harvesting a stream of counter-positions, not travelling.
+- 🟡 **REFINED — the missed-momentum trap gets its mechanism.** 2023-09-10 said *do not chase*; this says **why the dip-buy fails**: *"कोई कहते हैं की मेरा मोमेंटम मिस हो गया, मुझे कुछ तो खरीदना था ... तो मार्केट गिरता जाएगा"* — the missed-momentum buyer supplies the other side.
+- 🟡 **REFINED — the trap sequence, drawn step by step.** *"पहले मार्केट में गैप डॉ करके ट्रैप किया, पहले 500 का मार्केट रेजिस्टेंस लिया, मार्केट निकाला — तो किसी ने अगर सेल किया हो तो एग्जिट नहीं करता, यहां पर बैठा रहता है ... तो मार्केट दोबारा से बाढ़ जाता है ... फिर मार्केट धीरे-धीरे करके ऐसे निकलता रहता है."* The 2022-07-03 / 2023-02-19 psychology-flip taught in the abstract becomes a **drawn sequence** here.
+- 🟢 **STABLE — the flat opening is the trap zone.** *"फ्लैट वगैरा ओपनिंग में मार्केट टाइल हो सकता है, क्योंकि मार्केट न तो नीचे जा पाएगा न ऊपर जा पाएगा, वो ट्रेड को ट्रैप करने की कोशिश करेगा"* — the sideways-is-the-enemy line (2022-09-25, 2023-01-01), and it is **confirmed by his own loss five days later (2023-09-24).**
+- 🟢 **STABLE — probability, never certainty.** *"ऐसा नहीं की 100% यहां पे होगा ... जो हम सोच रहे हैं उसकी अकॉर्डिंग में ट्रेड ले लेना चाहिए; नहीं चला है तो मार्केट के अंदर निकाल जाना चाहिए."*
+- 🟢 **STABLE — no counter-trend trade without a reason.** On the run: *"मार्केट कंटिन्यू अप ट्रेंड में चल रहा था — शायद ही हमने कभी सेल किया होगा ... क्योंकि हमें आवश्यकता ही नहीं थी."*
+- 🟢 **STABLE — closing price / an everyone-can-see level invites the other side.** *"5 मिनट के नीचे क्लोज किया है ... सभी को पता होता है, फाइनल के नीचे सेलर आने की कोशिश करते हैं."*
+- ⚠️ **His own narrations:** the **46,000 gap buy** (*"फर्स्ट ग्रीन कैंडल में मैंने यहां पे बाय कर लिया था"*, with the risk he avoided stated: *"हम बेवजह हम यहां मार्केट में ट्रैप नहीं होने वाले थे"*).
+- ⚪ **Absent (absence, NOT retraction):** the stop-loss pool is not named; no volume, no expiry mechanics, no index-pair divergence, no capital/psychology chains.
+- 📌 **Fidelity:** **`निफ़्टी 20,000`** and **`46,000 के नीचे क्लोज`** are spoken (both Sep-2023-plausible). *"500 का मार्केट रेजिस्टेंस"* is **UNRESOLVED**. ⚠️ **No strike, premium, quantity, stop or target, and no rupee P&L.** ⚠️ **Two ASR tokens flagged, not guessed:** *"बार ही आएंगे सैलरी नहीं आएंगे"* (read as **buyers/sellers** from context) and *"500 का रेजिस्टेंस."*
+- 🔴 **CONTRADICTS: none asserted.** ⭐ One **conditional** restriction of his own template (the round-number zone) — recorded as a **rule with a condition**, not as a contradiction.
+
+> **Evolution verdict:** the session that makes psychology **live-only** and gives the fade template **an off-switch**. ⭐ Durable adds:
+> **the read cannot be back-tested**, **buy where the other side is selling (a real entry test)**, **the market wants the other side to keep
+> arriving — which is why long rises are slow**, **at a watched round number the fade is forbidden**, **no counter-trend trade without a reason**.
+> ⚠️ Two ASR tokens flagged and one number unresolvable — reproduced as spoken.
+
+---
+
+**2023-09-24 — Trading Indicators | Stop Loss Hunting in Stock Market** 🔵 NEW (the indicator doctrine · VOLUME PROFILE as the S/R anchor · the high-volume price as a decision line · round numbers and personal S/R as indicator-equivalents · the flexing weekly target) + 🟡 REFINED (never capture complete momentum gets its cost · the two-loss / double-top exit · the flat-opening caution confirmed by his own loss) + 🟢 STABLE (the closing-price level · cut 5–10 / capture 10–15 · do not decide for the market)
+`zRCLKtB1sn8` · note: `teaching/2023-09-24-trading-indicators-stop-loss-hunting-in-stock-ma.md`
+
+The corpus's **tools** session — the first time **indicators get a place in the method at all**, and the place is strictly conditional. Its centre is
+**volume profile as the support/resistance anchor**, plus the session's honest counterweight: **his best entry that week had no indicator signal at
+all.** ⚠️ Title says *stop-loss hunting*; the session delivers **indicators, volume profile and target discipline** — recorded as delivered.
+
+- 🔵 **NEW — THE INDICATOR DOCTRINE.** *"डिपेंड करता है की जहां पर हेल्प लेना होता है वहां पे मैं ले लेट हूं, जहां पे लगता है की कम चल जाएगा वहां पे कोई आवश्यकता नहीं होती."* Then the two failure regimes: **sideways/volatile** — *"मोस्ट ऑफ डी टाइम इंडिकेटर से पैसा नहीं बन पता"*; **a big one-sided move** — *"यहां पे आप बड़े से बड़ा इंडिकेटर भी उसे करोगे तब भी कम नहीं आएगा."* And the test-and-drop rule: *"कभी भी किसी चीज को माना नहीं करना है ... करके देखो, अच्छा लगा तो कर लो, अगर नहीं लगा की ये कम नहीं कर रहा है फिर उसको छोड़ दो."* ⭐ The corpus had been **almost entirely indicator-free**; this is where they are let in, and on a leash.
+- 🔵 **NEW — VOLUME PROFILE as the S/R anchor.** *"मेरा फेवरेट है वॉल्यूम प्रोफाइल ... वॉल्यूम प्रोफाइल से मुझे ये पता चल जाता है की किस पर्टिकुलर प्राइस के ऊपर कितना वॉल्यूम ए चुका है."* The high-volume price (the profile's red line) is taken as the level and cleaned with the candlestick. **Why it beats the bare chart:** *"ये इनफॉर्मेशन अगर मैं केवल चार्ट को देखा रहूंगा तो मुझे पता ही नहीं चलेगा की कहां पर इतना वॉल्यूम है."* ⭐ **The first volume-based level-identification method in the teaching corpus.**
+- 🔵 **NEW — THE HIGH-VOLUME PRICE AS A DECISION LINE.** *"अगर इसके ऊपर जा रहा होगा तो मार्केट कहानी ना कहानी [चल] हो जाएगा; इसके नीचे रह रहा है तो मार्केट या तो साइडवेज है या फिर मार्केट में सीलिंग वगैरा देखने को मिल सकता है."* A **binary read** attached to a volume price.
+- 🔵 **NEW — ROUND NUMBERS AND PERSONAL S/R AS INDICATOR-EQUIVALENTS.** *"पीवट पॉइंट का कुछ सपोर्ट-रेजिस्टेंस ... आपके जो पर्सनल सपोर्ट-रेजिस्टेंस ... या फिर जैसे 500 का लेवल ... ये भी कहानी ना कहानी इंडिकेटर की तरह उसे हो सकते हैं."* 2023-09-10's repeated price as a level is here **formalised into a class of stand-in tool** — with a stated use case for it: a **fresh chart**, where the profile is empty.
+- 🔵 **NEW — THE TARGET IS A FLEXING VARIABLE.** *"मेरे टारगेट डिपेंड करता है सिचुएशन के ऊपर — मेरे प्रीमियम कितने बड़े हैं और मुझे कितना कंफर्ट दिया था ... रोज कितनी बार प्रॉफिट नजर आए, उसके अकॉर्डिंग मेरा डिसीजन बना कर कम करता राहत हूं"*, closed with *"ये नहीं होता की एक लाइन आपने बना दी और उसके ऊपर चलना जरूरी है."* ⭐ Set beside **2023-08-27's fixed cut 5–10 / capture 10–15** (restated verbatim here as the intraday baseline), the corpus now carries **both** a fixed per-trade band **and** a weekly-calibrated target. ⚠️ Carried forward, not reconciled.
+- 🟡 **REFINED — “never capture complete momentum” gets its personal COST.** *"कभी भी आप कंप्लीट मोमेंटम को कैप्चर नहीं कर सकते ... एक दिन ज्यादा पैसा बना लिए तो आगे ज्यादा परेशान भी करता है, क्योंकि वो मोमेंटम तो कभी [बार-बार] होते हैं और साइडवेज और टाइल मार्केट मोस्ट ऑफ डी टाइम रहता है."* 2023-08-27 gave the *event-day* reason to be out before the big candles; this gives the *self-harm* reason to book early.
+- 🟡 **REFINED — the TWO-LOSS-SIGHTINGS / DOUBLE-TOP EXIT.** *"दो बार लॉस नजर आया, फिर प्रॉफिट नजर आया, फिर से लॉस नजर आया — तो दो-दो बार लॉस नजर आने के बाद अगर हम बैठे रहेंगे तो अगर एक बार लॉस और नजर आएगा तो प्रॉब्लम हो जाति है"*, plus *"जब सामने से सभी को नजर आना शुरू हो जाता है, मार्केट मोस्ट ऑफ डी टाइम वैसे कम नहीं कर पता"* (double top). The everyone-can-see-it principle (2023-09-17) becomes an **exit trigger**.
+- 🟡 **REFINED — the flat-opening caution, confirmed by his OWN loss.** *"कभी भी फ्लैट ओपनिंग हुआ, मोस्ट ऑफ डी टाइम ... साइडवेज हो जाता है, तो अगर फ्लैट ओपनिंग है तो साइड पे चले."* He then broke it (**sold near the closing price after a red candle**) and *"मुझे कहानी ना कानी लॉस में बुकिंग करके भगाना पड़ा."* Five days after 2023-09-17 stated the trap abstractly, his own ledger confirms it.
+- 🟢 **STABLE — the closing-price level as the anchor for the sell.** *"क्लोजिंग प्राइस का सपोर्ट वगैरा ... अगर मार्केट नीचे गिरना शुरू करें तो हमारा टारगेट हिट हो जाएगा"* (2023-01-15, 2023-04-23, 2023-05-14, 2023-09-10, 2023-09-17).
+- 🟢 **STABLE — cut 5–10 / capture 10–15** is restated verbatim (see 2023-08-27) as the standing intraday band.
+- 🟢 **STABLE — do not decide for the market.** *"कभी भी अपना डिसीजन मत लगाना की मार्केट को ऐसा करना चाहिए; आप कैसे कम करने वाले हो वो मार्केट डिसाइड करेगा"* — with the honest limit attached: *"अगर मोमेंटम नहीं आता या एंट्री मिस हो जाता तो टारगेट हिट नहीं हो पता."*
+- ⚠️ **The no-indicator entry, his own example:** *"मैं सेल करना है, मैं कैसे करूं? मुझे कुछ नजर नहीं ए रहा ... मार्केट ग्रीन कैंडल बना के भाग रहा है, लेकिन सेल मुझे क्यों करना है — क्योंकि मुझे मोमेंटम सेलिंग करना जा रहा है. ये आपको कोई इंडिकेटर नहीं बताएगा, ये आपको सोचना पड़ेगा."* ⭐ The counterweight the session needs: the tools help with **levels**, not with **timing the move.**
+- ⚪ **Absent (absence, NOT retraction):** the stop-loss-pool naming, the trap, news handling, index-pair divergence, capital/psychology chains; also ⚠️ **no stop-loss-hunting doctrine at all, despite the title.**
+- 📌 **Fidelity:** ⚠️ **Both numbers damaged:** *"लगभग 890 के आसपास"* (**leading digits dropped**) and *"लगभग 44 930 के आसपास हमारा एक रेजिस्टेंस"* (spoken; **Bank Nifty ≈44,930**, Sep-2023-plausible, read as the derived S/R from the high-volume price); *"जैसे 500 का लेवल"* is **UNRESOLVED**. Chart is **Bank Nifty**; **no Nifty/Sensex level.** **No strike, premium, quantity, stop or target, and no rupee P&L.** ASR damage logged: *सिदेवेज* = **sideways**, *रेप* = **range**, *आर्ट* = **chart**, *टाइल* = **sideways/trap**, *कम* = **काम**.
+- 🔴 **CONTRADICTS: none asserted.**
+
+> **Evolution verdict:** the corpus's **tools** session — indicators admitted, **volume profile made the S/R anchor**, and the target split into a
+> fixed band **and** a flexing weekly number. ⭐ Durable adds: **indicators are conditional**, **test every tool once and keep only what pays**,
+> **volume profile for S/R**, **above a high-volume price the market moves / below it it stalls**, **round numbers and personal S/R are
+> indicator-equivalents**, **book the target — never chase the bigger one**, **exit when the structure is public**, **on a volatile expiry day,
+> book**. ⚠️ Title promises stop-loss hunting; the session delivers indicators and target discipline — recorded as delivered.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -3177,9 +3265,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **56** | |
+| Processed | **59** | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | |
-| Remaining | **134** | |
-| Next (chronological) | `20230910 LgI0uKTzXUk` Mastering Stock Market Volatility: Approaches and Techniques | |
+| Remaining | **131** | |
+| Next (chronological) | `20231001 IMRUHVBnI-c` TRADING ZONE STRATEGY BY Intraday Hunter | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
