@@ -9,9 +9,9 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **53** |
+| Processed | **56** |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` |
-| Remaining | **137** |
+| Remaining | **134** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -78,10 +78,13 @@ only from recent daily notes; this is the other half.
 - `20230716` **Intraday Trading | How to Do It | By Intraday Hunter** — [`jyAkiOdG-cU`](https://www.youtube.com/watch?v=jyAkiOdG-cU)
 - `20230723` **How to Make Money in Intraday Trading** — [`6KcIOrp5-hg`](https://www.youtube.com/watch?v=6KcIOrp5-hg)
 - `20230730` **Stop Trading Now: How Regular Losses Can Ruin Your Money** — [`0l-13NjLn6M`](https://www.youtube.com/watch?v=0l-13NjLn6M)
+- `20230813` **How to Understand Stock Market Momentum** — [`n6tI3ZOYs2o`](https://www.youtube.com/watch?v=n6tI3ZOYs2o)
+- `20230820` **How to Accept Loss in Stock Market by Intraday Hunter** — [`XA2fYDltiE0`](https://www.youtube.com/watch?v=XA2fYDltiE0)
+- `20230827` **Why stock market does not work on news by Intraday Hunter** — [`MU6rndS4_M8`](https://www.youtube.com/watch?v=MU6rndS4_M8)
 
 ## Next up (chronological)
-1. `20230813` **How to Understand Stock Market Momentum**
-2. `20230820` **How to Accept Loss in Stock Market by Intraday Hunter**
+1. `20230910` **Mastering Stock Market Volatility: Approaches and Techniques**
+2. `20230917` **How Operator Destroy Psychology in Stock Market by Intraday Hunter**
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
