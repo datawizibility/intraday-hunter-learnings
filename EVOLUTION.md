@@ -2991,6 +2991,73 @@ all.** ⚠️ Title says *stop-loss hunting*; the session delivers **indicators,
 
 ---
 
+**2023-10-01 — Trading Zone Strategy** 🔵 NEW (the trading-zone / valuation framework · never trade at fair price · buy the extremes — discount and inflated) + 🟢 STABLE (volume profile as the S/R anchor · the gap-by-open plan · probability not confirmation) + 🟡 REFINED (round numbers gain a *valuation* role) + ⚠️ OPEN TENSION (gap-up → buy, vs the 2023-10-15/29 gap-up → sell reading)
+`IMRUHVBnI-c` · note: `teaching/2023-10-01-trading-zone-strategy-by-intraday-hunter.md`
+
+The session that reframes the *licence to trade*: not a drawn level, not the open-type alone, but **the valuation of the offer** — what price is the market handing you?
+
+- 🔵 **NEW — THE TRADING-ZONE / VALUATION FRAMEWORK.** *"ट्रेडिंग जोन से मेरा क्या मतलब है … मुझे प्राइस किस पॉइंट पे मिल रहा है"* — and there are only three answers: **inflated** (महंगा/इन्फ्लेटेड), **discount** (सस्ता/डिस्काउंट), **fair** (एवरेज/फेयर). ⭐ First time in the corpus the trade licence is framed as a *valuation* rather than as a level or an SL pool (zero prior hits for *फेयर प्राइस / इन्फ्लेटेड / डिस्काउंट प्राइस / ट्रेडिंग जोन*).
+- 🔵 **NEW — "NEVER TRADE AT FAIR PRICE."** *"हमें फेयर प्राइस के ऊपर गेम नहीं खेलना है, हमें इन्फ्लेटेड प्राइस या डिस्काउंट प्राइस के ऊपर गेम खेलना है."* Fair price = a ₹1 thing at ₹120–140 where small-capital buyers also buy — no edge; and *"फेयर प्राइस में मतलब वही है कि या तो कुछ ना कुछ ट्रैपिंग हो गया या फिर कुछ अपोजिट होने वाला है."* Sits beside (but is distinct from) 2023-09-17's **counterparty entry test**: that asked *who* is on the other side; this asks *what price* is being offered.
+- 🔵 **NEW — BUY THE EXTREMES.** Discount (crowd too afraid) → buy; inflated (₹1 at ₹400–500 → *"कुछ ना कुछ तो उसमें होगा"*) → buy; fair → **sell**. *"स्टॉक मार्केट में फेयर कुछ नहीं होता, अनफेयर आपको सब कुछ मिलते है."*
+- 🟢 **STABLE — VOLUME PROFILE AS THE S/R ANCHOR**, one week after 2023-09-24 introduced it. Reused verbatim in mechanism (*"किस पर्टिकुलर प्राइस के ऊपर कितना वॉल्यूम आ चुका है"*), now to locate the **fair-price zone**: the next candle resistance beyond the high-volume line is the zone edge → *"जहां पे फेयर प्राइस या एक एवरेज प्राइस मिलेगा, तो वो सेलिंग के लिए जोन होगा."* ⚠️ He refuses to mark the level on the profile line itself: *"इसका रेजिस्टेंस नहीं बनाना है क्योंकि ये तो प्राइस हो गया."* Free fallback: **Fixed Range Volume** tool (*"बार-बार लगाना पड़ेगा"*).
+- 🟢 **STABLE — the gap-by-open plan.** *"गैप डाउन → बाय प्लान, गैप अप → बाय प्लान, रेजिस्टेंस के नीचे ओपनिंग → सेल प्लान."*
+- 🟢 **STABLE — probability, not confirmation.** *"मैं पॉसिबिलिटी के ऊपर ट्रेड करता हूं … कंफर्म कुछ नहीं है"* (2023-05-21, 2023-09-17).
+- 🟡 **REFINED — round numbers / level-equivalents gain a VALUATION role.** 2023-09-24 made round numbers "indicator-equivalents"; the ₹1→₹500 framing turns the same idea into a zone boundary.
+- 📌 **Fidelity:** the level numbers are **not** live — nearly all are worked examples (*₹1 → 120/130/140 / 70/80/90 / 400/500*, *550*, *800→1000*). Two may be on-screen: a resistance *"≈ x932"* (leading digits dropped) and index prices *"44600 / 44 280 / 44400"* (**three different values — UNRESOLVED**, likely Bank Nifty). **No strike, premium, quantity, stop, target or rupee P&L.** ASR damage: *"लेटेड प्राइस"* = **इन्फ्लेटेड**.
+- 🔴 **CONTRADICTS: none asserted** — but ⚠️ a **gap-up → BUY** reading here stands against the **gap-up → SELL** reading of 2023-10-15 and 2023-10-29 (see open question 25).
+
+> **Evolution verdict:** the corpus's **valuation** session — the trade licence is priced, not drawn. ⭐ Durable adds: **a zone is a valuation**,
+> **never trade at fair price**, **buy the discount and the inflated**, **volume profile defines the fair band (and the fair band is a sell zone)**,
+> **do not mark the level on the profile line**, **probability over confirmation**. ⚠️ Numbers are illustrative/ASR-fragile; the method is not.
+
+---
+
+**2023-10-15 — How to Trade with Opening and Closing Prices** 🔵 NEW (opening-and-closing psychology as a session) + 🟡 REFINED (the closing print gains a domain/round-number frame · the opening-location difficulty test · the 2–3-hour psychology reset as a stated cut reason) + 🟢 STABLE (breakouts trap · round numbers as levels · probability · an exactly-right analysis can still lose) + ⚠️ OPEN TENSION (gap-up → sell vs 2023-10-01's gap-up → buy)
+`jPuXxt5bUTc` · note: `teaching/2023-10-15-how-to-trade-with-opening-and-closing-prices-by-.md`
+
+The session that makes **both ends of the day a psychology read**: the closing print fills a domain with buyers, the opening reveals whether you can reach them.
+
+- 🔵 **NEW — OPENING-AND-CLOSING *PSYCHOLOGY* AS A UNIT.** Zero prior entries carry an opening/closing session; earlier closing material (2022-04-10 → 2022-07-09 → 2022-09-18 → 2023-09-24) reads the print as a *location of stops* or a *decision print*. Today makes the **pair** the object of analysis: *"जो ओपनिंग होता है और जो क्लोजिंग होता है, वह हमारे लिए कितना ज्यादा इंपोर्टेंट होता है."*
+- 🟡 **REFINED — the closing print gains a DOMAIN / round-number frame.** *"मार्केट ने कहीं ना कहीं 500 के ऊपर ही क्लोज किया था, तो कहीं ना कहीं बायर इस डोमेन के अंदर बैठे होंगे"*; strong-quantity buyers hold because *"500 को एज अ सपोर्ट कंसीडर करके मार्केट के अंदर बैठे रहते हैं"* → **their stop-losses are tomorrow's target.** Extends the long-standing closing-price-level line (2023-01-15, 04-23, 05-14, 09-10, 09-17, 09-24) with a **crowd-positioning mechanism**.
+- 🟡 **REFINED — the OPENING LOCATION gets a difficulty test.** *"सपोर्ट वगैरह के आसपास ओपनिंग नहीं होना चाहिए, फिर मार्केट में प्रॉब्लम होने शुरू हो जाए"* — an open **inside the support zone** hands the parked buyers a good price and flips the psychology. His worked warning: *"560 के आसपास ओपनिंग नहीं होना चाहिए"* — the market opened above it; he still profited on strong candles, **but** the below-500 SLs were unreachable and only fresh sellers got targeted. Extends 2023-09-24's *"आपको देखना है कि ओपनिंग कहां पे ओपन हो रहा है"*.
+- 🟡 **REFINED — the 2–3-HOUR PSYCHOLOGY RESET, named as a CUT reason.** *"जब दो-तीन घंटे हो जाते हैं, तो फिर चार्ट चेंज होना शुरू हो जाता है, फिर मार्केट की साइकोलॉजी डिफरेंट हो जाती है."* 2022-11-20 introduced *time as an input* (fixed-length shift); today applies it **intraday** → cut, do not hold a stale read.
+- 🟢 **STABLE — breakouts trap; trade the retracement.** *"ब्रेकआउट के बाद बाय किया होगा तो 1 मिनट के अंदर हालात खराब कर दिए होंगे"* (2023-09-10, 2023-09-24).
+- 🟢 **STABLE — round numbers as levels / indicator-equivalents.** *"500 जैसे … 45000 हो गया, 44000 हो गया … राउंड नंबर … इंपोर्टेंट"* (2023-09-24).
+- 🟢 **STABLE — probability, and wait for the market to react.** *"जब तक बाइंग में मार्केट रिएक्ट करना ना शुरू करे … तब तक हमें रिएक्ट नहीं करना है"* (2022-11-12; 2023-09-17).
+- 🟢 **STABLE — an exactly-right analysis can still trade as a loss.** His own **44,000-support sell**: he read it right, waited *"4 घंटे"*, then the market took resistance from above instead and trapped him — *"यहां पे हम ट्रैप हो गए, हमारा यहां पे लॉस हो गया"*; *"नेट में ऐसा नहीं कि हमेशा प्रॉफिट ही होगा या हमेशा लॉस ही होगा."*
+- 📌 **Fidelity:** levels are **round-number examples** — *500* (the teaching number), *560* (the difficult-open threshold), *44,000 / 45,000* (**spoken, Bank-Nifty-plausible, Oct-2023**) and *44,200 / 43,200 / x200* (**UNRESOLVED**, prefixes dropped). **No strike, premium, quantity, stop, target or rupee P&L** (the loss is qualitative). ASR: *"इजी/डिफिकल्ट मार्केट"*.
+- 🔴 **CONTRADICTS: none asserted** — but ⚠️ **gap-up → SELL** here stands against **2023-10-01's gap-up → BUY** (see open question 25).
+
+> **Evolution verdict:** the corpus's **opening/closing psychology** session. ⭐ Durable adds: **the close fills a domain, the open tells you if you can reach it**,
+> **a close above a round number makes that number's buyers the target**, **opening inside support = a difficult market**, **gap-down after a trapped close = the easy market**,
+> **do not buy breakout candles**, **wait for the market to react on event days**, **after 2–3 hours the psychology resets — cut**, **a right read can still lose**.
+> ⚠️ One round-number level pair unresolved; recorded as spoken.
+
+---
+
+**2023-10-29 — War Effect on Stock Market** 🔵 NEW (the low-cross / investor-exit chain reaction · do not trade the event, trade its effect on your market) + 🟡 REFINED (the gap-by-open plan gets a gap-SIZE condition) + 🟢 STABLE (round numbers as intraday magnets · the SL pool decides the plan whatever the narrative · a right read can still lose) + ⚪ Absent (the 2023-10-01 valuation framework is not mentioned)
+`BCJwV9qi2eU` · note: `teaching/2023-10-29-war-effect-on-stock-market-insights-and-trends-b.md`
+
+A short (8:37) event-week session; its load-bearing contribution is the **investor-exit chain** triggered by a low cross.
+
+- 🔵 **NEW — THE LOW-CROSS / INVESTOR-EXIT CHAIN REACTION.** *"जब भी मार्केट एक लो बना के आया है … उस लो को अगर मार्केट क्रॉस करेगा"* → the index low crossing implies individual stocks' lows are crossing → long-term investors (1/5/10-year) are forced to *"प्रॉफिट बुकिंग करेगा या फिर उसके एसल मार्केट खाने शुरू कर देगा … तो वो खुद से एग्जिक्स करेगा, तब मार्केट के अंदर हमें सेलिंग डेफिनेटली देखने को मिलेगा."* ⇒ a **chain**: cross → someone cuts → next low crosses → next investor exits. ⭐ The first **trend-state rule** of its kind in the corpus (zero prior hits for *लो क्रॉस*).
+- 🔵 **NEW — "DO NOT TRADE THE EVENT; TRADE ITS EFFECT ON *YOUR* MARKET."** *"जब भी कोई इवेंट होता है … अगर हम डायरेक्टली मार्केट के अंदर काम करने की कोशिश करेंगे तो इतना अच्छा रिजल्ट हमें नहीं देखने को मिलता."* Stands on the corpus's established *news-is-noise* base (2022-02-20, 2023-08-27) and repeats the SL-pool principle: *"ना ही ऐसा था कि युद्ध वगैरह चल रहा है … केवल हम यहां पे चार्ट में देख रहे थे."*
+- ⭐ **The operative rule:** *"जब भी ऐसे लो वगैरह क्रॉस करे, मार्केट फिर आपको ऐसा नहीं कि बाय के बारे में सोचना है"* — ignore the buy side while the low is crossing. **The ban lifts only after a bottom is built:** *"जब तक लो वगैरह मार्केट नहीं बनाए, कुछ अच्छा अपसाइड का मोमेंटम करके अपने आप को क्लोज ना करें, तब तक … बाय वगैरह को इग्नोर करो."*
+- 🟡 **REFINED — the gap-by-open plan gets a SIZE CONDITION.** After the big sell: gap-down **or** gap-up → **buy** (the random sellers just parked are the target; a gap-down also parks a round number under the market). After a **bottom**: gap-down → **sell** (low likely re-crosses); **big** gap-up → **sell** (upper SLs exhausted: *"मार्केट उनको डायरेक्टली टारगेट कर लेगा; अपर साइड एसल अवेलेबल ना होने के कारण सेल कर लेंगे"*); **small** gap → **buy possible** (target the sellers parked below). ⭐ **This is the variable the two earlier gap-up readings lacked** — but it is **recorded, not reconciled** (see open question 25).
+- 🟢 **STABLE — round numbers as intraday magnets.** *"इंट्राडे में अगर कुछ राउंड नंबर आसपास आ रहे हैं … वहां पर आपको कुछ मोमेंटम जरूर देखने को मिल जाते हैं"* (2023-09-24, 2023-10-15).
+- 🟢 **STABLE — the SL pool decides the plan, whatever the narrative says** (2023-09-24's six-dated-sessions line).
+- 🟢 **STABLE — a right read can lose, and one trap raises the next trap's odds.** *"जब कहीं पर हम ट्रैप हो जाए … तो फिर हमारे भी ट्रैपिंग की चांसेज काफी ज्यादा बढ़ जाते हैं"*; his 43,000 try was a booked loss.
+- ⚪ **Absent (absence, NOT retraction):** the 2023-10-01 **valuation framework** (inflated/discount/fair) — the session works only from the SL pool and the low-cross.
+- 📌 **Fidelity:** *43,000* (resistance taken once) and *42,500* (support) are **spoken, Bank-Nifty-plausible, Oct-2023**; the bottom/swing low is **not numbered**. **No strike, premium, quantity, stop, target or rupee P&L** (loss is qualitative). ASR: *"रैंडम सेलर"* = random sellers; *"फर्द"* = **फिर (then)**.
+- 🔴 **CONTRADICTS: none asserted** — but ⚠️ the **big gap-up → SELL / small gap → BUY** split is the *condition* that stands between 2023-10-01 and 2023-10-15 (open question 25).
+
+> **Evolution verdict:** the corpus's **event** session, and its first **trend-state** rule. ⭐ Durable adds: **never trade the event, trade your market's reaction**,
+> **a crossed low means the investor-exit chain is running — do not buy**, **the buy ban lifts only after a bottom is built and closed back up**,
+> **unexpected fast sells park random sellers who become the buy target**, **a gap-down parks a round number under the market**,
+> **gap size — not gap direction — is the plan's variable**. ⚠️ Short session; do not over-read it.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -3260,14 +3327,22 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
    cap/size rules actually are.)*
 ---
 
+25. **NEW (opened 2023-10-01 / 2023-10-15 / 2023-10-29) — the GAP-UP direction is taught three ways in one month.**
+   **2023-10-01** (the trading-zone session) puts **gap-up → BUY** in the plan. **2023-10-15** puts **gap-up → SELL** (the prior close was *above*
+   the round number, so buyers sat in that domain and their stop-losses are the target). **2023-10-29** splits it by size after a bottom:
+   **big gap-up → SELL** (upper-side SLs already exhausted), **small gap → BUY possible** (the sellers parked *below* are the target).
+   ⚠️ The contexts differ (where the prior close sat relative to the level; whether a bottom exists; how big the gap is), and 2023-10-29 supplies
+   the *variable* (gap size relative to the trapped side) — but **he never retracts either earlier statement**. **All three dated statements stand;
+   not averaged; for Amit to adjudicate** whether the plan is (a) fixed per market state, or (b) purely a function of where the stop-loss pools are.
+
 ## Progress
 
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **59** | |
+| Processed | **62** | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | |
-| Remaining | **131** | |
-| Next (chronological) | `20231001 IMRUHVBnI-c` TRADING ZONE STRATEGY BY Intraday Hunter | |
+| Remaining | **128** | |
+| Next (chronological) | `20231105 rtGy81c64zs` How to Understand Chart for SL Hunting in Stock Market | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
