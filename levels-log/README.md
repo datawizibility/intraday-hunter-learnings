@@ -313,3 +313,10 @@
 | 2023-02-12 | Bank Nifty | 41,200 | buy-side cut level — LOW confidence, do not reuse | teaching rdetVddnPyk (ASR unclear) |
 | 2023-04-23 | Bank Nifty | 42,000 | S — taken as support; a close above it is the retail buy trigger (his read of the trap) | teaching cC51wiGqihc (ASR, day-specific) |
 | 2023-04-23 | Bank Nifty | 42,500 | level above which a bigger operator may step in — his own speculation, not a statement | teaching cC51wiGqihc (ASR, speculative) |
+| 2023-11-05 | Bank Nifty (index unnamed) | ~43,200 | level | a sell was tried around here because direct sell-side SLs were not available | teaching rtGy81c64zs (ASR, day-specific) |
+| 2023-11-18 | Bank Nifty (index unnamed) | 43,500 | S/R line | the watched round number; the crowd's "below 43,500 sell" line | teaching GizNpNrpRaM (ASR, day-specific) |
+| 2023-11-18 | Bank Nifty (index unnamed) | 44,000 | R | the breakout that did NOT come (seller psychology strong; a seller quoted a 44,200 cut-off) | teaching GizNpNrpRaM (ASR, day-specific) |
+| 2023-11-18 | Bank Nifty (index unnamed) | 43,800 | R | resistance from which the market took rejection | teaching GizNpNrpRaM (ASR, day-specific) |
+| 2023-11-18 | HDFC Bank | 1,500 / 1,550 / 1,600 | round | single-stock round levels; SL placed ~1,506 (outside the cluster) | teaching GizNpNrpRaM (ASR, single-stock example) |
+| 2023-11-26 | Bank Nifty (index unnamed) | 43,500 | pivot | the level above/below which his recent trade was decided | teaching 72A6boZg-zo (ASR, day-specific) |
+| 2023-11-26 | Bank Nifty (index unnamed) | 44,000 | R | breakout level / retail buy trigger above it | teaching 72A6boZg-zo (ASR, day-specific) |
