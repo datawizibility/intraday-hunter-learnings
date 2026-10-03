@@ -3126,6 +3126,76 @@ The corpus's **operator-mechanics** session — *how* a move is built — with t
 
 ---
 
+**2023-12-02 — Mistakes of SL Hunting by Intraday Hunter** 🔵 NEW (the PROFIT FILTER on target selection + its exit mechanism · expiry day takes out BOTH sides · the monthly-vs-weekly expiry date slip) + 🟡 REFINED (the fast-fresh-move PARK vs FLUSH · the gap-by-open plan gains an opening-location gate) + 🟢 STABLE (close-under-round-number ⇒ sellers, buy the gap · a position is not cut until its level is crossed · round numbers + the closing print cluster stops ±≈50 · never ignore a repeated mistake · right read ⇒ S/R works, wrong read ⇒ nothing works) + ⚠️ OPEN TENSIONS (loss = read failure vs 2023-11-26/10-15's "a right read can still lose" · feeds open question 24)
+`Pgcs53QuALk` · note: `teaching/2023-12-02-mistakes-of-sl-hunting-by-intraday-hunter.md`
+
+A **loss-debrief** session — his own week (4 trades, **3 losses, 1 win**) mined for what a loss *means*, not a single-concept lesson.
+
+- 🔵 **NEW — the PROFIT FILTER on target selection, with its EXIT MECHANISM.** A participant **already in good profit cannot be targeted head-on**: *"जो यहाँ पे बायर बैठे थे उनको अच्छा मोमेंटम नज़र आ चुका था — इनको डायरेक्टली मार्केट के अंदर टारगेट नहीं किया जा सकता."* Because as price drops through the closing price he *"भाग जाता है"* — **books at/above his entry-and-closing price** — and *"जो सेल कर रहा था उसको कुछ नहीं मिला"* (*"किसी का पैसा गया नहीं तो किसी को मिला नहीं"*). ⭐ The only route to that pool: **rotate him out with a trap** — *"इनको घुमाकर, अचानक से गैप डाउन ओपन होकर … टारगेट किया जा सकता है"* — otherwise **the market targets the other side**. First statement of *why* a paid participant is untargetable (the base — *"the seated participant's profit, not the gap, licenses the side"* — is 🟢 2023-07-16 per 2023-07-09).
+- 🔵 **NEW — EXPIRY DAY TAKES OUT BOTH SIDES.** *"एक्सपायरी दिन मैं ये समझता हूं कि बायर-सेलर दोनों को ही निकालता है."* Earlier expiry sessions (2022-09-17, 2023-03-12, 2023-11-26) describe **writer** mechanics and a pinned range; none states the day's *purpose* this way. Plus a **calendar warning**: *"मंथली एक्सपायरी अपना … अगले दि[न] होता है और जो अदरवाइज़ वीकली … एक दिन आगे पीछे होते हैं"* — he mis-dated the expiry and it *"इस वजह से भी मैं थोड़ा सा समझ नहीं पाया."*
+- 🟡 **REFINED — a fast fresh move PARKS a pool (2023-10-29) vs FLUSHES one here.** 2023-10-29: an unexpected fast **sell** *parks* random sellers who become the **buy** target. Today: a fast **close-time sell** forces the small **buyers** out — *"जो छोटे-मोटे बायर थे … मार्केट ने उनको एग्जिट करवा दिया"* — because *"पता नहीं मार्केट गिरेगा, गिर जाएगा, तो मैं निकल जाता हूं"*, **destroying** the sell-side target he had planned. Same instrument (speed), **opposite pool outcome**; ⚠️ both stand, not averaged.
+- 🟡 **REFINED — the gap-by-open plan gains an OPENING-LOCATION gate.** *"छोटे गैप में मेरा प्लान था पुट का ट्रेड बनाऊंगा … थोड़े गैप-अप ज्यादा में प्लान बना रहा था कि बाय कर लूंगा, क्योंकि [≈44]200 का आसपास लेवल था."* Dovetails with 2023-10-15's opening-location difficulty test and 2023-10-29's gap-size variable (**open question 25** still open).
+- ⭐ **🟢 STABLE — close under a round number ⇒ sellers parked ⇒ buy the gap.** *"44,500 के नीचे क्लोजिंग हुआ है तो यहाँ सेलर बैठे होंगे, हम इनको टारगेट करेंगे, बाय करेंगे अगर गैप ओपन होता है"* — the mirror of 2023-10-15's *close above a round number ⇒ its buyers are the target*.
+- 🟢 **STABLE — a position is not cut until its level is crossed; the crowd "handles it comfortably" inside the range.** *"ये तब तक अपनी पोज़िशन नहीं काटेंगे जब तक मार्केट 44,000 के ऊपर नहीं जाएगा"* (2023-07-09's closing-price version). **Round numbers + the closing print cluster the stops (≈±50 pts):** *"क्लोजिंग प्राइस की ऊपर-नीचे 50 पॉइंट"* (2023-09-24, 2023-11-18).
+- 🟢 **STABLE — never ignore a repeated mistake: 3 → 6 → 12.** *"कभी भी गलतियों कोइग्नोर नहीं करना चाहिए"* (2023-08-27's *a repeated mistake is the real error*). **And:** *"जहाँ पे आप सही होंगे … सपोर्ट भी काम किया, रेजिस्टेंस भी काम किया; जहाँ पे गलत होंगे … सपोर्ट-रेजिस्टेंस भी काम नहीं कर पाएंगे."* 🟢 The bigger operator traps the retrying smaller one (2023-11-26).
+- ⚠️ **OPEN TENSION (soft, recorded — not resolved):** a loss is called an **identification failure** (*"समझ नहीं पाए कि बायर ने कहाँ काम किया"*) — vs 2023-11-26 / 2023-10-15, where a **right read can still trade as a loss** (execution layer). Not logically exclusive, but he does not reconcile them. **Both stand; for Amit.**
+- ⚠️ **FEEDS OPEN QUESTION 24:** *"मोस्ट ऑफ द टाइम मैं **वन बाय वन** रिस्क रिवर्ड रखकर काम करता हूं"* — he names **≈1:1 as his normal ratio** and treats 3-of-4 losses as **capital-bleeding**, while 2023-05-21 / 2023-07-16 taught **loss-small / profit-big** as doctrine. ⭐ A **second independent sighting of ≈1:1** (after 2023-07-30). **Both stand; not averaged.**
+- 📌 **Fidelity:** levels — **44,000 / 44,500 / 44,700 / 45,000** — are Nov–Dec-2023 **Bank-Nifty-plausible, index unnamed, day-specific**. ⚠️ Two figures are **unusable**: a *"200 का आसपास लेवल"* (cannot be reconstructed) and a **strike** *"10050 वाला"*. **No quantity, premium, stop, target or rupee P&L**; the week is quantified only as 4 trades / 3 losses / 1 win. ASR: *"पोषण"* = पोज़िशन; *"एक्रू एसी"* = accuracy; *"रोस"* = क्रॉस. **No `levels-log/` row claimed.**
+- 🔴 **CONTRADICTS: none asserted** — one soft ⚠️ tension above.
+
+> **Evolution verdict:** the corpus's **loss-debrief** session, and its sharpest statement of **when a pool may be targeted**. ⭐ Durable adds: **a participant in good profit is untargetable head-on (he exits at the closing price and gives the hunter nothing)**,
+> **rotate him out with a trap or the market targets the other side** — **expiry day takes out both sides (verify the expiry date first)**,
+> **a fast close-time sell flushes the pool you planned to target**, **the close's position vs the round number names the side to buy/sell**.
+> ⚠️ Two unusable figures; one soft open tension; **open question 24 fed again (≈1:1 named as his norm)**.
+
+---
+
+**2023-12-10 — Edge In Algo Trading** 🔵 NEW (the EDGE-MIGRATION timeline · the SIZE TAXONOMY of algo users — small algo 30–40 pts AWAY from the level, big algo AT the level/after breakout · the pinned-range tell · position concealment via market orders · the instant call→put switch for option sellers) + 🟡 REFINED (manual vs machine: the human's remaining edge is the option NOT to trade) + 🟢 STABLE (discipline as the mechanism / loss inside a limit · round–important numbers as the shared levels · greed turns a target into a loss) + ⚪ Absent (the level/psychology apparatus is barely used)
+`g4QrGusiN5s` · note: `teaching/2023-12-10-edge-in-algo-trading-by-intraday-hunter.md`
+
+A **method/infrastructure** session — no trade, no outcome — whose contribution is *where the edge now lives* and *where machines place their orders*.
+
+- 🔵 **NEW — the EDGE-MIGRATION timeline, algo as the current era.** *"जिसके पास इंफॉर्मेशन सही होता था उसके पास एक एज रहता था … फिर चार्ट … फिर कैंडल स्टिक … आज के दिन हम एल्गो तक पहुँच चुके हैं."* Names the sequence **information → chart → candlestick → breakout/indicator → algo**. 2023-11-18 said *"knowledge is commoditised, implementation is the edge"* — today **names the tool of implementation**. ⭐ First explicit history of the edge in the corpus.
+- 🔵 **NEW — the SIZE TAXONOMY of algo users, and WHERE each places its algo** (the sharpest new tool). *"एल्गो दो तरह के ट्रेडर लगाते हैं."* **Small/moderate algo:** *"कोई भी राउंड नंबर होगा … ब्रेकआउट या ब्रेकडाउन होने वाला होगा — **उससे कुछ दूर पहले ही** अपना एल्गो लगाने की कोशिश करेंगे … **वो एग्जैक्टली काम नहीं करेंगे**"* — concretely **30–40 / 50 points early** (*"47,200 के ज्यादा आसपास नहीं जाने देंगे"*). **Big-capital algo:** *"वो हमेशा **ब्रेकआउट और ब्रेकडाउन के बाद** काम करता है"*, **or** at an **exact level via option selling** (a written strike). ⭐ Nothing earlier distinguishes *where in the price grid* different sizes position.
+- 🔵 **NEW — the PINNED-RANGE TELL.** *"अगर मार्केट कोई रेंज में ऊपर या नीचे नहीं जाने दे रहा, तो वहाँ कहीं ना कहीं एक बड़ा एल्गो लगा हुआ है."* 2023-11-26's two-sided pin was a *writer* effect; today it becomes a **detectable footprint**. ⚠️ He also caps it: *"हर जगह किसी का तो लॉस हो ही सकता है, चाहे कितना भी बड़ी क्वांटिटी लेकर बैठा हो — लेकिन एक लिमिट तक."*
+- 🔵 **NEW — POSITION CONCEALMENT via market orders.** *"मैं नहीं चाहता कि मार्केट के अंदर मेरा पोज़िशन रिवील हो जाए … मार्केट डेप्थ में भी नहीं लाना चाहता"* ⇒ visible depth filled first, hidden flow absorbed inside a price range under a capital cap. 2023-11-26 explained *why* the operator needs your opposite; this explains *how* he buys big unseen.
+- 🔵 **NEW — the INSTANT call→put switch, and why option selling needs it.** *"जब मेरा एसएल हिट हो, तुरंत के तुरंत वहाँ पे पुट सेल हो जाना चाहिए"*, because *"ऑप्शन सेलिंग में टाइम को कंज्यूम करना होता है."* Manual pays **slippage** (*"ये जो प्राइस था मेरा मिस हो गया"*); the algo cuts and re-writes *"इसी सेकंड में"* and **auto-picks the replacement strike by premium** (*"~₹10 / 12 / 15 के आसपास"*). ⭐ First stated switch rule for the seller (2022-09-17 / 2023-03-12 / 2023-11-26 had writer mechanics, no switch).
+- 🟡 **REFINED — manual vs machine, fairly compared.** Earlier sessions treat discipline as a purely human problem; today **splits the work**: algo owns **enforcement** (*"रूल तोड़ने नहीं देगा"*), manual owns **judgement on unclear momentum** (*"मोमेंटम इतना क्लियर नहीं है — तो आप वेट कर सकते हो"*). ⭐ The human's remaining edge is **the option NOT to trade**; the canonical failure is the *"₹1 लाख … अभी तो ये कैंडल बना है"* rationalisation (the enforcement half of 2023-11-26's loss-limit).
+- 🟢 **STABLE — round/important numbers are the shared levels of crowd and machine** (2023-09-24, 2023-10-15, 2023-11-18, 2023-12-02). **🟢 STABLE — greed turns a target into a loss:** *"हमने लालच कर लिया … जहाँ हमें टारगेट मिलना था वहाँ लॉस मिल गया"* (2023-10-01).
+- ⚪ **Absent (absence, NOT retraction):** the buyer/seller-pool and closing-price apparatus is barely used — the session is about *who places orders where*, not what the crowd feels.
+- 📌 **Fidelity:** Dec-2023 **Bank-Nifty-plausible, index unnamed, day-specific**: **47,000 / 47,200 / 47,500** (a **written strike**), plus the *derived* **≈47,465** (*"30 से 40 पॉइंट दूर"* — his own heuristic, **not a chart level**) and a *"500 का लेवल"* = the tail of a round level, **not standalone**. The **₹1 lakh cap** and **₹10–20 premia** are **illustrations**. **No quantity, lot, strike list or rupee P&L; NO trade outcome.** ASR: *"एलग/एगो/अलगो"* = एल्गो.
+- 🔴 **CONTRADICTS: none asserted** (⚠️ *"एल्गो में एज मिल रहा है"* is consistent with 2023-11-18 — algo is implementation, not knowledge).
+
+> **Evolution verdict:** the corpus's **algo/infrastructure** session. ⭐ Durable adds: **the edge migrates — information → chart → candlestick → indicators → algo**,
+> **small algo sits 30–40 points away from a level; the big algo sits at the level or works after the breakout**, **a pinned range is a big algo's footprint**,
+> **big money hides size in market orders**, **an exact level is often a written strike**, **the option seller's call→put switch must be instant and automated (no slippage)**,
+> **algo buys discipline; manual's remaining edge is the option not to trade**. ⚠️ Levels are Dec-2023; method-only, no outcome.
+
+---
+
+**2023-12-17 — Psychology TRAP in Stock Market** 🔵 NEW (the CROWD-SYNCHRONISATION mechanism + the 4-step recruitment ladder · "THE CHART DOES NOT REPEAT" with ≈90%/≈80% odds and the gap-down exception · the FEAR ASYMMETRY — fear of shrinking profit > fear of growing loss · the VOLUME GATE) + 🟢 STABLE (a position is not cut until its level · the level/round-number gates · the gap-by-open plan · read BOTH operator and retail · a right read can still lose) + ⭐ REAPPEARS (the 2023-10-01 VALUATION framework, absent ~10 weeks) + ⚠️ OPEN TENSION (the gap-up seat-uncertainty vs 2023-12-02) + 📌 feeds open question 25
+`DVpMQMGO0pI` · note: `teaching/2023-12-17-psychology-trap-in-stock-market-by-intraday-hunt.md`
+
+The corpus's **psychology mechanics** session — its spine is *how lakhs of minds converge*, and its deepest idea is the **fear asymmetry**.
+
+- 🔵 **NEW — the CROWD-SYNCHRONISATION mechanism.** His answer to *"ऑपरेटर को कैसे पता लगता है कि हजारों लाखों लोग अब केवल बाय कर रहे हैं?"*: alignment happens **at a point, not at the open** — *"मार्केट ओपन होता है तब एक जैसा नहीं होता, लेकिन जैसे धीरे-धीरे मोमेंटम आते हैं, ब्रेकआउट होते हैं … उसके बाद धीरे-धीरे उनका साइकोलॉजी चेंज होकर **एक पॉइंट पे सभी का एक जैसा हो जाता है**. फिर मार्केट अपना एक्शन लेना शुरू कर देता है और उनके एसल खा जाता है."* ⭐ With the **4-step recruitment ladder**: (1) the seated **seller flips** to buy; (2) a sharp candle recruits the **non-trader**; (3) more momentum makes the **hedged trader cut one leg** (*"पुट की ट्रेड काट देगा और कॉल कायम रख लेगा"*); (4) SLs eaten. 2023-11-26 explained *what* an operator does; today explains **when the crowd becomes huntable**.
+- 🔵 **NEW — "THE CHART DOES NOT REPEAT."** *"मोस्ट ऑफ द टाइम चार्ट रिपीट नहीं करता … ऑपरेटर चार्ट रिपीट नहीं करना चाहता ताकि रिटेल एक जैसा काम करना न शुरू कर दे."* With **quantified odds** — **≈90% in a normal market, ≈80% near an all-time high** — and the **exception**: *"अगर गैप डाउन ओपन हो जाए तो चार्ट रिपीट बहुत बार हो जाता है … क्योंकि गैप डाउन में एक अलग साइकोलॉजी बन जाता है."* ⭐ The corpus's **first probabilistic statement about chart repetition**.
+- 🔵 **NEW — THE FEAR ASYMMETRY (fear of a *shrinking* profit > fear of a *growing* loss).** *"आपका पोज़िशन ज़ीरो-ज़ीरो चल रहा है तो आप कुछ नहीं करोगे … लेकिन आपको 1 लाख का प्रॉफिट नज़र आना शुरू हो गया, वो जब कम होगा तब आपको डर लगेगा और पोज़िशन काट दोगे"*; *"लॉस बढ़ जाए, आप नहीं डरोगे, लॉस बड़ा-दोगुना-तीन गुना कर लोगे, लेकिन प्रॉफिट एक गुने से दो-तीन गुना [होते ही] बहुत ज्यादा डर लगेगा."* ⇒ *"गलतियाँ ज्यादा करते हैं **प्रॉफिट के अंदर**; लॉस के अंदर बैठे रहते हैं."* ⭐ **The missing mechanism** behind 2023-12-02's *"a paid participant cannot be targeted — he exits at the closing price"* and 2023-07-16's *"the seated participant's profit licenses the side"*: those said the *what*, today says the *why* (fear) and the *when* (only as profit shrinks). ⭐ Strongest new idea of the session.
+- 🔵 **NEW — THE VOLUME GATE.** *"वॉल्यूम सही होना चाहिए; लो वॉल्यूम में काम नहीं करेगा — साइकोलॉजी कभी भी वहाँ **डायरेक्ट एसल हंटिंग** हो जाता है."* The corpus lists volume as *absent* in many sessions and never as a **precondition**; ⭐ first statement that psychology is only tradeable on adequate volume (and that the skill transfers across markets — *"क्रिप्टो … सिमिलर साइकोलॉजी"*).
+- ⭐ **🟢 STABLE (REAPPEARS) — the 2023-10-01 VALUATION framework.** The **inflated price** logic returns after ~10 weeks (⚪ absent in 2023-10-15/29, 11-05/18/26, 12-02): a **~500-pt gap-up** ⇒ *"एक इन्फ्लेटेड प्राइस अगर मिल रहा है तो बायर … काम नहीं कर पाता, उसे डर लगता है कि मार्केट इतना निकल गया; लेकिन सेलर को लगता है, चलो मैं सेल करने का ट्राई करता हूं."* ⭐ **Its return is itself the finding.**
+- 🟢 **STABLE — a position is not cut until its level is crossed:** *"मार्केट ने 47,000 के लेवल को होल्ड किया है [इसलिए] उन्होंने अपना पोज़िशन काटा नहीं"*; *"47,500 के ऊपर जाना ज़रूरी है, तभी सेलर अपनी पोज़िशन काटेंगे"* (2023-07-09, 2023-12-02). **🟢 STABLE — gap-by-open plan** (small gap-up ⇒ sellers trapped then buyers warned; gap-down ⇒ buyers trapped; big gap ⇒ different psychology). **🟢 STABLE — read BOTH operator and retail** (2023-05-14, 2023-11-18/26). **🟢 STABLE — a right read can still lose** (*"कभी-कभी आप गलत हो सकते हो"*; his own ≈48,900 small-gap-up sell lost). **🟢 STABLE — capital safety / slow learning / no courses.**
+- ⚠️ **OPEN TENSION (soft, recorded — not resolved):** *"ज्यादा सेलर यहाँ नहीं बैठे"* (this gap-up had **few** seated sellers) vs 2023-12-02's *close-under-round-number parks sellers to be targeted*. Contexts differ and he flags the seat-uncertainty himself (*"बैठे होंगे नहीं होंगे, वो भी पता लगाना मुश्किल है"*). **Both stand; for Amit.**
+- 📌 **Feeds OPEN QUESTION 25 (gap-by-open):** today adds a **fifth** reading in one quarter — **small gap-up ⇒ sellers trapped then buyers warned; small gap-down ⇒ upside possible; big gap-down ⇒ buyers trapped; big (~500-pt) gap-up ⇒ buyers irrelevant, sellers aggressive**. ⚠️ Still **recorded, not reconciled** (2023-10-01, 10-15, 10-29, 11-26).
+- 📌 **Fidelity:** levels — **47,000 / 47,200 / 47,500 / 48,000 / 48,200**, opening **≈48,900** — are mid-Dec-2023 **Bank-Nifty-plausible, index unnamed, day-specific**. The **≈90% / ≈80% odds** and **₹1,00,000 / ₹50,000 / ₹20,000** are **his spoken estimates and illustrations**. One trade is a **qualitative loss**, one a **qualitative win**; **no strike, premium, quantity or rupee P&L**. ASR: *"पोशन"* = पोज़िशन; *"कापना रख लेगा"* = कायम/रख लेगा. **No `levels-log/` row claimed.**
+- 🔴 **CONTRADICTS: none asserted** — one soft ⚠️ tension above, plus open question 25 widened.
+
+> **Evolution verdict:** the corpus's **psychology-mechanics** session, and the best statement of *why* stop-hunting works. ⭐ Durable adds: **a crowd aligns at a point, not at the open — and that alignment is the trigger**,
+> **the chart does not repeat (≈90% / ≈80% near ATH; a gap-down is the exception)**, **fear of a shrinking profit beats fear of a growing loss — mistakes are made in profit**,
+> **volume is a precondition for psychology (thin books = pure stop-hunting)**, **the inflated-price framework is back after a 10-week absence**.
+> ⚠️ Levels are Dec-2023; **open question 25 now has five dated readings, none reconciled**.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -3392,7 +3462,10 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
    "risk-reward" (per-trade ratio) and a week's realised outcome (a hit-rate/expectancy arithmetic) are different objects,
    and the sentence is ASR-damaged, so **no contradiction is recorded**. **Both dated statements stand; not averaged; the item
    is parked until the number can be heard again — for Amit to adjudicate.** *(Feeds the same family as question 19: what the
-   cap/size rules actually are.)*
+ cap/size rules actually are.)* ⭐ **WIDENED 2023-12-02:** the same session names **≈1:1 as his working norm** —
+ *"मोस्ट ऑफ द टाइम मैं **वन बाय वन** रिस्क रिवर्ड रखकर मार्केट के अंदर काम करता हूं"* — and treats **3 losses in 4 trades**
+ as capital-bleeding, while **2023-05-21 / 2023-07-16** taught **loss-small / profit-big** as doctrine. ⭐ A **second
+ independent dated sighting of ≈1:1** (after 2023-07-30). **Both stand; not averaged; for Amit.**
 ---
 
 25. **NEW (opened 2023-10-01 / 2023-10-15 / 2023-10-29) — the GAP-UP direction is taught three ways in one month.**
@@ -3402,15 +3475,21 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
    ⚠️ The contexts differ (where the prior close sat relative to the level; whether a bottom exists; how big the gap is), and 2023-10-29 supplies
    the *variable* (gap size relative to the trapped side) — but **he never retracts either earlier statement**. **All three dated statements stand;
    not averaged; for Amit to adjudicate** whether the plan is (a) fixed per market state, or (b) purely a function of where the stop-loss pools are.
+   ⭐ **WIDENED 2023-11-26:** **big gap-down → BUY, small gap-down → SELL** (contexts differ — a bottom present or not).
+   ⭐ **WIDENED 2023-12-17:** a **fifth** dated reading — **small gap-up ⇒ sellers trapped, then buyers warned**;
+   **small gap-down ⇒ upside possible**; **big gap-down ⇒ buyers trapped**; **big (~500-pt) gap-up ⇒ buyers irrelevant,
+   sellers aggressive** (the inflated-price framework). ⚠️ **Five dated readings in one quarter; not one retracted; not
+   averaged; for Amit.** *Related soft tension: 2023-12-17's "ज्यादा सेलर यहाँ नहीं बैठे" vs 2023-12-02's
+   "close under a round number parks sellers to be targeted" — both stand.*
 
 ## Progress
 
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **65** | |
+| Processed | **68** | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | |
-| Remaining | **125** | |
-| Next (chronological) | `20231202 Pgcs53QuALk` Mistakes of SL Hunting by Intraday Hunter | |
+| Remaining | **122** | |
+| Next (chronological) | `20231224 6yiq2g_sEhk` Weakness of Traders \| Decoding the Weak Points by Intraday Hunter | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
