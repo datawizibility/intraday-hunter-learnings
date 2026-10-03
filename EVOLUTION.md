@@ -3058,6 +3058,74 @@ A short (8:37) event-week session; its load-bearing contribution is the **invest
 
 ---
 
+**2023-11-05 — How to Understand Chart for SL Hunting** 🔵 NEW (the TIMEFRAME doctrine: 1-min to see the stop pool vs bigger frames for candle-close confirmation) + 🟡 REFINED (the buy-the-failed-breakdown gate gains its "failure conversion" condition) + 🟢 STABLE (the gap-by-open plan + the big-gap-volatile rule · read the counterparty · the crowded side is trapped first) + ⚪ Absent (the 2023-10-01 valuation framework)
+`rtGy81c64zs` · note: `teaching/2023-11-05-how-to-understand-chart-for-sl-hunting-in-stock-.md`
+
+A method session — no trade, no outcome — whose single load-bearing contribution is **how to pick the timeframe**, and why 1-minute is the right lens for SL hunting.
+
+- 🔵 **NEW — the TIMEFRAME doctrine.** Chart is named as one of **three equal legs**: *"चार्ट ट्रेडिंग का एक इंपोर्टेंट पार्ट होता है जैसे हमारे लिए कैपिटल होता है, डिसिप्लिन होता है."* The corpus mentions timeframe only in passing (the 2022-09-17 option template's 15-min candle; 2023-09-24's *"1 मिनट के अंदर"* breakout damage); **no earlier session makes the choice of timeframe a first-class decision.** ⭐ The rule: **1-minute to see the pool** — *"मैं यह देखना चाहता हूँ कि यहाँ पर सेलर बैठे थे … मार्केट ने ब्रेकआउट किया … उनका मार्केट ने एसएल खा लिया"* — versus **5-minute-and-up for candle-close confirmation**, because *"1 मिनट का कैंडल अगर क्लोज हो भी जाता है तो … एक ना के बराबर"*, and on a big frame *"मोमेंटम चेंज होता हुआ आपको नजर नहीं आएगा."*
+- ⭐ **The preparation-must-match-the-frame rule.** *"जो प्रिपरेशन मैंने कर रखा है, वो मेरे 1 मिनट के टाइम फ्रेम के लिए कर रखा है … 1 मिनट का और 5 मिनट का स्ट्रक्चर बिल्कुल डिफरेंट."* Trading an unprepared frame ⇒ *"वहां पे नुकसान ही होगा."* Minor keeper: some traders **switch off candle colours** (outline only) to kill red/green psychology.
+- 🟡 **REFINED — the buy gate gets its condition.** Buy **only on a FAILED breakdown**: *"जब मार्केट के अंदर कोई ब्रेकडाउन फेलियर में कन्वर्ट हो जाए."* 2023-09-10's flat fade template (*"ब्रेकडाउन के [बाद] बाय कर लेना चाहिए"*) is tightened to the **failure-conversion** case.
+- ⭐ **🟢 STABLE — the trend decides the MORNING side (restated with the trap mechanism).** **Down trend → call side** (*"मोस्ट ऑफ द टाइम मॉर्निंग में कॉल साइड के पोज़ीशन ज़्यादा"* — the market lifts first to trap the crowd that wants to sell); **up trend → put side** (*"साइकोलॉजी चेंज करने के लिए पहले कुछ गिरावट करेगा"*); **no trend → go with the tape** (*"मार्केट के एग्जैक्टली साथ चलने की कोशिश करते हैं"*). Summary: *"डाउन ट्रेंड में … कॉल साइड; अप ट्रेंड में … डाउन साइड; कोई मेजर ट्रेंड नहीं → मार्केट के साथ-साथ."* Explains the "I keep taking too many puts" feeling as a **trend artefact, not a strategy change**.
+- 🟢 **STABLE — the gap-by-open plan, with the big-gap veto.** Range: gap-up → buy plan; gap-down → sell (range broken); **small gap → follow the tape's direction (sell)**; **big gap → volatile, no directional plan** (*"कभी ऊपर जाएगा कभी नीचे"*). Dovetails with 2023-10-29's size variable.
+- 🟢 **STABLE — sell at the level or after a real breakdown; never chase into the hole.** *"ब्रेकडाउन पर ट्रेड करें या फिर ऊपर मिले तब."*
+- 🟢 **STABLE — read the counterparty, not yourself** (*"दूसरे क्या सोच रहे होंगे"*); the crowded side is trapped first; the closing-price check (market sold but *"क्लोजिंग प्राइस को नहीं काटा"* → buy plan).
+- ⚪ **Absent (absence, NOT retraction):** the 2023-10-01 valuation framework is not used.
+- 📌 **Fidelity:** *≈43,200* (*"43 200 के आसपास हमने सेल का ट्राई किया"*) is the only level — **spoken, index unnamed, Bank-Nifty-plausible (Nov-2023)**; sell worked there *"क्योंकि डायरेक्ट कैसेल अवेलेबल नहीं थे."* **No strike, premium, quantity, stop, target or rupee P&L. No trade outcome narrated.** ASR: *"फर्द"* = **फिर (then)**; *"नॉइस"* = noise; *"प्रिपरेशन"* = preparation.
+- 🔴 **CONTRADICTS: none asserted.**
+
+> **Evolution verdict:** the corpus's **timeframe** session and its clearest statement of the **morning trap by trend state**. ⭐ Durable adds: **pick the timeframe by the job (1-min for the pool, 5-min+ for a candle close)**,
+> **work only the frame you have prepared**, **down trend → call side / up trend → put side / no trend → with the tape**, **a big gap licenses no direction**, **buy only a failed breakdown**.
+> ⚠️ Method-only session; no level or outcome to quote beyond ≈43,200.
+
+---
+
+**2023-11-18 — Unlocking the Secrets of Successful Trading (momentum & time)** 🔵 NEW (knowledge is commoditised — implementation is the edge · "the market opens to take money away, not to give it") + 🟡 REFINED (the failed-breakdown buy gate, again) + 🟢 STABLE (read the counterparty · the crowded side is trapped first · capital is the execution strength · round numbers cluster stops) + ⚪ Absent (the 2023-10-01 valuation framework)
+`GizNpNrpRaM` · note: `teaching/2023-11-18-unlocking-the-secrets-of-successful-trading-a-jo.md`
+
+A psychology/momentum session; its novelty is the **framing**, not a new mechanic.
+
+- 🔵 **NEW — "KNOWLEDGE IS COMMODITISED; IMPLEMENTATION IS THE EDGE."** *"नॉलेज सभी के आसपास होता है, लेकिन नॉलेज को आप इंप्लीमेंट कैसे करते हो."* Earlier, trading background/access gave a head start; now the same methods reach everyone — so the differentiator is **psychology, risk handling and capital**. The corpus has *experience-vs-knowledge* material (2022-09-25, 2022-10-16), but it does **not** anywhere state that the informational edge has been competed away. ⭐ First explicit framing; a predecessor of 2026-09-13's *"edge is never 100%."*
+- 🔵 **NEW — "THE MARKET OPENS TO TAKE MONEY AWAY, NOT TO GIVE IT."** *"मार्केट पैसा ले जाने के लिए ओपन होता है."* One-line reason the crowded side of a gap rarely pays. New as a stated *purpose of the open*.
+- ⭐ **The swimmer analogy for capital.** Both can swim; crossing a fast river needs physical strength — *"उसको करने के लिए जो मुझे पावर चाहिए वो … नहीं"* — and that strength in trading is **capital**. Thin capital ⇒ fear ⇒ inability to take a trade you already understand. (Capital-as-strength is 🟢 established; the analogy is new colour.)
+- ⭐ **Gap-down crowd wants to sell ⇒ the market turns volatile** (*"कभी ऊपर निकला, कभी नीचे"*), so **sell at a higher price (~the level) or on a genuine breakdown — never in between**: *"या तो ब्रेकडाउन पर ट्रेड करें, या फिर ऊपर मिले तब."* And the crowd *knows* *"43,500 के नीचे सेल करना है"* yet can't sell — the gap is emotional/capital, not informational.
+- 🟡 **REFINED — the buy gate, again: only a FAILED breakdown.** *"बाय करने का एक ही रास्ता है कि जब मार्केट के अंदर कोई ब्रेकडाउन फेलियर में कन्वर्ट हो जाए."* (Same refinement as 2023-11-05 — now stated in two consecutive sessions, so it is hardening.)
+- ⭐ **Gap-up read — two outcomes, same as 2022-11-06's flow logic.** Either the market **traps the seated sellers** (they expect resistance at 43,800 and a fall *"कल गैप डाउन ओपन हुआ था तो अभी गिर जाना चाहिए"*), or **the flow itself is your way** — *"नदी का भाव इस तरफ जा रहा है, तो इसी तरफ जाओगे तो जल्दी पहुँच जाओगे."* After a first fall the seated sellers come **into profit**, and the market returns for them — the trap re-arms.
+- 🟢 **STABLE — round/known levels cluster the crowd's stops**, so place your stop **away from the cluster** or let the market eat theirs first (*"1500 के आसपास करें ताकि अपना एसएल 1506 के आसपास … मार्केट ना खा पाए"* — HDFC Bank example).
+- 🟢 **STABLE — read the counterparty; the crowded side is trapped first; range traps BOTH sides; cut when profit shrinks.**
+- ⚪ **Absent:** the 2023-10-01 valuation framework is not used.
+- 📌 **Fidelity:** ⚠️ **Nov-2023 Bank-Nifty-plausible levels, spoken once:** **`43,500`**, **`44,000`** (round levels; *"ऐसे बहुत से लेवल"*), **`43,800`** (*"यहाँ से मार्केट ने रेज़िस्टेंस लिया"*), **`43,200`/`43,500`** (the buy-gate pair), **`44,200`** (a seller's reported cut-off: *"44,200 तक ना आए, मैं पोज़िशन नहीं काटूंगा"*), **`44,500`**. Single-stock example: **HDFC Bank `1,500 / 1,550 / 1,600`**, SL ≈ **`1,506`**. ⚠️ **No strike, premium, quantity or rupee P&L; no outcome quantified.** ASR: *"फर्द"* = फिर; *"एचडीएफ बैंक / hdfc0000001"* = HDFC Bank (batch-code garble).
+- 🔴 **CONTRADICTS: none asserted.**
+
+> **Evolution verdict:** the corpus's **"edge has moved to implementation"** session — expectation-setting rather than mechanics. ⭐ Durable adds: **knowledge is no longer the edge, implementation is**,
+> **capital is the execution strength**, **read the other side's mind**, **the market opens to take money, not give it**, **sell the gap-down crowd at a higher price or on a breakdown, never in between**,
+> **at a known level the crowd's stops cluster — place yours away from it**. ⚠️ Levels are Nov-2023 and day-specific.
+
+---
+
+**2023-11-26 — Secrets of Stock Market Operators: Position Handling & Manipulation** 🔵 NEW (the operator FOOTPRINT TEST — price returning to his zone means he's finished · S/R works because operators re-activate at the same price · "I never trail" · SLs are created in phases) + 🟡 REFINED (2023-04-23's "a bigger operator arrived", generalised) + 🟢 STABLE (the operator needs your opposite at his price · retail's size is an advantage · force-analogy for momentum · a right read can still lose) + ⚠️ OPEN TENSIONS (आमने-सामने ambiguity · the small/big gap-down split vs 2023-10-29)
+`72A6boZg-zo` · note: `teaching/2023-11-26-secrets-of-stock-market-operators-position-handl.md`
+
+The corpus's **operator-mechanics** session — *how* a move is built — with the sharpest new tool being a **footprint test**.
+
+- 🔵 **NEW — the FOOTPRINT TEST.** *"अगर उसने बाय या सेल कर रखा है तो दोबारा से उसके आसपास ओपनिंग नहीं देने वाला, ना ही वहाँ पे मार्केट को आने देगा."* ⇒ **if price DOES return to the operator's zone, he is finished or replaced:** *"अगर यहाँ पे मार्केट आ गया तो समझ लेना ये ऑपरेटर खत्म हो चुका है, उससे बड़ा ऑपरेटर आ चुका है."* Practical use: **find the next S/R where the operator last worked.** 🟡 **REFINED vs 2023-04-23**, which had *"कोई उससे बड़ा ऑपरेटर आ गया"* at `42,500` as a one-off; today it becomes a **general test**.
+- 🔵 **NEW — the CAUSAL theory of S/R.** *"ऑपरेटर का माइंडसेट एक जगह पे बना रहता है कि मुझे यहाँ पे क्या करना है … इसी वजह से मार्केट के अंदर सपोर्ट-रेजिस्टेंस काम करते हैं."* The corpus explains S/R as levels/roles (2022-03-06, 2023-01-15) and as **operator bait** (2023-01-15, 2023-04-23), but not as *the same operators re-activating at the same price*. ⭐ First stated cause for *why* a level works again. (Unrelated to 2022-07-09's *"ऑपरेटर … सभी एक जैसे थोड़ी काम करते हैं"* — that is about methods differing, this is about **location memory**.)
+- 🔵 **NEW — "STOP-LOSSES ARE CREATED IN PHASES."** *"बड़ी क्वांटिटी में धीरे-धीरे एसएल क्रिएट करने पड़ते हैं … जब अच्छे से एसएल क्रिएट हो जाते हैं, उसके बाद वो काम करना शुरू करते हैं."* The pool is **manufactured** over stages — not merely "found" as in 2022-07-10 / 2023-04-23.
+- 🔵 **NEW — "I NEVER TRAIL."** *"मैं कभी भी ट्रेल नहीं करता … मुझे बहुत ज्यादा रिस्की लगता है … मैं कंप्लीट [स्टॉप-लॉस] के लिए वेट करता हूं."* Rationale: trailing **gifts the operator a stop to eat** — *"जैसे ट्रेल करूंगा, ऑपरेटर … उसको खाने के लिए डेफिनेटली आ जाता है."* No prior entry states a trailing policy; the one earlier use of "trailing" (2023-10-29) is **descriptive** of the seated sellers, so this is a genuinely new personal rule.
+- ⭐ **🟢 STABLE — the operator needs your OPPOSITE at his price.** *"वो जहाँ बाय करे, रिटेल ट्रेडर वहाँ सेल करें; जहाँ वो सेल करे, वहाँ रिटेल बाय करें"* (2023-04-23's fight-vs-follow, from the fill side). Method: absorb the opposition quietly → **apply a little money suddenly** → the seated small operators'/retail's SLs hit → fuel → book profit.
+- ⭐ **🟢 STABLE — direction comes from the operator, not retail.** *"ऑपरेटर ही डायरेक्शन मार्केट को देता है"*; retail cannot sustain a direction because its **mindset changes** with time. The operator's advantage is **process + capital + the confidence to handle the market, inside a loss limit** (2023-04-23).
+- ⭐ **🟢 STABLE — the force/momentum analogy** (2022-11-26 *How to Understand Market Momentum*). **🟢 STABLE — a right read can still trade as a loss:** he read the seated buyers' stops but *"मैं अपने माइंडसेट को चेंज नहीं पाया … यहाँ पे अपना लॉस हुआ."* **🟢 STABLE — do not trade the event** (2023-10-29), now via **operators withholding size**: *"बड़ी क्वांटिटी में कोई भी काम करना नहीं चाहता … सभी को डर लग रहा है"* → chopped tape until the event clears.
+- ⚠️ **OPEN TENSION (1) — do operators fight head-on, or not?** Today: *"वो अपना फोर्स लगाते रहते हैं और आमने-सामने नहीं होते"* vs 2023-04-23's *"सामने वाले ऑपरेटर से भी फाइट करना है."* ⚠️ The ASR is ambiguous (*"आमने-सामने होते रहते हैं"*?); **both stand; not resolved.**
+- ⚠️ **OPEN TENSION (2) — the small/big GAP-DOWN split (feeds open question 25).** Today: **big gap-down → BUY**, **small gap-down → SELL** (*"कोई बड़ा गैप डाउन ओपन होता है तो बाय … अगर छोटा गैप डाउन ओपन होता है तो हम सेल करेंगे"*). **2023-10-29** had **small gap → BUY possible** (after a bottom). Contexts differ (bottom present or not), but the two "small gap" readings point opposite ways. **Both dated statements stand; not averaged; for Amit to adjudicate.**
+- 📌 **Fidelity:** ⚠️ **Nov-2023 Bank-Nifty-plausible levels:** **`43,500`** and **`44,000`** (*"43,500 के लेवल हो गए, 44,000 हो गए"*; the 44,000 breakout as retail's buy trigger), **`43,200`** (*"ये ऐसे लेवल भी आ चुके हैं"*, marginal), plus a *"500 के नीचे क्लोज"* whose "500" is the **tail of 43,500**, not a standalone figure. **No strike, premium, quantity or rupee P&L; loss is qualitative** (*"लॉस बुकिंग करना पड़ा"*). ⚠️ The walkthrough is **his own reconstruction** of operator behaviour, not a verified mechanism. ASR: *"फर्द"* = फिर; *"क्वांटिटी"* = quantity.
+- 🔴 **CONTRADICTS: none asserted** — two ⚠️ open tensions recorded above (the face-to-face ambiguity; the small-gap reading).
+
+> **Evolution verdict:** the corpus's **operator-mechanics** session, with a usable **footprint test** as its contribution. ⭐ Durable adds: **price returning to the operator's zone means he is finished/replaced**,
+> **S/R works because the same operators re-activate at the same price**, **stop-losses are built in phases before the move**, **never trail — trailing gifts the operator a stop**,
+> **the operator needs your opposite at his price**. ⚠️ Levels are Nov-2023; the mechanism is his reconstruction; **two open tensions stand unreconciled**.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -3340,9 +3408,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **62** | |
+| Processed | **65** | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | |
-| Remaining | **128** | |
-| Next (chronological) | `20231105 rtGy81c64zs` How to Understand Chart for SL Hunting in Stock Market | |
+| Remaining | **125** | |
+| Next (chronological) | `20231202 Pgcs53QuALk` Mistakes of SL Hunting by Intraday Hunter | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
