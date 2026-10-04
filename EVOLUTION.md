@@ -3196,6 +3196,78 @@ The corpus's **psychology mechanics** session — its spine is *how lakhs of min
 
 ---
 
+**2023-12-24 — Weakness of Traders | Decoding the Weak Points** 🔵 NEW (capital-account segregation · big losses are normal, *repeated* big losses are the failure · trend lines rejected in favour of support/resistance · a dead-centre close ⇒ psychology is the only edge) + 🟢 STABLE (gap-by-open plan · a position is not cut until its level · read the other human / both sides · no 100% · capital safety, learn side-by-side) + 🟡 REFINED (loss-small/profit-big moved from *size* to *frequency*) + ⚠️ feeds the still-open size/RR question (no new contradiction)
+`6yiq2g_sEhk` · note: `teaching/2023-12-24-weakness-of-traders-decoding-the-weak-points-by-.md`
+
+The corpus's **trader-failure-diagnosis** session — two structural weaknesses, *capital* and *the nature of momentum*.
+
+- 🔵 **NEW — CAPITAL-ACCOUNT SEGREGATION.** *"मैं ऑप्शन सेलिंग करता हूं तो ऑप्शन सेलिंग के लिए ही मेरा कैपिटल अरेंज होना चाहिए; ऑप्शन बाइंग करता हूं तो ऑप्शन बाइंग के लिए."* Mixing them is *"सबसे बड़ी प्रॉब्लम"*: a seller's capital sits in the account → the trader starts **buying** options in it → *"क्वांटिटी बढ़ाने में आपको दो मिनट नहीं लगेंगे"* → the whole capital is gone inside a day. ⭐ The corpus's first explicit **physical segregation** rule; earlier capital sessions (2023-01-01, 2023-11-18, 2023-12-02) only sized the account.
+- 🔵 **NEW — "A BIG LOSS IS NORMAL; A *REPEATED* BIG LOSS IS THE FAILURE."** *"ऐसा नहीं होता कि बड़ा लॉस होता नहीं है; लॉस होता है, बड़ा बहुत बार हो जाता है … लॉस बड़ा हो भी जाए तो उसको बार-बार बड़ा नहीं करना चाहिए."* ⭐ Moves the rule from **size** to **frequency**. ⚠️ Sits beside 2023-05-21 / 2023-07-16's *loss-small/profit-big* doctrine and the still-open ≈1:1 question (2023-12-02) — recorded, **not averaged**.
+- 🔵 **NEW — TREND LINES REJECTED, WITH THE TEACHING REASON.** *"ट्रेंड लाइन का सबसे बड़ी प्रॉब्लम सिखाने वाले के लिए होती है … मैं ट्रेंड लाइन पे भरोसा कम ही करता हूं."* Support + resistance (two tools) suffice — *"ट्रेंड लाइन तक जाना ही नहीं पड़ेगा."* ⭐ The 2023-01-15 session was a **support-resistance-and-trendline masterclass**; this narrows it to **two tools**, on teachability grounds.
+- 🔵 **NEW — DEAD-CENTRE CLOSE ⇒ PSYCHOLOGY IS THE ONLY EDGE.** *"बिल्कुल लेवल आपके पास नहीं है, मोमेंटम नहीं है … जितना आप साइकोलॉजी समझ सकते हो, ये वो पॉइंट है जहां पे सबसे ज्यादा यूज करना होगा."* A **regime flag for when S/R gives nothing** — implied by earlier sessions, stated as a rule here.
+- 🟢 **STABLE — the gap-by-open plan**, today **size-only**: a big gap ⇒ *no clean side*; a small gap (either direction) ⇒ the obvious side is trapped, so *"जैसा मार्केट ओपनिंग दे रहा है वैसा ही काम करना चाहिए."* Feeds **open question 25** once more.
+- 🟢 **STABLE — a position is not cut until its level is crossed.** *"सेलर अपनी पोज़िशन तभी काटेगा अगर मार्केट 48000 के ऊपर जाएगा"* (2023-07-09, 2023-12-02, 2023-12-17).
+- 🟢 **STABLE — momentum is human, not natural; model the other trader, whatever his capital.** *"किस प्रकार दूसरा ह्यूमन ट्रेड करेगा, चाहे वो कितना भी पैसा लेकर आया हो."* **🟢 STABLE — read both sides / operator and retail** (2023-05-14, 2023-11-18/26, 2023-12-17).
+- 🟢 **STABLE — no 100%; a right read can still lose.** His own week: *"तीन मैंने ट्रेड की, उसमें एक मेरा लॉस हो गया."* **🟢 STABLE — capital safety + learn side-by-side + cushion the psychology** (2023-01-01, 2023-11-18, 2023-12-17).
+- 🟢 **STABLE — the trap is built before the fear is real:** *"पहले उनको ट्रैप किया, फिर बाइंग में जाने की कोशिश की … ब्रेकआउट करने की बात."* The 2023-12-17 fear-asymmetry mechanism in action.
+- 🟡 **REFINED — loss-small/profit-big.** Earlier sessions state it as doctrine; today concedes big losses happen and moves the durable rule to **frequency** — ⚠️ **not a contradiction** (he reframes in-session), left for Amit beside the size/RR question.
+- 📌 **Fidelity:** levels — **47,500 / 48,000 / ~500-pt swings**, a *"47"-family* downside reference (ASR-truncated) — are mid-Dec-2023 **Bank-Nifty-plausible, index unnamed, day-specific**. The **1–4 big losses/month** allowance, the **3-trades-1-loss** week and the **₹1 / ₹300–500** premiums are **spoken teaching figures**. The week's loss is **qualitative**; **no strike, premium, quantity or rupee P&L.**
+- 🔴 **CONTRADICTS: none asserted** — one 🟡 refinement above.
+
+> **Evolution verdict:** the **trader-failure-diagnosis** session. ⭐ Durable adds: **segregate the option-buying and option-selling accounts**,
+> **a repeated big loss is the failure (not the size of one)**, **trend lines are dropped for support/resistance**, and
+> **a dead-centre close means psychology, not levels, decides**. 🟢 Restates the gap-by-open plan, the level-cut rule and read-both-sides. ⚠️ Levels are Dec-2023; the loss is qualitative.
+
+---
+
+**2023-12-30 — Stock Market Roadmap for Traders in 2024** 🔵 NEW (the second-account protocol against profit-fear · the option-greeks ladder as the machine's gears · "analysing during the trade" named the single biggest mistake · success = capital × how it was earned × post-entry reaction) + 🟡 REFINED (process-over-result, with the *recover-the-small-loss* mechanism spelled out) + 🟢 STABLE (capital maintains discipline · never recover by over-trading/averaging · premium level irrelevant once RR is fixed) + ⚪ no level and no gap plan (a year-end roadmap, not a trade)
+`UHXGXKdkgv4` · note: `teaching/2023-12-30-stock-market-roadmap-for-traders-in-2024-by-intr.md`
+
+The corpus's **year-boundary process session** — a roadmap, not a trade.
+
+- 🔵 **NEW — THE SECOND-ACCOUNT PROTOCOL.** ⭐ The corpus's first **operational remedy for profit-fear** (the *what* to do, where 2023-12-17 gave only the *why*): on a winning streak, when fear begins, **shift to a second broker account at small quantity**, keep the main account's P&L untouched, and **do NOT trim quantity in the main account** — *"क्वांटिटी कम नहीं करना है, दूसरे अकाउंट में शिफ्ट हो जाओ."* The *itch to trade* is parked in the second account; the A-game account keeps **quantity, timeframe, RR** unchanged. ⭐ Durable and concrete.
+- 🔵 **NEW — THE OPTION-GREEKS LADDER.** *"डायरेक्शनल ट्रेड करें तो कम से कम डेल्टा तो पता होना चाहिए"* — and even **non-directional** needs delta; then **delta → gamma → theta → vega**, plus ATM/ITM/OTM risk. Without them the trader is *"उस मशीन को चला रहे हो जो चलाना नहीं आता"*; a gear may profit him by luck but when it turns he cannot choose. ⭐ The Greeks are **the gears**. First session to state options as a *machine to be understood*, not merely a directional instrument.
+- 🔵 **NEW — "ANALYSING DURING THE TRADE" IS THE BIGGEST MISTAKE.** *"ड्यूरिंग द ट्रेड हम एनालाइज करना शुरू कर देंगे … जैसे ही कोई रेड कैंडल बनेगा आपको लगना शुरू हो जाएगा कि ये तो गिरने वाला है, तो आप उस टारगेट को पहले ही कट कर दोगे, इवन वो सही जाने वाला था."* ⇒ fix SL/target pre-entry; the constructive cure appears two weeks later (2024-01-07's *"setup complete ⇒ candles stop mattering"*).
+- 🔵 **NEW — SUCCESS = CAPITAL × HOW IT WAS EARNED × THE POST-ENTRY REACTION.** *"आपके पास कैपिटल कितना है … वह कैसे बना के आप ले आ रहे हो … और मार्केट में लगाने के बाद आपका रिएक्शन कैसा आता है"* — i.e. a sudden quantity jump in profit = failure; slow, cool-headed graduation = success. A crisp **behavioural test** absent earlier.
+- 🟡 **REFINED — process over result; the *recover-the-small-loss* mechanism.** *"छोटे लॉस को कवर करने के लिए दोबारा ट्रेड करना शुरू किया, ओवर ट्रेडिंग किया, एवरेजिंग की — उस छोटे लॉस को इतना बड़ा लॉस बना लिया कि तीन-चार दिन का प्रॉफिट एक ही दिन में चला गया."* 2023-05-21 / 2023-07-16 taught *loss-small/profit-big*; today identifies **the recovery attempt** as the ruin — ⚠️ links to the open size/RR question (2023-12-02); **recorded, not averaged**.
+- 🟢 **STABLE — capital is what maintains discipline / psychology / mindset.** *"कैपिटल ही अपना एक डिसिप्लिन मेंटेन करता है, वही साइकोलॉजी को मेंटेन करता है, वही माइंडसेट को मेंटेन करता है"* (2023-01-01, 2023-11-18, 2023-12-17). **🟢 STABLE — never recover a loss by over-trading or averaging** (2022-10-22, 2023-05-21; and 2023-12-24 immediately prior).
+- 🟢 **STABLE — a premium's *level* is irrelevant once risk-reward is fixed.** *"मैं ₹1 वाले प्रीमियम में भी बहुत बार काम करता हूं … 300, 400, 500 में … मुझे कोई प्रॉब्लम नहीं है, क्योंकि मुझे पता है यहां पे मेरा रिस्क क्या है."* (2023-12-02, 2023-12-17's *₹1 / ₹300–500*).
+- 🟢 **STABLE — one quantity, one timeframe, one RR; don't take continuous trades** (the discipline thread of 2023-07-16 / 2023-11-18 / 2023-12-24).
+- ⚪ **Absent (absence, not retraction):** no index level and **no gap-by-open plan** — the session is pure process (consistent with a year-end address). **No `levels-log/` row.**
+- 📌 **Fidelity:** the **₹1→₹200 / ₹300→₹400** illustration is ⚠️ **ASR-unreliable and illustrative**; the **₹1 / ₹300–500** premiums and the *"न मिनट"* timeframe (read **≈5 min**, ASR-garbled) are **his spoken figures**. **No strike, quantity or rupee P&L.**
+- 🔴 **CONTRADICTS: none asserted** — one 🟡 refinement; the second-account and greeks material is **additive**.
+
+> **Evolution verdict:** the **year-boundary process session**. ⭐ Durable adds: **the second-account protocol beats profit-fear**, **know the option Greeks as the machine's gears**,
+> **never analyse during a trade (set SL/target pre-entry)**, and **success = capital × how it was earned × post-entry reaction**. 🟢 Restates process-over-result, capital-as-discipline, no-recovery-by-averaging.
+> ⚠️ No levels; nothing to log.
+
+---
+
+### 2024 — the setup-and-process era
+*(chronological processing has just entered 2024; entries appended as videos are processed)*
+
+**2024-01-07 — Stock Market Trading Setup | Purpose, Profit with Discipline** 🔵 NEW (the **litmus test** for a trading setup · setups **grow** by adding completion rules · the round-number **level grid …000/200/500/800** run as a standing ladder · "at any reference level take the **exact opposite of the crowd**" · "setup complete ⇒ candles stop mattering") + 🟢 STABLE (chart does not repeat ≈2/10 · round numbers · SL hunting · capital/over-trading discipline · income-first) + 🟡 REFINED (SL hunting made an explicit rule-based setup *family*) + ⚠️ gap-by-open absent (recorded, not retracted)
+`-O51ghaTPGQ` · note: `teaching/2024-01-07-stock-market-trading-setup-purpose-profit-with-d.md`
+
+The corpus's **setup-construction** session — the *how to build your own method* companion to 2023-12-24's *why traders fail*.
+
+- 🔵 **NEW — A TRADING SETUP DEFINED BY A LITMUS TEST.** *"ट्रेडिंग सेटअप क्या होता है? जब हमें मार्केट को बार-बार समझना ना पड़े … यह हो चुका है, यह हो चुका है, और ये होने वाला है."* Failure tell: repeatedly asking *"बाय करें या सेल करें?"* ⭐ The corpus has many rules; this is the clearest **observable signature** of a setup it has ever given.
+- 🔵 **NEW — SETUPS GROW BY ADDING COMPLETION RULES.** Bare rule (*"48000 का ब्रेकआउट होगा तो बाय करूंगा"*) → completed setup (…only on a **5-min candle close**) → defined RR. *"जितना आप सुधार करते जाओगे, ट्रेडिंग सेटअप बड़ा होता जाएगा."* ⭐ A **build path**, not a fixed method.
+- 🔵 **NEW — THE ROUND-NUMBER LEVEL GRID AS A STANDING LADDER.** *"3 टाइम जीरो … फिर 200 … फिर 500 … फिर 800."* ⇒ **48,000 / 48,200 / 48,500 / 48,800**; he flags **48,800 as still forming**, not yet a working level. The corpus repeatedly says round numbers matter (2023-09-24 → 2023-12-17); ⭐ this is the first **named, standing ladder**.
+- 🔵 **NEW — THE SINGLE-REFLEX ENTRY RULE.** *"जहां दूसरे लोग बाय करेंगे, वहां पे एसएल हंटिंग उसके अपोजिट ही काम करेगा. अगर दूसरे लोग क्लोजिंग प्राइस को देखकर बाय करने वाले हैं, तो मुझे वहां पे सेलिंग का ही ट्रेड बनाना है."* ⭐ The mechanism of 2023-12-17 compressed into one **trigger sentence**: at any reference level, take the exact opposite of the crowd.
+- 🔵 **NEW — "SETUP COMPLETE ⇒ CANDLES STOP MATTERING."** *"चाहे रेड कैंडल बने, चाहे ग्रीन कैंडल मिले, मुझे कोई मतलब नहीं; जब तक टारगेट या एसएल न मिले."* ⭐ The **constructive cure** for 2023-12-30's *"analysing during the trade."*
+- 🟢 **STABLE — "THE CHART DOES NOT REPEAT,"** quantified here as **≈2 of 10** (2023-12-17: **≈90% normal / ≈80% near ATH**). **🟢 STABLE — round/important numbers are the shared levels** (2023-09-24 → 2023-12-17). **🟢 STABLE — SL hunting / exact-opposite-of-the-crowd** (2023-07-09, 2023-12-02, 2023-12-17). **🟢 STABLE — no 100%; a setup will sometimes lose.** **🟢 STABLE — over-trading and capital protection** (2023-12-24, 2023-12-30 back-to-back). **🟢 STABLE — income first, understanding follows** (2023-05-21).
+- 🟡 **REFINED — SL hunting becomes an explicit rule-based *setup family* with daily frequency.** *"मेरा सेटअप एसएल हंटिंग के ऊपर है, लेकिन इसमें भी कुछ रूल बनते हैं … एवरीडे एसएल फाइंड आउट करके आप काम कर सकते हो."* Ties 2023-12-24's **two-tool** narrowing to a **daily, rule-based** method.
+- ⚠️ **OPEN TENSION (soft, recorded — not resolved):** the corpus's recurring **gap-by-open** family (**open question 25**) has **no reading today** — this session works purely from **levels + closing/opening price + high/low** with no gap branch. **Recorded as an absence, not a retraction.** His **licence-by-experience** (*"अच्छा प्रॉफिट में चल रहा होता हूं तो सोचता हूं अपनी तरफ से ले लेता हूं"*) sits beside his **strict-discipline-for-beginners** rule — he flags the difference himself; left for Amit, **not averaged**.
+- 📌 **Fidelity:** levels — **48,000 / 48,200 / 48,500 / 48,800** (48,800 explicitly *not yet complete*) — are Jan-2024 **Bank-Nifty-plausible, index unnamed, day-specific**. The **200-pt target / 100-pt SL (1:2)**, the **100–150-pt SL band** and the **≈2/10** chart-repeat figure are **his spoken examples/estimates**. Three trades are **qualitative** (two wins; one small loss then a win) — *"हालांकि मुझे थोड़ा लोस देखना पड़ा"* is the nearest to a loss statement, unquantified. ASR: *"उट साइड का ट्रेड"* = likely **पुट** — read with caution. **No strike, premium, quantity or rupee P&L; no `levels-log/` row claimed.**
+- 🔴 **CONTRADICTS: none asserted** — one soft absence above.
+
+> **Evolution verdict:** the **setup-construction** session. ⭐ Durable adds: **a setup is defined by "you no longer re-read the market"**, **setups grow by adding completion rules**,
+> **the round-number grid is a standing level ladder (…000/200/500/800)**, **at a reference level take the exact opposite of the crowd**, and **after setup completion candles stop mattering**.
+> 🟢 Restates chart-non-repetition (≈2/10 here), round numbers, SL hunting, capital/over-trading discipline. ⚠️ Levels are Jan-2024; trades qualitative.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -3487,9 +3559,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **68** | |
+| Processed | **71** | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | |
-| Remaining | **122** | |
-| Next (chronological) | `20231224 6yiq2g_sEhk` Weakness of Traders \| Decoding the Weak Points by Intraday Hunter | |
+| Remaining | **119** | |
+| Next (chronological) | `20240114 BchCp-KWY_A` Option Chain Reading \| for Stock Market Trend by Intraday Hunter | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
