@@ -3,7 +3,7 @@
 **Purpose:** one durable reference distilled from **weekday `daily/` notes and Sunday `teaching/` lessons**. Use it to trade with a checklist, and later to encode a rules engine / bot.
 
 **Not:** day-specific levels, exact quantities, or copied “signals.”  
-**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 edge teaching + Sep 15–18 + **Sep 21–25 trading week + Sep 26 weekly teaching**, 2026 (update when new “Keep permanently” lessons appear).  
+**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 edge teaching + Sep 15–18 + **Sep 21–25 trading week + Sep 26 weekly teaching + Sep 28–Oct 1 trading week + Oct 4 "chart, not premium" teaching**, 2026 (update when new “Keep permanently” lessons appear).  
 **Note:** Sunday videos are experience-sharing — their permanent lines belong here alongside daily process lessons.
 
 **Disclaimer:** Educational synthesis only. Channel is not SEBI-registered. Your capital, broker rules, and risk limits override everything here.
@@ -127,6 +127,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | **Day-2** sell after that stretch + flat/gap-up | **BUY** day-2 sellers | Sellers now sit; hunt them — expect **fast** upside, not huge grind (Aug 6) |
 | **Hold-up buyers** after constructive positive (not explosive) | Flat / gap-up → **BUY** with market; need **decent gap-down** (farther from RN better) to **SELL** buyers | Soft open alone ≠ automatic sell — GD must be enough to hunt (Aug 7) |
 | **Sellers already flushed** by prior support-bounce momentum | Flat / GD → **SELL** with; solid gap-up → **BUY** with / target leftover sellers | Flat can’t sustainably go up (only buyers if RN/CP cross) (Aug 10) |
+| **Buyers already flushed** by a retracement on a sell→recovery day | Flat / small GD → **BUY** continuation; a clean **gap-up → SELL** (others would buy the gap too; no seller SLs available above) | The flat open is the trade *because* others won’t play it — “where few traders work, the market takes direction” (Sep 30) |
 | Unclear / both-side prior day | Follow open; solid gap-up → **BUY** | No held inventory to invent against (Jul 21) |
 
 **Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — check **holiday / retrace-close vs exact round-number hold**, then **open type**. Same gap-up shape can be buy-with (Aug 3) or sell-buyers-after-CP-breakdown (Aug 4). After a first sell into an uptrend, also check **day-1 thin shorts vs day-2 sellers** before choosing hunt vs sell-with (Aug 5–6). After a hold-up buy day, require **decent GD** to hunt buyers — flat/GU often flips to buy-with (Aug 7). After sellers are flushed by a support-bounce, flat/GD prefers sell-with (Aug 10).
@@ -154,6 +155,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 16. Reversal entries only after the **reversal gate** passes: buyers must actually have arrived (then they are the target); if they haven’t, the continuation leg needs seller SLs still available overhead — nothing left means the market falls again (Sep 13 teaching).
 17. Flat-to-slightly-negative open in a selling tape: **don’t chase the open fall** — prefer a small positive move first. A direct fall invites fresh sellers, builds a trap, and gives a worse entry (Sep 16).
 18. Gap-up **after** a breakdown-and-recovery: the buy case needs positive momentum to appear quickly; if rejection is **slow** (small candles) the market can keep drifting down — wait, don’t force the recovery trade (Sep 15). ⚠️ On Sep 15 the *fast-rejection* branch also failed (gap-up, fast rejection, no recovery → loss), so treat this branch as **conditional + must have the exit rule (§7.22)** — a fast rejection is not automatically a trap.
+19. **Do not enter on the first large single candle.** One-candle momentum cannot be trusted, and the opening premium adjustment can eat the whole move so that even catching the candle pays nothing — wait for the market to settle and the structure to become readable before entering (Sep 28, reaffirmed Sep 30 + Oct 4 teaching).
+20. **The clean entry is the open the crowd won’t play.** When the flushed side is the target, a flat / small gap-down lets you follow continuation *because others won’t trade it*; the same thesis on a clean gap-up becomes a no-trade (others buy it → it gets sold into). “Where few traders work, the market takes direction” (Sep 30).
 
 ### Forbidden
 1. Counter-trade invented because inventory is unclear.
@@ -183,6 +186,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Largest-quantity index (Bank Nifty) **lags under its round number** while Sensex/Nifty print breakouts | Those breakouts more often **convert to failure** — cap at the normal target, don’t extend (Sep 21, Sep 22, Sep 25) |
 | Bank Nifty **prints the momentum first and then rejects** | BN is the *cause* of the failure, not a follower — cut; a lagging BN caps the target, a reversing BN kills the trade (Sep 25) |
 | All three indices reject **simultaneously** after an up-move | Sideways is the default read — an option buyer earns nothing there → exit branch (Sep 25) |
+| The **quantity-carrying index (BN)** turns positive *first* against the position, with a round number just above | The breakout can hit the stops of the sellers bunched in the laggard and blow the loss — **cut**; do not wait for the other indices to follow (Oct 1) |
+| One index (e.g. BN) is **unclear** while the others are clean | The multi-index gate is not satisfied — **wait**; the market rising or falling does not matter until the chart says OK (Oct 4 teaching) |
 
 **Bot rule:** `extend_target = true` only if `companion_bias == aligned_*` with trade direction.
 
@@ -218,6 +223,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 25. **A printed breakout is not a trend.** If the level is taken and then not followed through, the "target the trapped side" thesis is dead — cut, don't hope (Sep 25).
 26. **All three indices rejecting together = sideways = exit.** Sideways will not return an option buyer's loss and continued selling enlarges it; both branches point to the same action (Sep 25).
 27. **Exit timing is the trade for option buyers.** One adverse candle can return ₹2.5 lakh of a running profit — take the target when momentum has paid instead of holding for a better price (Sep 24).
+28. **While a loss is running, read the loss, not the chart.** Do not match the chart to the loss (“now it will fall”); the position’s loss is the operative input — sit only *inside* the limit and cut when it is spent. Trade *handling* matters more than trade *creation* (Oct 1).
+29. **Book while continue-momentum is intact when late/random sellers are being flushed.** The flush that takes out the random sellers often prints an outsized retracement; the target booked on momentum is the completed trade (Sep 29).
 
 ### Hold while
 - Thesis alive, loss within limit, companions not confirming the kill.
@@ -283,6 +290,10 @@ Encode only as **warnings**, not hard entries:
 - **One day's gap must never set strategy or greed:** the market can open completely against your read; pre-stated risk plus discipline is what pays, not the opening (Sep 24).
 - **Target retail, never the operator.** Read where retail buyers/sellers are trapped; and remember the market sometimes travels further first purely to **create extra stop-losses** before targeting them (Sep 26 teaching).
 - **Learn depth-first, not breadth-first:** work on the buy-or-sell question until it is reliable; waiting to learn “the whole market” first costs years (Sep 26 teaching).
+- **Follow the chart, not the premium.** Neither chasing a rising premium nor snatching a falling one is a valid entry; both are chart-less and both wreck emotion control. Only the chart’s OK matters — and the gate is **multi-index** (one unclear index → wait) (Oct 4 teaching).
+- **Don’t label the market “positive” or “negative.”** That is a positional-trader lens; an intraday trader reads the opportunity available *at this time* (Sep 30).
+- **Research as a team, execute alone.** More people at entry time = more mistakes; discuss the chart beforehand, but the live decision must be your own (Oct 4 teaching).
+- **After a loss, hindsight is a trap.** A later large move does not validate an entry made when the chart said no; judge the decision by the chart at decision time (Oct 4 teaching).
 
 ---
 
@@ -450,6 +461,12 @@ IDLE → wait for new opportunity (no revenge)
 | P116 | Target the **retail** stop pool, never the operator — and expect the market to travel further first purely to create extra SLs before targeting them | 09-26 teaching |
 | P117 | Learn depth-first: work only on the buy-or-sell question until it is reliable; fewer, higher-quality trades beat learning “the whole market” first | 09-26 teaching |
 | P118 | A gap-up after a gap-down/sell day cannot be sold: the trader who sold into weakness panics out in one candle, so no SL pool is left — go with the market instead | 09-26 teaching |
+| P119 | Do not enter on the first large single candle — one-candle momentum can’t be trusted and the opening premium adjustment means catching it pays nothing; wait for the market to settle | 09-28 |
+| P120 | After a very large one-way move the flushed side is no longer worth targeting (thin quantity) — the trade is continuation; when the **buyers** were the ones flushed, a flat/small-gap-down open is a BUY continuation, while a clean gap-up flips to SELL | 09-29, 09-30 |
+| P121 | “Where few traders work, the market takes direction” — the uncrowded open (flat) is the cleaner entry; the crowded one (gap-up) is where you get sold into | 09-30 |
+| P122 | Don’t label the market positive/negative — that’s the positional-trader frame; an intraday trader reads the opportunity at this time | 09-30 |
+| P123 | While a loss is running, read the loss, not the chart (don’t match the chart to the loss); trade **handling** matters more than trade **creation**; cut when the limit is spent | 10-01 |
+| P124 | Follow the chart, not the premium — neither chasing a rising premium nor snatching a falling one is a valid entry; the chart gate is multi-index (one unclear index → wait); research as a team but execute alone | 10-04 teaching |
 
 ---
 
@@ -480,8 +497,9 @@ After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 10. If BN leads against put thesis → CUT. Round-number BN on puts → watch. Fear near target ≠ early exit. Direction risk ≠ entry risk — hold inside loss limit through traps. BN-only + companions sideways + long time → book. No CP breakdown → cut per limit.
 11. Small gap-up ≠ bull validation (need a proper gap). Don’t chase an extended open — wait a small retracement. Large retracement given before a fall → recovery favored; huge GD after that → new chart, not the old sell plan. Sellers targetable mainly on a gap-up. Loss limit crossed repeatedly → out. Lower point defined before entry. Time long + momentum paid → book on the first recovery.
 12. Edge ≠ 100% — every setup needs a loss branch. Reversal gate: buyers arrived? → target buyers; if not, are seller SLs left? none → market falls again. Friday / expiry-1 after a long one-way run → reversal odds up. Prepare both sides — don’t predict.
+13. Don’t enter the first big candle — wait for the settle. Crowd-wide open (gap-up) = no-trade; uncrowded open (flat) = the entry. Follow the chart, not the premium. While a loss runs, read the loss, not the chart — cut at the limit. Quantity index (BN) turning against you first = cut.
 ```
 
 ---
 
-*Last distilled: 2026-09-27. Sources: Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching + Sep 15–18 trading week (P93–P100) + Sep 21–25 trading week + Sep 26 “Weekly Market Analysis” teaching (P101–P118).*
+*Last distilled: 2026-10-04. Sources: Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching + Sep 15–18 trading week (P93–P100) + Sep 21–25 trading week + Sep 26 “Weekly Market Analysis” teaching (P101–P118) + Sep 28–Oct 1 trading week + Oct 4 “The Real Benefits of Chart Trading” teaching (P119–P124).*

@@ -307,6 +307,38 @@
 | 2026-09-25 | Nifty | 23,200 / 23,270 | R | pre mlKuAuR_U2I — unbroken (high 23,163) |
 | 2026-09-25 | Nifty | ~23,1xx / 23,000 (ASR "232900") | S | pre mlKuAuR_U2I — garbled; unbroken (low 23,021) |
 | 2026-09-26 | Bank Nifty | 56,650 / 56,700 / 56,750 | gap-up reference in the weekly concept session — no SL available above → don't sell a gap-up | teaching dVCXZ1PXVYI |
+| 2026-09-28 | Bank Nifty | 56,000 / 55,800 | R | pre E55DWhSiEW4 — never tested (open 55,348); market fell all session |
+| 2026-09-28 | Bank Nifty | 55,200 / 55,000 | S | pre E55DWhSiEW4 — both broken on the open; low 54,438 |
+| 2026-09-28 | Bank Nifty | 55,000 PE (1,170 qty) | live strike traded | post KCZM3Q96m1w — put basket; profit >₹1L, booked on green-candle retracement risk |
+| 2026-09-28 | Sensex | 74,250 / 74,000 | R | pre E55DWhSiEW4 — never tested (open 73,735) |
+| 2026-09-28 | Sensex | 73,330 / 73,000 | S | pre E55DWhSiEW4 — both broken; low 72,716 |
+| 2026-09-28 | Nifty | 23,270 / 23,200 | R | pre E55DWhSiEW4 — never tested (open 23,065) |
+| 2026-09-28 | Nifty | ≈23,000 / 22,900 (ASR "2302900") | S | pre E55DWhSiEW4 — first value garbled; broken; low 22,762 |
+| 2026-09-29 | Bank Nifty | 54,800 / 54,650 | R | pre 5p9RdcrWy0k — never tested (high 54,405) |
+| 2026-09-29 | Bank Nifty | 54,200 / 54,000 | S | pre 5p9RdcrWy0k — both broken; low 53,786 |
+| 2026-09-29 | Sensex | 73,450 / 73,130 | R | pre 5p9RdcrWy0k — never tested (open 72,634, high 72,685) |
+| 2026-09-29 | Sensex | 72,500 / 72,000 | S | pre 5p9RdcrWy0k — 72,500 broken; 72,064 tagged the 72,000 round number |
+| 2026-09-29 | Sensex / Nifty | 900 qty / 1,430 qty | live positions (no Bank Nifty leg; Nifty+BN expiry) | post 6zppfK_n4yg |
+| 2026-09-29 | Nifty | 23,000 / 22,900 | R | pre 5p9RdcrWy0k — never tested (high 22,753) |
+| 2026-09-29 | Nifty | 22,650 / 22,560 | S | pre 5p9RdcrWy0k — 22,650 broken; low 22,570 held just above 22,560 |
+| 2026-09-30 | Bank Nifty | 54,650 / 55,000 | R | pre NrPmCbzrzSY — 54,650 taken out; high 55,136 poked through 55,000 |
+| 2026-09-30 | Bank Nifty | ≈54,500 / 54,000 (ASR "5453 790") | S | pre NrPmCbzrzSY — garbled; 54,500 is the CE strike bought; low 54,174 |
+| 2026-09-30 | Bank Nifty | 54,500 CE (1,170 qty) | live strike traded | post dUHtpd2Mho — buy continuation on a flat open; ~₹3L booked |
+| 2026-09-30 | Sensex | 73,130 / 73,450 | R | pre NrPmCbzrzSY — unbroken (high 73,062) |
+| 2026-09-30 | Sensex | ≈72,1xx / 72,000 (ASR "7271500") | S | pre NrPmCbzrzSY — garbled; unbroken (low 72,366) |
+| 2026-09-30 | Sensex | 900 qty | live position | post dUHtpd2Mho |
+| 2026-09-30 | Nifty | 22,900 / 23,000 | R | pre NrPmCbzrzSY — unbroken (high 22,809) |
+| 2026-09-30 | Nifty | 22,650 / 22,560 | S | pre NrPmCbzrzSY — 22,650 tagged at the open (low 22,595) |
+| 2026-10-01 | Bank Nifty | 55,200 / 55,000 | R | pre ZrSyia9Mghc — high 55,091 stayed under 55,200; the push above 55,000 against the put drove the loss |
+| 2026-10-01 | Bank Nifty | ≈54,500 / 54,000 (ASR "5453790") | S | pre ZrSyia9Mghc — garbled; low 54,067 held above 54,000 |
+| 2026-10-01 | Bank Nifty | 54,600 PE (1,170 qty) | live strike traded | post ykWQl_f_ERg — put cut at the loss limit when BN turned positive |
+| 2026-10-01 | Sensex | 73,130 / 73,450 | R | pre ZrSyia9Mghc — never tested (high 72,573) |
+| 2026-10-01 | Sensex | ≈72,1xx / 72,000 (ASR "7271500") | S | pre ZrSyia9Mghc — garbled; broken; low 71,293 |
+| 2026-10-01 | Sensex | 900 qty | live position | post ykWQl_f_ERg |
+| 2026-10-01 | Nifty | 22,790 / 22,900 | R | pre ZrSyia9Mghc — never tested (high 22,611) |
+| 2026-10-01 | Nifty | 22,500 | psychology number | pre ZrSyia9Mghc — broken at the open (open 22,544) |
+| 2026-10-01 | Nifty | 22,400 | S | pre ZrSyia9Mghc — broken; low 22,217 |
+| 2026-10-01 | Nifty | 1,430 qty | live position | post ykWQl_f_ERg |
 | 2023-02-12 | Bank Nifty | ~42,000 / ~40,000 | post-budget range top / lower level | teaching rdetVddnPyk (ASR) |
 | 2023-02-12 | Bank Nifty | 40,500 | seller's minimum target (round number) | teaching rdetVddnPyk |
 | 2023-02-12 | Bank Nifty | 41,600 / 41,800 | exit-up fork for a sell position (safe / more room) | teaching rdetVddnPyk (ASR) |
