@@ -9,9 +9,9 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **56** |
+| Processed | **80** |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` |
-| Remaining | **134** |
+| Remaining | **110** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -69,8 +69,8 @@ only from recent daily notes; this is the other half.
 - `20230122` **How To Make Money from Stock Market by Intraday Hunter** — [`v94zUtFtNNE`](https://www.youtube.com/watch?v=v94zUtFtNNE)
 - `20230212` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intraday Hunter** — [`rdetVddnPyk`](https://www.youtube.com/watch?v=rdetVddnPyk)
 - `20230219` **Best Way to Understand SL Hunting in Stock Market by Intraday Hunter** — [`8XhyyVJyFOU`](https://www.youtube.com/watch?v=8XhyyVJyFOU)
-- `20230312` **How I Trade in Stock Market | Weekly Trade Explanation by Intraday Hun** — [`oLPZzflC1Ps`](https://www.youtube.com/watch?v=oLPZzflC1Ps)
-- `20230326` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intrad** — [`wfJdqWm3z30`](https://www.youtube.com/watch?v=wfJdqWm3z30)
+- `20230312` **How I Trade in Stock Market | Weekly Trade Explanation by Intraday Hunter** — [`oLPZzflC1Ps`](https://www.youtube.com/watch?v=oLPZzflC1Ps)
+- `20230326` **Nifty and Bank Nifty Price Action | Weekly Trade Explanation by Intraday Hunter** — [`wfJdqWm3z30`](https://www.youtube.com/watch?v=wfJdqWm3z30)
 - `20230423` **How Operators Works ?** — [`cC51wiGqihc`](https://www.youtube.com/watch?v=cC51wiGqihc)
 - `20230514` **How I Plan a Single Trade for intraday Trading By Intraday Hunter** — [`6RtWjwDoqN0`](https://www.youtube.com/watch?v=6RtWjwDoqN0)
 - `20230521` **From Stock Market Gambling to Earn Money by Intraday Hunter** — [`bdRzAkgfvXg`](https://www.youtube.com/watch?v=bdRzAkgfvXg)
@@ -81,10 +81,40 @@ only from recent daily notes; this is the other half.
 - `20230813` **How to Understand Stock Market Momentum** — [`n6tI3ZOYs2o`](https://www.youtube.com/watch?v=n6tI3ZOYs2o)
 - `20230820` **How to Accept Loss in Stock Market by Intraday Hunter** — [`XA2fYDltiE0`](https://www.youtube.com/watch?v=XA2fYDltiE0)
 - `20230827` **Why stock market does not work on news by Intraday Hunter** — [`MU6rndS4_M8`](https://www.youtube.com/watch?v=MU6rndS4_M8)
+- `20230910` **Mastering Stock Market Volatility: Approaches and Techniques** — [`LgI0uKTzXUk`](https://www.youtube.com/watch?v=LgI0uKTzXUk)
+- `20230917` **How Operator Destroy Psychology in Stock Market by Intraday Hunter** — [`IWqDMIcWHcg`](https://www.youtube.com/watch?v=IWqDMIcWHcg)
+- `20230924` **Trading Indicators | Stop Loss Hunting in Stock Market | Intraday Hunter** — [`zRCLKtB1sn8`](https://www.youtube.com/watch?v=zRCLKtB1sn8)
+- `20231001` **TRADING ZONE STRATEGY BY Intraday Hunter** — [`IMRUHVBnI-c`](https://www.youtube.com/watch?v=IMRUHVBnI-c)
+- `20231015` **How to Trade with Opening and Closing Prices by Intraday Hunter** — [`jPuXxt5bUTc`](https://www.youtube.com/watch?v=jPuXxt5bUTc)
+- `20231029` **War Effect on Stock Market | Insights and Trends by Intraday Hunter** — [`BCJwV9qi2eU`](https://www.youtube.com/watch?v=BCJwV9qi2eU)
+- `20231105` **How to Understand Chart for SL Hunting in Stock Market  by Intraday Hunter** — [`rtGy81c64zs`](https://www.youtube.com/watch?v=rtGy81c64zs)
+- `20231118` **Unlocking the Secrets of Successful Trading: A Journey Through Momentum and Time** — [`GizNpNrpRaM`](https://www.youtube.com/watch?v=GizNpNrpRaM)
+- `20231126` **Secrets of Stock Market Operators: Position Handling and Manipulation Strategies** — [`72A6boZg-zo`](https://www.youtube.com/watch?v=72A6boZg-zo)
+- `20231202` **Mistakes of SL Hunting by Intraday Hunter** — [`Pgcs53QuALk`](https://www.youtube.com/watch?v=Pgcs53QuALk)
+- `20231210` **Edge In Algo Trading By Intraday Hunter** — [`g4QrGusiN5s`](https://www.youtube.com/watch?v=g4QrGusiN5s)
+- `20231217` **Psychology TRAP in Stock Market by Intraday Hunter** — [`DVpMQMGO0pI`](https://www.youtube.com/watch?v=DVpMQMGO0pI)
+- `20231224` **Weakness of Traders | Decoding the Weak Points by Intraday Hunter** — [`6yiq2g_sEhk`](https://www.youtube.com/watch?v=6yiq2g_sEhk)
+- `20231230` **Stock Market Roadmap for Traders in 2024 by Intraday Hunter** — [`UHXGXKdkgv4`](https://www.youtube.com/watch?v=UHXGXKdkgv4)
+- `20240107` **Stock Market Trading Setup | Purpose, Profit with Discipline by Intraday Hunter** — [`-O51ghaTPGQ`](https://www.youtube.com/watch?v=-O51ghaTPGQ)
+- `20240114` **Option Chain Reading | for Stock Market Trend by Intraday Hunter** — [`BchCp-KWY_A`](https://www.youtube.com/watch?v=BchCp-KWY_A)
+- `20240121` **Advance Learning of Option Chain for Option Trading by Intraday Hunter** — [`WnmoEZ5xJPM`](https://www.youtube.com/watch?v=WnmoEZ5xJPM)
+- `20240204` **Stock Market Gap Fillup Strategy by Intraday Hunter** — [`_8I91JShc4w`](https://www.youtube.com/watch?v=_8I91JShc4w)
+- `20240210` **The Main Reasons Why 95% of Intraday Traders Lose Money** — [`jmFj74ykmoU`](https://www.youtube.com/watch?v=jmFj74ykmoU)
+- `20240225` **Zero से  Hero: Options Trading का सफर** — [`_pyhx7GSJGU`](https://www.youtube.com/watch?v=_pyhx7GSJGU)
+- `20240303` **The Probability Principle | संभावना का नियम in Stock Market** — [`KlyM0hA4Mw4`](https://www.youtube.com/watch?v=KlyM0hA4Mw4)
+- `20240308` **Strategies to Overcome Stock Market Losses** — [`tBV6NBijGac`](https://www.youtube.com/watch?v=tBV6NBijGac)
+- `20240317` **💡 SMART EXIT STRATEGY: Maximize Profits 📈 with Long Holds | Minimize Losses 📉 with Short Exits** — [`dTLpnuOGu-o`](https://www.youtube.com/watch?v=dTLpnuOGu-o)
+- `20240324` **Sideways Market Masterclass By Intraday Hunter** — [`I7KIw-3KyCY`](https://www.youtube.com/watch?v=I7KIw-3KyCY)
 
 ## Next up (chronological)
-1. `20230910` **Mastering Stock Market Volatility: Approaches and Techniques**
-2. `20230917` **How Operator Destroy Psychology in Stock Market by Intraday Hunter**
+1. `20240413` **Mastering All-Time High Markets in Hindi by Intraday Hunter**
+2. `20240421` **नए मंज़िल की ओर: My Next Trading Decision | Intraday Hunter**
+3. `20240427` **PRICE ACTION VS INDICATORS | सभी सवालों के जवाब | INTRADAY STOCK MARKE**
+4. `20240505` **स्टॉक मार्केट के ऑपरेटर्स: बाजार की उतार-चढ़ाव का खेल**
+5. `20240519` **मेरी ट्रेडिंग सफलता का प्लान: जानें कैसे करें तैयारी | Stock Market**
+6. `20240526` **बिना कन्फ्यूजन के ट्रेडिंग:  करना सिख लो | सटीक और सरल ट्रेडिंग**
+7. `20240602` **Election Results का स्टॉक मार्केट पर क्या होगा असर by Intraday Hunter**
+8. `20240609` **Smart Money or Opening Candle Real Concept in Stock Market**
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
