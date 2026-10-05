@@ -3328,6 +3328,66 @@ The corpus's **gap-fill mechanism** session — it converts a folk rule (*gaps f
 
 ---
 
+---
+
+**2024-02-10 — The Main Reasons Why 95% of Intraday Traders Lose Money** 🔵 NEW (loss split into **my mistake** vs **misread psychology** · **the rule must evolve — carry its own invalidation level** · the **breakout-size → momentum-size** rule · the US-market cross-check · the gradual **retest-add** size schedule) + 🟢 STABLE (eats-SLs spine · stop-pool test · exact-opposite-of-the-crowd · levels-as-fallback · over-trading) + 🟡 REFINED (range-bound sizing prescription · backup-plan/income as the precondition) + 🔴 none
+`jmFj74ykmoU` · note: `teaching/2024-02-10-the-main-reasons-why-95-of-intraday-traders-lose.md`
+
+The corpus's **cause-index** session — the two reasons traders lose, and the one hard tool: a rule that carries its own invalidation level.
+
+- 🔵 **NEW — LOSS GETS A TWO-PART CAUSE.** ⭐ *"सबसे पहला रीजन हम अपना कोई गलती करते हैं — ओवर ट्रेडिंग, कुछ ऐसा कैपिटल जिसको हैंडल नहीं कर सकते; दूसरा सबसे बड़ा रीजन — मार्केट की साइकोलॉजी सही से समझ नहीं पाते."* The whole session works the **second** half; it functions as an index to the concept library.
+- 🔵 **NEW — "THE RULE MUST EVOLVE": the written escape clause.** ⭐ *"अगर मार्केट इस लेवल से ऊपर आ गया तो … बाइंग साइड के बारे में भी सोचना शुरू कर देना है"*, with his own worked pair: **rule 1 = sell with the trend; rule 2 = above 45,300 → stop selling / think buying.** First time the corpus states that a rule **without an invalidation level** is itself the loss cause.
+- 🔵 **NEW — BREAKOUT-SIZE → MOMENTUM-SIZE.** ⭐ *"छोटा सा ब्रेकआउट हुआ तो बड़ा मोमेंटम नहीं मिलेगा, छोटा मोमेंटम मिलेगा."* Reading momentum size (2022-11-26; 2023-08-13) exists; **sizing the target to the breakout's own size** is new.
+- 🔵 **NEW — THE US-MARKET CROSS-CHECK.** First use of a **foreign (NASDAQ/Tesla)** chart as the prop — shown specifically to demonstrate a scenario **no one can plan** (*"कोई भी इस प्रकार की प्लानिंग नहीं रख सकता"*), so the only correct action is **smaller capital, no big loss**.
+- 🔵 **NEW — GRADUAL (RETEST-ADD) SIZE GROWTH.** ⭐ *"धीरे-धीरे बढ़ता है … रिट्रेसमेंट करेगा, फिर बढ़ेगा."* Position size grows on a stock-trend model; **never 10 → 20 → 30 → 40 lots**. The corpus caps size (2022-09-24; 2022-10-22); a **growth schedule** is new.
+- 🟢 **STABLE — THE SPINE:** *"सेलिंग हुआ, बायर वाले आए, मार्केट ने उनको निकाला और फिर से गिर गया"* (2022-01-30 → 2024-02-04 → today). 🟢 **STABLE — the STOP-POOL TEST decides the plan:** *"जो बाय कर रहे, उनका एसएल कहां जाने वाला है."* 🟢 **STABLE — exact-opposite-of-the-crowd at the high** (resistance repeated → breakdown → *then up*; 2023-12-17 / 2024-02-04). 🟢 **STABLE — levels as the fallback when behaviour cannot be read:** *"बिहेवियर समझ में नहीं आया तो मैं लेवल का यूज करता हूं"* (2022-03-20 / 2023-05-14). 🟢 **STABLE — over-trading & don't-recover-losses** (2022-10-22), now with the *"एक ही दिन के मेहमान"* image. 🟢 **STABLE — loss-making traders take BIG losses, not small ones.**
+- 🟡 **REFINED — the RANGE-BOUND response gets its sizing rule.** The momentum/range distinction (2023-08-13; 2023-10-01) now prescribes: in a range **small capital, small target, small (or no) loss** — *"बड़े प्रॉफिट का तो सोचना भी नहीं है."* 🟡 **REFINED — the BACKUP-PLAN / outside-income requirement** (2022-09-24; 2023-07-30) stated in its strongest form: an income outside the market is the **precondition for surviving a bad market at all**.
+- ⚠️ **Fidelity:** four usable numbers, all **Feb-2024 Bank Nifty** — **≈45,300** (the evolution trip-wire), **≈46,000** (Monday breakout), **≈45,000**, **≈45,200**. *"70 से 80"* is **unit-less and unusable**; the **Tesla** chart carries **no numbers**. **No strike, premium, entry, exit, size or P&L spoken; nothing routed to `levels-log/`.** ASR: *"बायक"* = **बाइंग**; *"फर्द ब्रेक आउट"* = first/false breakout.
+- 🔴 **CONTRADICTS: none asserted.** ⚠️ A caution, not a reversal: the session calls certain big recoveries **un-plannable** (Tesla), while **2024-02-04** described a **readable** gap-fill mechanism — one is *conditionally* readable, the other *has no readable condition*; **read together, not averaged**. No trade narrated ⇒ nothing scored.
+
+> **Evolution verdict:** ⭐ Durable adds: the **rule-must-evolve / escape-clause template** (*rule 1 = with the trend; rule 2 = the invalidation level*), the **breakout-size→momentum-size** rule, the **US-market cross-check** (a chart shown to prove *no plan exists*), and the **retest-add size-growth schedule**. 🟢 Restates the eats-SLs spine, the stop-pool test, opposite-of-the-crowd, levels-as-fallback and over-trading discipline. ⚠️ Levels are Feb-2024 Bank Nifty, day-specific; no P&L.
+
+---
+
+**2024-02-25 — Zero से Hero: Options Trading का सफर** 🔵 NEW (the **three-pillar requirement** for options: direction accuracy + momentum + entry/risk at a level · the **MOMENTUM CLOCK** — 10 min pays, 3–4 hours bleeds · **double-bottom→breakdown as a direction signal** · **self-built structure = the indicator** · **estimate the EXTENT, not just direction and momentum**) + 🟢 STABLE (eats-SLs spine · exit-when-your-pool-is-the-target · gap-open + level entry template · one-instrument focus · no tips · backup plan · years-to-learn) + 🟡 REFINED (the corpus's options line consolidated; accuracy band 80–90/10–20) + 🔴 none
+`_pyhx7GSJGU` · note: `teaching/2024-02-25-zero-hero-options-trading.md`
+
+The corpus's **options-practitioner** session — "options give high returns" becomes a three-pillar requirement, and options get their own clock.
+
+- 🔵 **NEW — THE MOMENTUM CLOCK.** ⭐ *"मार्केट अगर यही मोमेंटम 10 मिनट में करता है तो ऑप्शन ट्रेडिंग में बेनिफिट मिल जाएगा; लेकिन अगर 3 से 4 घंटे ले लेता है, तो हो सकता है आप लॉस के अंदर ही बैठे रह जाओ."* The corpus's momentum sessions (2022-11-26; 2023-08-13) teach *reading* momentum; **the duration of the move decides option profitability** is new — the option-chain/theta idea (2024-01-14) made practical.
+- 🔵 **NEW — OPTIONS NEED THREE THINGS, NOT ONE.** ⭐ Direction accuracy **+** momentum **+** entry/risk **at a level**: *"डायरेक्शन का पता लग गया तो सब कुछ हो गया — ऐसा नहीं."* Consolidates 2022-05-08 (start options), 2022-09-17 (strategy) and the option-chain pair.
+- 🔵 **NEW — DOUBLE-BOTTOM→BREAKDOWN IS A SIGNAL, AND CAN FLIP DIRECTION.** ⭐ *"मार्केट ने डबल बॉटम को ब्रेकडाउन में कन्वर्ट कर दिया ⇒ आपको एक इंडिकेटर मिल चुका है … बायर कमजोर हो चुके हैं."* Gate: *"जब तक मार्केट 47,200 को क्रॉस ना करे, डायरेक्शन चेंज हो चुका है."* (Directly extended a week later, **2024-03-03**.)
+- 🔵 **NEW — "INDICATORS ARE SELF-BUILT STRUCTURE".** ⭐ *"आरएसआई या मूविंग एवरेज नहीं — हमें चार्ट के अंदर अपने इंडिकेटर बनाने का मौका मिलता है."* Restates **2022-02-19** (price action > indicators) with a **positive definition**: the trader's own multi-candle structure (green→red→green→green repeat) **is** the indicator.
+- 🔵 **NEW — ESTIMATE THE EXTENT.** ⭐ After his own rejection loss: *"केवल मोमेंटम और डायरेक्शन देख लिया — आपको यह भी समझना हो कि मार्केट कहां तक आने वाला है."* A **third** requirement beyond direction+momentum (the options trader's target-before-premium).
+- 🟢 **STABLE — the SPINE:** *"बायर ने मेहनत किया, मार्केट ने उनका एसएल खाया."* 🟢 **STABLE — EXIT WHEN THE MARKET'S NEXT TARGET IS YOUR OWN POOL:** the *"880 के नीचे बायर के एसएल"* cut restates 2022-06-18 / 2024-02-04 live — you leave not on your own SL but when your side becomes the hunted pool. 🟢 **STABLE — the GAP-OPEN + LEVEL entry template** (2024-02-10 / daily dual-track). 🟢 **STABLE — ONE INSTRUMENT, ONE TIMEFRAME** (*"बैंक निफ्टी का चार्ट देखता हूं, ज्यादा चार्ट चेंज नहीं करता"*). 🟢 **STABLE — NEVER TRADE ON TIPS / signal groups** (2022-04-23; 2023-05-21). 🟢 **STABLE — BACKUP PLAN** (2024-02-10, two weeks prior; 2022-09-24). 🟢 **STABLE — KNOWLEDGE ≠ SKILL, years to learn** (2023-07-30; 2024-02-04).
+- 🟡 **REFINED — the accuracy band.** *"80–90% सही / 10–20% गलत; 90–95% momentum chance"* alongside 2023-12-10's 80–90% and 2024-02-10. ⚠️ Recorded as a band; **not averaged** into a single number.
+- ⚠️ **Fidelity:** three usable levels, all **Feb-2024 Bank Nifty** — **≈46,500 / ≈47,000 / ≈47,200**. *"880"* is **ASR digit-dropped** (likely ≈47,880 or ≈46,880) — **reproduce as spoken only**; *"380 → 400"* is an **illustrative premium** in a group-tip story. **No strike, lot, premium, entry, exit or P&L spoken; nothing routed to `levels-log/`.** ASR: *"फर्द जाता नहीं"* = फर्ज/दूसरा चार्ट; *"472"* = 47,200.
+- 🔴 **CONTRADICTS: none asserted.** ⚪ **Not raised:** the ≈1:1 vs loss-small/profit-big tension (question 24); the gap-direction table (question 25) — today's plan is purely *gap-down/flat → sell*, no split.
+
+> **Evolution verdict:** ⭐ Durable adds: the **momentum clock**, the **three-pillar options frame**, **double-bottom→breakdown as a direction signal**, **self-built structure = indicator**, and **estimate the EXTENT**. 🟢 Restates the eats-SLs spine, the target-pool exit, the gap-open+level template, one-instrument focus, no-tips, backup-plan and years-to-learn. ⚠️ Levels are Feb-2024 Bank Nifty; *"880"* is digit-dropped; no P&L.
+
+---
+
+**2024-03-03 — The Probability Principle | संभावना का नियम** 🔵 NEW (the market as a **GAME OF RANDOM** with a **definable probability** inside · the **SNIPER checklist** — buyers sitting / how sellers came / the psychology "wind" · the **gun analogy** (knowledge ≠ utilisation) · the **structure-vs-psychology ROUTER** · the **investment-vs-call-put flow read** · the **breakout-then-flush direction lock**) + 🟢 STABLE (eats-SLs spine · same price, two sides · double-bottom→breakdown · pre-decided trip-wire · knowledge≠skill) + 🟡 REFINED (success band 70–90% · technique universal, result trader-filtered) + 🔴 none
+`KlyM0hA4Mw4` · note: `teaching/2024-03-03-the-probability-principle-in-stock-market.md`
+
+The corpus's **odds-definition** session — name the randomness, define the probability, trade the definable part.
+
+- 🔵 **NEW — THE MARKET IS A "GAME OF RANDOM" WITH A DEFINABLE PROBABILITY.** ⭐ *"यहां पे कभी भी कुछ भी हो सकता है — यू नीड टू प्रिपेयर फॉर एवरीथिंग"* + *"रैंडमनेस के अंदर भी एक प्रोबेबिलिटी होती है, जिसको हम डिफाइन कर सकते हैं."* The corpus called it a **probability game** (2023-05-21) and named **an edge** (2023-12-10); today supplies the **structure** (randomness on top, definable probability inside) and the instruction **not** to aim for 100%.
+- 🔵 **NEW — THE SNIPER CHECKLIST (the wind = psychology).** ⭐ Mirror inputs: target height/length + **the quality & speed of the air** → **how many buyers sit there / how the sellers came / what the psychology wind is** — only then *buyer-target or seller-target?* The corpus's most concrete **pre-trade checklist for choosing the side**.
+- 🔵 **NEW — THE GUN ANALOGY (knowledge ≠ utilisation).** ⭐ *"गन है लेकिन चलाना नहीं आता … बार-बार यूज़ करना होगा, तब जाकर एक्सपीरियंस होगा."* Sits on 2024-02-04's *learn → implement → repeat*.
+- 🔵 **NEW — THE STRUCTURE-vs-PSYCHOLOGY ROUTER.** ⭐ *"स्ट्रक्चर अकॉर्डिंग डिफाइन हो सकता है तो स्ट्रक्चर; नहीं तो साइकोलॉजी"*, verdict *"साइकोलॉजी सबसे ज्यादा इम्पॉर्टेंट."* Psychology **primacy** exists (2022-03-20; 2023-05-14; 2024-02-10); a **decision rule for when to use which** is new.
+- 🔵 **NEW — THE INVESTMENT-vs-CALL/PUT FLOW READ.** ⭐ *"कोल-पुट से ज्यादा इन्वेस्टमेंट के ऊपर फोकस … तो या तो रिट्रेसमेंट करेगा ही नहीं, या करेगा तो ऊपर नहीं जा पाएगा."* The option-chain pair (2024-01-14/21) reads OI flow; today adds the **pre-election underlying-inflow** version — **no retracement entry may be offered**.
+- 🔵 **NEW — THE BREAKOUT-THEN-FLUSH DIRECTION LOCK.** ⭐ *"ब्रेक आउट → बायर आए → उनका प्रॉफिट जीरो किया → मार्केट को नीचे नहीं आना चाहिए."* The flush of the breakout buyers **licenses the up-move** (cf. 2024-02-10's *"बायर को निकाला और फिर मार्केट बढ़ा"*) — here it is the mechanism behind a **week's pre-decided buy**, made *before* the move.
+- 🟢 **STABLE — the SPINE:** *"ट्रेडर बॉटम खोजता है … मार्केट ब्रेक आउट करता है, बायर आते हैं, उनका एसएल खाता है."* 🟢 **STABLE — SAME PRICE, TWO SIDES:** *"एक ही प्राइस के ऊपर हमेशा बायर और सेलर आते रहते हैं."* 🟢 **STABLE — double-bottom→breakdown = sell-side strength** (2024-02-25, one week earlier; applied here as the week read). 🟢 **STABLE — the PRE-DECIDED TRIP-WIRE:** the winning trade was decided the day before and held until *"46,800 का ब्रेकआउट"* (2024-02-10's rule-2; 2024-02-25's pool exit). 🟢 **STABLE — KNOWLEDGE ≠ SKILL:** *"अपने हाथ गंदे करने पड़ेंगे"* (2024-02-04).
+- 🟡 **REFINED — the SUCCESS BAND.** *"70 से 80 पर सक्सेस हो तो भी सक्सेस; 80 से 90 पर भी सक्सेस"* continues 2023-12-10 (80–90%) and 2024-02-25 (80–90 / 10–20). ⚠️ Recorded as a band; **not averaged**. 🟡 **REFINED — TECHNIQUE IS UNIVERSAL, RESULT IS TRADER-FILTERED** (capital + backup plan) — continues 2024-02-10 and 2024-02-25; the corpus's capital-size thread (2022-09-24; 2023-04-23) carries the moral explicitly.
+- ⚠️ **Fidelity:** the **single usable number is ≈46,800** (his **cut trip-wire**, Mar-2024 Bank Nifty). The week's structure (3 supports then a 4th break) is qualitative. The profit is *"बहुत अच्छा"* — **unquantified**. *"reliance"* is an ASR-garbled aside, **name only, no level**. **No strike, premium, lot, entry, exit or P&L spoken; nothing routed to `levels-log/`.** ASR: *"रैंडम बस"* = रैंडमनेस; *"एसे हंटिंग"* = एसएल हंटिंग; *"कोल"* = कॉल.
+- 🔴 **CONTRADICTS: none asserted.** ⚪ **Not raised:** question 24 (risk-reward tension); question 25 (gap-direction table) — **no new data for either**.
+
+> **Evolution verdict:** ⭐ Durable adds: the **random-with-a-probability frame**, the **sniper/wind checklist**, the **gun analogy**, the **structure-vs-psychology router**, the **investment-vs-call-put flow read**, and the **breakout-then-flush direction lock**. 🟢 Restates the eats-SLs spine, same-price-two-sides, double-bottom→breakdown, the pre-decided trip-wire, and knowledge≠skill. ⚠️ The one level (≈46,800) is Mar-2024 Bank Nifty; the profit is unquantified; no P&L.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -3619,9 +3679,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **74** | |
+| Processed | **77** | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | |
-| Remaining | **116** | |
-| Next (chronological) | `20240210 jmFj74ykmoU` The Main Reasons Why 95% of Intraday Traders Lose Money | |
+| Remaining | **113** | |
+| Next (chronological) | `20240308 tBV6NBijGac` Strategies to Overcome Stock Market Losses | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
