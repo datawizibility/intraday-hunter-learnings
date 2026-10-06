@@ -354,3 +354,5 @@
 | 2023-11-26 | Bank Nifty (index unnamed) | 44,000 | R | breakout level / retail buy trigger above it | teaching 72A6boZg-zo (ASR, day-specific) |
 | 2024-05-19 | Bank Nifty | 48,000 | R — round number / the call-writer gate he did not let cross; his plan: gap-up OR gap-down ⇒ a SELL is licensed | teaching h4DyLHXt83Y (ASR, day-specific, May-2024) |
 | 2024-05-19 | Bank Nifty | 47,800 (eff. ≈47,760) | S — the closing-price gate; a ~40-pt break below invited sellers, then the support held | teaching h4DyLHXt83Y (ASR, day-specific, May-2024) |
+| 2024-05-26 | Bank Nifty | 48,000 | level / round number - others expected a fall from here; also framed the down-side buyer safety | teaching c_qyXeYbexM (ASR, day-specific, May-2024) |
+| 2024-05-26 | Bank Nifty | 48,200 | R -> S - his resistance level, later support; he exited the call as price reached it | teaching c_qyXeYbexM (ASR, day-specific, May-2024) |
