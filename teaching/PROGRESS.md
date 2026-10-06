@@ -9,9 +9,9 @@ only from recent daily notes; this is the other half.
 | | |
 |---|---|
 | Corpus | **191 videos** |
-| Processed | **80** |
+| Processed | **83** |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` |
-| Remaining | **110** |
+| Remaining | **107** |
 | Span | 2022-01-30 → 2026-09-13 (4.6 years) |
 | Method | chronological, one at a time |
 
@@ -105,16 +105,19 @@ only from recent daily notes; this is the other half.
 - `20240308` **Strategies to Overcome Stock Market Losses** — [`tBV6NBijGac`](https://www.youtube.com/watch?v=tBV6NBijGac)
 - `20240317` **💡 SMART EXIT STRATEGY: Maximize Profits 📈 with Long Holds | Minimize Losses 📉 with Short Exits** — [`dTLpnuOGu-o`](https://www.youtube.com/watch?v=dTLpnuOGu-o)
 - `20240324` **Sideways Market Masterclass By Intraday Hunter** — [`I7KIw-3KyCY`](https://www.youtube.com/watch?v=I7KIw-3KyCY)
+- `20240413` **Mastering All-Time High Markets in Hindi by Intraday Hunter** — [`YAjM0CtkPPI`](https://www.youtube.com/watch?v=YAjM0CtkPPI)
+- `20240421` **नए मंज़िल की ओर: My Next Trading Decision | Intraday Hunter** — [`4qQ8ksWarG8`](https://www.youtube.com/watch?v=4qQ8ksWarG8)
+- `20240427` **PRICE ACTION VS INDICATORS | सभी सवालों के जवाब | INTRADAY STOCK MARKET** — [`SJFG3ysvqoo`](https://www.youtube.com/watch?v=SJFG3ysvqoo)
 
 ## Next up (chronological)
-1. `20240413` **Mastering All-Time High Markets in Hindi by Intraday Hunter**
-2. `20240421` **नए मंज़िल की ओर: My Next Trading Decision | Intraday Hunter**
-3. `20240427` **PRICE ACTION VS INDICATORS | सभी सवालों के जवाब | INTRADAY STOCK MARKE**
-4. `20240505` **स्टॉक मार्केट के ऑपरेटर्स: बाजार की उतार-चढ़ाव का खेल**
-5. `20240519` **मेरी ट्रेडिंग सफलता का प्लान: जानें कैसे करें तैयारी | Stock Market**
-6. `20240526` **बिना कन्फ्यूजन के ट्रेडिंग:  करना सिख लो | सटीक और सरल ट्रेडिंग**
-7. `20240602` **Election Results का स्टॉक मार्केट पर क्या होगा असर by Intraday Hunter**
-8. `20240609` **Smart Money or Opening Candle Real Concept in Stock Market**
+1. `20240505` **स्टॉक मार्केट के ऑपरेटर्स: बाजार की उतार-चढ़ाव का खेल**
+2. `20240519` **मेरी ट्रेडिंग सफलता का प्लान: जानें कैसे करें तैयारी | Stock Market**
+3. `20240526` **बिना कन्फ्यूजन के ट्रेडिंग:  करना सिख लो | सटीक और सरल ट्रेडिंग**
+4. `20240602` **Election Results का स्टॉक मार्केट पर क्या होगा असर by Intraday Hunter**
+5. `20240609` **Smart Money or Opening Candle Real Concept in Stock Market**
+6. `20240616` **How to Enhance Your Thinking and Psychology in Stock Market Trading**
+7. `20240623` **Professional vs Beginner Thinking in the Stock Market: Understand the **
+8. `20240630` **Stock Market में ट्रेडर्स कैसे बढ़ाएं अपनी मानसिक क्षमता**
 
 ## ⚠️ 12 videos could not be dated
 These are **parked at the end** and flagged rather than guessed, so they cannot silently
@@ -132,7 +135,6 @@ corrupt the chronology:
 - `o1cU-YPL9pc` SL Hunting और Entry Rules: Market में Entry का सही Time | By Intraday 
 - `p_7bmZYaF2o` Stock Market Charts पढ़ने का आसान तरीका: SL Hunting के साथ Success!
 - `vf2GwtMy5sY` Golden Rules of Trading: हर Trade को फायदे में बदलें! By Intraday Hunt
-
 ## Automation
 A daily cron (`IH Teaching Corpus — chronological rebuild`, 09:30 IST) processes the next
 3 unprocessed videos: transcript → teaching note → GitHub + Drive → evolution entry.
