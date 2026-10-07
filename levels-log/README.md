@@ -356,3 +356,12 @@
 | 2024-05-19 | Bank Nifty | 47,800 (eff. ≈47,760) | S — the closing-price gate; a ~40-pt break below invited sellers, then the support held | teaching h4DyLHXt83Y (ASR, day-specific, May-2024) |
 | 2024-05-26 | Bank Nifty | 48,000 | level / round number - others expected a fall from here; also framed the down-side buyer safety | teaching c_qyXeYbexM (ASR, day-specific, May-2024) |
 | 2024-05-26 | Bank Nifty | 48,200 | R -> S - his resistance level, later support; he exited the call as price reached it | teaching c_qyXeYbexM (ASR, day-specific, May-2024) |
+| 2024-06-02 | Bank Nifty | 49,000 | ATM / expiry round number (chart-1 rejection; chart-3 expiry pivot) | teaching V0JeN5-YF2c (ASR, day-specific, Jun-2024) |
+| 2024-06-02 | Bank Nifty | 49,500 | R — his gap-up BUY threshold in chart 2 (\"49500 के ऊपर\") | teaching V0JeN5-YF2c (ASR, day-specific, Jun-2024) |
+| 2024-06-02 | Bank Nifty | 48,500 | S — the close above which framed the failed flat-to-gap-down sell plan | teaching V0JeN5-YF2c (ASR, day-specific, Jun-2024) |
+| 2024-06-09 | Bank Nifty | 50,000 | round / psychology number — repeated rejections; mid-range close below it (the deliberate trap) | teaching -oMhp6gls_g (ASR, day-specific, Jun-2024) |
+| 2024-06-09 | Bank Nifty | 49,500 | S — the range low in the 6-Jun chart | teaching -oMhp6gls_g (ASR, day-specific, Jun-2024) |
+| 2024-06-09 | Bank Nifty | 48,000 | level — the big-selling level; sellers cut above 48,000 | teaching -oMhp6gls_g (ASR, day-specific, Jun-2024) |
+| 2024-06-16 | Bank Nifty (index unnamed) | 50,000 | R / round / breakout line; the level whose re-test he sold | teaching HHHE2lhUtBQ (ASR, day-specific, Jun-2024) |
+| 2024-06-16 | Bank Nifty (index unnamed) | ≈50,200 | R — the resistance re-test where he sold after the flat-open breakout | teaching HHHE2lhUtBQ (ASR, day-specific, Jun-2024) |
+| 2024-06-16 | Bank Nifty (index unnamed) | 49,800 | S — the 13-Jun support framing the 14-Jun buy plan | teaching HHHE2lhUtBQ (ASR, day-specific, Jun-2024) |
