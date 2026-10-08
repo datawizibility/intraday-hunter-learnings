@@ -365,3 +365,13 @@
 | 2024-06-16 | Bank Nifty (index unnamed) | 50,000 | R / round / breakout line; the level whose re-test he sold | teaching HHHE2lhUtBQ (ASR, day-specific, Jun-2024) |
 | 2024-06-16 | Bank Nifty (index unnamed) | ≈50,200 | R — the resistance re-test where he sold after the flat-open breakout | teaching HHHE2lhUtBQ (ASR, day-specific, Jun-2024) |
 | 2024-06-16 | Bank Nifty (index unnamed) | 49,800 | S — the 13-Jun support framing the 14-Jun buy plan | teaching HHHE2lhUtBQ (ASR, day-specific, Jun-2024) |
+| 2024-06-23 | Bank Nifty (index unnamed) | ~52,000 | R — the resistance the market had been holding (round) | teaching UwhVEFMfWJQ (ASR, day-specific, Jun-2024) |
+| 2024-06-23 | Bank Nifty (index unnamed) | ~52,434 | R (temporary) — marked just short of the 52,500 round; ASR drops the leading "52" (spoken as "434") — reproduced as spoken, flagged | teaching UwhVEFMfWJQ (ASR, day-specific, Jun-2024) |
+| 2024-06-23 | Bank Nifty (index unnamed) | 52,500 | round — the next round that makes the ~52,434 temporary resistance sensible | teaching UwhVEFMfWJQ (ASR, day-specific, Jun-2024) |
+| 2024-06-30 | Bank Nifty (index unnamed) | 53,000 | round — held while he was in a put | teaching eG9g1roeZ_o (ASR, day-specific, Jun-2024) |
+| 2024-06-30 | Bank Nifty (index unnamed) | 52,000 | level — the breakout where he booked the call target | teaching eG9g1roeZ_o (ASR, day-specific, Jun-2024) |
+| 2024-06-30 | Bank Nifty (index unnamed) | 51,200 | level — the breakdown where he booked the put target (ASR "51 20000") | teaching eG9g1roeZ_o (ASR, day-specific, Jun-2024) |
+| 2024-06-30 | Bank Nifty (index unnamed) | 52,500 | level — the breakdown where he booked the put target | teaching eG9g1roeZ_o (ASR, day-specific, Jun-2024) |
+| 2024-07-07 | Bank Nifty (index unnamed) | 52,500 | S — held as exact support, then continuation up without retracement (buyers seated) | teaching AlYNm7th0JQ (ASR, day-specific, Jul-2024) |
+| 2024-07-07 | Bank Nifty (index unnamed) | 52,000 | S — the exact support where he bought the losing put | teaching AlYNm7th0JQ (ASR, day-specific, Jul-2024) |
+| 2024-07-07 | Bank Nifty (index unnamed) | 53,500 | psych level — where many had sold; the market holds/rejects (psychological SL-hunting target) | teaching AlYNm7th0JQ (ASR, day-specific, Jul-2024) |
