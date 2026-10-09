@@ -375,3 +375,6 @@
 | 2024-07-07 | Bank Nifty (index unnamed) | 52,500 | S — held as exact support, then continuation up without retracement (buyers seated) | teaching AlYNm7th0JQ (ASR, day-specific, Jul-2024) |
 | 2024-07-07 | Bank Nifty (index unnamed) | 52,000 | S — the exact support where he bought the losing put | teaching AlYNm7th0JQ (ASR, day-specific, Jul-2024) |
 | 2024-07-07 | Bank Nifty (index unnamed) | 53,500 | psych level — where many had sold; the market holds/rejects (psychological SL-hunting target) | teaching AlYNm7th0JQ (ASR, day-specific, Jul-2024) |
+| 2024-08-24 | Bank Nifty | 51,000 | R — the marked level; a slight gap-up opened above it, but the 51,000 breakout was converted into a failure | teaching wIk4fHNCql0 (ASR, day-specific, Aug-2024) |
+| 2024-08-24 | Bank Nifty | ~50,500 (ASR "500") | level — the round he expected to break (closing price sat there); the market did NOT break it and went higher (his put loss) | teaching wIk4fHNCql0 (ASR, day-specific, Aug-2024) |
+| 2024-08-24 | Bank Nifty | 51,120 / 51,160 | levels — the pokes just above 51,000 where the trapped side was squeezed (ASR-garbled) | teaching wIk4fHNCql0 (ASR, day-specific, Aug-2024) |
