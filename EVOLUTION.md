@@ -3723,6 +3723,67 @@ The corpus's **loss-post-mortem** session — his own losing trades reverse-engi
 
 ---
 
+**2024-08-11 — How Many Days to Become a Profitable Trader?** 🔵 NEW (the **"number 4" break-even** framework · the **2-in-10 baseline** · the **run-length ladder** trades→days→weeks→months · the **50/50 SL-sizing formula**) + 🟡 REFINED (gap-down ⇒ sell the retracement · the momentum read made concrete) + 🟢 STABLE (psychology is the whole game / greed-fear-broken-setup / trade-count discipline / resistance as SL anchor)
+`bmzEGfKuWxc` · note: `teaching/2024-08-11-how-many-days-profitable-trader.md`
+
+The corpus's **counting** session — the psychology strand turned into a countable break-even rule.
+
+- 🔵 **NEW — "NUMBER 4" IS THE BREAK-EVEN, NOT THE PROFIT.** **4 trades right consecutively** move a trader from loss → profit, **4 wrong** move profit → loss, and the effect plays out across the **next ~10 trades / 10 days**. *"चार नंबर क्या यह प्रॉफिटेबल बनाता है? नहीं, यह आपको एक ब्रेक इवन पॉइंट देता है."*
+- 🔵 **NEW — THE 2-IN-10 MARKET BASELINE.** In any 10 trades **~2 are normally wrong** for everyone (news / a setup not working); and even a greedy losing trader gets **~2 right** for free. ⇒ **2 is the free minimum; 4 is above the average** — *"बस दो की एवरेज को तोड़ना है."*
+- 🔵 **NEW — THE RUN-LENGTH LADDER.** 4 trades → 4 days → 4 **weeks** (⇒ ~3 months comfortable) → 4 **months** (⇒ a profitable year); **4 losing months ⇒ stop and re-analyse**. Only **continuous** runs count — *"एक दिन बनाना, दो दिन बनाना, फिर भूल जाना — मार्केट में पैसा नहीं बना."*
+- 🔵 **NEW — THE 50/50 SL-SIZING FORMULA.** Split the entry-to-level distance **50/50** for the SL (a 300-pt zone ⇒ ~150-pt SL); if the SL still sits too big ⇒ **halve the quantity** (a profitable trader may carry full risk).
+- 🟡 **REFINED — gap-down open ⇒ sell the RETRACEMENT, not the gap** (a direct gap-down invites *other* sellers; wait for their SLs to be taken) — sharpens the 2024-08-04 "the market creates the SLs first".
+- 🟡 **REFINED — the momentum read made concrete** (double bottom → failed buyers → double top → fast candles invite sellers → continuous green candles trap buyers), building on 2023-08-13 / 2023-11-26 / 2024-05-05.
+- 🟢 **STABLE — psychology is the whole game** — *"पूरा गेम साइकोलॉजी का है"* (2024-06-16; 2024-06-23; 2024-07-27; 2024-08-04). **🟢 STABLE — greed (early entry) / fear (cutting a working trade on a small red candle) / broken setup** as the only three causes (2023-12-17; 2024-07-27). **🟢 STABLE — resistance is the SL anchor / round numbers** (2024-06-30; 2023-01-15). **🟢 STABLE — trade-count discipline** (2023-12-24; 2024-06-30) — recast as "beat the 2-average". **🟢 STABLE — gap-down ⇒ wait for the SLs to be created** (2024-02-04; 2024-08-04).
+- 📌 **Fidelity:** ⚠️ **index NOT named** (Bank-Nifty-plausible, Aug-2024). Levels spoken (day-specific): **"50 625" (→ 50,625)** the resistance; **"550" / "500"** (likely 50,550 / 50,500); the **100/150-pt** and **300→150-pt** SL examples; the premium illustration **100 → 103 → 105 → ~95** (ASR *"95 994"*). ⚠️ The **RR anchor is 1:1** — the 4-rule shifts with 1:2 / 1:3. **No strike/quantity/P&L; no trade outcome.** **No `levels-log/` row routed** (index unnamed).
+- 🔴 **CONTRADICTS: none asserted** — the session operationalises the psychology strand into counts; it does not overrule any positional rule.
+
+> **Evolution verdict:** the corpus's **counting** session. ⭐ Durable adds: **"number 4" as the loss↔profit break-even** (over the next ~10 trades/days); the **2-in-10 baseline** (expect ~2 losses — beat the 2-average, don't aim for zero); the **run-length ladder** (trades → days → weeks → months); and the **50/50 SL-sizing formula** (then halve quantity). 🟡 Gap-down ⇒ sell the retracement; the momentum read made concrete. 🟢 Restates psychology-is-the-game, greed/fear/broken-setup, resistance-as-SL-anchor, and trade-count discipline. ⚠️ Index unnamed; levels Aug-2024 day-specific.
+
+---
+
+**2024-08-18 — How to Make Big Profit in the Stock Market** 🔵 NEW (the **fear-is-in-profit** diagnosis · **a big profit cannot be pre-decided** · **kill the head-calculator** · **day-after-a-loss ⇒ no big target** · the **operator zone** · **DIRECT break vs HOLD-then-BREAK** · **direction → entry → target**) + 🟡 REFINED (the closing-price breakout cue is NOT reliable alone) + 🟢 STABLE (don't target the side in good profit / operator-vs-retail / SL-creation / greed)
+`9DzrFk_WkxU` · note: `teaching/2024-08-18-how-to-make-big-profit.md`
+
+The corpus's **profit-management** session — where and when a big target is allowed, and the psychology that stops it.
+
+- 🔵 **NEW — THE FEAR IS IN PROFIT, NOT IN LOSS.** Traders add quantity to **losers** freely but refuse to add to **winners** — *"जो हमें डर लगता है वो लगता है हमें प्रॉफिट से."* Big profit comes from fixing that mindset, not from adding size.
+- 🔵 **NEW — A BIG PROFIT CANNOT BE PRE-DECIDED; THE SITUATION DECIDES.** Keep the normal target always; a big/double/triple target depends on the situation — weak entry / no breakout / poor candles / option-chain or news problem ⇒ *"जस्ट टारगेट बुकिंग करना है."*
+- 🔵 **NEW — KILL THE CALCULATOR IN THE HEAD** (*"20k → 1 लाख"*) — a big target is earned by **logic** (news + breakout + option chain + S/R), not by wish.
+- 🔵 **NEW — DAY AFTER A LOSS, NO BIG TARGET** (~50% rule) — the psychology is under pressure; rules "no pre-decided big target" and "no head-calculator" are for everyone.
+- 🔵 **NEW — THE OPERATOR ZONE = the both-sides zone** (retail selling, operator buying) — **never target big inside it**; take the visible profit and leave.
+- 🔵 **NEW — DIRECT BREAK vs HOLD-then-BREAK decides target size.** Direct breakout/breakdown = the side was flushed, **no fuel beyond** ⇒ book and go (greed = *"और गिरेगा"*); **hold (or a step-by-step "रुक-रुक कर" drop)** = positions were built ⇒ big target allowed. An **"extra" gap-up ⇒ intraday only** (won't complete).
+- 🔵 **NEW — ORDER OF OPERATIONS: direction → entry → target.** A wrong direction makes both the entry **and** the big target wrong.
+- 🟡 **REFINED — the "closing price takes exact resistance" breakout cue is NOT reliable alone** — on 13 Aug it failed (the market went down first, then up). Tightens the 2023-10-15 opening/closing lesson with the **false-breakout** case.
+- 🟢 **STABLE — never target the side sitting in good profit** (2024-08-04; 2024-07-21; 2024-06-23). **🟢 STABLE — operator vs retail positions** (2022-07-03; 2022-07-09; 2023-04-23; 2024-05-05). **🟢 STABLE — the market builds positions / creates the SLs first** (2024-08-04) — here the *hold* before the breakout. **🟢 STABLE — greed kills booked profit** (2024-08-11; 2023-12-17; 2024-07-27). **🟢 STABLE — never 100%** (*"100% कभी मत मान लेना"*; 2026-09-13).
+- 📌 **Fidelity:** ⚠️ **index NOT named** (Bank-Nifty-plausible, Aug-2024). Levels spoken (day-specific): **50,000** (the direct breakdown), **50,200** (the pause/support), **50,500** (the failed breakout level), **"800 का सपोर्ट" (→ 51,800)**, **60,000** (hypothetical). ⚠️ ASR garble: *"50 20000"* ⇒ **50,200**; *"ठ दिन"* ⇒ **8**; the *"~8 of 10 days"* phrasing is ASR-unclear (a probability tilt, not a schedule). **Two qualitative outcomes** (16-Aug booked put profit; 13-Aug call loss). **No `levels-log/` row routed** (index unnamed).
+- 🔴 **CONTRADICTS: none asserted** — the 13-Aug failure tightens the closing-price cue rather than replacing it.
+
+> **Evolution verdict:** the corpus's **profit-management** session. ⭐ Durable adds: **fear is felt in profit** (add to losers, not winners); **a big target cannot be pre-decided** (only the situation decides); **kill the head-calculator**; **day-after-a-loss ⇒ no big target**; the **operator zone** (both-sides zone = never target big); **DIRECT break = book & go vs HOLD-then-BREAK = big target** (with the "रुक-रुक कर" drop and the "extra gap-up = intraday only"); and **direction → entry → target**. 🟡 The closing-price breakout cue is not reliable by itself (13-Aug false break). 🟢 Restates don't-target-the-good-profit-side, operator-vs-retail, SL/position creation, greed, and never-100%. ⚠️ Index unnamed; levels Aug-2024 day-specific.
+
+---
+
+**2024-08-24 — The Importance of Opening and Closing Prices** 🔵 NEW (the **1:40 PM closing-momentum** + session clock · **match opening with closing momentum** · the **1:40 high as a next-day level** · **momentum SUSTAINABILITY** · **"failed breakout"** · **50–100 pts meaningless at a 50,000 index**) + 🟡 REFINED (operator zone — the *trap* nuance · breakdown ⇒ check SLs) + 🟢 STABLE (never 100% / losing weeks ⇒ rest & cut size / loss-first analysis / focus discipline / cross-index check)
+`wIk4fHNCql0` · note: `teaching/2024-08-24-importance-of-opening-and-closing-price.md`
+
+The corpus's **time-of-day** session — the closing momentum as the engine of the next day's read.
+
+- 🔵 **NEW — THE 1:40 PM CLOSING-MOMENTUM + SESSION CLOCK.** Entries **9:15–11:00**, **silent 11:30–1:00** (*"कोई ऐसा मोमेंटम नहीं जो हमारे काम का होता है"*), **position-building after ~1:40** (may drift to 2:00/2:15/2:30); **ignore everything before 11:00** the next day — *"11:00 बजे के आसपास क्या कर रहा है — भूल जाओ."*
+- 🔵 **NEW — MATCH OPENING WITH CLOSING MOMENTUM.** The closing momentum picks the side; the **opening confirms** it — opening with the side ⇒ real momentum, against it ⇒ the sitting side gets targeted. *"अगर हम ओपनिंग और क्लोजिंग नहीं मिलाएंगे तो प्रॉब्लम हो जाएगी."*
+- 🔵 **NEW — THE 1:40 HIGH IS A NEXT-DAY LEVEL:** closed a little below it ⇒ **resistance**; hovering on it ⇒ **breakout candidate** — *"वो कंफर्म कब होगा? वो ओपनिंग से कंफर्म होगा."*
+- 🔵 **NEW — MOMENTUM SUSTAINABILITY.** The post-breakout / post-1:40 momentum gives the market *sustain*; when it does, a weak-looking resistance **will not break** — his put expecting the ~500 level to break lost exactly this way.
+- 🔵 **NEW — "FAILED BREAKOUT" STRUCTURE named** (a double bottom converted to failure; a **51,000** breakout converted to failure), and **50–100 points mean nothing at a 50,000 index** — *"100 पॉइंट में कुछ नहीं होता"* ⇒ demand a **hold** or a **gap**, not a small poke.
+- 🔵 **NEW — A GAP IS THE ONLY RELIABLE RESOLUTION:** a big direct **gap-up** in a sitting seller's face traps it (good up-run); a **gap-down** activates waiting sellers.
+- 🟡 **REFINED — the operator / both-sides zone** (2024-08-18): repeated as do-not-target-big, but **adds "you CAN trap the buyers inside it"** (eat their SLs), plus the next-day **gap-up sell he booked instantly**.
+- 🟡 **REFINED — breakdown ⇒ check for SLs before buying** (2024-08-04), restated — *"ब्रेक डाउन हुआ तो देखूंगा SL है या नहीं — SL नहीं है तो बाइंग."*
+- 🟢 **STABLE — "never 100%"** (2024-08-18; *"यह 100% काम करेगा ही नहीं"*). **🟢 STABLE — losing weeks/months exist; don't force it — rest, cut quantity** (2024-08-04; 2023-12-24). **🟢 STABLE — loss-first analysis** — *"मुझे लॉस प्रॉफिट से ज्यादा ये इम्पोर्टेंट रहता है"* (2024-08-04). **🟢 STABLE — fixed market hours / 100% focus while trading** (2023-12-24). **🟢 STABLE — cross-index confirmation** (he watches whether Nifty/Bank Nifty already broke out).
+- 📌 **Fidelity:** ✅ **index NAMED here** — *"50,000 का इंडेक्स … बैंक निफ्टी"* ⇒ **Bank Nifty ~50,000** (Aug-2024). Levels (day-specific): **51,000** (failed breakout), **~50,500** (spoken *"500"*, the level he expected to break), **51,120 / 51,160** (the pokes above; ASR-garbled). Times **1:40 / 11:00 / 11:30 / 1:00** are windows, **not levels**. **Three qualitative outcomes** (booked gap-up sell, put loss, call profit-cut-early). **`levels-log/` rows routed** (Bank Nifty named): 51,000 / ~50,500 / 51,120–51,160.
+- 🔴 **CONTRADICTS: none asserted** — the session extends the opening/closing-price teaching rather than reversing it.
+
+> **Evolution verdict:** the corpus's **time-of-day** session. ⭐ Durable adds: the **1:40 closing-momentum + session clock** (silence 11:30–1:00; ignore pre-11:00); **match opening with closing momentum**; the **1:40 high as a next-day level**; **momentum sustainability** (a weak resistance won't break when the prevailing side has sustain); the **failed-breakout** structure; and **50–100 pts are noise at a 50,000 index**. 🟡 The operator zone gains the *trap-the-sitting-side* nuance and the instant-booked gap-up sell; breakdown ⇒ check SLs. 🟢 Restates never-100%, losing-weeks ⇒ rest/cut size, loss-first analysis, focus discipline, and cross-index confirmation. ✅ Index named (Bank Nifty ~50,000); levels Aug-2024 day-specific; **levels-log rows routed**.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -4014,9 +4075,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **95** | | |
+| Processed | **98** | | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
-| Remaining | **95** | | |
-| Next (chronological) | `20240811 bmzEGfKuWxc` Stock Market में Profitable Trader बनने के लिए कितने दिन चाहिए? | | |
+| Remaining | **92** | | |
+| Next (chronological) | `20240901 9wIsodZk1fk` Stock Market में सही और गलत ट्रेड की पहचान कैसे करें? | | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
