@@ -3784,6 +3784,61 @@ The corpus's **time-of-day** session — the closing momentum as the engine of t
 
 ---
 
+**2024-09-01 — Identifying Right vs Wrong Trades (the India–Pakistan "border" model)** 🔵 NEW (the **border model** — trade in the "states"/confusion, never let the border cross directly, a hurdle must be created · the **TRANSFORMATION test** · **fast momentum never sustains** · **break-down-to-failure**) + 🟡 REFINED (trade only where the opposite side is flushed AND a hurdle is visible) + 🟢 STABLE (flush-then-target · never 100% · cross-index · practice/write-your-reads)
+`9wIsodZk1fk` · note: `teaching/2024-09-01-identifying-right-and-wrong-trades.md`
+
+The corpus's **where-to-trade** session — the cleanest statement of "confusion = money".
+
+- 🔵 **NEW — THE INDIA–PAKISTAN "BORDER" MODEL.** Picture India (below) and Pakistan (above) with a **border** = the clean direct level. **Crossing the border directly = no edge** (*"सभी को पता लग जाए कि ब्रेकआउट करा है, मुझे भी बाय करना है"* ⇒ *"पैसा बन नहीं पाएगा"*); the border is guarded (*"बॉर्डर पे सैनिक होते हैं; सैनिक कभी भी आपको खत्म कर सकते हैं"*). **Inside India are ~10 "states"** — nobody knows where it stops ⇒ *"पैसा बनने की प्रोबेबिलिटी ज्यादा रहती है."* **Rule: never let the border cross directly** — wait for the market to **create a hurdle** (*"थोड़े बहुत सेलर के एसएल क्रिएट कर"*) before it runs. *"बॉर्डर क्रॉस होने के बाद वन-साइड ट्रेडर कभी भी काम नहीं करता."*
+- 🔵 **NEW — THE TRANSFORMATION TEST.** A technique only counts if applying it visibly changes your trading — entry / exit / momentum read (*"कुछ ना कुछ प्लस हो गया, कुछ ना कुछ माइनस हो गया"*); if nothing changes, switch to the second, then the third.
+- 🔵 **NEW — FAST MOMENTUM NEVER SUSTAINS.** *"तेजी का मोमेंटम कभी सस्टेन नहीं करता"* — single fast candles bring **random traders** ⇒ *"मार्केट कभी भी घूम सकता है"* ⇒ book fast (he booked at the breakout; the market then flushed the random traders).
+- 🔵 **NEW — BREAK-DOWN-TO-FAILURE.** *"एक बार ब्रेक डाउन कर चुका है तो दोबारा से ब्रेकडाउन करने की आवश्यकता नहीं है"* — a **second** break-down attempt can resolve **up** (retracement) before falling again.
+- 🟡 **REFINED — trade only where the opposite side is flushed AND a hurdle is visible** (*"बायर आसपास नहीं होने चाहिए; बायर को निकाल देना चाहिए"*) — sharpens the 2024-08-24 "breakdown ⇒ check for SLs".
+- 🟢 **STABLE — flush-then-target** (2022-07 operator strand; 2024-08-18 operator zone). **🟢 STABLE — never 100%.** **🟢 STABLE — cross-index confirmation** (Nifty vs Bank Nifty). **🟢 STABLE — practice / write your reads down** (*"10 दिन बाद आप भूल जाओगे"*; 1 focused hour/day).
+- 📌 **Fidelity:** ⚠️ **index NOT named** (Bank-Nifty-plausible; the same early-Sep-2024 chart that 2024-09-15 names *Nifty Bank*). Levels spoken (day-specific): **51,500** (*"51 500 का लेवल"*, R), **51,200** (*"51 20000"*, R), **51,000** (S/level; also "100 पॉइंट"). *"10 तरह के स्टेट"* is figurative. **No strike/premium/quantity/P&L; outcomes qualitative** (a call profit booked, a call red-then-booked, a skipped entry). **`levels-log/` rows routed** (Bank Nifty, index unnamed).
+- 🔴 **CONTRADICTS: none asserted** — adds a where-to-trade model; reverses no positional rule.
+
+> **Evolution verdict:** the corpus's **where-to-trade** session. ⭐ Durable adds: the **India–Pakistan "border" model** (trade in the "states"/confusion; never let the border cross directly; wait for the market to create a hurdle of opposite-side SLs); the **TRANSFORMATION test** for any technique; **fast momentum never sustains** (book fast); and **break-down-to-failure** (a second attempt can go up first). 🟡 Trade only where the opposite side is flushed *and* a hurdle is visible. 🟢 Restates flush-then-target, never-100%, cross-index, and practice. ⚠️ Index unnamed; levels early-Sep-2024 day-specific; levels-log rows routed (index unnamed).
+
+---
+
+**2024-09-08 — Master SL Hunting / Psychology Profit Formula (whose SL is being hit)** 🔵 NEW (the **"why did it move?" drill** + holiday **profit-booking** · the **operator-sell vs retail-sell signature** · retail does-not-sell-in-a-fall · the **"courage-break" momentum** · **expand your thinking range**) + 🟡 REFINED (the 51,500 two-branch plan · flat/gap-down-after-a-support-close-below ⇒ sell the trapped buyers) + 🟢 STABLE (S/R only for reading retail; the real reason is operator money · a right read can still lose · hard work)
+`jINi35gB8w4` · note: `teaching/2024-09-08-sl-hunting-psychology-profit-formula.md`
+
+The corpus's **whose-SL-is-being-hit** session — reading each momentum by whose courage broke.
+
+- 🔵 **NEW — "WHY DID IT MOVE?" + THE PROFIT-BOOKING ANSWER.** Given a small upside pop, the three obvious readings (support at 50,500 / flush the sellers / close at 50,500) would all "mark" you; the actual read was **pure profit booking** because a big momentum + a **2-day holiday** ⇒ *"कोई भी ट्रेडर पोज़िशन बनाएगा, छोटी-मोटी क्वांटिटी निकाल कर जाएगा."*
+- 🔵 **NEW — THE OPERATOR-SELL vs RETAIL-SELL SIGNATURE.** **Operator sells** ⇒ next day **gap-down, straight down**; **retail sells** ⇒ next day **opens at the same level**. And **retail does not sell a fall** (*"रिटेल इस प्रकार की मार्केट में सेलिंग कर नहीं पाता; उसे लगता है बाइंग कर लेना चाहिए"*) ⇒ a big down-leg is usually **operator selling into positional buyers' stops**.
+- 🔵 **NEW — THE "COURAGE-BREAK" MOMENTUM** (*himmat tootne wali momentum*): the positional trader (a 2–3 month old position) hopes and **averages** down until courage breaks — *"ये वो हिम्मत टूटने वाली मोमेंटम है"* — that is where the SL hits are.
+- 🔵 **NEW — EXPAND YOUR THINKING RANGE:** *"अगर आप केवल तीन ही बातें समझ पा रहे हो तो उससे बात नहीं बनेगी"* — look for the probability the others miss.
+- 🟡 **REFINED — the 51,500 two-branch plan** (above ⇒ buy; below/gap-down ⇒ sell, "a bigger operator can appear above the sitting one") and **flat/gap-down-after-a-close-below-support ⇒ sell the trapped early buyers** — sharpens the 2024-08-24 "gap-down activates waiting sellers". Both branches logical; the loss came from the pre-momentum **trap**.
+- 🟢 **STABLE — S/R and candles only read retail's psychology; the real reason is operator money** (*"एक्चुअल में जो रीजन क्लियर होगा वो होगा ऑपरेटर के पैसे से"*; 2022-07; 2024-08-18/24). **🟢 STABLE — a right read can still lose** (2024-08-04; never 100%). **🟢 STABLE — hard work** (*"रातों को नींद आए, चार्ट चलना चाहिए"*).
+- 📌 **Fidelity:** ⚠️ **index NOT named** (early-Sep-2024 Bank-Nifty-plausible). Levels (day-specific): **50,500** (S in example 1), **50,800** (level before a **300-pt** down-leg), **51,500** (plan level). **No strike/premium/quantity/P&L; outcomes qualitative** (one sell loss on the gap-down branch; one good sell profit on the trapped-buyers branch). **`levels-log/` rows routed** (Bank Nifty, index unnamed).
+- 🔴 **CONTRADICTS: none asserted** — refines the operator/SL-reading strand; reverses nothing.
+
+> **Evolution verdict:** the corpus's **whose-SL-is-being-hit** session. ⭐ Durable adds: the **"why did it move?" drill** with the **holiday profit-booking** answer; the **operator-sell vs retail-sell signature** (gap-down vs same-level open) and **retail-does-not-sell-a-fall**; the **"courage-break" momentum**; and **expand your thinking range**. 🟡 The 51,500 two-branch plan + flat/gap-down-after-a-close-below ⇒ sell the trapped buyers. 🟢 Restates S/R-for-retail / operator-money, a-right-read-can-lose, and hard work. ⚠️ Index unnamed; levels early-Sep-2024 day-specific; levels-log rows routed.
+
+---
+
+**2024-09-15 — Why Trading Is So Hard (the shortcut paradox · start simple · add your own)** 🔵 NEW (the **shortcut paradox** · the **learning ORDER** — stock trading first, options after net profit · ⭐ the **separate small "learning account"** · **copy-trading fails / the market is a strict teacher** · **direction > accuracy (40–50%)**) + 🟡 REFINED (plan-by-open as a rule · don't target the already-flushed side) + 🟢 STABLE (one chart all week · follow the setup through a loss · never 100% · loss-first · patience)
+`atUBNmyWP1c` · note: `teaching/2024-09-15-why-trading-is-hard.md`
+
+The corpus's **meta/process** session — why trading feels hard and how to sequence the learning.
+
+- 🔵 **NEW — THE SHORTCUT PARADOX.** Trading is a **shortcut to money** (other businesses need slow effort) but the **hardest thing to learn** — in other businesses the path is visible; in trading *"रास्ता है ही नहीं"* because it *is* a shortcut ⇒ the learning is the difficulty.
+- 🔵 **NEW — THE LEARNING ORDER: STOCK TRADING FIRST.** Start with the easiest — **stock trading** (no time pressure); **options time/expiry kills a right direction** (*"समय ने आपका साथ नहीं दिया तो आप ऑप्शन में मार खा जाओगे"*) and small capital + F&O is unmanageable. Move to options only after **net profit** over a month or two (real confidence, not "I can trade").
+- 🔵 **NEW — ⭐ THE SEPARATE SMALL "LEARNING ACCOUNT."** Keep the main trading; open a **tiny side account** where making money is **not** the goal — only **discipline + risk-reward** — *"बहुत छोटा पैसा… केवल डिसिप्लिन फॉलो करना है, रिस्क-रिवर्ड मेंटेन करना है."* The point is a **free mindset** (*"माइंडसेट बिल्कुल आज़ाद"*); the must-make-money mindset hides the read.
+- 🔵 **NEW — COPY-TRADING FAILS; THE MARKET IS A STRICT TEACHER.** Traders follow a process ~10 days then drop it; and the process is never exactly what he says — *"उसे पता चल जाता है कि आप कॉपी करके ट्रेडिंग कर रहे हो."* You must **add your own** analysis; *"ट्रेडिंग गेम इसी का नाम है कि आपका अपना दिमाग कितना चलता है."*
+- 🔵 **NEW — DIRECTION > ACCURACY.** *"सिचुएशन के अकॉर्डिंग गलत हुए कोई बात नहीं, लेकिन डायरेक्शन के अकॉर्डिंग कोशिश कीजिए"* — a right direction pays even at **40–50% accuracy** (with risk-reward), provided the % is genuine (a marked level, the market moved from it).
+- 🟡 **REFINED — plan-by-open stated as a RULE** (flat + direct breakout ⇒ **sell**, "no seller SLs above to fuel it"; gap-down ⇒ **buy**, "below is clear") — the same template as 2024-09-01 — **and don't target the already-flushed side** (the operator sitting above; 2024-09-08).
+- 🟢 **STABLE — one chart for the whole week** (named *Nifty Bank*). **🟢 STABLE — follow the setup with patience + risk-reward through a loss** (the week's buy that went red, exited; the market later recovered). **🟢 STABLE — never 100%; loss-first; patience/hard work.**
+- 📌 **Fidelity:** ✅ **index NAMED** — *"निफ्टी बैंक के अंदर आते हैं"* ⇒ **Bank Nifty / Nifty Bank** (Sep-2024). Levels (day-specific): **51,000** (the breakdown), **51,800** (the week's breakout). The **40–50%** is a statistic, not a level. **No strike/premium/quantity/P&L; outcome qualitative** (the week's buys: one loss exited, a profit booked; closed on the 51,800 breakout). **`levels-log/` rows routed** (Bank Nifty named).
+- 🔴 **CONTRADICTS: none asserted** — reinforces the plan-by-open logic; reverses no positional rule.
+
+> **Evolution verdict:** the corpus's **meta/process** session. ⭐ Durable adds: the **shortcut paradox**; the **learning ORDER** (stock trading first, options after net profit); ⭐ the **separate small "learning account"** (discipline + risk-reward, money not the goal); **copy-trading fails / the market is a strict teacher — add your own**; and **direction > accuracy (40–50% with risk-reward)**. 🟡 Plan-by-open as a rule + don't target the already-flushed side. 🟢 Restates one-chart-all-week, follow-the-setup-through-a-loss, never-100%, loss-first, patience. ✅ Index named (Bank Nifty); levels Sep-2024 day-specific; levels-log rows routed.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -4075,9 +4130,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **98** | | |
+| Processed | **101** | | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
-| Remaining | **92** | | |
-| Next (chronological) | `20240901 9wIsodZk1fk` Stock Market में सही और गलत ट्रेड की पहचान कैसे करें? | | |
+| Remaining | **89** | | |
+| Next (chronological) | `20240922 QjNx4eEVke0` Trading में Success का Formula: जीतने के लिए ये Mindset चाहिए! | | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
