@@ -378,3 +378,11 @@
 | 2024-08-24 | Bank Nifty | 51,000 | R — the marked level; a slight gap-up opened above it, but the 51,000 breakout was converted into a failure | teaching wIk4fHNCql0 (ASR, day-specific, Aug-2024) |
 | 2024-08-24 | Bank Nifty | ~50,500 (ASR "500") | level — the round he expected to break (closing price sat there); the market did NOT break it and went higher (his put loss) | teaching wIk4fHNCql0 (ASR, day-specific, Aug-2024) |
 | 2024-08-24 | Bank Nifty | 51,120 / 51,160 | levels — the pokes just above 51,000 where the trapped side was squeezed (ASR-garbled) | teaching wIk4fHNCql0 (ASR, day-specific, Aug-2024) |
+| 2024-09-01 | Bank Nifty (index unnamed) | 51,500 | R / level — the direct "border" level; he warned the border must not be crossed directly | teaching 9wIsodZk1fk (ASR, day-specific, Sep-2024) |
+| 2024-09-01 | Bank Nifty (index unnamed) | 51,200 | R — the resistance he acted on for a call (ASR "51 20000") | teaching 9wIsodZk1fk (ASR, day-specific, Sep-2024) |
+| 2024-09-01 | Bank Nifty (index unnamed) | 51,000 | S / level — the support where the fall "story" was finished | teaching 9wIsodZk1fk (ASR, day-specific, Sep-2024) |
+| 2024-09-08 | Bank Nifty (index unnamed) | 50,500 | S — the support in the upside-pop example (read as holiday profit-booking, not buyers) | teaching jINi35gB8w4 (ASR, day-specific, Sep-2024) |
+| 2024-09-08 | Bank Nifty (index unnamed) | 50,800 | level — the level before a 300-pt down-leg (the operator/retail-selling read) | teaching jINi35gB8w4 (ASR, day-specific, Sep-2024) |
+| 2024-09-08 | Bank Nifty (index unnamed) | 51,500 | level — framed his two-branch plan (above ⇒ buy, below/gap-down ⇒ sell) | teaching jINi35gB8w4 (ASR, day-specific, Sep-2024) |
+| 2024-09-15 | Bank Nifty | 51,000 | level — the breakdown that happened mid-week (he still followed his buy setup with risk-reward) | teaching atUBNmyWP1c (ASR, day-specific, Sep-2024) |
+| 2024-09-15 | Bank Nifty | 51,800 | level — the week's breakout where he booked profit | teaching atUBNmyWP1c (ASR, day-specific, Sep-2024) |
