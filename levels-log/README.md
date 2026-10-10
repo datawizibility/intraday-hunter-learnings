@@ -394,3 +394,15 @@
 | 2024-10-06 | Bank Nifty (index unnamed) | 52,200 | level — broke out together with 52,000 but did not sustain (seller still seated) | teaching rnUCNSlqy_8 (ASR, day-specific, Oct-2024) |
 | 2024-10-06 | Bank Nifty (index unnamed) | 52,000 | level — broke out but no sustain; the seller kept trapping the breakouts | teaching rnUCNSlqy_8 (ASR, day-specific, Oct-2024) |
 | 2024-10-06 | Bank Nifty (index unnamed) | 51,500 | level — the close mentioned at session end, where he expected the psychology-flip watch | teaching rnUCNSlqy_8 (ASR, day-specific, Oct-2024) |
+| 2024-10-13 | Bank Nifty (index unnamed) | 52,000 | R / breakout-resistance region — his example (*"52000 का ब्रेकआउट… मार्केट इस रेज़िस्टेंस लेवल तक जा सकता है"*) | teaching B42FfDZoywk (ASR, day-specific, Oct-2024) |
+| 2024-10-20 | Bank Nifty (index unnamed) | 52,000 | level — his OWN SL was placed above 52,000 on a sell (*"मेरा एसएल 52,000 के ऊपर ही था"*) | teaching jPRDw0gPptU (ASR, day-specific, Oct-2024) |
+| 2024-10-20 | Bank Nifty (index unnamed) | 51,500 | level / R — the double-top level; SL above it (*"51,500 के ऊपर या इस लेवल के आसपास"*) | teaching jPRDw0gPptU (ASR, day-specific, Oct-2024) |
+| 2024-10-20 | Bank Nifty (index unnamed) | 51,200 | S — support the market held (*"51200 का सपोर्ट ले रखा था"*) | teaching jPRDw0gPptU (ASR, day-specific, Oct-2024) |
+| 2024-10-20 | Bank Nifty (index unnamed) | 51,000 | S — support the market held (*"51000 का सपोर्ट ले रखा था"*) | teaching jPRDw0gPptU (ASR, day-specific, Oct-2024) |
+| 2024-10-27 | Bank Nifty (index unnamed) | 52,500 | R / breakout level — random buyers buy above it; no SL available there ⇒ the market rotates (*"52500 का लेवल"*) | teaching OAsrsaojiw4 (ASR, day-specific, Oct-2024) |
+| 2024-10-27 | Bank Nifty (index unnamed) | 52,200 | R — repeatedly taken (*"52,200 का बार-बार रेज़िस्टेंस"*); close below it ⇒ breakout likely once | teaching OAsrsaojiw4 (ASR, day-specific, Oct-2024) |
+| 2024-10-27 | Bank Nifty (index unnamed) | 52,000 | level — the market went above it on the breakout day (*"52000 के ऊपर जब मार्केट गया"*) | teaching OAsrsaojiw4 (ASR, day-specific, Oct-2024) |
+| 2024-10-27 | Bank Nifty (index unnamed) | 51,900 | S — his marked support (*"ज्यादा से ज्यादा 51,900 के नीचे नहीं जाना चाहिए"*) | teaching OAsrsaojiw4 (ASR, day-specific, Oct-2024) |
+| 2024-10-27 | Bank Nifty (index unnamed) | 51,800 | level — the week's breakout (*"51,800 का ब्रेकआउट हुआ"*) | teaching OAsrsaojiw4 (ASR, day-specific, Oct-2024) |
+| 2024-10-27 | Bank Nifty (index unnamed) | 51,500 | level / closing reference — a close BELOW it ⇒ sellers gathered ⇒ buy plan; a close ABOVE it ⇒ the market already did its work, no breakout needed | teaching OAsrsaojiw4 (ASR, day-specific, Oct-2024) |
+| 2024-10-27 | Bank Nifty (index unnamed) | 51,000 | S / breakdown threshold — below it the sellers land in good profit and the buy target is lost | teaching OAsrsaojiw4 (ASR, day-specific, Oct-2024) |
