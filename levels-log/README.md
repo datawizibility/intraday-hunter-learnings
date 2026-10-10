@@ -386,3 +386,11 @@
 | 2024-09-08 | Bank Nifty (index unnamed) | 51,500 | level — framed his two-branch plan (above ⇒ buy, below/gap-down ⇒ sell) | teaching jINi35gB8w4 (ASR, day-specific, Sep-2024) |
 | 2024-09-15 | Bank Nifty | 51,000 | level — the breakdown that happened mid-week (he still followed his buy setup with risk-reward) | teaching atUBNmyWP1c (ASR, day-specific, Sep-2024) |
 | 2024-09-15 | Bank Nifty | 51,800 | level — the week's breakout where he booked profit | teaching atUBNmyWP1c (ASR, day-specific, Sep-2024) |
+| 2024-09-29 | Bank Nifty (index unnamed) | 54,000 | breakdown / "resistance" (trap-watch) level — his pre-flagged level; the breakdown never came in his window so he did NOT trade | teaching lLjZXcJ-Lf4 (ASR, day-specific, Sep-2024) |
+| 2024-09-29 | Bank Nifty (index unnamed) | 54,200 | S — the support where the market "takes support"; ASR also garbles a "542" (almost certainly 54,200) — reproduced as spoken, flagged | teaching lLjZXcJ-Lf4 (ASR, day-specific, Sep-2024) |
+| 2024-10-06 | Bank Nifty (index unnamed) | 53,200 | R / level ("200 का लेवल") — broke out but gave no sustainability (operator short) ⇒ breakout lapsed to failure | teaching rnUCNSlqy_8 (ASR, day-specific, Oct-2024) |
+| 2024-10-06 | Bank Nifty (index unnamed) | 53,000 | closing price / breakdown level — a break above it failed; a break below it worked | teaching rnUCNSlqy_8 (ASR, day-specific, Oct-2024) |
+| 2024-10-06 | Bank Nifty (index unnamed) | 53,500 | level ("500 का लेवल") — breakout converted to failure (his ~500-pt profit-book example) | teaching rnUCNSlqy_8 (ASR, day-specific, Oct-2024) |
+| 2024-10-06 | Bank Nifty (index unnamed) | 52,200 | level — broke out together with 52,000 but did not sustain (seller still seated) | teaching rnUCNSlqy_8 (ASR, day-specific, Oct-2024) |
+| 2024-10-06 | Bank Nifty (index unnamed) | 52,000 | level — broke out but no sustain; the seller kept trapping the breakouts | teaching rnUCNSlqy_8 (ASR, day-specific, Oct-2024) |
+| 2024-10-06 | Bank Nifty (index unnamed) | 51,500 | level — the close mentioned at session end, where he expected the psychology-flip watch | teaching rnUCNSlqy_8 (ASR, day-specific, Oct-2024) |
