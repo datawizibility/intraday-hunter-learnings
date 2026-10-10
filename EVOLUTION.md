@@ -3839,6 +3839,65 @@ The corpus's **meta/process** session — why trading feels hard and how to sequ
 
 ---
 
+**2024-09-22 — Trading Success Formula / the Mindset (money as a number · money management · learn candles at the turn)** 🔵 NEW (money = a **NUMBER** while the trade runs · **money management as the precondition for emotional strength** — personal, no-fixed-figure sizing + staged growth · the **candle-learning method**: turning points + a bigger timeframe · the **momentum learning ORDER** 2–4-day → middle → 1-day) + 🟡 REFINED (SL hunting = the operator's **put-side entry** as buyers gather, then the SL hunt) + 🟢 STABLE (emotional strength/mindset · practice-time-patience · candles read the other side's psychology)
+`QjNx4eEVke0` · note: `teaching/2024-09-22-trading-success-formula-mindset.md`
+
+The corpus's **mindset + learning-method** session — the psychological entry ticket and how to actually practise.
+
+- 🔵 **NEW — MONEY = A NUMBER WHILE THE TRADE RUNS.** The profitable trader watches the running P&L only as a number — *"मेरा समथिंग प्रॉफिट चल रहा है, समथिंग लॉस चल रहा है"* — and reads the real result only at **close** (*"जब सब कुछ क्लोज़ हो जाएगा… तब देखेगा"*). Love money *before* the trade (needed for direction), not *during* it. No earlier teaching note states this.
+- 🔵 **NEW — MONEY MANAGEMENT IS THE PRECONDITION FOR EMOTIONAL STRENGTH.** If the feeling "my money is going" ever arises you cannot work the market. The size is **personal and has no fixed figure** (1 lakh / 10k / 1 crore) — *"जिसमें आप स्टेबल तरीके से काम कर सको"*; grow in **stages** (the doctor: small operations → bigger).
+- 🔵 **NEW — LEARN CANDLES AT THE TURNING POINTS, ON A BIGGER TIMEFRAME.** The structure is built around the **turn** — study the candles there (reversal / gap / close) on daily-15m-5m; go to **5/10/15/30-min, never 1-min** (1-min shapes carry no value and can't be remembered). 10–20 charts regularly; 2–4 months.
+- 🔵 **NEW — THE MOMENTUM LEARNING ORDER.** *"पहले 2–4 दिन वाला मोमेंटम पकड़ना सीख लो, फिर बीच वाला, फिर एक दिन वाला."*
+- 🟡 **REFINED — SL HUNTING (the operator's put-side entry).** The operator builds a **put-side (selling)** position as buyers gather above, then takes the SLs of the retail buyers / good traders sitting there; if the market then moves **both ways**, a buyer is still sitting there — *"बायर कहाँ बैठे हैं, सेलर कहाँ बैठे हैं — ढूंढ लेना."* Sharpens 2024-09-08.
+- 🟢 **STABLE — emotional strength/mindset is the entry ticket** (2024-09-15's free mindset). **🟢 STABLE — practice/time/patience** (*"मिलेगा ज़रूर"*). **🟢 STABLE — candles/S-R read the other side's psychology** (2024-09-08).
+- 📌 **Fidelity:** ⚠️ **no index, no levels, no strikes** — a mindset + method talk. The figures *1 लाख / 10 लाख / 1 करोड़ / 10,000* are **capital examples, not levels**. **Nothing routed to `levels-log/`** (no usable index levels).
+- 🔴 **CONTRADICTS: none asserted** — method + mindset; reverses no positional rule.
+
+> **Evolution verdict:** the corpus's **mindset + learning-method** session. ⭐ Durable adds: **money = a number while the trade runs** (real P&L only at close); **money management as the precondition for emotional strength** (personal sizing, no fixed figure, staged growth); the **candle-learning method** (turning points + a bigger timeframe); and the **momentum learning ORDER** (2–4-day → middle → 1-day). 🟡 SL hunting restated as the operator's put-side entry. 🟢 Restates emotional-strength-as-entry-ticket, practice/time/patience, candles-read-the-other-side. ⚠️ No index/levels — nothing routed to levels-log.
+
+---
+
+**2024-09-29 — Operator Entry & Exit in the Stock Market** 🔵 NEW (operator **ENTRY at a turning point** · operator capital in **UNITS** added continuously · the **bigger operator flushes the smaller** — no position is built for retail · the **operator EXIT after a breakdown** with the resistance-hold tell · the **expiry-day rule** · the operator uses **holidays**) + 🟡 REFINED (stay on the sitting operator's side; a support below a sitting seller is a trap) + 🟢 STABLE (operator money is the real reason · markets move by flushing SLs · timing/patience)
+`lLjZXcJ-Lf4` · note: `teaching/2024-09-29-operator-entry-and-exit-in-stock-market-by-intra.md`
+
+The corpus's **operator-mechanics** session — where he enters, how to sit on his side, and how to catch his exit.
+
+- 🔵 **NEW — OPERATOR ENTRY IS AT A TURNING POINT.** Never look for it mid-chart — *"बीच में ढूंढेंगे तो समझ नहीं पाएंगे"*; wherever the market **turned** after a strong move, assume a position was built (rise from below ⇒ buyers at the lower level; fall from above ⇒ operator at the upper level).
+- 🔵 **NEW — OPERATOR CAPITAL IN UNITS.** He breaks capital into **units** (10/20/50 lakh) and keeps adding little-by-little (second→micro-second) until **his momentum** appears — never all at once.
+- 🔵 **NEW — THE BIGGER OPERATOR ABOVE.** There is always a bigger operator above and a smaller below; the bigger one **flushes** the smaller (*"इसका एलिट कर देगा"*) ⇒ **no operator builds a position for retail** — *"ऑपरेटर आपस में लड़ते रहते हैं."* You are in the middle; plan accordingly. (The market does hand a **retracement** when it catches psychology at a level.)
+- 🔵 **NEW — THE OPERATOR EXIT (after a breakdown) + THE TELL.** He exits normally **after a breakdown** (psychology flips), then turns buyer — but **holds the old level** so it looks like resistance first. **Tell:** gap-down → back up → resistance-hold ⇒ he **exited** ⇒ future trades are **BUY-side**; a **direct gap-up without resistance** ⇒ he has **not booked yet** ⇒ **keep selling**.
+- 🔵 **NEW — THE EXPIRY-DAY RULE.** On expiry a written/bought option **auto-expires with no booking trace**, so the next day can go straight up — *"एक्सपायरी का चार्ट अलग से देखा करो"*; **never match an expiry chart with a normal one**.
+- 🔵 **NEW — THE OPERATOR USES HOLIDAYS.** On a Friday before a 2-day holiday retail is scared to hold positional trades; the operator **sits down with a trade** (*"ऑपरेटर नॉर्मली हॉलीडे को ज्यादा यूज़ करता है"*).
+- 🟡 **REFINED — stay on the sitting operator's side:** if he sits selling, take the **selling-side probability** and treat a support below him as a **trap** — until he books. Sharpens 2024-09-08 (operator-sell vs retail-sell) and 2024-09-15 (plan-by-open).
+- 🟢 **STABLE — the real reason is operator money** (2024-09-08); **markets move by flushing SLs**; **timing/patience** (*"टाइम देखना बहुत ज़रूरी है"*). **🟢 STABLE — the market only "catches psychology" enough to hand a retracement.**
+- 📌 **Fidelity:** ⚠️ **index NOT named** (late-Sep-2024 Bank-Nifty-plausible). Levels (day-specific): **54,000** (breakdown / "resistance" / trap-watch), **54,200** (support; ASR also garbles a *"542 का लेवल"* ⇒ 54,200). *10/20/50 lakh* are **operator unit sizes, not levels**. **No strike/premium/quantity/P&L; outcome = NO trade taken** (the 54,000 breakdown never came in his window) — reported as such, not invented. **`levels-log/` rows routed** (Bank Nifty, index unnamed).
+- 🔴 **CONTRADICTS: none asserted** — extends the operator strand; reverses nothing.
+
+> **Evolution verdict:** the corpus's **operator-mechanics** session — entry, sitting, exit. ⭐ Durable adds: **operator entry at a turning point**; **capital in units added continuously**; ⭐ the **bigger-operator-flushes-the-smaller** layer (**no position is built for retail**); the **exit-after-a-breakdown rule with the resistance-hold tell** (hold ⇒ he exited ⇒ buy-side; direct gap-up ⇒ not booked ⇒ keep selling); the **expiry-day rule** (never match an expiry chart); and **operators use holidays**. 🟡 Stay on the sitting operator's side; a support below a sitting seller is a trap. 🟢 Restates operator-money-is-the-reason, flush-the-SLs, timing/patience. ⚠️ Index unnamed; levels late-Sep-2024 day-specific; levels-log rows routed.
+
+---
+
+**2024-10-06 — Recognising Traps with Psychology** 🔵 NEW (the **trap taxonomy** — sideways / fast-momentum / post-break-out-break-down · why the **sideways trap** forms + trade-only-after-breakout-in-small-size · the **"no SL available yet the market continues ⇒ dangerous trap ⇒ book a decent profit"** tell · the trader's **sitting limit** / option-buying time value · **~70–80% readable, ~20% not** · the **psychology FLIP** after a long one-way move) + 🟡 REFINED (the operator side decides which break works/lapses · plan-by-open applied live) + 🟢 STABLE (SL hunting · psychology changes after 4–5 days of one-way selling · never greedy)
+`rnUCNSlqy_8` · note: `teaching/2024-10-06-stock-market-trap-using-psychology.md`
+
+The corpus's **trap-recognition** session — the chart traps, the mindset traps, and the trap-side flip.
+
+- 🔵 **NEW — THE TRAP TAXONOMY.** (1) **Sideways / no-momentum** trap; (2) **fast-momentum (volatile)** trap; (3) **post-break-out / break-down** trap; plus the mindset traps (**fear & greed**) and the **outside triggers** (news / results).
+- 🔵 **NEW — WHY THE SIDEWAYS TRAP FORMS + THE AVOIDANCE.** Both sides sit waiting for the break ⇒ no momentum ⇒ the waiting crowd loses on the chop (*"मैं कहीं नहीं जा रहा, आप लगाते रहो पैसा"*). **Trade only after the breakout, in small quantity** (hit-and-try); add size only after a good breakout.
+- 🔵 **NEW — THE "NO SL AVAILABLE" TELL.** If there is **no SL available** on that side (*"ऊपर कोई सेलर बैठा नहीं है"*) and the market is **still** continuing, it is a **dangerous trap** ⇒ **book a decent profit** (his example: activate the book ~500 points past the 53,500 breakout) instead of sitting for the big target — *"मार्केट मोर नॉर्मली घूम जाता है."*
+- 🔵 **NEW — THE SITTING LIMIT / OPTION-BUYING TIME VALUE.** Sitting is fine up to a limit; beyond it — especially in **option buying** (time value) — you must exit on time.
+- 🔵 **NEW — QUANTIFY THE READABLE PART: ~70–80% chart-readable, ~20% not** (news + internal strike-wise call/put positions) — where you must eat the loss.
+- 🔵 **NEW — THE PSYCHOLOGY FLIP.** After a long one-way move the trap side flips: after 4–5 days of falling and a breakdown close, *"सेलर इकट्ठा होना शुरू हो गए"* ⇒ the operator now **converts breakdowns to failure** — **breakdowns (not breakouts) start trapping**; wait for the rotation, then act (*"यह नहीं कि मैं ही सही सोच रहा हूं"*).
+- 🟡 **REFINED — the operator side decides which break works:** operator sits selling ⇒ **breakouts convert to failure, breakdowns work** (the live chart: the 53,000 / 53,200 / 53,500 breakouts all lapsed; every breakdown worked) — sharpens 2024-09-29.
+- 🟡 **REFINED — plan-by-open applied live:** sell in small gap-up **and** gap-down; consider buying only on a **huge** gap-up; and **buy when the market takes resistance of the closing price** (won't fall).
+- 🟢 **STABLE — SL hunting / whose money sits where** (2024-09-08); **psychology changes after 4–5 days of one-way selling** (2024-09-08 courage-break; 2024-09-29 operator side); **never get greedy — the market rotates and reduces the profit.**
+- 📌 **Fidelity:** ⚠️ **index NOT named** (late-Sep–early-Oct-2024 Bank-Nifty-plausible). Levels (day-specific): **53,200** (*"200 का लेवल"*), **53,000** (closing price / breakdown), **53,500** (*"500 का लेवल"*), **52,200**, **52,000**, **51,500**. The *300–400 / 400–500-point* figures and the *"500 के आसपास booking"* line are **illustrations, not levels**. **No strike/premium/quantity/P&L; outcomes qualitative** (sells booked in the down-leg — never held for the huge target; one buy on the closing-price-resistance day). **`levels-log/` rows routed** (Bank Nifty, index unnamed).
+- 🔴 **CONTRADICTS: none asserted** — adds the trap taxonomy + the flip; reverses nothing.
+
+> **Evolution verdict:** the corpus's **trap-recognition** session. ⭐ Durable adds: the **trap taxonomy** (sideways / fast-momentum / post-break · fear & greed · news); why the **sideways trap** forms and the **trade-only-after-breakout-in-small-size** avoidance; the **"no SL available yet the market continues"** tell ⇒ book a decent profit; the **sitting limit / option-buying time value**; **~70–80% readable vs ~20% not**; and the **psychology FLIP** (breakouts trap → breakdowns trap after a one-way run). 🟡 The operator side decides which break works; plan-by-open applied live. 🟢 Restates SL hunting, the 4–5-day psychology change, and never-greedy. ⚠️ Index unnamed; levels late-Sep/early-Oct-2024 day-specific; levels-log rows routed.
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -4130,9 +4189,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **101** | | |
+| Processed | **104** | | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
-| Remaining | **89** | | |
-| Next (chronological) | `20240922 QjNx4eEVke0` Trading में Success का Formula: जीतने के लिए ये Mindset चाहिए! | | |
+| Remaining | **86** | | |
+| Next (chronological) | `20241013 B42FfDZoywk` कम पैसों से भी Stock Market में Profit: Operators के Secrets जानें! | | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
