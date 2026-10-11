@@ -4013,7 +4013,6 @@ A **process/psychology** session built on the week's one real loss (13-Nov), wit
 > **Evolution verdict:** the corpus's **crowd-psychology / process** session. ⭐ Durable adds: the **"number of people ≠ control" law**; **"your plan must be unique"** (and the entry level); the **3-ingredient buy checklist** (seller SLs + entry point + no nearby buyer SLs). 🟡 "SL hunting" widens to **check your own side is not crowded**; **resistance is neutral** (pays or costs by *who is around it*). 🟢 Read others' mindsets, not just the chart; process > tips/courses. ⚠️ Index unnamed; levels 51,200–51,500 day-specific; levels-log rows routed.
 
 ---
----
 
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
