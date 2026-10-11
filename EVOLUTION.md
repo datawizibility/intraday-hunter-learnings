@@ -3960,6 +3960,59 @@ A **week-in-review** — he walks the week's charts trade by trade, showing the 
 
 > **Evolution verdict:** the corpus's **week-in-review / execution** session. ⭐ Durable adds: the **"who will give an SL?" target-selection law** (higher close ⇒ sell / lower close ⇒ buy); the **operator-and-the-open rule** (gap-up/flat ⇒ sell; gap-down ⇒ wait for the breakdown); **sell where others wait for a retracement**; the **closing-time-breakout tell**; **target = the crowd's widened SLs**; and **"if no SL exists the market creates one."** 🟡 Plan-by-open gets a worked week + the gap-down "must HOLD" nuance; the operator strand; the **wrong-trade admission** (holding a loser). 🟢 Restates work-at-S/R, flush-the-crowd, not-every-day-a-profit. ⚠️ Index unnamed; levels 51,000–52,500 day-specific; **one unresolved contradiction flagged**; levels-log rows routed.
 
+**2024-11-03 — How I Handled This Week's Trading (weekly analysis)** 🔵 NEW (the **losing-streak / panic law** — continuation (loss–loss–loss) is harder than alternation, and **never try to recover a streak in one trade** · **accept the 1–2 unexplainable momentum losses** · **never plan to capture a one-candle 150–200 pt move** · the **operator-strength tie-breaker** resolved from the open) + 🟡 REFINED (the **operator-and-the-open rule gets a conditional** — flat-to-gap ⇒ buy / gap-down ⇒ sell, with operator strength as the tie-breaker · **enter on the breakout/breakdown candle, not the obvious level**) + 🟢 STABLE (don't-target-the-rich-side law · work at S/R · flush the crowd first)
+`Issl0YaMa_k` · note: `teaching/2024-11-03-trading-handle-trades-weekly-analysis.md`
+
+The corpus's **second week-in-review** (after 2024-10-27) — four days, four trades, one subject: **how to sit through a losing streak without panicking.**
+
+- 🔵 **NEW — THE LOSING-STREAK / PANIC LAW.** *"पहले दिन लॉस, अगले दिन लॉस, फिर लॉस, फिर लॉस — अगर ऐसा चलना शुरू हो जाए ना तो उस चीज को संभालना थोड़ा सा मुश्किल हो जाता है"*, vs *"लॉस हो गया फिर प्रॉफिट हो गया… इस चीज को हैंडल किया जा सकता है."* ⇒ **continuation (loss–loss–loss, or a profit streak) is heavier than alternation** — plan for the streak, not just the trade.
+- 🔵 **NEW — NEVER RECOVER A STREAK IN ONE TRADE.** *"दो दिन से लॉस चल रहा है, उसको कवर करने की सोचना शुरू कर देंगे… ऐसा आपको कभी भी नहीं करना."* He booked a **moderate** profit — *"छोटा प्रॉफिट भी बुक नहीं किया, ज्यादा बड़ा भी नहीं किया, जस्ट हमें जो प्रॉफिट चाहिए होता है वो बुकिंग किया."*
+- 🔵 **NEW — ACCEPT THE 1–2 UNEXPLAINABLE MOMENTUM LOSSES.** *"एक-दो बार आपको नॉर्मली ऐसे मोमेंटम मिल जाएंगे जो आपको समझ आएंगे भी नहीं, और मार्केट को भी नहीं पता होता कि मोमेंटम क्यों हुआ"* ⇒ *"हमने गलती किया होगा."*
+- 🔵 **NEW — NEVER PLAN FOR A ONE-CANDLE 150–200 PT MOVE.** *"ऐसे मोमेंटम को कभी भी ट्राई मत करो… ऐसे मोमेंटम कैप्चर करने का कभी प्लान नहीं बनाना चाहिए"* — rare, up or down, unpredictable.
+- 🔵 **NEW — THE OPERATOR-STRENGTH TIE-BREAKER.** When both sides are seated, *"पैसा किसके पास ज्यादा है"* decides: *"जो ऑपरेटर बाइंग कर रहा है वो ज्यादा स्ट्रांग है या जो ऑपरेटर सेलिंग कर रहा है — वो फिर कहीं ना कहीं ओपनिंग से ही कंफर्म हो पाता है."*
+- 🟡 **REFINED — the operator-and-the-open rule gets a CONDITIONAL.** 2024-10-27 mapped gap-up/flat ⇒ sell and gap-down ⇒ wait-for-breakdown ⇒ sell. Here the SAME open types map the other way: **flat-to-gap ⇒ buy, gap-down ⇒ sell** — because the tie-breaker is **which operator is stronger**, which the open only *confirms*. Recorded as a refinement, not silently overwritten.
+- 🟡 **REFINED — don't enter at the obvious level.** *"अगर 51,200 का रेजिस्टेंस ले रहा है तो यहां पे हम एंट्री नहीं बना सकते, ब्रेकआउट के बाद बनाएंगे"* — everyone sells at the resistance; the edge is on the breakout/breakdown candle (sharpens 2024-10-27's "sell where others wait for a retracement").
+- 🟢 **STABLE — DON'T TARGET THE RICH SIDE** (Monday: sellers were flushed ⇒ target the mistaken buyers; Wednesday: buyers were rich ⇒ target the sellers' SLs) · **work at S/R** · **flush the crowd first**.
+- 📌 **Fidelity:** ⚠️ **index NOT named** (Nov-2024, Bank-Nifty-plausible). Levels as spoken (day-specific): **51,000 · 51,200 · 51,500 · 51,800 · 52,000 · 52,200 · 52,500**; *"51 20000"* read as **51,200** (flagged). **150–200 pts** = an illustrative one-candle range, not a level. ⚠️ **One UNCLEAR passage, flagged NOT resolved:** the Thursday entry is described with *"जैसे ही मार्केट ने इस ब्रेकआउट को निकाला"* while he takes a **put (sell)** — a put on a "breakout" is internally odd; the surrounding logic implies a **breakdown**. **Outcomes qualitative:** Mon sell (good profit); Tue sell (loss); Wed call/buy (loss); Thu put/sell (moderate profit booked). No strikes/premiums/quantities/rupee P&L. **`levels-log/` rows routed.**
+
+> **Evolution verdict:** the corpus's second **week-in-review / execution** session. ⭐ Durable adds: the **losing-streak law** (continuation > alternation; never recover a streak in one trade); **accept 1–2 unexplainable losses**; **never plan a 150–200 pt candle capture**; the **operator-strength tie-breaker** from the open. 🟡 The **operator-and-the-open rule becomes conditional** (flat-to-gap ⇒ buy here vs gap-up/flat ⇒ sell in 2024-10-27 — reconciled by *which operator is stronger*); enter on the candle, not the level. 🟢 Don't-target-the-rich-side, work-at-S/R, flush-the-crowd. ⚠️ Index unnamed; levels 51,000–52,500 day-specific; **one unclear passage flagged**; levels-log rows routed.
+
+---
+
+**2024-11-10 — How much price movement triggers one side's SLs** 🔵 NEW (the **SL-distance ladder: ~300 pt normal / ~500 pt with retracement / ~1000 pt only on news or expiry** · **round numbers shrink it to 100–150 pt** · **gaps as the operator's shortcut** (600/700/1000 pt gap-down) · the **expiry mechanism** — ₹1/₹5/₹10 option writers are the target) + 🟡 REFINED (the "who will give an SL?" law gets a *measurable* target + the **opposite-side entry once the SLs are done** · expiry gets its *why*) + 🟢 STABLE (read where the crowd keeps SLs, not a fixed number · target just short of the complete SL · flush the crowd first)
+`E0O4fUepAxA` · note: `teaching/2024-11-10-price-movement-stop-loss-trigger.md`
+
+A **concept session** answering one reader question: **how much price movement is needed to hit all the stop-losses on one side?**
+
+- 🔵 **NEW — THE SL-DISTANCE LADDER.** *"अगर 300 पॉइंट का मोमेंटम करता है तब मार्केट ट्रेडर के एसएल हिट कर देता है"* → *"500 पॉइंट का मोमेंटम करता है उसमें मार्केट को नॉर्मली रिट्रेसमेंट करना पड़ता है"* (300 to hunt + a psychology build + *"लगभग 200 पॉइंट और"*) → *"इससे भी ऊपर का मोमेंटम… 1000 का मोमेंटम कर देता है तो वो होता है न्यूज़ के कारण."*
+- 🔵 **NEW — THE EXPIRY MECHANISM.** *"एक्सपायरी में अचानक से मोमेंटम हो जाता है क्योंकि वहां पे काफी दूर तक ऑप्शन राइट करके बैठे होते हैं — कोई ₹1 का सेल करके बैठा है, कोई ₹5 का, कोई ₹10 का"* ⇒ a bigger operator targets the writers ⇒ *"मार्केट उनको कंटिन्यू हिट करता जाता है."*
+- 🔵 **NEW — GAPS ARE THE SHORTCUT.** To trap a buyer comfortably in profit (who would never *give* an SL), *"सीधा ही गैप डाउन दे देगा… 1000 का गैप डाउन, 600 का, 700 का"* — no distance to travel.
+- 🔵 **NEW — ROUND NUMBERS SHRINK THE LADDER.** *"जरूरी नहीं कि मार्केट 300 पॉइंट नीचे निकले"*: if the crowd's SLs sit under a round number (51,500), ~**100 pts** finishes them; where a high has formed people shift the SL **above** it (52,000 → 52,100) and the distance grows to ~300.
+- 🟡 **REFINED — the "who will give an SL?" law now has a TARGET NUMBER** and its second use: once the SLs are done, *"अपोजिट साइड का मार्केट के अंदर एंट्री भी किया जा सकता है."* Sharpens 2024-10-27.
+- 🟡 **REFINED — EXPIRY gets its mechanism** (cf. the corpus's standing "day before expiry is reversal-prone" motif) — writers at ₹1/₹5/₹10 are *why* the outsized expiry move exists.
+- 🟢 **STABLE — read where the crowd keeps its SLs, not a fixed number** · **target just short of the complete SL** (*"कंप्लीट एसएल तक तो नहीं जाना, लेकिन उससे थोड़ा सा पहले बुकिंग कर लेना"*) · **flush the crowd first**.
+- 📌 **Fidelity:** ⚠️ **index NOT named** (Nov-2024, Bank-Nifty-plausible). Levels as spoken (day-specific): **51,500 · 51,800 · 52,000 · 52,100 · 52,160**; the **300 / 500 / 1000 / 100–150** figures are **movement magnitudes**, not levels. ⚠️ Option premiums are ASR-mangled (*"₹ का"*, *"दो रु वाला"*) where he was saying **₹1/₹5/₹10** — kept as spoken. **Outcomes qualitative:** earlier call → small profit then loss; later call near 52,000 support → little profit then loss; the put at the closing-price resistance caught only a small position. No strikes/premiums/quantities/rupee P&L. **`levels-log/` rows routed.**
+
+> **Evolution verdict:** the corpus's **SL-distance** concept session. ⭐ Durable adds: the **300 / 500 / 1000 pt ladder**; **round numbers shrink it to 100–150 pt**; **gaps as the operator's shortcut**; the **expiry mechanism** (₹1/₹5/₹10 writers as the target). 🟡 The "who will give an SL?" law gets a **measurable target** + the **opposite-side entry when SLs are done**; expiry gets its *why*. 🟢 Read the crowd's SL placement, not a constant; target just short of the complete SL. ⚠️ Index unnamed; levels 51,500–52,160 day-specific; the ladder is a spoken rule of thumb, not back-tested; levels-log rows routed.
+
+---
+
+**2024-11-16 — Leave the tips, build your own strategy** 🔵 NEW (the **"number of people ≠ control" law** — a crowd of small capitals cannot move the market, one big operator can · **"your plan must be unique"** (entry level too) · the **3 ingredients of a buy** checklist (seller SLs + entry point + no nearby buyer SLs)) + 🟡 REFINED ("SL hunting" widens to **check your own side is not the crowded one** · **resistance is neutral** — pays or costs by *who is crowded around it*) + 🟢 STABLE (read others' SLs and mindsets, not just the chart · interest + a continuous process beats tips/courses)
+`YohQNK2qrsg` · note: `teaching/2024-11-16-tips-stock-market-strategy.md`
+
+A **process/psychology** session built on the week's one real loss (13-Nov), with the market read as a crowd game.
+
+- 🔵 **NEW — "NUMBER OF PEOPLE ≠ CONTROL."** *"जहां पर ज्यादातर लोग बाइंग करेंगे, वहां पे हमें नुकसान उठाना पड़ेगा."* And the why: *"एक ही पर्सन बड़ा पैसा लगा रहा है वो मार्केट को कंट्रोल कर सकता है, लेकिन जब नंबर ऑफ पीपल मार्केट के अंदर पैसा लगाएंगे तो… कोई यहां कट जाएगा, कोई वहां बाइंग करेगा"* ⇒ the crowded side is the hunted side.
+- 🔵 **NEW — "YOUR PLAN MUST BE UNIQUE."** *"हमारा प्लान यूनिक होना चाहिए तभी हम मार्केट के अंदर सही से काम कर पाएंगे… हमारी जो एंट्री का लेवल है वो भी काफी ज्यादा यूनिक होना चाहिए."*
+- 🔵 **NEW — THE 3 INGREDIENTS OF A BUY.** (1) *"मुझे चाहिए सेलर की एसएल"*; (2) *"कोई एंट्री पॉइंट"* (support/resistance, candle, breakout/breakdown); (3) *"अगर मैं बाइंग कर रहा हूं तो दूसरे लोग यहां पे बाइंग ना करें… डाउन साइड एसएल वगैरह नहीं होनी चाहिए बायर के."*
+- 🟡 **REFINED — "SL HUNTING" WIDENS:** it is not only "find the other side's SLs" — you must also check that **your own side is not the crowded one**. The 13-Nov miss: he saw the 51,000 support zone, planned a call, and *"दूसरे लोगों के एसएल को नहीं देखा, दूसरे लोगों के माइंडसेट को नहीं देखा — केवल चार्ट में अपना देखा."*
+- 🟡 **REFINED — RESISTANCE IS NEUTRAL.** *"हमारी रेजिस्टेंस कभी-कभी हमें नुकसान भी दे देते हैं, कभी-कभी हमें बेनिफिट भी उठाने के देते हैं"* — the difference is **who is crowded around it** (the same week: selling into a resistance breakout *covered* the earlier loss).
+- 🟢 **STABLE — READ OTHERS' MINDSETS, NOT JUST THE CHART** (the 2022 "reading others' mind" strand) · **interest + a continuous process beats tips and courses** (*"ओवरनाइट मार्केट से पैसा नहीं बनाया जा सकता… यह कंटिन्यू प्रोसेस है"*; *"बड़ी अमाउंट कभी भी किसी को नहीं देना है"*).
+- 📌 **Fidelity:** ⚠️ **index NOT named** (Nov-2024, Bank-Nifty-plausible). Levels as spoken (day-specific): **51,500 · 51,200 · 51,360 · 51,000 · 50,500**; *"51 20000 के नीचे… 12 नवंबर"* read as **51,200** (flagged). **80–90% / 10–20%** = his stated loser/winner proportions, not a level. **Outcomes qualitative:** **13-Nov call → loss** (resistance held accurately, buyer crowd flushed); a **later sell into a resistance breakout → good profit that covered the earlier loss**. No strikes/premiums/quantities/rupee P&L. **`levels-log/` rows routed.**
+
+> **Evolution verdict:** the corpus's **crowd-psychology / process** session. ⭐ Durable adds: the **"number of people ≠ control" law**; **"your plan must be unique"** (and the entry level); the **3-ingredient buy checklist** (seller SLs + entry point + no nearby buyer SLs). 🟡 "SL hunting" widens to **check your own side is not crowded**; **resistance is neutral** (pays or costs by *who is around it*). 🟢 Read others' mindsets, not just the chart; process > tips/courses. ⚠️ Index unnamed; levels 51,200–51,500 day-specific; levels-log rows routed.
+
+---
 ---
 
 ### 2026 — the live-application era
@@ -4253,9 +4306,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **107** | | |
+| Processed | **110** | | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
-| Remaining | **83** | | |
-| Next (chronological) | `20241103 Issl0YaMa_k` कैसे किया इस हफ्ते Trading Handle? Trades - Weekly Analysis! | | |
+| Remaining | **80** | | |
+| Next (chronological) | `20241124 6Zz1TbDpMTo` Trading का Weekly Recap: नई Insights और Future Strategy! | | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
