@@ -339,6 +339,51 @@
 | 2026-10-01 | Nifty | 22,500 | psychology number | pre ZrSyia9Mghc — broken at the open (open 22,544) |
 | 2026-10-01 | Nifty | 22,400 | S | pre ZrSyia9Mghc — broken; low 22,217 |
 | 2026-10-01 | Nifty | 1,430 qty | live position | post ykWQl_f_ERg |
+| 2026-10-05 | Bank Nifty | 54,880 / 55,200 | R | pre Hbf7R3KqEwE — open 54,841 crossed 54,880; high 55,193 tagged 55,200, then BN rejected |
+| 2026-10-05 | Bank Nifty | ≈54,535 / 54,500 (ASR "5453500") | S | pre Hbf7R3KqEwE — garbled/flagged; both undercut (low 54,371) |
+| 2026-10-05 | Bank Nifty | 55,000 CE (1,170 qty) + 55,100 CE | live strikes traded | post aPu1pRZztf8 — two-strike call basket; 55,000 = the round-number cap named live |
+| 2026-10-05 | Sensex | 73,130 / 72,400 | R | pre Hbf7R3KqEwE — 72,400 crossed (high 72,632); 73,130 untested |
+| 2026-10-05 | Sensex | ≈71,300 / 7,6xx (ASR "71300 7600") | S | pre Hbf7R3KqEwE — garbled/flagged; untested (low 71,840) |
+| 2026-10-05 | Sensex | 900 qty | live position | post aPu1pRZztf8 |
+| 2026-10-05 | Nifty | 22,590 / 22,800 | R | pre Hbf7R3KqEwE — 22,590 tagged (high 22,622); 22,800 untested |
+| 2026-10-05 | Nifty | 22,200 / 22,000 | S | pre Hbf7R3KqEwE — untested (low 22,397) |
+| 2026-10-05 | Nifty | 1,430 qty | live position | post aPu1pRZztf8 |
+| 2026-10-06 | Bank Nifty | 55,200 / 54,890 | R | pre WVfyM2gkWXs — open 54,901 sat on 54,890; high 55,201 tagged 55,200 |
+| 2026-10-06 | Bank Nifty | ≈54,700 / ≈54,370 (ASR "5453700") | S | pre WVfyM2gkWXs — garbled/flagged; untested (low 54,835) |
+| 2026-10-06 | Bank Nifty | 55,000 CE (1,170 qty) | live strike traded | post KJ1WTg6gXNM — bought on the slight gap-up; the round-number breakout he needed |
+| 2026-10-06 | Sensex | 73,130 / 72,400 | R | pre WVfyM2gkWXs — 72,400 held (low 72,385); 73,130 untested (high 73,068) |
+| 2026-10-06 | Sensex | 71,300 / 71,000 | S | pre WVfyM2gkWXs — untested (low 72,385) |
+| 2026-10-06 | Sensex | 900 qty | live position | post KJ1WTg6gXNM |
+| 2026-10-06 | Nifty | 22,800 / 22,580 | R | pre WVfyM2gkWXs — 22,800 untested (high 22,776); 22,580 acted as the launch (open 22,603) |
+| 2026-10-06 | Nifty | 22,380 / 22,200 | S | pre WVfyM2gkWXs — untested (low 22,562) |
+| 2026-10-06 | Nifty | 1,430 qty | live position (expiry) | post KJ1WTg6gXNM |
+| 2026-10-07 | Bank Nifty | 55,360 / 55,560 | R | pre wnqjnhbuDfI — unbroken (high 55,341, 19 pts short) |
+| 2026-10-07 | Bank Nifty | 54,880 / 54,650 | S | pre wnqjnhbuDfI — 54,880 broken; 54,650 tagged (low 54,636) then recovered |
+| 2026-10-07 | Bank Nifty | 1,170 qty | live position (call side) | post 0jt8c4MX-hA — only BN worked; Sensex/Nifty sideways |
+| 2026-10-07 | Sensex | 73,450 / 73,700 | R | pre wnqjnhbuDfI — unbroken (high 73,019) |
+| 2026-10-07 | Sensex | 72,700 / 72,400 | S | pre wnqjnhbuDfI — 72,700 broken; low 72,469 tagged the 72,400 zone |
+| 2026-10-07 | Sensex | 900 qty | live position | post 0jt8c4MX-hA |
+| 2026-10-07 | Nifty | 22,800 / 22,880 (ASR "2280") | R | pre wnqjnhbuDfI — flagged; unbroken (high 22,718) |
+| 2026-10-07 | Nifty | 22,650 / 22,580 | S | pre wnqjnhbuDfI — both broken (low 22,546) |
+| 2026-10-07 | Nifty | 1,430 qty | live position | post 0jt8c4MX-hA |
+| 2026-10-08 | Bank Nifty | 55,560 / 56,000 | R | pre FPaMrMLkxIw — untested (high = the open, 55,043) |
+| 2026-10-08 | Bank Nifty | 54,650 / 54,200 | S | pre FPaMrMLkxIw — 54,650 broken; 54,200 not tagged (low 54,383) |
+| 2026-10-08 | Bank Nifty | put, strike ASR-garbled ("700 ka put"; ≈55,000 ATM plausible), 1,170 qty | live strike traded | post dG6ekT8_EtQ — strike UNCERTAIN; BN opened ≈55,043 and IH says BN "gave nothing" |
+| 2026-10-08 | Sensex | 73,000 / 73,450 | R | pre FPaMrMLkxIw — untested (high 72,694) |
+| 2026-10-08 | Sensex | 72,400 / 72,000 | S | pre FPaMrMLkxIw — both broken (low 71,328) |
+| 2026-10-08 | Sensex | 900 qty | live position (expiry) | post dG6ekT8_EtQ |
+| 2026-10-08 | Nifty | 22,720 / 22,800 | R | pre FPaMrMLkxIw — untested (high = the open, 22,599) |
+| 2026-10-08 | Nifty | 22,540 / 22,420 | S | pre FPaMrMLkxIw — both broken (low 22,180) |
+| 2026-10-08 | Nifty | 1,430 qty | live position | post dG6ekT8_EtQ |
+| 2026-10-09 | Bank Nifty | 55,400 / 55,000 | R | pre ZVOpBDyGpNQ — both crossed (high 55,419 tagged 55,400) — the reversal that cut the put |
+| 2026-10-09 | Bank Nifty | 54,000 / 53,700 | S | pre ZVOpBDyGpNQ — untested (low 54,617) |
+| 2026-10-09 | Bank Nifty | 54,700 PE (1,170 qty) | live strike traded | post -_o8lf08-Fg — ATM put into a slight gap-up; CUT at a loss |
+| 2026-10-09 | Sensex | 72,220 / 71,900 | R | pre ZVOpBDyGpNQ — both crossed (high 72,669) |
+| 2026-10-09 | Sensex | 71,000 / 70,750 (ASR "7100750") | S | pre ZVOpBDyGpNQ — garbled/flagged; untested (low 71,740) |
+| 2026-10-09 | Sensex | 900 qty | live position | post -_o8lf08-Fg |
+| 2026-10-09 | Nifty | 22,340 / 22,420 | R | pre ZVOpBDyGpNQ — both crossed (high 22,581) |
+| 2026-10-09 | Nifty | ≈22,284 (ASR "2284") / 22,000 | S | pre ZVOpBDyGpNQ — flagged; low 22,295 nearly tagged 22,284 |
+| 2026-10-09 | Nifty | 1,430 qty | live position | post -_o8lf08-Fg |
 | 2023-02-12 | Bank Nifty | ~42,000 / ~40,000 | post-budget range top / lower level | teaching rdetVddnPyk (ASR) |
 | 2023-02-12 | Bank Nifty | 40,500 | seller's minimum target (round number) | teaching rdetVddnPyk |
 | 2023-02-12 | Bank Nifty | 41,600 / 41,800 | exit-up fork for a sell position (safe / more room) | teaching rdetVddnPyk (ASR) |
