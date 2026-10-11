@@ -27,6 +27,9 @@ Leave day-specific levels in [`../levels-log/`](../levels-log/).
 - **Sep 13, 2026 — “The Power of an Edge in Trading”** (Sunday teaching, [video](https://www.youtube.com/watch?v=uC4PeLdGFmo)): distilled into the bible — §1 edge ≠ certainty, §3 **reversal gate** + reversal-prone days, §5 reversal-entry gate, §8 capital-size / analysis-vs-trade rows, §9 psychology, §12 **P84–P92**.
   - One line: an edge is never 100% (every setup needs a loss branch); learn **analysis before execution**; after a long one-way run test whether buyers actually arrived (→ target buyers) or seller SLs are still left (→ continuation) — and be prepared on **both sides** instead of predicting.
 
+- **Oct 5–9, 2026 week** (Mon–Fri dailies + raw `transcripts/`): distilled into the bible — §3 (no-pool-either-side + failed-cover), §4 (post-trap drip **BUY** row + gap-up-into-seller-heavy weak-branch row), §7 exit **#24 extension + #30–#32**, §9 (fear comes from the loss book; predefine T/S/Q; branch quality sets size), §12 **P125–P130**.
+  - Week in one line: 10-05 **buy** booked normal target (M, gap-up; then BN gave its momentum away), 10-06 **buy** booked (T, slight gap-up, post-trap drip flush), 10-07 **buy** booked normal target (W, 1-minute reversal of a multi-hour move ⇒ sideways; dipped, then covered), 10-08 **sell** booked (Th, flat open, failed-cover continuation; companions paid, BN lagged), 10-09 **sell CUT** (F, gap-up flushed the seated sellers ⇒ no inventory; a sharp positive momentum killed the put).
+
 ## Execution
 - Direction thesis first; re-entries allowed with smaller initial size.
 - Confirm across Nifty, Sensex, Bank Nifty — don't trade one index in isolation.
