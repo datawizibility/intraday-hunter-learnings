@@ -4242,7 +4242,6 @@ The **conceptual parent of the 2026-09-13 "Power of an Edge" session** — and t
 
 > **Evolution verdict:** the corpus's **loss-psychology and process** session, and the **conceptual parent of 2026-09-13**. ⭐ Durable adds: the **execution-first law**; **small capital as an execution tool**; the **quantity-reset rule**; **timeframe stability**; the **two-sided mind**; **self-retracement**. 🟡 The deep-OTM writer as the worked no-loss setup; never cover a loss same-day. 🟢 A losing streak must not change the method (trigger: the *second* loss day); small losses / bigger profits; no loss-free setup. ⚠️ **This session REFUSES the one-sided direction framing rather than adding a reading — it does not overwrite 03–06 Dec; for Amit.**
 
-
 ---
 
 ### 2026 — the live-application era
