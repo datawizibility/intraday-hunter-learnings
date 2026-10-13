@@ -43,7 +43,7 @@ Educational notes only — not SEBI advice. Your risk rules win.
 - **Sizes as spoken:** Bank Nifty — **900 qty** on the first leg, **+900 qty** further; Sensex — **700 qty**. ⚠️ The 53,600 leg carries no separate qty in the ASR; not invented.
 - ⚠️ **One unexplained phrase, left as spoken:** *"बिल्कुल नियर बाय रेजिसेंस रखा था"* — he explains the *why* (a flat open could make that level the high of the coming time) but the phrase itself is garbled; **no number is attached to it**, so nothing is inferred.
 - **Calendar fact:** he uses a **5-minute timeframe** for the read (*"मैंने 5 मिनट का टाइम फ्रेम लगा रखा है"*).
-- **`levels-log/` rows routed** (5).
+- **`levels-log/` rows routed** (7).
 
 ### Evolution vs earlier
 - 🔵 **NEW — A DOUBLE BOTTOM IN AN UPTREND IS A BUYER TRAP, NOT A BUY.** *"डबल बॉटम को देखकर कुछ ना कुछ लोग बाइंग करेंगे, और जैसे ही बाइंग करेंगे, मार्केट में गिरावट देखने को मिल जाएगा."* The corpus's first **pattern-as-trap** rule: a *public, textbook* pattern in a one-way trend is a machine for gathering the opposite side, not a continuation signal.
