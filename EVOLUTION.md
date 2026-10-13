@@ -4201,7 +4201,6 @@ The **gap-up that is faded from inside the box**, one day after the *same* gap-u
 
 > **Evolution verdict:** the corpus's **panic-gate** session — the positive half of the 04 Dec abstention. ⭐ Durable adds: the **panic gate** (profit needs a level breakdown); the **re-entry-survivor target** (widened stops); **no new entry after the break**. 🟡 The gap-up made conditional on the level; profit management by candle colour. 🟢 Rejection-at-a-level bias; huge gap ⇒ no plan. ⚠️ **Third dated reading in the direction question — for Amit.**
 
-
 ---
 
 **2024-12-06 — Live intraday: "Bank Nifty Options का दमदार Performance" — the double bottom as a buyer trap, and the entry-location law** 🔵 NEW (the double-bottom buyer trap · the SL-creation shape test · the entry-location rule · the retail pool named) + 🟡 REFINED ("flat ⇒ no plan at all" · the level gate with BOTH branches priced · the profit-erosion exit) + 🟢 STABLE (day-after adjustment · count the profit once the level is done) + ⚠️ the FOURTH dated reading in the gap-up/level direction question (for Amit)
@@ -4220,7 +4219,6 @@ The session where a **textbook pattern becomes the evidence against the crowd us
 - 📌 **Fidelity:** ✅ **indices named and BOTH traded — Bank Nifty, Sensex.** Levels as spoken (day-specific): Bank Nifty **53,800** (the key resistance; no-cross ⇒ no buying) · **53,700** (first put strike) · **53,600** (second put strike) · **53,500** (the breakdown that ended the wait) · **54,000** (the upside target *if* 53,800 were crossed); Sensex **82,000** (R — buying only above) · **~81,800** (the put strike, spoken *"21,800"*, read as 81,800, **FLAGGED** — ASR drops the leading 8); an unnamed small Sensex support ⇒ **no number spoken, none recorded**. ⚠️ Sizes: Bank Nifty **900 qty** first leg **+900 qty** further; Sensex **700 qty** (the 53,600 leg carries no qty in the ASR). ⚠️ One garbled phrase left as spoken: *"बिल्कुल नियर बाय रेजिसेंस रखा था"* — no number attached, nothing inferred. **Outcome explicit and qualitative: a PROFIT on both indices.** No premiums, no rupee P&L. **`levels-log/` rows routed** (5).
 
 > **Evolution verdict:** the corpus's **pattern-as-trap** session. ⭐ Durable adds: the **double-bottom buyer trap**; the **SL-creation shape test**; the **entry-location rule**; the **retail pool named**. 🟡 "Flat ⇒ no plan at all"; the **level gate with both branches priced**; the profit-erosion exit. 🟢 Day-after adjustment; count the profit once the level is done. ⚠️ **Fourth dated reading in the direction question — for Amit.**
-
 
 ---
 
