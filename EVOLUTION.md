@@ -4306,8 +4306,6 @@ The most **process-dense** clip in the December set, and dense precisely because
 
 ---
 
----
-
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
