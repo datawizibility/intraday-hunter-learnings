@@ -73,6 +73,7 @@ Two distinct cross-index claims in this clip, kept separate because they say dif
 | `निफ्टी 50`, `निफ्टी बैंक`, `सेंसे`(s) | the three-index opening scan | high | **Index names** — the "50" is part of the name, not a level. "सेंसेस" is an ASR garble of Sensex |
 
 - ⚠️ **Index not named** for the 74,500 / 74,000 levels — flag rather than guess.
+- `levels-log/` rows routed: **2** — `74,500` (round-number psychology / seated sellers' SLs) and `74,000` (closing-price level), both flagged ⚠️ for the unnamed index.
 - ⚠️ **No strike, no premium, no quantity, no rupee P&L, no point-count anywhere in the clip.** Losses are qualitative only (*"हमें लॉस लेकर जाना पड़ा"*). Do not manufacture figures.
 - ⚠️ *"हमने ल साइड का ट्रेड बना लिया"* — **ASR-garbled**; the side letter is unreadable (possibly सेल/पुट/कॉल). Reading it as a definite side would be fabrication. Recorded as spoken.
 
