@@ -86,7 +86,7 @@ Complete digit-run scan of the 12,512-character ASR returns **exactly three** nu
 - **No index is named in this clip** — no Bank Nifty, Nifty, Sensex, Finnifty. Stated plainly.
 - **No strike, no premium, no quantity, no rupee P&L** anywhere in the ASR.
 - **No percentage is spoken.** A scan for `प्रतिशत / परसेंट / फीसदी / 70 / 30 / सत्तर` returns **zero** hits — so the corpus's **~70/30 chart-vs-psychology split is NOT stated here** (see Evolution).
-- The single level `76000` is **day-specific (March 2025)** and cannot be tied to a named index ⇒ **not routed to `levels-log/`**.
+- The single level `76000` is **day-specific (March 2025)** and cannot be tied to a named index ⇒ routed to `levels-log/` as **1** row, flagged ⚠️ for the unnamed index (the digits themselves are clear).
 
 ### Evolution vs earlier
 Corpus timeline used: `EVOLUTION.md` through **2025-02-23** (the file's last dated entry; 2025-03-02 is still the "Next" row).
