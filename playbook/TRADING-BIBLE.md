@@ -64,6 +64,7 @@ Fill these **before** 9:15. A bot needs the same fields as structured inputs.
 - After a **one-way move followed by a sideways hold**, participants who took the counter-trade had no momentum for hours — they cut and left. The stop-loss pool is empty, so don’t wait to “target them”: follow continuation instead (Sep 16, Sep 17)
 - Settling **near the prior closing price** with the round number intact on the next day often means few fresh counter-traders are sitting — the day can stay in the old direction (Sep 18)
 - **Positive momentum followed by an equal rejection** flushes the nearby sellers *and* leaves **no buyer seated** — there is no pool on either side. Read the day as **continuation**, and remember the traps that form are built for whichever side next shows itself (Oct 1, Oct 5, Oct 6).
+- A **rejection that never grows** does not activate a seller pool — *"the rejection has not increased, so the sellers would not have got activated"* — so the sell branch it seems to license is a weak branch and should not be forced (Oct 15).
 
 ### Inventory often cleared when
 - Holiday + recovery → don’t assume short inventory still sitting
@@ -72,11 +73,13 @@ Fill these **before** 9:15. A bot needs the same fields as structured inputs.
 - Late-day momentum **failed** after a sell → many shorts don’t hold overnight (Jul 23)
 - Buyers already in **deep profit** into a holiday/close → don’t force them as hunt targets (Jul 20 pre)
 - A **failed cover attempt** (market tries to cover, weakness returns) leaves the cover-buyers in loss *and* the earlier counter-side already stopped out — both pools are gone; read it as a continuation day (Oct 8).
+- A momentum leg whose buyers **booked their targets and left** leaves **no retail buyer SL** to hunt: in a negative multi-day tape that empties the buyer pool and makes the next flat / small-gap-down open a follow-the-chart BUY (Oct 14).
 
 ### Unclear when
 - Slow selling, no momentum, repeated rejection↔bounce in a small range
 - Both sides around same price — **open decides**
 - **Volatile two-sided range** (up X, down X, repeat): deliberately no directional momentum. Stop-loss-location logic assumes directional expansion — in this regime a “correct” SL read still loses (Sep 17)
+- **Neither side's SL available** (the buyers have been flushed *and* sellers never got seated): the operator has no inventory to hunt, so he has **no reason to turn the market** — only small traps to *add* the counter-side, which are not direction moves. Follow the running chart and take the side the tape is already moving (Oct 14, Oct 15).
 
 ### After positional SLs are exhausted (next-zone lens)
 - Don’t stop at “who sat.” Ask **where demand/supply will be high next** (round numbers, breakouts, breakdowns) — that’s where the next SL pool forms (Aug 9 teaching).
@@ -133,6 +136,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Unclear / both-side prior day | Follow open; solid gap-up → **BUY** | No held inventory to invent against (Jul 21) |
 | **Post-trap day** (positive momentum, then a sell-off, the day before) | Flat / mild / solid gap-up → **BUY** with market; gap-down → same | Yesterday’s momentum buyers are already burned ⇒ nobody fresh buys ⇒ the **sellers** are the exposed crowd; the market lifts gradually (rejection → lift → rejection → lift) to flush them (Oct 6) |
 | Sellers seated + **gap-up** after a sustained selling stretch | Gap-up → **SELL**, but this is the **weak branch** | The gap-up flushes the seated sellers (their SLs are gone) ⇒ the continuation-down trade has **no inventory to hunt**; the real trade was **flat / gap-down → BUY** the seated sellers (Oct 9) |
+| Buyers seated but they **already booked** the momentum leg (multi-day negative tape, positive-momentum day before) | Flat / small gap-down → **BUY** with the chart; a **clean gap-up → SELL** (no seller SL above) | The buyer pool is emptied by their own profit-booking ⇒ nothing left to hunt ⇒ follow continuation; the gap-up has no seller cover above (Oct 14) |
+| **Two-plan pre** — sell-first, buy only on a stated condition | Flat / gap-down → **SELL** setups; a **small gap-up that crosses the previous higher point** → **BUY** | The **gate**, not the gap shape, decides: take no position until the gate prints (Oct 15) |
 
 **Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — check **holiday / retrace-close vs exact round-number hold**, then **open type**. Same gap-up shape can be buy-with (Aug 3) or sell-buyers-after-CP-breakdown (Aug 4). After a first sell into an uptrend, also check **day-1 thin shorts vs day-2 sellers** before choosing hunt vs sell-with (Aug 5–6). After a hold-up buy day, require **decent GD** to hunt buyers — flat/GU often flips to buy-with (Aug 7). After sellers are flushed by a support-bounce, flat/GD prefers sell-with (Aug 10).
 
@@ -161,6 +166,10 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 18. Gap-up **after** a breakdown-and-recovery: the buy case needs positive momentum to appear quickly; if rejection is **slow** (small candles) the market can keep drifting down — wait, don’t force the recovery trade (Sep 15). ⚠️ On Sep 15 the *fast-rejection* branch also failed (gap-up, fast rejection, no recovery → loss), so treat this branch as **conditional + must have the exit rule (§7.22)** — a fast rejection is not automatically a trap.
 19. **Do not enter on the first large single candle.** One-candle momentum cannot be trusted, and the opening premium adjustment can eat the whole move so that even catching the candle pays nothing — wait for the market to settle and the structure to become readable before entering (Sep 28, reaffirmed Sep 30 + Oct 4 teaching).
 20. **The clean entry is the open the crowd won’t play.** When the flushed side is the target, a flat / small gap-down lets you follow continuation *because others won’t trade it*; the same thesis on a clean gap-up becomes a no-trade (others buy it → it gets sold into). “Where few traders work, the market takes direction” (Sep 30).
+21. **Re-test the branch in the first 5–10 minutes of tape.** The branch is chosen at the open, but a **non-negative open that then goes hard negative** makes the seated buyers the crowded side — re-run the inventory read before committing (Oct 12).
+22. **An anti-crowd entry needs a named life-line.** “Buy where others won’t” is valid **only while the reference level (usually the round number) holds** — write that level down before entering; if it breaks, cut (Oct 12).
+23. **On a two-plan day, write the gate before the open and refuse both trades until it prints.** *“We will not buy or sell right now — let the market take a direction in net”* is the correct state, not indecision (Oct 15).
+24. **Count the levels the market can still take out (the one-breakdown / one-breakout rule).** If the counter-side has **no SL at the second level**, the market does **one** level’s breakdown / breakout and not the second (at a round number / the closing price). Trade the depth that is payable; don’t extrapolate a second level (Oct 16).
 
 ### Forbidden
 1. Counter-trade invented because inventory is unclear.
@@ -192,6 +201,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | All three indices reject **simultaneously** after an up-move | Sideways is the default read — an option buyer earns nothing there → exit branch (Sep 25) |
 | The **quantity-carrying index (BN)** turns positive *first* against the position, with a round number just above | The breakout can hit the stops of the sellers bunched in the laggard and blow the loss — **cut**; do not wait for the other indices to follow (Oct 1) |
 | One index (e.g. BN) is **unclear** while the others are clean | The multi-index gate is not satisfied — **wait**; the market rising or falling does not matter until the chart says OK (Oct 4 teaching) |
+| One index **carries the basket**; the companions only *don’t break* their levels | Take the target off the carrying index; the companions’ job is to hold, not to pay — *“we do not mind that Sensex and Nifty are negative… if the total turns negative, the problem becomes big”* (Oct 14, Oct 15) |
+| Two or more consecutive continuation sessions with **every support holding** and prior resistances acting as the floor | Continuation is the base case: the day’s first rejection is an **entry window**, not a reversal (Oct 16) |
 
 **Bot rule:** `extend_target = true` only if `companion_bias == aligned_*` with trade direction.
 
@@ -232,10 +243,14 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 30. **A positive momentum larger than a *normal retracement* kills a continuation-down trade.** A small retracement is bearable; if the market covers the **point where the fall started**, the flushed counter-side is gone and the direction has changed — cut inside the limit, and don’t wait for a round number (Oct 9).
 31. **Don’t apply more brain to a wrong trade.** Once the entry is invalidated, hunting for a level that will “stop it” *is* the loss; the trade is decided, not re-argued (Oct 9).
 32. **Post-trap day: don’t demand a bigger target after the round-number breakout.** Once the RN breaks, late buyers arrive and the market can go sideways or reverse — a fresh positive push is itself a trap candidate; book the earned target (Oct 6).
+33. **Cut on the basket, not on your own index.** If the companions (Sensex/Nifty) start giving a lot of loss *in net*, the trade is over **before** your index’s level breaks — *“whether or not Bank Nifty breaks its level, the loss limit should not be crossed”* (Oct 12).
+34. **A poked round support is survivable only while the basket total stays positive.** Same shape, two outcomes: 12 Oct cut once the net turned negative; 14 Oct held through the poke because the basket stayed in profit — read the **net**, not the poke (Oct 12, Oct 14).
+35. **Exit ahead of expiry flow risk, not at a price.** When the expiring index has just given a breakout, a post-breakout retracement is the structural risk — book the profit that has been made instead of sitting for a level (Oct 15; cf. #5).
 
 ### Hold while
 - Thesis alive, loss within limit, companions not confirming the kill.
 - Continuous momentum without inviting late counter-entries.
+- The reference level (round number / “lower point”) is intact **and** the basket’s net is positive. A **small breakdown is only “good” when the chart needed the flush** (crowded-negative tape); in a **held positive chart** a small breakdown can change the direction and is a warning, not an entry cue (Oct 14).
 
 ### Re-entry
 - Allowed if direction thesis still valid and first exit was process (not revenge).
@@ -483,6 +498,15 @@ IDLE → wait for new opportunity (no revenge)
 | P128 | “Buyer/seller game” vs “direction game”: neither side has an SL → no inventory → sideways revolve; take the handed edge (handed lower ⇒ follow up), pre-set the limit and expect it to be tested | 10-07 |
 | P129 | The counter-side already SL-hit yesterday will not repeat today — a flat open after a failed cover still supports continuation; the market first invites a few buyers (hold / small retracement) then flushes them down | 10-08 |
 | P130 | A gap-up into a seller-heavy chart flushes the seated sellers → the continuation-down trade has no inventory to hunt (weak branch — size small or skip); a positive momentum larger than a normal retracement kills it — cut inside the limit, don’t wait for a round number | 10-09 |
+| P131 | Re-test the pre’s branch in the first 5–10 minutes of tape: a non-negative open that then goes hard negative makes the seated buyers the crowded side — the round number is the entry’s life-line and the basket’s net is the exit trigger, not your own index’s level | 10-12 |
+| P132 | With **no SL inventory on either side** the operator has no reason to turn the market ⇒ follow the running chart and take the side the tape is already moving | 10-14 |
+| P133 | Context decides whether a small breakdown is “good”: in a crowded-negative tape the flush is the entry; in a **held positive chart** a small breakdown can change the direction — tighten or exit | 10-14 |
+| P134 | One index can carry a three-index basket while the companions merely *don’t break*; a laggard is expected-lower-contribution, **not** non-participation | 10-14, 10-15 |
+| P135 | A **two-plan pre** is traded by its gate: take no position until the gate prints — and a small gap-up that **crosses the previous higher point** converts a sell-first plan into a buy | 10-15 |
+| P136 | A rejection that never grows leaves the counter-side **unactivated** ⇒ the sell branch it licenses is weak and must not be forced | 10-15 |
+| P137 | **One-breakdown / one-breakout rule:** with no counter-side SL at the second level, the market takes one level and not the second (closing price then round number) — count the levels the market can still take out and trade that depth | 10-16 |
+| P138 | Momentum does not exhaust in one day — pre-deciding “the market has already run, so today must fall” is what makes a good trade slip away; the extension day is where the crowd’s fixed targets fail | 10-16 |
+| P139 | Do not re-write a **closed** trade with candles you did not trade — in the trade you only get the profit you normally take | 10-14 |
 
 ---
 
@@ -515,8 +539,9 @@ After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 12. Edge ≠ 100% — every setup needs a loss branch. Reversal gate: buyers arrived? → target buyers; if not, are seller SLs left? none → market falls again. Friday / expiry-1 after a long one-way run → reversal odds up. Prepare both sides — don’t predict.
 13. Don’t enter the first big candle — wait for the settle. Crowd-wide open (gap-up) = no-trade; uncrowded open (flat) = the entry. Follow the chart, not the premium. While a loss runs, read the loss, not the chart — cut at the limit. Quantity index (BN) turning against you first = cut.
 14. No pool either side → continuation; a post-trap day is a dripped flush — book the earned target. A 1-minute reversal of a multi-hour move = sideways. Gap-up into a seller-heavy chart flushes the sellers → the sell branch is weak: size small or skip. A retracement bigger than normal = theses dead. Predefine target/SL/quantity; the branch’s quality sets the size.
+15. Two-plan day? Write the gate (previous higher point / round number) and take **no** position until it prints. Re-test the branch in the first 5–10 minutes. Count the levels the market can still take out — **one** breakdown, not two, when no counter-side SL sits at the second level. One index may carry the basket; the companions only need to not break. Cut on the basket’s net, not on your own level.
 ```
 
 ---
 
-*Last distilled: 2026-10-09. Sources: Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching + Sep 15–18 trading week (P93–P100) + Sep 21–25 trading week + Sep 26 “Weekly Market Analysis” teaching (P101–P118) + Sep 28–Oct 1 trading week + Oct 4 “The Real Benefits of Chart Trading” teaching (P119–P124) + Oct 5–9 trading week (P125–P130).*
+*Last distilled: 2026-10-16. Sources: Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching + Sep 15–18 trading week (P93–P100) + Sep 21–25 trading week + Sep 26 “Weekly Market Analysis” teaching (P101–P118) + Sep 28–Oct 1 trading week + Oct 4 “The Real Benefits of Chart Trading” teaching (P119–P124) + Oct 5–9 trading week (P125–P130) + Oct 12–16 trading week (P131–P139).*
