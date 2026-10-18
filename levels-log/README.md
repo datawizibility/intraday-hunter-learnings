@@ -384,6 +384,52 @@
 | 2026-10-09 | Nifty | 22,340 / 22,420 | R | pre ZVOpBDyGpNQ — both crossed (high 22,581) |
 | 2026-10-09 | Nifty | ≈22,284 (ASR "2284") / 22,000 | S | pre ZVOpBDyGpNQ — flagged; low 22,295 nearly tagged 22,284 |
 | 2026-10-09 | Nifty | 1,430 qty | live position | post -_o8lf08-Fg |
+| 2026-10-12 | Bank Nifty | 55,500 / 55,800 | R | pre O2MFYGzPGrQ — 55,500 tagged (high 55,416, 84 pts short); 55,800 untouched |
+| 2026-10-12 | Bank Nifty | 55,000 / 54,700 | S | pre O2MFYGzPGrQ — 55,000 broken (close 54,918); 54,700 tagged (low 54,709, 1 pt above) |
+| 2026-10-12 | Bank Nifty | level only, no qty spoken | live reference | post GAbEDa49EIk — the "round-number support" leg of the anti-crowd buy thesis; BN was never quantified on stream |
+| 2026-10-12 | Sensex | 73,000 / 73,450 | R | pre O2MFYGzPGrQ — untouched (high 72,884) |
+| 2026-10-12 | Sensex | 72,800 / 71,800 | S | pre O2MFYGzPGrQ — both broken (open 72,771 was already below 72,800; low 71,676) |
+| 2026-10-12 | Sensex | 900 qty | live position (call side) | post GAbEDa49EIk — cut at a loss; Sensex led the fall that triggered the cut |
+| 2026-10-12 | Nifty | 22,800 / 22,700 | R | pre O2MFYGzPGrQ — untouched (high 22,651) |
+| 2026-10-12 | Nifty | 22,450 / 22,340 | S | pre O2MFYGzPGrQ — both broken (low 22,304); close 22,363 just above 22,340 |
+| 2026-10-12 | Nifty | 1,430 qty | live position (call side) | post GAbEDa49EIk — cut at a loss |
+| 2026-10-13 | Bank Nifty | 55,000 / 55,300 | R | pre ZEeSYxoitic — both crossed (high 55,552) |
+| 2026-10-13 | Bank Nifty | 54,390 / 54,200 | S | pre ZEeSYxoitic — untested (low 54,736) |
+| 2026-10-13 | Bank Nifty | call side, no qty spoken | live position | post T3TbtMVb9rk — the "closed below a round number" leg of the seller-flush hunt |
+| 2026-10-13 | Sensex | 72,000 / 72,280 | R | pre ZEeSYxoitic — both crossed; close 73,034 = the day's high |
+| 2026-10-13 | Sensex | 71,200 / 70,900 (ASR "7900") | S | pre ZEeSYxoitic — flagged; untested (low 71,704) |
+| 2026-10-13 | Sensex | 900 qty | live position (call side) | post T3TbtMVb9rk — seller-SL hunt booked; covered Friday + Monday losses |
+| 2026-10-13 | Nifty | 22,390 / 22,500 | R | pre ZEeSYxoitic — both crossed; close 22,722 = the day's high (expiry day) |
+| 2026-10-13 | Nifty | 22,260 (ASR "2260") / 22,000 | S | pre ZEeSYxoitic — flagged; low 22,288 held 28 pts above 22,260 |
+| 2026-10-13 | Nifty | 1,430 qty | live position (call side, expiry) | post T3TbtMVb9rk |
+| 2026-10-14 | Bank Nifty | 55,900 / 56,200 | R | pre s0413ny8wek — untouched (high 55,645) |
+| 2026-10-14 | Bank Nifty | 55,200 / 54,900 | S | pre s0413ny8wek — 55,200 poked (low 55,168) then held as the basket's hold-line; 54,900 untested |
+| 2026-10-14 | Bank Nifty | 55,400 CE + 55,500 CE (1,170 qty each) | live strikes traded | post GTDs-o7xXq0 — two-strike call basket; BN's late momentum delivered the target |
+| 2026-10-14 | Sensex | 73,800 / 73,500 | R | pre s0413ny8wek — untouched (high 73,195) |
+| 2026-10-14 | Sensex | 72,700 / 72,200 | S | pre s0413ny8wek — 72,700 poked (low 72,579); 72,200 untested |
+| 2026-10-14 | Sensex | 900 qty | live position (weak leg) | post GTDs-o7xXq0 — did not break its level, did not pay |
+| 2026-10-14 | Nifty | ≈22,880 (ASR "2280", flagged) / 22,800 | R | pre s0413ny8wek — untouched (high 22,758) |
+| 2026-10-14 | Nifty | 22,500 / 22,420 | S | pre s0413ny8wek — held (low 22,559) |
+| 2026-10-14 | Nifty | 1,430 qty | live position (weak leg) | post GTDs-o7xXq0 |
+| 2026-10-15 | Bank Nifty / Sensex / Nifty | previous session's higher point | gate | pre 7zds7dV05SM — the cross that switched the pre's sell-first plan to buy-side; IH waited at the bell and bought only after it printed |
+| 2026-10-15 | Bank Nifty | 55,900 / 55,650 | R | pre 7zds7dV05SM — both crossed (high 56,066) |
+| 2026-10-15 | Bank Nifty | 55,210 / 54,900 | S | pre 7zds7dV05SM — untested (low 55,279) |
+| 2026-10-15 | Bank Nifty | 55,400 CE + 55,500 CE (1,170 qty each) | live strikes traded | post Z4asg2VSGME — range-bound laggard that still crossed its level |
+| 2026-10-15 | Sensex | 73,800 / 73,200 | R | pre 7zds7dV05SM — both blown through (high 74,330, close 74,316; a +1,534 session) |
+| 2026-10-15 | Sensex | 72,700 / 72,200 | S | pre 7zds7dV05SM — untested (low 72,896) |
+| 2026-10-15 | Sensex | 900 qty | live position (expiry day) | post Z4asg2VSGME — the day's engine; the expiry leg whose flow risk dictated the exit |
+| 2026-10-15 | Nifty | ≈22,880 (ASR "2280", flagged) / 22,760 | R | pre 7zds7dV05SM — both crossed; close 22,997 just under 23,000 |
+| 2026-10-15 | Nifty | 22,500 / 22,420 | S | pre 7zds7dV05SM — untested (low 22,637) |
+| 2026-10-15 | Nifty | 1,430 qty | live position | post Z4asg2VSGME |
+| 2026-10-16 | Bank Nifty | 56,200 / 56,500 | R | pre pt_Lcn76ttw — untouched (high 55,990) |
+| 2026-10-16 | Bank Nifty | 55,500 (ASR "5500", verify) / 55,200 | S | pre pt_Lcn76ttw — 55,500 held (low 55,526; the one-breakdown rule); the OHLC confirms the 55,500 reading over 55,000; 55,200 untested |
+| 2026-10-16 | Bank Nifty | 1,170 qty (call side) | live position | post UiiR2JsVGck — laggard index that caught up a candle later |
+| 2026-10-16 | Sensex | 74,640 / 75,100 | R | pre pt_Lcn76ttw — 74,640 crossed (high 74,779); 75,100 untouched |
+| 2026-10-16 | Sensex | 73,610 / 73,200 | S | pre pt_Lcn76ttw — untested (low 74,013); yesterday's resistance acting as the floor |
+| 2026-10-16 | Sensex | 900 qty | live position (call side) | post UiiR2JsVGck |
+| 2026-10-16 | Nifty | 23,100 / 23,200 | R | pre pt_Lcn76ttw — 23,100 crossed (high 23,150); 23,200 missed by 50 pts |
+| 2026-10-16 | Nifty | 22,850 / 22,700 | S | pre pt_Lcn76ttw — untested (low 22,914) |
+| 2026-10-16 | Nifty | 1,430 qty | live position (call side) | post UiiR2JsVGck |
 | 2023-02-12 | Bank Nifty | ~42,000 / ~40,000 | post-budget range top / lower level | teaching rdetVddnPyk (ASR) |
 | 2023-02-12 | Bank Nifty | 40,500 | seller's minimum target (round number) | teaching rdetVddnPyk |
 | 2023-02-12 | Bank Nifty | 41,600 / 41,800 | exit-up fork for a sell position (safe / more room) | teaching rdetVddnPyk (ASR) |
