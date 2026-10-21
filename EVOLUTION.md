@@ -4915,6 +4915,76 @@ A **mindset-only session** with no chart, no level, no trade and no outcome. Its
 
 ---
 
+**2025-12-21 — How to Progress in Trading Over Time || By Intraday Hunter**
+🟡 REFINED (the operator write-side becomes a readable **chart rhythm** · the trade count as a **permission ladder** · the hard loss limit gains an **exception clause** · index-relative internals become an explicit **hold** argument) + 🔵 NEW (instrument-hopping named as a size-caused symptom) + 🟢 STABLE (the operator/retail split · three-to-four momentum legs a day · repetitions-up-quantity-down while learning · averaging as the largest loss category · the SL-hunting seating read · loss is structural, the counterparty is lakhs of people) + 🔴 NONE ASSERTED `DOe17juqG2Y` · note: `teaching/2025-12-21-how-to-progress-in-trading-over-time-by-intraday.md`
+
+⭐ **Progress is re-derived from the two counterparties.** The operator cannot be found, only his method — *"ऑपरेटर के लिए मेथड होते हैं। ऑपरेटर को आप डायरेक्टली फाइंड आउट नहीं कर सकते।"* — while retail is readable on sight because *"डर के मारे भागता रहता है और लालच करता है"*. The operator's two assets are named: *"अच्छा कैपिटल होता है। अच्छा इंफॉर्मेशन का पावर होता है।"*
+
+⭐ **The write-side is given a chart signature.** The rhythm is walked through twice: the fast downside momentum raises put premiums, he writes them, and the market then drifts back on small candles — *"जो ऑपरेटर होगा वो उसको राइट कर देगा। पुट को राइट कर देगा।"* and *"छोटे-छोटे कैंडल बनाकर ऊपर निकलता रहेगा"* — with the law stated flatly: *"नॉर्मली ऐसे चार्ट तब बनाता है मार्केट जब ऑपरेटर किसी पुट को राइट कर रहा हो।"* The trap half is that retail reads the drift as selling that must retrace and buys, after which *"फिर अचानक से रिजेक्शन आ जाएगा। बायर को भगा देगा और अचानक से पुट के प्रीमियम इनक्रीज हो जाएंगे"*. The call side is the mirror — *"यहां पर वो क्या कर रहा होगा? कॉल को राइट कर रहा होगा।"*
+
+- 🟢 **STABLE — the two-trader frame (2022-11-20 → 2023-04-23 → 2024-05-05 → 2024-07-21 → 2025-03-23).** Operator by **method**, retail by **fear and greed**. Seventh-plus appearance, no drift.
+- 🟡 **REFINED — the operator write-side as a readable CHART RHYTHM (2024-03-24 · 2024-11-10 · 2024-11-29 · 2024-12-02).** The corpus carried the **reverse** causal direction: the operator **hunting** small parked writers with a fast move (2024-11-10/29), call-writing enforcing a range (2024-03-24), the expiry-regime law (2024-12-02). Today the same mechanism becomes **pattern recognition** — the fast-then-slow-candle sequence *is itself* the tell that he is writing, so the side is identified from the rhythm rather than only inferred from premium behaviour.
+- 🟡 **REFINED — the trade count becomes a PERMISSION LADDER (2025-01-19 · 2025-06-22).** 2025-01-19 fixed a flat count; 2025-06-22 restated it as the mindset lever. Today: *"अगर आपका लॉस होता है तो आपने दो ट्रेड कर लिए। अगर आपका प्रॉफिट होता है तो तीन से चार ट्रेड कर लिए।"* — and each next trade is identified only once the previous one paid: *"सेकंड ट्रेड में प्रॉफिट बन गया तो थर्ड ट्रेड आइडेंटिफाई कर लिया।"* A flat cap becomes conditional.
+- 🟢 **STABLE — three-to-four momentum legs a day (2025-03-23 · 2025-06-22).** *"नॉर्मली क्या होता है मार्केट में तीन से चार ही मोमेंटम होते हैं।"* Here it is the market's own ceiling on how many good trades can exist.
+- 🟢 **STABLE — repetitions up, quantity down while learning (2023-01-22).** 2023-01-22 carries the ancestor; today supplies the mechanism — mistakes are the curriculum (*"गलतियों से मार्केट को सीखा जा सकता है"*) and big size destroys them (*"माइंडसेट खराब हो जाएगा। टाइम खराब हो जाएगा।"*).
+- 🟢 **STABLE — averaging is the largest single loss category (2023-02-19 · 2023-03-26 · 2023-07-16 · 2023-09-10 · 2023-12-30 · 2024-03-17 · 2026-09-13).** *"सबसे जो बड़ा नुकसान होता है ना मार्केट के अंदर वो होता है एवरेजिंग से"*, with the replacement procedure in one line: *"एवरेज करने से अच्छा है ट्रेड को कट करके सेकंड ट्रेड आपने बना लिया।"*
+- 🟢 **STABLE — a method with a reason is the entry requirement (2024-11-16 · 2024-12-12 · 2025-11-09).** The SL-hunting seating read — *"हमें देखना होता है कि कहां पे बयर बैठा है, कहां पे सेलर बैठा है"* — is the corpus seating spine, stated here as the prerequisite for progress rather than as a trade filter, with support/resistance and retracement depth named as valid alternatives.
+- 🟡 **REFINED — index-relative internals become an explicit HOLD argument (2024-04-21).** 2024-04-21 carried index divergence as **market structure** (Bank Nifty left sideways while the operator target completed in Fin Nifty). Today the same observation justifies **holding a losing position**: *"अगर इनमें सेलिंग ऑलरेडी ठीक-ठाक आ चुका है तो बैंक निफ्टी ज्यादा नहीं गिरेगा। ये घूमने वाला है"* — with the escape clause that keeps it from being a rule: *"अदरवाइज अगर लगता कि मार्केट के अंदर कोई पर्टिकुलर सेटअप नहीं बन रहा है तो यहां पर भी हम ट्रेड वगैरह कट करके चले जाते।"*
+- 🟡 **REFINED — the hard loss limit gains an exception clause (2024-12-03 · 2025-08-24).** Both carry the booking limit. Today the single permitted exception is a **live structural reason** (seller SLs still available plus the index divergence above), and the bare version is forbidden outright: *"कभी भी ऐसे पीछे मत पड़ जाना कि सर यहां पे तो एसएल है तो मैं बैठा ही रहूंगा। वो काम कभी नहीं करना है।"*
+- 🟢 **STABLE — loss is structural, not personal (2024-11-29 · 2025-10-26).** 2024-11-29's epistemic foundation here becomes the crowd argument: *"मार्केट देखिए एक अकेले आदमी का काम नहीं है। यहां पर लाखों करोड़ों लोग काम कर रहे हैं।"*
+- 🔵 **NEW — instrument-hopping named as the downstream symptom of learning with wrong size.** *"पोजीशनल ट्रेड करना शुरू कर देंगे … इन्वेस्टिंग की तरफ भागना शुरू कर देंगे … फिर पैसा कहीं नहीं बनेगा।"* No earlier dated session names the intraday → positional → investing drift as a size-caused symptom.
+- 📌 **Fidelity:** the digit scan is **empty** — no numeric token of any kind in the 13,926-character clip. Indices are named (बैंक निफ्टी, निफ्टी, ससेक्स) but never with a price, and he says so himself: *"अभी आसपास कोई चार्ट अवेलेबल है नहीं।"* **Nothing routed to `levels-log/` (honest zero).** No quantity, strike, premium or rupee figure. ⚠️ ASR gives *"कभी कबभार"* for *कभी कभार*.
+- 🔴 **CONTRADICTS: none found.**
+
+---
+
+**2026-01-04 — How to Take Quick Trade Decisions Without Panic or Fear**
+🟡 REFINED (size relocated from loss-control to **decision-enabler**) + 🔵 NEW (the **HOW** — a pre-held structural image — as the missing half of the direction call · the two-trader same-capital A/B as the proof of the decision-speed claim) + 🟢 STABLE (the recovery-trade ban · a fixed trade count · a setup carries a **refusal branch** · no position means no target · the retracement sequence · quick decisions are not gambling · judgement belongs to a stretch) + 🔴 **CONTRADICTS (RECORDED, NOT RESOLVED)** + ⚪ NOT RESTATED (no level or expiry apparatus in the clip) `0lWj6kaDpFU` · note: `teaching/2026-01-04-how-to-take-quick-trade-decisions-without-panic-.md`
+
+⭐ **The headline is that quick is a PRE-BUILT decision, not a fast reaction.** Plan of execution, setup, size and count are fixed before the open, so speed is an output of preparation. The enabling mechanism is **size**: with everything deployed the mind watches its own capital instead of the tape, and a single red candle blocks a plan already written.
+
+⭐ **The session's sharpest addition is the HOW.** Direction is not enough; the trader must pre-hold a **structural image of how the move will arrive** — *"एक स्ट्रक्चर बनना चाहिए चार्ट का"* — with the named failure being direction-known, shape-unknown: *"लेकिन वह जाएगा कैसे?"*
+
+- 🟢 **STABLE — the recovery-trade ban as the precondition (2022-02-19 → 2022-04-17 → 2022-07-02 → 2022-09-24 → 2022-10-22).** 2022-02-19 is the corpus first dated statement (a prior loss has no deadline for recovery and is not a valid reason for a new trade) and 2022-10-22 is the motive test. Today adds only the *reason* it blocks speed: recovery trading must end before quick decisions are learnable.
+- 🟢 **STABLE — fix the number of trades (2025-01-19 · 2025-06-22).** 2025-01-19 fixed the count and 2025-06-22 supplied the failure pattern; today restates it with its own numbers plus the on-camera conclusion that the decision gets both faster and better.
+- 🔴 **CONTRADICTS — the count-based definition of over-trading (RECORDED, NOT RESOLVED).** Today treats an unknown daily count as the definition of the problem — not knowing whether you are a `10 ट्रेड करने वाले हो, 11 ट्रेड करने वाले हो, 15 ट्रेड करने वाले हो` is stated as over-trading that voids the benefit of quick decisions. 2022-10-22 stated the opposite and explicitly removed the count version: `ओवर-ट्रेडिंग यह नहीं होता कि आपने एक दिन के अंदर 10 ट्रेड कर लिए, 20 ट्रेड कर लिए — वो कोई ओवर-ट्रेडिंग नहीं है`, defining over-trading by **motive** (trading to recover) instead. **Both dated statements stand; not averaged, not resolved by preference — for Amit.**
+- 🟡 **REFINED — the purpose of trading only a small portion of the capital (2022-05-08 · 2022-06-18).** Both framed size as **loss and continuity control** (loss-first sizing with the ≈15% per-trade-risk illustration, and the rupee size ladder). Today keeps the rule — *"फुल कैपिटल के साथ कभी भी ट्रेड नहीं करना चाहिए"* — and relocates its purpose: size is what makes the **decision** possible at all.
+- 🟢 **STABLE — a setup carries a refusal branch (2025-10-26 · 2023-01-22).** Today he states that had his plan required eating seller stop-losses there, he would not have traded at all — the refusal, not the forecast, made the call instant.
+- 🟢 **STABLE — no position means no target (2025-11-30 · seating spine 2024-11-16 / 2024-12-12).** *"अगर रिटेल का पोजीशन वहां पे अवेलेबल नहीं है तो उनको हम टारगेट नहीं बनाते"* — and the corollary used here is that absent a pool, the existing strength can simply continue.
+- 🟢 **STABLE — quick decisions are not gambling (2022-04-23 · 2023-05-21).** Today's version is the gambler's lost net-sense — the trader who cannot report what he is net accumulating.
+- 🟢 **STABLE — judgement belongs to a stretch, not a day (2025-01-19 · 2023-01-22).** Today priced with his own window arithmetic: five-to-six days flat or small loss, the last three-to-four covering the back.
+- 🔵 **NEW — the HOW as a requirement for decision speed.** The corpus has repeatedly required the crowd and stop read before entry, but no earlier dated session makes a pre-held **structural image of how the move will arrive** the missing half of the direction call.
+- 🔵 **NEW — the two-trader, same-capital, different-portion comparison** as the proof of the decision-speed claim: identical capital, one trader working the whole stack (blocked by a single red candle from an entry his own plan demanded) versus one working one-or-two lots.
+- ⚪ **NOT RESTATED (absence, not a drop)** — no expiry-writer mechanism, no parked stop-loss small-candle trap, no range-fade rule, no named index and no level. Recorded as an **absence**: this is a mindset session with no chart read, and nothing in the corpus is withdrawn by it.
+- 📌 **Fidelity:** digit scan 10 / 4 / 60 / 70 / 5000 / 10 / 11 / 15 — trade counts, percentages and illustrative figures; **not one is a price.** **`levels-log/` rows routed: 0 (honest zero).** No P&L, size or rupee risk spoken.
+
+---
+
+**2026-01-18 — Why You’re Not Making Profit in the Stock Market**
+🟡 REFINED (effort moved off the trade count into **learning hours** · the retracement flush becomes the **next day fuel** · the profit cap made symmetric with the loss cap) + 🔵 NEW (the **feeling attached to an already-entered trade**, with a bounded wait as the remedy) + 🟢 STABLE (the seated-pool read supplies the direction · SL hunting recorded from the receiving end · the execution-first law · the decision-time tax on tool count · a missed move is closed business · the round number as a both-ways trap · loss has a stabilising function) + 🔴 NONE ASSERTED `wh3YvREsCoM` · note: `teaching/2026-01-18-why-you-re-not-making-profit-in-the-stock-market.md`
+
+⭐ **Effort is re-allocated and given numbers** — *"ट्रेडिंग में मेहनत कम करेंगे। सीखने में मेहनत ज्यादा करेंगे"* — with the failure bar stated: *"6 घंटे अगर आप ट्रेडिंग कर रहे हो, मार्केट के अंदर बैठे रहते हो तो समझ लेना रास्ता गलत है"*.
+
+⭐ **The retracement flush gains a second job.** 2025-11-09 made the flush the explanation of a **loss**; today the flush is read as the **precondition of the next trade** — *"एक रिट्रेसमेंट हो चुका है। आसपास के सेलर को भगा चुका है"* ⇒ *"यहां पे डायरेक्टली सेलर के एसएल अवेलेबल है नहीं"* — which is exactly why the following session sell paid.
+
+⭐ **The week own trade is the illustration, and it is a loss.** The Monday trade had the right read and the right plan, and the retracement still took the stop — *"जब रिट्रेसमेंट हुआ तो उसमें हमारा एसएल वगैरह मार्केट ने हिट कर दिया"* — then *"और वहां पे अपना लॉस हुआ"*. His framing is the execution-first law in first person: *"ऑलमोस्ट हम सही होने वाले थे। लेकिन सही टाइम पे हमने डिसीजन नहीं लिया।"*
+
+- 🟡 **REFINED — effort migrated off the trade count into learning HOURS (2024-12-10 · 2025-06-22).** Over-trading was named the single biggest error (2024-12-10) and trade-less the mindset lever (2025-06-22); today both are restated inside one effort law with a concrete split of six hours.
+- 🟡 **REFINED — the retracement flush becomes the next day fuel (2025-11-09).** The flush was a **cost**; here it is the reason the next session has fuel, so it is read as a planning precondition rather than only as the explanation of a loss.
+- 🟢 **STABLE — the seated-pool read supplies the day direction (2024-12-12 · 2025-05-04).** *"अगर यहां पे सेलर के एसएल अवेलेबल है नहीं"* ⇒ *"सेलिंग का मोमेंटम एक्सपेक्टेड कर सकते हैं"*. The family other readings (2025-03-23, 2025-03-30, 2025-04-13) are untouched, not averaged.
+- 🟢 **STABLE — SL hunting recorded from the receiving end (2025-11-09).** His own stop was the one collected — *"जब रिट्रेसमेंट हुआ तो उसमें हमारा एसएल वगैरह मार्केट ने हिट कर दिया"*.
+- 🟢 **STABLE — the execution-first law (2024-12-08).** The loss lives in execution, not analysis; today **correct analysis, correct plan, stop still taken**.
+- 🟢 **STABLE — the decision-time tax on tool count (2023-01-22 · 2022-06-05).** Stacking inputs on a working chart read destroys the timing of the decision.
+- 🟢 **STABLE — a missed move is closed business (2025-11-09 · 2025-06-22).** *"एव्री अपॉर्चुनिटी को गैब करने की कभी भी आवश्यकता नहीं है"*.
+- 🟡 **REFINED — the profit cap becomes symmetric with the loss cap and gets a standing form (2024-12-15 · 2025-01-19).** *"प्रॉफिट का भी लिमिट रखो, लॉस का भी लिमिट रखो"*, with the waiting-in-the-market failure named.
+- 🟢 **STABLE — the round number where both sides sit is a both-ways trap (2024-03-24 · 2025-03-30).** The market pushed above it to build the trap and came back the same distance.
+- 🟢 **STABLE — loss has a stabilising function (2025-10-26).** The loss is absorbed in one line — *"लॉस हो गया। ठीक है? कोई प्रॉब्लम नहीं"* — and the same pool logic is re-traded profitably the next session.
+- 🔵 **NEW — the feeling attached to an already-entered trade, with a bounded wait as the remedy.** No earlier dated statement carries this mechanism; the nearest neighbours (2024-12-15, 2025-01-19) are fear after a profit run and a feeling journal, not attachment to a specific open trade.
+- 📌 **Fidelity:** **`levels-log/` rows routed: 2** — **59,500** (held-above support, with the buyer stop-pool below; ⚠️ the bare *"500"* is the ASR-truncated tail of this SAME level spoken in the same breath, recorded as one level, and the full form is spoken one sentence later so no digit is inferred from scale) and **60,000** (both-sides round-number trap level). The index is never named with either number. `400`/`450` are option **premiums**, not index levels, and are not routed; `1 minute` / `6 hours` / `6-6 hours` are clock and timeframe. ⚠️ the seller-SL sentences carry a polarity-ish word order and are quoted exactly as spoken — meaning that seller stops are **not** available is carried by the surrounding sentences.
+- 🔴 **CONTRADICTS: none asserted.**
+
+---
+
 ### 2026 — the live-application era
 Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuild began.
 
@@ -5206,9 +5276,9 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **191 videos** | |
-| Processed | **156** | | |
+| Processed | **159** | | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
-| Remaining | **34** | | |
-| Next (chronological) | `20251221 DOe17juqG2Y` How to Progress in Trading Over Time \|\| By Intraday Hunter | | |
+| Remaining | **31** | | |
+| Next (chronological) | 20260215 `Jg-suh_OVo0` — Why Most Traders Struggle in the Market By Intraday Hunter |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
