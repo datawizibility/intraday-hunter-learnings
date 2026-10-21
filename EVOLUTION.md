@@ -5375,7 +5375,7 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | Corpus size | **191 videos** | |
 | Processed | **162** | | |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
-| Remaining | **31** | | |
+| Remaining | **28** | | |
 | Next (chronological) | 20260322 `ZLpWNw34zGQ` — Candlestick and Timeframe Understanding to Take Trade By Intraday Hunter |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
 | Status file | `ih_teaching/manifest.json` | |
