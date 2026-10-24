@@ -71,8 +71,8 @@ Digit tokens in the whole clip (full scan, in order), classified:
 | Number | As spoken | Class | Routed? |
 |--------|-----------|-------|---------|
 | `24,500` | *"अगर यहां पे लेवल होता 24,500 का"* | **hypothetical illustration** — a level that did *not* exist | **No** — he is describing what the chart *would* have needed; routing it would invent a level |
-| `58000` / `58,000` | *"होल्ड किया 58000 के आसपास"* · *"जब तक मार्केट 58,000 के ऊपर ना जाए"* · *"अगर 58,000 के ऊपर अगर हमें कोई ओपनिंग मिलता है"* · *"मार्केट एग्जैक्टली 58,000 के ऊपर ओपन हो गया"* · *"58,000 का ब्रेकआउट करके"* | **price level — chart read** | **Yes** — one row (the comma form and the run-together form are the same level) |
-| `58,000` (2nd, later chart) | *"हमने देखा कि यहां पे क्या है 58000 का लेवल है"* | **price level — chart read** | **Yes** — same value, the following week's tape; recorded per the log convention of separate dated tapes |
+| `58000` / `58,000` | *"होल्ड किया 58000 के आसपास"* · *"जब तक मार्केट 58,000 के ऊपर ना जाए"* · *"अगर 58,000 के ऊपर अगर हमें कोई ओपनिंग मिलता है"* · *"मार्केट एग्जैक्टली 58,000 के ऊपर ओपन हो गया"* · *"58,000 का ब्रेकआउट करके"* | **price level — chart read** | **Yes** — ONE row (both spellings and both tapes in this clip are the same level) |
+| `58,000` (the clip's later tape) | *"हमने देखा कि यहां पे क्या है 58000 का लेवल है"* | **price level — chart read** | **No — same level as the row above, not duplicated** (one 58,000 gate across both tapes in this clip) |
 | `58,500` | *"उसमें देखिए 58,500 का लेवल है। ऊपर चला गया था मार्केट।"* | **price level — chart read** | **Yes** — one row |
 | `30 जून` ×2 | *"ये कौन सा डेट है? 30 जून।"* / *"यह देखिए 30 जून का चार्ट है।"* | **date** | No |
 | `300` | *"300 क्वांटिटी लेना चाहते थे तो उसका हाफ कर दो।"* | **quantity illustration** | No |
@@ -82,7 +82,7 @@ Fidelity notes:
 - ⚠️ **The ASR prints the same level two ways** (`58000` and `58,000`) inside one clip. Recorded as ONE level per tape, not as two.
 - ⚠️ **ASR garbling reproduced, not repaired:** *"सबसे ज्यादाेंट होता है"* is a damaged word (contextually *सबसे ज्यादा … ट्रेड*). Quoted as spoken. *"फर्दर"* is the ASR's spelling of *further*. *"एग्जैक्टली"* is as spoken.
 - ✅ No strike, no option premium, no expiry date, no ₹ P&L, no percentage appears anywhere in the clip.
-- `levels-log/` rows routed: **3** (58,000 week-1 tape · 58,000 week-2 tape · 58,500), all three ⚠️ index-unnamed with the Bank-Nifty scale written as a flagged inference.
+- `levels-log/` rows routed: **2** (58,000 — one row covering both tapes in the clip · 58,500), both ⚠️ index-unnamed with the Bank-Nifty scale written as a flagged inference. The 2026-07-19 session's 58,000 row already stands in the log at line 5 (written with the earlier short note `teaching/2026-07-19-closed-chart.md`) and is deliberately not duplicated.
 
 ### Evolution vs earlier
 - 🟢 **STABLE — a breakout with no stops above it is a sell, not a buy.** The load-bearing read of this clip. First stated **2024-12-12**: *"🔵 NEW — A BREAKOUT WITH NO STOPS ABOVE IT IS A SELL, NOT A BUY."* Still the same mechanism two years later, now phrased through the round-number absence (*"कोई राउंड नंबर आसपास नहीं है"*) and generalised: a rally needs stops above it as fuel. Its oldest cousin is **2022-11-20** — *"यहां पे कोई राउंड नंबर भी अवेलेबल नहीं है, तो मार्केट में सेलर यहां पे आएंगे नहीं"*.
@@ -113,7 +113,7 @@ Fidelity notes:
 11. **Same-looking layouts are not the same.** The Bank-Nifty-holds-while-others-break setup only worked because the other two indices had big gap-ups; in the cleaner version of the same layout the support would have held.
 
 ### Day-specific only (don't overfit)
-- The three routed levels (58,000 on two tapes, 58,500) and the 30 June chart belong to this week's tape and are **historical chart reads**, not standing levels. They live in `levels-log/` with the Bank-Nifty scale marked as a flagged inference.
+- The two routed levels (58,000 — one row across the clip's two tapes — and 58,500) and the 30 June chart belong to this week's tape and are **historical chart reads**, not standing levels. They live in `levels-log/` with the Bank-Nifty scale marked as a flagged inference.
 - The *24,500* figure is a teaching illustration of a level that was **absent** — it is not a level and must never be traded as one.
 - The half-size (300 → 150) example is a sizing illustration, not a quantity instruction.
 - "Holiday behind a rejection means the seated side is flushed" is a **condition to check**, not a licence: this session records it as the reason a setup looked right and still lost.
