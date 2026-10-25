@@ -430,6 +430,45 @@
 | 2026-10-16 | Nifty | 23,100 / 23,200 | R | pre pt_Lcn76ttw — 23,100 crossed (high 23,150); 23,200 missed by 50 pts |
 | 2026-10-16 | Nifty | 22,850 / 22,700 | S | pre pt_Lcn76ttw — untested (low 22,914) |
 | 2026-10-16 | Nifty | 1,430 qty | live position (call side) | post UiiR2JsVGck |
+| 2026-10-19 | Bank Nifty | 56,200 / 56,500 | R | pre CsF0fsgdGvw — both untouched (high 55,884) |
+| 2026-10-19 | Bank Nifty | 55,200 / 55,000 (ASR "5500") | S | pre CsF0fsgdGvw — ⚠️ "5500" truncated; both untested (low 55,331) |
+| 2026-10-19 | Bank Nifty | 55,400 CE (1,170 qty) | live strike traded | post bMk6zfclvGI — the flat-open buy after the round-number flush |
+| 2026-10-19 | Sensex | 75,000 / 75,500 (ASR "75,5500") | R | pre CsF0fsgdGvw — both untouched (high 74,850) |
+| 2026-10-19 | Sensex | 74,200 / 73,800 | S | pre CsF0fsgdGvw — both broken (low 73,709) |
+| 2026-10-19 | Sensex | 900 qty | live position (call side) | post bMk6zfclvGI |
+| 2026-10-19 | Nifty | 23,200 / ≈23,000 (ASR "2300") | R | pre CsF0fsgdGvw — ⚠️ flagged; 23,200 untouched (high 23,175); the ≈23,000 round number is the one IH says broke down live |
+| 2026-10-19 | Nifty | 22,950 / 22,860 | S | pre CsF0fsgdGvw — both broken (low 22,845) |
+| 2026-10-19 | Nifty | 1,430 qty | live position (call side, expiry) | post bMk6zfclvGI |
+| 2026-10-21 | Bank Nifty | 55,900 / 56,200 | R | pre GbVF4_erGqo — both untouched (high 55,867) |
+| 2026-10-21 | Bank Nifty | 55,200 / 54,900 | S | pre GbVF4_erGqo — both broken (low 54,696) |
+| 2026-10-21 | Bank Nifty | 55,700 CE (1,170 qty) | live strike traded | post qNXxJKrmJHg — the gap-up trapped-seller hunt (the week's cleanest buy day) |
+| 2026-10-21 | Sensex | 74,250 / 74,790 | R | pre GbVF4_erGqo — 74,250 crossed (high 74,682); 74,790 untouched |
+| 2026-10-21 | Sensex | 73,200 / 72,700 | S | pre GbVF4_erGqo — untested (low 73,229, 29 pts above 73,200) |
+| 2026-10-21 | Sensex | ~74,500 | seller-SL pool / exit trigger | post qNXxJKrmJHg — *"उसके एसएल 74,500 के आसपास ही होने चाहिए"*; the day's exit trigger once the pool was consumed |
+| 2026-10-21 | Sensex | 900 qty | live position (call side) | post qNXxJKrmJHg |
+| 2026-10-21 | Nifty | ASR "2380 230" | R | pre GbVF4_erGqo — ⚠️ truncated / UNRESOLVED (supports imply the band is near 22,800, so 23,800 is implausible); no reconstruction asserted |
+| 2026-10-21 | Nifty | 22,780 / 22,700 | S | pre GbVF4_erGqo — both broken (low 22,650) |
+| 2026-10-21 | Nifty | 1,430 qty | live position (call side) | post qNXxJKrmJHg |
+| 2026-10-22 | Bank Nifty | 55,400 / 55,100 | R | pre Hj3d2kKke_I — 55,100 crossed by 34 pts (high 55,134); 55,400 untouched |
+| 2026-10-22 | Bank Nifty | 54,390 / 54,200 | S | pre Hj3d2kKke_I — both untested (low 54,459, 69 pts above 54,390) |
+| 2026-10-22 | Bank Nifty | ~54,500 (ASR "500 के लेवल") | round number / line in the sand | post zpDHFRj9pmU — ⚠️ truncated; index named in the same sentence, scale from the pre band + the 54,700 strike; poked by 41 pts (low 54,459) then recovered |
+| 2026-10-22 | Bank Nifty | 54,700 CE (1,170 qty) | live strike traded | post zpDHFRj9pmU — inside the pre band; the noisy leg that still paid |
+| 2026-10-22 | Sensex | 74,800 / 73,970 | R | pre Hj3d2kKke_I — both untouched (high 73,721) |
+| 2026-10-22 | Sensex | 73,000 | round number / line in the sand | post zpDHFRj9pmU — pre-entry condition *"अगर ये 73,000 के नीचे चला जाता है"*; low 73,005 HELD (5 pts above) |
+| 2026-10-22 | Sensex | 72,700 / 72,000 (ASR "72700 72") | S | pre Hj3d2kKke_I — ⚠️ second support written as bare "72"; both untested (low 73,005) |
+| 2026-10-22 | Sensex | 900 qty (expiry day) | live position (call side) | post zpDHFRj9pmU |
+| 2026-10-22 | Nifty | 23,000 / 22,800 (ASR "2300 2280") | R | pre Hj3d2kKke_I — ⚠️ leading digits dropped; both untouched (high 22,785) |
+| 2026-10-22 | Nifty | 22,550 / 22,420 | S | pre Hj3d2kKke_I — untested (low 22,555, 5 pts above 22,550) |
+| 2026-10-22 | Nifty | 1,430 qty | live position (call side) | post zpDHFRj9pmU |
+| 2026-10-23 | Bank Nifty | 55,400 / 55,100 | R | pre E8ZaDDdgnio — both untouched (high 54,990; 55,100 missed by 110 pts) |
+| 2026-10-23 | Bank Nifty | 54,400 / 54,200 | S | pre E8ZaDDdgnio — both broken (low 53,942) |
+| 2026-10-23 | Bank Nifty | ~54,500 (ASR "500 के लेवल") | round number / exit gate | post PbYJghYguf4 — ⚠️ truncated; 54,000 is the alternative reading and 55,000 is RULED OUT (BN opened 54,966, already below it); the breakdown of this level triggered the booking |
+| 2026-10-23 | Sensex | 74,800 / 73,970 | R | pre E8ZaDDdgnio — both untouched (high 73,767) |
+| 2026-10-23 | Sensex | 72,700 / 72,000 (ASR "72") | S | pre E8ZaDDdgnio — 72,700 broken (low 72,452); 72,000 held |
+| 2026-10-23 | Sensex | 900 qty | live position (put side) | post PbYJghYguf4 — put side; NO Bank Nifty leg was traded this day |
+| 2026-10-23 | Nifty | 23,280 (second resistance MISSING from the ASR where he says "दो रेजिस्टेंस") | R | pre E8ZaDDdgnio — ⚠️ not reconstructed; 23,280 untouched (high 22,787) |
+| 2026-10-23 | Nifty | 22,550 / 22,420 | S | pre E8ZaDDdgnio — both broken/undercut (low 22,372) |
+| 2026-10-23 | Nifty | 1,430 qty | live position (put side) | post PbYJghYguf4 |
 | 2023-02-12 | Bank Nifty | ~42,000 / ~40,000 | post-budget range top / lower level | teaching rdetVddnPyk (ASR) |
 | 2023-02-12 | Bank Nifty | 40,500 | seller's minimum target (round number) | teaching rdetVddnPyk |
 | 2023-02-12 | Bank Nifty | 41,600 / 41,800 | exit-up fork for a sell position (safe / more room) | teaching rdetVddnPyk (ASR) |
