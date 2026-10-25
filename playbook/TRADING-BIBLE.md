@@ -3,7 +3,7 @@
 **Purpose:** one durable reference distilled from **weekday `daily/` notes and Sunday `teaching/` lessons**. Use it to trade with a checklist, and later to encode a rules engine / bot.
 
 **Not:** day-specific levels, exact quantities, or copied “signals.”  
-**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 edge teaching + Sep 15–18 + **Sep 21–25 trading week + Sep 26 weekly teaching + Sep 28–Oct 1 trading week + Oct 4 "chart, not premium" teaching**, 2026 (update when new “Keep permanently” lessons appear).  
+**Source window:** Jul 19 teaching + Jul 20–24 + Jul 27–31 + Aug 2 weekly + Aug 3–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 edge teaching + Sep 15–18 + **Sep 21–25 trading week + Sep 26 weekly teaching + Sep 28–Oct 1 trading week + Oct 4 "chart, not premium" teaching + Oct 5–9 + Oct 12–16 trading weeks + **Oct 19–23 trading week + Oct 25 "Master Risk-Reward Ratio" teaching**, 2026 (update when new “Keep permanently” lessons appear).  
 **Note:** Sunday videos are experience-sharing — their permanent lines belong here alongside daily process lessons.
 
 **Disclaimer:** Educational synthesis only. Channel is not SEBI-registered. Your capital, broker rules, and risk limits override everything here.
@@ -74,6 +74,7 @@ Fill these **before** 9:15. A bot needs the same fields as structured inputs.
 - Buyers already in **deep profit** into a holiday/close → don’t force them as hunt targets (Jul 20 pre)
 - A **failed cover attempt** (market tries to cover, weakness returns) leaves the cover-buyers in loss *and* the earlier counter-side already stopped out — both pools are gone; read it as a continuation day (Oct 8).
 - A momentum leg whose buyers **booked their targets and left** leaves **no retail buyer SL** to hunt: in a negative multi-day tape that empties the buyer pool and makes the next flat / small-gap-down open a follow-the-chart BUY (Oct 14).
+- A **range day** whose seated side is then taken out by the session's own momentum reversal leaves **no pool on either side** — buyers and sellers end up sitting above the *same* price level with no big quantity taken by anyone. The next session is a **follow-the-chart day, not a hunter's day**: there is no target available and no stop cluster to measure depth against (Oct 23).
 
 ### Unclear when
 - Slow selling, no momentum, repeated rejection↔bounce in a small range
@@ -107,6 +108,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | **Cleared / holiday** | Temptation trap risk → **SELL** late FOMO | Careful | No clean plan often | Follow market | Avoid |
 | **Unclear / mixed** | **BUY** if recovery/cover regime | **Follow** what’s already happening | **Follow** or no plan | Follow | Avoid |
 | **Range / shrinking momentum** | **BUY** if open momentum confirms | Wait for first tape | **NO PLAN** on small gap-down | **SELL** only if buyers still sitting | Avoid |
+| **Sellers seated** (continuous selling on the big indices, BN flat) | Gap-up → **BUY** — the best version: the seated seller has no second exit, so the trap is already sprung (Oct 21) | Flat / small gap-down → **BUY** target the seated sellers (Oct 21) | **BUY** target overnight sellers (Oct 21, cf. Oct 14) | Not stated | Not stated |
+| **No pool either side** (the seated side was already flushed by the prior session's momentum and nobody replaced it) | Follow the chart's own direction — do not invent a hunt (Oct 23) | Flat / small gap-down → **SELL** continuation, follow the tape (Oct 23) | Same — follow, no hunt | Not stated | No hunt |
 
 ### Gap size nuance
 - **Light gap-up** can be treated as **flat** (Aug 3 pre).
@@ -138,8 +141,10 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Sellers seated + **gap-up** after a sustained selling stretch | Gap-up → **SELL**, but this is the **weak branch** | The gap-up flushes the seated sellers (their SLs are gone) ⇒ the continuation-down trade has **no inventory to hunt**; the real trade was **flat / gap-down → BUY** the seated sellers (Oct 9) |
 | Buyers seated but they **already booked** the momentum leg (multi-day negative tape, positive-momentum day before) | Flat / small gap-down → **BUY** with the chart; a **clean gap-up → SELL** (no seller SL above) | The buyer pool is emptied by their own profit-booking ⇒ nothing left to hunt ⇒ follow continuation; the gap-up has no seller cover above (Oct 14) |
 | **Two-plan pre** — sell-first, buy only on a stated condition | Flat / gap-down → **SELL** setups; a **small gap-up that crosses the previous higher point** → **BUY** | The **gate**, not the gap shape, decides: take no position until the gate prints (Oct 15) |
+| **Sellers seated** after continuous selling on the big indices | Gap-up → **BUY** with market | A gap-up is the *best* version of the trapped-seller hunt: the seated seller cannot escape — *"गैप अप में यह काम और भी अच्छा हो जाता है… उन्हें निकलने के कोई चांस नहीं होता कि वो बच जाए"* (Oct 21) |
+| **No pool either side** (the seated side already flushed; nobody took big quantity) | No hunt either way — follow the tape's own direction | With no SL cluster on either side there is no target to build and no depth to measure: the open only decides whether the remaining side can escape (Oct 23) |
 
-**Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — check **holiday / retrace-close vs exact round-number hold**, then **open type**. Same gap-up shape can be buy-with (Aug 3) or sell-buyers-after-CP-breakdown (Aug 4). After a first sell into an uptrend, also check **day-1 thin shorts vs day-2 sellers** before choosing hunt vs sell-with (Aug 5–6). After a hold-up buy day, require **decent GD** to hunt buyers — flat/GU often flips to buy-with (Aug 7). After sellers are flushed by a support-bounce, flat/GD prefers sell-with (Aug 10).
+**Rule of thumb:** “Don’t target buyers on solid gap-up” and “target buyers after upside” are not opposites — check **holiday / retrace-close vs exact round-number hold**, then **open type**. Same gap-up shape can be buy-with (Aug 3) or sell-buyers-after-CP-breakdown (Aug 4). After a first sell into an uptrend, also check **day-1 thin shorts vs day-2 sellers** before choosing hunt vs sell-with (Aug 5–6). After a hold-up buy day, require **decent GD** to hunt buyers — flat/GU often flips to buy-with (Aug 7). After sellers are flushed by a support-bounce, flat/GD prefers sell-with (Aug 10). After a **range day whose seated side was then flushed**, there is no hunt left: flat/small-GD follows the chart, gap-up follows the market (Oct 21, Oct 23).
 
 ---
 
@@ -170,6 +175,9 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 22. **An anti-crowd entry needs a named life-line.** “Buy where others won’t” is valid **only while the reference level (usually the round number) holds** — write that level down before entering; if it breaks, cut (Oct 12).
 23. **On a two-plan day, write the gate before the open and refuse both trades until it prints.** *“We will not buy or sell right now — let the market take a direction in net”* is the correct state, not indecision (Oct 15).
 24. **Count the levels the market can still take out (the one-breakdown / one-breakout rule).** If the counter-side has **no SL at the second level**, the market does **one** level’s breakdown / breakout and not the second (at a round number / the closing price). Trade the depth that is payable; don’t extrapolate a second level (Oct 16).
+25. **The round number is the entry permission slip, not the target.** A trapped-side trade is valid only while the index keeps trading on the right side of its round number — *"जब तक यह राउंड नंबर वगैरह को क्रॉस नहीं करता है तब तक इनको हम टारगेट अपना बना सकते हैं"*; below it the trapped side regains confidence and the trade stops being easy. Write the round number down before entering (Oct 22).
+26. **A flat-open trap day is entered on the *proof*, a gap-open trap day on the *bell*.** With a flat open, wait for the first momentum and confirm that the mild selling is not turning into big selling before committing; with a gap-up there is no flush left to wait for — the trap is already sprung (Oct 21, Oct 22).
+27. **An entry needs a named, *nearby* stop pool.** Being right about who is trapped is not enough — the same read without stops sitting close by is just an opinion. *"यहां पे आसपास हमारे पास सेलर के एसएल पड़े हैं"* (Oct 22).
 
 ### Forbidden
 1. Counter-trade invented because inventory is unclear.
@@ -203,6 +211,8 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | One index (e.g. BN) is **unclear** while the others are clean | The multi-index gate is not satisfied — **wait**; the market rising or falling does not matter until the chart says OK (Oct 4 teaching) |
 | One index **carries the basket**; the companions only *don’t break* their levels | Take the target off the carrying index; the companions’ job is to hold, not to pay — *“we do not mind that Sensex and Nifty are negative… if the total turns negative, the problem becomes big”* (Oct 14, Oct 15) |
 | Two or more consecutive continuation sessions with **every support holding** and prior resistances acting as the floor | Continuation is the base case: the day’s first rejection is an **entry window**, not a reversal (Oct 16) |
+| **All three** indices confirm together | Enlarge the target (e.g. ~₹3 lakh instead of the normal target) — and exit **on** that confirmation rather than waiting for a better price (Oct 22, Oct 23) |
+| One index (usually the laggard) is still fighting the move | Cap at the **normal** target — *"एक इंडेक्स पीछे रह जाए फिर तो एक नॉर्मल टारगेट हमें लेके जाना पड़ता है"* (Oct 22) |
 
 **Bot rule:** `extend_target = true` only if `companion_bias == aligned_*` with trade direction.
 
@@ -246,11 +256,15 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 33. **Cut on the basket, not on your own index.** If the companions (Sensex/Nifty) start giving a lot of loss *in net*, the trade is over **before** your index’s level breaks — *“whether or not Bank Nifty breaks its level, the loss limit should not be crossed”* (Oct 12).
 34. **A poked round support is survivable only while the basket total stays positive.** Same shape, two outcomes: 12 Oct cut once the net turned negative; 14 Oct held through the poke because the basket stayed in profit — read the **net**, not the poke (Oct 12, Oct 14).
 35. **Exit ahead of expiry flow risk, not at a price.** When the expiring index has just given a breakout, a post-breakout retracement is the structural risk — book the profit that has been made instead of sitting for a level (Oct 15; cf. #5).
+36. **Exit when the counter-side SL pool is spent, not when a price prints.** Once the trapped side has been paid out there is nothing left to fuel the move, and from there a rejection can convert into a retracement that gives you no exit at all — *"एग्जिट वगैरह लेके चले जाते हैं"* (Oct 21).
+37. **After the round-number breakdown, stop sitting.** The level that gave the trade its room is also where retracement odds jump: *"अब देखिए सेलिंग तो फर्दर भी हुआ लेकिन 500 के लेवल का ब्रेकडाउन होने के बाद रिट्रेसमेंट वगैरह के चांसेस बढ़ जाते हैं। तो ऐसे में बैठे नहीं रहना चाहिए।"* Book what the momentum paid (Oct 23).
+38. **A rejection is a reason to reduce, not to flip.** On a sound positive read, two rejections mean *"मार्केट को समझ पाना मुश्किल हो जाता है"* — stay in the same direction inside the limit, and book when the target appears (Oct 22).
 
 ### Hold while
 - Thesis alive, loss within limit, companions not confirming the kill.
 - Continuous momentum without inviting late counter-entries.
 - The reference level (round number / “lower point”) is intact **and** the basket’s net is positive. A **small breakdown is only “good” when the chart needed the flush** (crowded-negative tape); in a **held positive chart** a small breakdown can change the direction and is a warning, not an entry cue (Oct 14).
+- A **retracement given early** in the trade — it removes the retracement that would otherwise arrive at the target. A market that moves *with* retracements hands over its momentum more easily; the retracement to fear is the small one printed just as the target approaches, because it wrecks the psychology at the worst moment (Oct 23).
 
 ### Re-entry
 - Allowed if direction thesis still valid and first exit was process (not revenge).
@@ -276,6 +290,9 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Analysis vs trade | Analysis edge (no entry/exit pressure) is higher than execution edge — a right read can still trade as a loss; keep the process, fix entry/exit (Sep 13) |
 | Structural: Bank Nifty has **no weekly expiry** (monthly only) | Overall BN momentum is structurally lower than in the weekly-expiry era; plan smaller/faster targets on slow days (Sep 15) |
 | Expiry-day index behaviour | The expiring index can be slower and retrace more than the others — read targets accordingly (Sep 15 Sensex/Nifty expiry notes) |
+| **RR is matched to accuracy, not maximised** | Unprofitable while working a *small* RR (1:1/1:2) ⇒ **increase** it (1:3/1:4); unprofitable while working a *large* RR (1:4/1:5) ⇒ **decrease** it (Oct 25 teaching) |
+| **Never buy RR with a smaller stop** | To increase RR raise the **target** and leave the loss where it is; to decrease RR cut the **target** and leave the loss where it is. A shrunken SL "spoils the situation" and distorts the accuracy reading (Oct 25 teaching) |
+| **RR is segment-conditioned** | Option **buying** forces a modest RR — a big target costs 3–4 momentum legs of **time**, which the premium will not pay; option **selling** can carry a bigger RR (Oct 25 teaching) |
 
 ---
 
@@ -319,6 +336,9 @@ Encode only as **warnings**, not hard entries:
 - **Fear is downstream of the loss book, not the chart:** a run of losses or one oversized loss manufactures the fear that then wrecks trade management — hold a hard loss rule and never scale up inside a losing patch (Oct 8).
 - **Predefine target / stop / quantity, and scale risk to the target you actually aim at.** Re-deciding size trade-by-trade is the leak itself — “the trader stays behind and cannot work sharply” (Oct 5).
 - **The pre-plan’s branch quality should set the size, not just the direction.** A branch you would not want to be in (e.g. a gap-up sell on a Friday after a long negative run) should be taken small or skipped (Oct 9).
+- **Don’t feed the loser — feed the winner.** Most traders pour their brain into rescuing the losing trade and add capital to cover it; the same brain and money belongs in the trade that is already working, *"क्योंकि जब डायरेक्शन सही होगा ना उसमें ही पैसा आपका बन पाएगा"* (Oct 21).
+- **One direction per session.** Flipping to whatever the last candle did — selling because it fell, buying because it rose — is the beginner's confusion engine; *"जब भी आप ट्रेड करो एक डायरेक्शन में बैठे रहो"* and identify the trade calmly inside that one direction (Oct 22).
+- **Pay the losing stretch from the winners.** Nobody's every trade is wrong — a run of small losses is covered by one adequately-sized win on a correct trade, provided the RR was set to allow it (Oct 25 teaching).
 
 ---
 
@@ -507,6 +527,22 @@ IDLE → wait for new opportunity (no revenge)
 | P137 | **One-breakdown / one-breakout rule:** with no counter-side SL at the second level, the market takes one level and not the second (closing price then round number) — count the levels the market can still take out and trade that depth | 10-16 |
 | P138 | Momentum does not exhaust in one day — pre-deciding “the market has already run, so today must fall” is what makes a good trade slip away; the extension day is where the crowd’s fixed targets fail | 10-16 |
 | P139 | Do not re-write a **closed** trade with candles you did not trade — in the trade you only get the profit you normally take | 10-14 |
+| P140 | A trap/flush leg with **no counter-side SL cluster** has no measurable depth ⇒ it is untradeable — wait it out and trade the **recovery** | 10-19 |
+| P141 | The side-selector is **stop location**: sell only when buyer stops exist above; with **no pool on either side** there is nothing to hunt ⇒ follow the running momentum | 10-19 |
+| P142 | A **pre-holiday session is a payment session** — with the next session closed, the momentum leg is paid in advance; hold the sharp leg and book into the turn | 10-19 |
+| P143 | The **open type is a fuel test, not a direction vote** — a gap-up is the *best* tape for hunting trapped shorts because it removes their second exit | 10-21 |
+| P144 | **Resistance is not resistance while the counter-side SL pool is intact**; a direction change requires a **breakdown of the market’s lower point**, never a rejection alone | 10-21 |
+| P145 | **Exit when the counter-side SL pool is spent**, not when a price prints — after the pool is consumed a rejection can convert into a retracement that gives no exit | 10-21, 10-22 |
+| P146 | **Never feed the loser — feed the winner**: brain and capital spent rescuing a losing trade belong in the trade that is working | 10-21 |
+| P147 | **Round numbers are the entry permission slip, not the target** — a trapped-side trade is valid only while the index keeps trading on the right side of its round number | 10-22 |
+| P148 | **Size the target to the number of indices that agree** — three-index confirmation earns the big target; one laggard ⇒ the normal target only | 10-22, 10-23 |
+| P149 | A **flat tape is a stop-pool construction site**, not a dead market — the boring middle is where the fuel is built | 10-22 |
+| P150 | **Retracement is not the enemy — its position is:** an early retracement is fuel (it removes the one that would otherwise arrive at the target); the dangerous retracement is the small one just as the target approaches | 10-23 |
+| P151 | **After the round-number breakdown, stop sitting** — that is where retracement odds rise; book what the momentum paid | 10-23 |
+| P152 | **Match RR to accuracy, not to maximum** — unprofitable on a small RR ⇒ increase it; unprofitable on a large RR ⇒ decrease it | 10-25 teaching |
+| P153 | **Never buy RR with a smaller stop** — increase RR by raising the **target** (loss unchanged); decrease RR by cutting the **target** (loss unchanged) | 10-25 teaching |
+| P154 | **RR is segment-conditioned** — option buying forces a modest RR (a big target costs time the premium will not pay); option selling can carry a bigger one | 10-25 teaching |
+| P155 | **Pay the losing stretch from the winners** — one adequately sized win covers a run of small losses; nobody’s every trade is wrong | 10-25 teaching |
 
 ---
 
@@ -544,4 +580,4 @@ After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 
 ---
 
-*Last distilled: 2026-10-16. Sources: Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching + Sep 15–18 trading week (P93–P100) + Sep 21–25 trading week + Sep 26 “Weekly Market Analysis” teaching (P101–P118) + Sep 28–Oct 1 trading week + Oct 4 “The Real Benefits of Chart Trading” teaching (P119–P124) + Oct 5–9 trading week (P125–P130) + Oct 12–16 trading week (P131–P139).*
+*Last distilled: 2026-10-23. Sources: Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching + Sep 15–18 trading week (P93–P100) + Sep 21–25 trading week + Sep 26 “Weekly Market Analysis” teaching (P101–P118) + Sep 28–Oct 1 trading week + Oct 4 “The Real Benefits of Chart Trading” teaching (P119–P124) + Oct 5–9 trading week (P125–P130) + Oct 12–16 trading week (P131–P139) + **Oct 19–23 trading week (P140–P151) + Oct 25 “Master Risk-Reward Ratio” teaching (P152–P155)**.*
