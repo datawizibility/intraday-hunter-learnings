@@ -2,7 +2,7 @@
 
 > **Why this file exists.** `TRADING-BIBLE.md` was built almost entirely from *recent*
 > (2026) daily notes, so it reads as a snapshot, not a history. The "Sunday Special"
-> teaching corpus runs from **2021 → 2026** (191 videos). Processing it **chronologically**
+> teaching corpus runs from **2021 → 2026**. Processing it **chronologically**
 > lets us see not just what the process IS, but **how it CHANGED** — which ideas are
 > stable bedrock, which were refined, and which were quietly dropped.
 >
@@ -35,6 +35,143 @@ Amit adjudicate — it may be a genuine change of mind, or a half-remembered rul
 
 ### 2021–2022 — the foundation era
 The corpus opens here. Format is long-form single-concept Hindi sessions, ~10–20 min.
+**Anchor note (2026-10-31):** a channel-wide scan found 41 **public** teaching uploads that were
+never in the indexed "Sunday Special" playlist; they start **2021-12-11**, i.e. *before* what used
+to be the first entry. Their notes carry `source: channel-backcatalogue` and are marked
+**RECOVERED** below. The Sunday Special series proper still begins on 2022-01-30.
+
+**2021-12-11 — Volume Profile Indicator Explained (pre-Sunday-Special tool lesson)** 🔵 NEW · RECOVERED
+`mw9kXMUlwQg` · note: `teaching/2021-12-11-volume-profile-indicator-explained-price-action.md`
+
+The new **earliest** dated session in the corpus — a pure tool lesson, ~24 min, from the period
+before the stop-loss-hunting framework existed in his teaching. Everything below is baseline
+(first appearance in the corpus), because nothing earlier has been found.
+
+- 🔵 **NEW — volume measured by PRICE, not by time.** Plain volume answers "which candle traded
+  most"; volume profile answers "which *price* traded most". *"वॉल्यूम प्रोफाइल अब एक पर्टिकुलर
+  प्राइस पर कितना वॉल्यूम प्रैंक हुआ है"*. The heaviest price (he names it loosely — ASR *"पावर
+  कंट्रोल"*) is the reference line.
+- 🔵 **NEW (the load-bearing idea) — the BAND, not the line, is the level.** A large participant
+  cannot fill 10,000 / 20,000 quantity at one limit price; he accumulates across a price range,
+  and that range is what price later respects. Price above the band = support, below = resistance
+  (*"तो यही सपोर्ट की तरह काम करेगा अगर यह नीचे की तरफ स्ट्रैट कर रहा है यह रेजिस्टेंस की तरह
+  काम करेगा"*).
+- 🔵 **NEW — support/resistance is a POSITION, not a drawing.** *"सपोर्ट रेजिस्टेंस कोई वह नहीं है
+  कि पीछे से बनकर आते हैं वह क्या है कि किसी पर्टिकुलर का इंटरेस्ट"* — the level exists because
+  somebody's size sits in that zone and he must unwind gradually. This is the earliest seed of the
+  later "who is sitting here" logic.
+- 🔵 **NEW — the index has no volume, so use the FUTURES chart.** On Nifty / Bank Nifty *spot* the
+  profile draws nothing (*"बैंक निफ्टी को सपोर्ट चार्ट में वॉल्यूम नहीं नजर आता है"*); the fix is
+  *"सबसे पहले आप बैंक निफ्टी फ्यूचर चार्ट को लगा लीजिए"*. A practical constraint that later
+  teaching assumes without restating.
+- 🔵 **NEW — which range do you draw?** Same-day profile while the day is fresh; **previous day
+  (and the day before)** once the day is spent (*"आलरेडी बहुत ज्यादा खून है"*); extend the range
+  across the multi-day move when the last day is compressed.
+- 🔵 **NEW — gap rule:** on a gap-down, do **not** buy the nearest support; let price clear the
+  lower band and take the trade on the **retest** (mirror for gap-up). His later, much more
+  elaborate gap logic does not yet exist here.
+- 🔵 **NEW — the probability stance, stated about a single indicator:** *"रहेगी सौ परसेंट कुछ नहीं
+  होता"*, and the learner is told to test it **3–5 sessions**, never one (*"दो या तीन से चार दिन
+  … 5 दिन"*). The same sentence re-appears at system level much later (2026-09-13, "an edge is
+  never 100%").
+- 📌 **What is conspicuously ABSENT at this date** — no stop-loss hunting, no stop-loss pools, no
+  buyer/seller targeting, no operator framing, no pre-defined trade count, no risk–reward rule, no
+  trade journal discipline. **This is a tool lesson, not yet a process.** Anyone reading 2022-01-30
+  as "the beginning" should read it as *the beginning of the process*, not of the teaching.
+- 📌 **ASR honesty:** the session's numbers are unusable (`1820`, `370 72 A37`, `409`, `518`,
+  `30 1962` — unlabelled and inconsistent) and the only trade mentioned ("booked profit near the
+  band") has no figure, entry or date. Nothing was carried into `levels-log/`.
+
+**2021-12-18 — How to Increase Profit | Manage Psychology and Patience** 🔵 NEW · RECOVERED
+`8SPKMfAlCLY` · note: `teaching/2021-12-18-how-to-increase-profit-manage-psychology-and-pat.md`
+
+The **first psychology/process session** in the corpus — a request-driven session ("dedicated to
+you for your whole trading life"). It matters out of proportion to its date, because it shows the
+behavioural rules that later read as the 2022 "foundation" already fully formed in **December 2021**.
+
+- 🔵 **NEW — the asymmetry of fear.** In a **loss** he is calm, reads the chart normally and starts
+  thinking about **adding quantity**; in a **profit** he is afraid and closes early — *"प्रॉफिट हो
+  रहा है लोस में तो अब हम क्या है कि आराम से अपना कॉन्फिडेंस बिल्कुल हाई लेवल पर रहता है"*. The
+  earliest statement in the corpus that the *profitable* position is the psychologically expensive one.
+- 🔵 **NEW — the pre-entry decision gate.** Draw the level, then decide in advance: *if this 5-min
+  candle closes above the line, I take the buy side* — the decision is made **before** the close, the
+  completion only executes it. Take the position before the response and the same cut-the-loss /
+  cut-the-profit loop repeats.
+- 🔵 **NEW — a missed trade is the most expensive trade.** The mind stops reading the chart and
+  replays the un-taken profit: *"वह प्रॉफिट यह आपसे अगली गलती है वह करवाएगा"* — the orphaned profit,
+  not the loss, causes the following error.
+- 🔵 **NEW — the four causes of rushed entry**, named together for the first time: **loss recovery**
+  (*"हम लोग को रिकवर करने की सोचते हैं"*), **greed in the wrong unit** (wanting ₹400 from a setup whose
+  arithmetic only supports break-even / ten days' move in one), **gambling mindset** (*"माइंडसेट आफ
+  गैंबलिंग वाला हो गया"* — needing the screen to keep moving), and **yesterday's accounting** (trying
+  to settle yesterday's loss or protect yesterday's profit on today's chart).
+- 🔵 **NEW — the anti-regret rule.** A subscriber regretted leaving a move at ~120 that later showed
+  ~250; his answer: *"आपको रिग्रेट उस चीज का नहीं होना चाहिए बिल्कुल भी नहीं चाहिए"* — the exit was
+  correct because the pre-decided number was hit, and regret is what breaks a working system. The
+  benchmark is your own number, not the market's maximum.
+- 🔵 **NEW — quantity discipline:** never add to a **losing** position (explicitly, for beginners);
+  adding belongs to a **profitable** position and only inside the system ("not every system benefits
+  from adding"); **keep size deliberately small** (*"अपना जो नंबरों क्वांटिटी है वह भी कम से कम
+  रखे"*) because psychology, not capital, is the constraint.
+- 🔵 **NEW — trade-count and timing discipline:** one or two trades a day, and enter *"तभी … जब
+  मार्केट का आप का टाइम हो जाएगा"* — if the setup has not arrived, waiting **is** the trade.
+- 🔵 **NEW — the "ultimate solution" = systematic trading:** entry, stop-loss, target, profit-booking,
+  trade count and size all **written before entry** (*"एक सिस्टम बनाना वह इसमें ऐड टारगेट और प्रोफिट
+  बुकिंग तीनों आपको मिले"*), and the recovery-trade ban: *"कभी भी लोस रिकॉर्ड करने की कोशिश ना करें"*.
+- ⚠️ **⚠️ CORPUS-DATING FINDING:** *nothing is 100%*, *patience*, *discipline*, a *pre-defined trade
+  count*, *risk–reward* and the *recovery-trade ban* — the set later read as the 2022-02-19 triad —
+  **are all already present on 2021-12-18**. **2022-02-19 is a consolidation, not the origin.**
+  The foundations of the behavioural half of the system predate the Sunday Special series by ~6 weeks.
+- 🔴 **CONTRADICTS (same session, same date — recorded, NOT resolved):** against his own
+  *wait-for-the-close* gate, he also describes handling a **missed** setup by entering on **three
+  back-to-back impulse candles** without waiting for the breakout or retest, precisely because waiting
+  would mean missing it again — while elsewhere in the same clip he calls the entry taken without the
+  response the one that gets cut. **Both statements stand, same date; for Amit.**
+- 📌 **ASR honesty:** the worked example is spoken as **`25` SL / `150` target and labelled "1:2"** —
+  25:150 is not 1:2, so digits and ratio cannot both be right; recorded as spoken, **not adopted**.
+  Remaining numerals (`265`, `₹400/4035`, `₹1 10 दिन`, `128 … 250`, `120`, `12131`) are unusable.
+  **No verified trade outcome; nothing routed to `levels-log/`.**
+
+**2021-12-25 — How to Become Professional in Trading (beginner → pro)** 🔵 NEW · RECOVERED
+`_qKq9Mr9Y-o` · note: `teaching/2021-12-25-how-to-become-professional-in-trading-from-begin.md`
+
+The **style/structure** session of the December-2021 trio (tool → psychology → style). Eleven minutes,
+no chart plan, one idea: professional is a **method quality**, and it is reachable by removing things,
+not adding them.
+
+- 🔵 **NEW — "professional" defined by the STYLE, not the P&L.** *"प्रोफेशनल का मेरे लिए मीनिंग रहेगा
+  कि जब हम किसी कार्य या ट्रेडिंग वगैरह को दूसरों से अच्छा कर रहे हो"* — money made with a bad style
+  is explicitly **not** called professional. The earliest "process is the profession" statement.
+- 🔵 **NEW — the retail style is complex, the professional's is simple.** Both read the same chart;
+  the difference is what has been loaded on top of it.
+- 🟡 **REFINED — the tool lesson of 2021-12-11 becomes a tool BUDGET.** Cut the number of indicators
+  (*"जो नंबर ऑफ इंडिकेट रहते हैं वह कम कर दीजिए"*): more studies ⇒ more generated signals ⇒ more
+  trades ⇒ more confusion (*"जितना ज्यादा इंडिकेटर यूज करोगे … उतना ही ज्यादा कंफ्यूज"*). The failure
+  test he gives is visual: **if the candles are no longer visible, the style must be fixed.**
+- 🔵 **NEW (and ⚠️ tension-bearing) — the algorithm/human asymmetry.** Indicators are machine-computed,
+  so they carry **no human error** (*"एल्गो ट्रेडिंग कह सकते हो आप उसको … मिस्टेक नहीं होता"*),
+  whereas support/resistance is **drawn by a human** and inherits the drawer's mistakes. He also states
+  plainly that indicator traders can make good money and that a fixed indicator-in/indicator-out
+  system is "a very good trading style". ⚠️ **Three dated positions now on the record:** pro-indicator
+  emphasis (**2021-12-25**) → method neutrality, "all three can make money, method is secondary"
+  (**2022-02-19**) → the heavy price-action / stop-hunting primacy of the Sunday Special series
+  (**2022-01-30 onward**). **None is averaged; none is retracted; for Amit.**
+- 🔵 **NEW — the one-time-frame rule.** *"आपको एक टाइम प्रेम को चूज करना है"*. The damage is not the
+  frame chosen but the **switching**: the same SuperTrend shows a buy on the 5-minute and a sell on the
+  3-minute, and the trader reads that disagreement as a signal (*"जहां पर आप कभी 5 मिनट में ट्रेंड
+  करोगे और कभी शिफ्ट में"*). Keeping to the chosen frame removes the problem entirely. A higher frame
+  **for overall context** is a permitted addition.
+- 🔵 **NEW — one style, not a mood rotation.** Investing and intraday are both legitimate, but
+  switching month-to-month — *especially* switching into intraday **because the investing position is
+  in loss** — means no style ever forms. Either drop what you dislike or continue both properly; the
+  answer to "which trading suits me" only appears over a long horizon.
+- 🟢 **STABLE — the system, again (third December session in a row).** 2021-12-18 gave it as the
+  "ultimate solution"; here the professional is simply the trader who **follows his own system**
+  (*"वह भी एक अपना सिस्टम फॉलो करते हैं"*), which is what removes **random trading** and stops a news
+  headline from producing an instant reflexive position — because the stop-loss already has a place.
+- 📌 **No trade, no level, no P&L in the clip.** Nothing to carry into `levels-log/`. The
+  indicator names are ASR-garbled (`182 इंडिकेटर`, `r6 ऊपर 10mb 9 एंब्रोस`, `323 मिनट्स`, `5ft`) and
+  are **not** reconstructed; `182` is almost certainly "one or two", not a count.
 
 **2022-01-30 — How to Find Stop-Loss in the Market (Sunday Special Part 1)** 🔵 NEW
 `rz5tQaWLfgo` · note: `teaching/2022-01-30-stoploss-identification.md`
@@ -5748,12 +5885,12 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 
 | | | |
 |---|---|---|
-| Corpus size | **196 videos** (the 191-video build + 5 playlist entries found 2026-10-27: 3 public — 2026-09-26 / 10-04 / 10-25 — processed, and 1 private + 1 unavailable recorded as skipped) | |
-| Processed | **181** | | |
+| Corpus size | **235 videos** — the 196-row indexed corpus (195-entry Sunday Special playlist + 1 removed) **+ 39 public teaching uploads recovered by a channel-wide scan on 2026-10-31** (Dec 2021 → Apr 2024), tagged `source: channel-backcatalogue` and marked · RECOVERED in the entries above. A further 2 public uploads of that scan (trade-result/proof clips) are **held for review**, unindexed. ⚠️ **Corpus scope widened by the cron job, reversible:** the 39 rows are tagged, so they can be removed in one pass if Amit wants the corpus kept strictly to the Sunday Special playlist. |
+| Processed | **184** |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
 | Skipped (unavailable) | **2** — `_jC7l31lXPo` (yt-dlp: *Video unavailable*) · `pfTKn6YcvNc` (yt-dlp: *Private video*), both found in the playlist on 2026-10-27 and recorded in the manifest as skipped | | |
-| Remaining | **12** | | |
-| Blocked (members-only / private) | **12** — 10 members-only · 1 private (`I5JQIU5p8ck`) · 1 unknown (`B0nQv4uZo5k`); yt-dlp reports "available to this channel's members" — needs channel-membership cookies | | |
-| Next (chronological) | 447jPTMmXdQ (undated) — ⚠️ BLOCKED: members-only (needs channel-membership cookies) — the 12 remaining rows are all members-only/private; the dated tail (2026-09-26 → 2026-10-25) is now processed | | |
-| Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | |
-| Status file | `ih_teaching/manifest.json` | |
+| Remaining | **36** — all `channel-backcatalogue` rows (next: **2022-01-01** `fO00Vw4vZyU` *Gann Square of Nine*) | | |
+| Blocked (members-only / private) | **12** in the indexed playlist (10 members-only · 1 private `I5JQIU5p8ck` · 1 removed `B0nQv4uZo5k`) **+ 44 members-only uploads found by the same channel scan** + 1 new members-only upload of 2026-10-31 (`oaKubE0ACQ4`, *Master Advanced Analysis Part-8*) — all need channel-membership cookies | | |
+| Next (chronological) | `2022-01-01 fO00Vw4vZyU` — *GANN SQUARE OF NINE INTRADAY TRADING STRATEGY FOR BEGINNERS* (RECOVERED) | | |
+| Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | | |
+| Status file | `ih_teaching/manifest.json` | | |
