@@ -232,6 +232,53 @@ that outputs a level**; this one is nothing but that.
   (₹10/₹10 and ₹5/₹10) plus the **10-day** backtest and **~09:08**. The Square-of-Nine mathematics is
   **never explained** in the session and is **not asserted** here.
 
+**2022-01-09 — How To Find Chart Patterns In Live Market (the pattern catalogue)** 🔵 NEW · RECOVERED
+`h2PMw2aO5Rc` · note: `teaching/2022-01-09-chart-patterns-live-market.md` · transcript: `transcripts/2022-01-09-teaching-h2PMw2aO5Rc.md`
+
+A **Sunday** session outside the indexed playlist — and ⚠️ **a hole in the recovered back-catalogue's
+ordering**: the Progress table had named **2022-01-22** as next while this video sat public, captioned
+and unprocessed. It is the corpus' **first structured pattern catalogue** — Head & Shoulders, Double
+Bottom (W), Double Top (M) and a triangle-type structure, with Inverse H&S explicitly deferred.
+
+- 🔵 **NEW — the pattern becomes the unit of analysis.** Every earlier session reads a level, an
+  indicator or a behaviour; this one reads a **shape**, and the claim underneath it is repetition:
+  *"जब आप स्टॉक मार्केट की स्क्रीन को समझ जाओगे तो आपने पूरी मार्केट को ही प्रिडिक्ट कर लिया"*.
+- 🔵 **NEW — the anti-crowd gate.** *"आपको मार्किट में आना आपको बिल्कुल क्लियर कुछ नजर नहीं आएगा"* — a
+  structure visible to everyone is not a trade. **Different ground from `2022-01-16`'s stop-pool:** there
+  the crowd's *positions* fuel the move, here the crowd's *visibility* spoils the setup. Recorded side by
+  side, **not merged**.
+- 🔵 **NEW — the buyer/seller STRENGTH gate.** ⚠️ ASR mangles it heavily — *"अगर आपको कुछ भी चीज सेल करनी
+  है तो वहां पर आपको सैलरी स्टैंड चाहिए और कुछ भी चीज बाइक है तो वहां पर क्या चाहिए बाय रोड डिस्टेंस ही"*
+  — read plainly: **sell only where seller strength shows, buy only where buyer strength shows.** His
+  mechanism for it is the footprint image: *"सैलरी अपनी फुटप्रिंट दे रहा है कि आप मेरी पार्टी को ज्वाइन
+  कीजिए"*. The strong side advertises; the unadvertised side is not tradeable.
+- 🔵 **NEW — pivot-vs-pivot validation.** The second top must not cross the first (*"इसे क्रॉस नहीं होना
+  चाहिए"*); when the two lows come out unequal — *"यह लोग और यह लो हो गया डिफरेंट"* — the read is
+  *"कहीं ना कहीं सैलरी के हाथ मजबूत नहीं है"*. A structure whose internal pivots disagree is rejected,
+  and he rejects one of his own drawn W on exactly that ground.
+- 🔵 **NEW — proper swing as a pre-condition.** *"आपको प्रॉपर एक सर्विंग देखना है"* — the pivots
+  themselves must be legitimate before a pattern may be built; the market hands you no textbook shape
+  (*"मार्केट में प्रॉपर कुछ नहीं मिलेगा"*), and the trader's error on Tata Steel is stated as
+  *"स्ट्रक्चर बन गया लेकिन उसने यह लो नहीं देखा"*.
+- 🟡 **REFINED — size becomes a function of structure quality.** *"हाफ क्वांटिटी में क्योंकि प्रॉपर या फिर
+  स्ट्रैट नहीं थी"*, plus a refuse-to-size-up rule. `2021-12-18` gave quantity discipline as psychology;
+  here it is tied to the structure's own quality.
+- 🟢 **STABLE — nothing is 100%.** *"ऐसा सौ परसेंट कुछ नहीं मिलेगा मार्केट में"*, said to justify the size
+  rule — the same line `2021-12-18` carried as psychology, now carrying a position-sizing rule.
+- 🔵 **NEW — back-test as a confidence ritual with a quantified target.** *"बैकस्ट्रीट क्यों जरूरी है कि
+  मैंने आपको यह बताती है कि ट्रैक्टर कैसी होनी चाहिए और कैसे ट्रेड लें लेकिन अगर आपको इंस्ट्रक्टर पर
+  कॉन्फिडेंस नहीं आएगा तो आप रीड कैसे करोगे"* and *"100 चार्ट को बैड टेस्ट कीजिए"*. No earlier session
+  assigns practice volume, and none says the purpose is confidence. He adds that the effort is the
+  trader's own: *"सारा का सारा काम दूसरा नहीं कर सकता आपको कुछ काम अपने आप भी करना होगा"*.
+- ⚠️ **TENSION (dated, unresolved) — the Jan-2022 method mix widens again.**
+  *"इंडिकेटेड इन की थी वह भी अच्छी ट्रेडिंग लेकिन साथ ही साथ में प्रोजेक्शन किड्डिंग को भी थोड़ा अपने
+  सिस्टम में जाइए"* — indicators **accepted** with patterns added. Five weeks now hold
+  **cut-indicators (`2021-12-25`) → Gann calculator (`2022-01-01`) → pattern catalogue (this session) →
+  two SuperTrends (`2022-01-15`) → indicator-free audits (`2022-01-16`)**. **All dated; none averaged;
+  none retracted; for Amit.**
+- ⚠️ **No level routed.** No index is named anywhere in the clip, and the only digit tokens — *"2360"*,
+  *"फोर्टी पॉइंट"*, *"70"* — are mutually contradictory and unattached. **0 rows to `levels-log/`.**
+
 **2022-01-15 — SuperTrend Intraday Strategy (two-SuperTrend confirmation system)** 🔵 NEW · RECOVERED
 `-pyqGEzEJw0` · note: `teaching/2022-01-15-supertrend-intraday-strategy-best-strategy-with-.md`
 
@@ -358,6 +405,99 @@ losing trades. Diagnostic triad: **placement × stock selection × correlated-in
   verified**); Case-2's target fragment is unusable and its instrument is never named. Only **10:00 a.m.**,
   **Nifty**, **Wipro** and *"Sun Pharma"* (as a named instrument) survive cleanly. *"कल"* cannot be
   resolved to a trading date from the audio. **No level adopted; nothing routed to `levels-log/`.**
+
+**2022-01-22 — How to Calculate Option Premium (the price-calculator session)** 🔵 NEW · RECOVERED
+`lsB9-AhjeEs` · note: `teaching/2022-01-22-option-premium-calculation.md` · transcript: `transcripts/2022-01-22-teaching-lsB9-AhjeEs.md`
+
+A **Saturday** session (*"अब मैं शनिवार के दिन वीडियो बना रहा हूं"*) and the corpus' **first derivatives
+lesson** — every earlier note taught a chart; this one teaches the **price of the underlying's
+derivative**. No candle, no level, no stop: a public option-price calculator, four typed inputs, and the
+premium it returns.
+
+- 🔵 **NEW (category) — the traded object becomes a FUNCTION of the index.** The whole lesson is *index
+  price in → premium out*, mechanically. `2022-01-16` asked for a **discretionary cross-check** of a
+  correlated instrument; here the linkage is arithmetic. Both answers to *one instrument is not enough*
+  now sit on the record.
+- 🔵 **NEW — the pricing precondition.** *"आपको पता होना चाहिए कि ऑप्शन जब यह जब ऑप्शन तो इंटेक्स का प्राइस
+  एक जगह से दूसरी जगह चला जाएगा तब आप ऑप्शन का परिणाम क्या हुआ … जब तक आपको यह पता नहीं है तब तक आपको
+  आपको ऑप्शन में ट्रेंड नहीं करना चाहिए"* — not knowing how the premium re-prices is a bar on trading
+  the instrument at all.
+- 🔵 **NEW — the live-vs-closed input rule.** *"अगर आप मार्केट रनिंग में अगर आप ऑप्शन प्रीमियम कैलकुलेटर
+  करें तो जो भी प्राइस चल रहा होगा उसको लेना है अगर आप मार्केट को धो रहे हों चुकी है तो जो भी आपका पोस्ट
+  प्राइस होगा उसको लेना है"* — running market ⇒ the live price, closed market ⇒ the closing price. A
+  wrong input silently prices a different contract.
+- 🔵 **NEW — IV as a live input that must be re-read.** *"यह चेंज होती रहती है रनिंग मार्किट में … आप इसको
+  ट्रैक करते रहना होगा"*, and call IV ≠ put IV (*"जो कूट ऑप्शन की अलग होती है और कॉल ऑप्शन की अलग होते"*)
+  with the reason explicitly deferred. The corpus' first *keep-an-input-updated* discipline — a different
+  discipline from keeping a chart clean.
+- 🔵 **NEW — the fair-value gap as an entry gate.** *"अगर आपको ज्यादा डिफरेंस मिले तो फिर आपको ट्रेंड नहीं
+  करना है"* — a filter on **price paid versus price worth**, where every earlier gate was a level, an
+  indicator, momentum or stock selection. 🟢 **And it is `2021-12-18`'s no-trade-is-legitimate instinct
+  transposed from the chart to the premium.**
+- 🔵 **NEW — the Greeks arrive by name and are postponed.** *"इसको मैं आज के सेक्शन में नहीं रखेंगे फिर
+  कभी देखेंगे"* — theta and delta named, not taught. A named deferral is new in the corpus.
+- 🟡 **REFINED — the tool lesson becomes a genre.** `2022-01-01` (Gann) was the corpus' first mechanical
+  level-generator, its virtue sold as **low difficulty**; this session repeats the shape exactly — free
+  external tool, typed inputs, read outputs, no model explained (*"उसमें कोई ज्यादा इसमें साइंस लगी भी
+  नहीं आपको जस्ट जो चीज नजर आ रही है उसको डाल है"*) — with a **valuation** as the output instead of a
+  level. Second entry in the early-2022 tool cluster.
+- ⚠️ **TENSION (dated, unresolved) — a derivatives session with ZERO risk apparatus.** No stop, no
+  quantity, no R:R, no trade count, no timeframe rule, no *nothing is 100 %* — on the instrument with the
+  fastest retail decay. `2021-12-18`, `2022-01-01`, `2022-01-15` and `2022-01-16` each carry at least one
+  of those. **Both positions stand; not averaged; for Amit.**
+- 🟢 **STABLE — the session is branded as learning, not as a signal.** *"आज का दोबारा सेशन लर्निंग पर रहने
+  वाले हैं"*: no call, no level, no view anywhere in the video.
+- ⚠️ **No level routed.** The instrument is never named (no Nifty / Bank Nifty / Sensex in the audio),
+  the spot is heard twice and contradicted (37,576 / 33,576), and every premium figure is
+  ASR-uncertain. **0 rows to `levels-log/`.**
+
+**2022-01-23 — Intraday Trading Mistakes Every Trader Make, Part 2 (the gap-fill ladder)** 🟡 REFINED · RECOVERED
+`Z92aGfv_Zv0` · note: `teaching/2022-01-23-intraday-mistakes-part-2.md` · transcript: `transcripts/2022-01-23-teaching-Z92aGfv_Zv0.md`
+
+The **direct sequel to 2022-01-16** — same title, seven days later, also a Sunday outside the indexed
+playlist. It opens on option **selling** (*"आज हम थोड़ा फोकस ऑप्शन से लिंग पर देंगे"*) and then walks the
+corpus' **first ordered account-death sequence**.
+
+- ⭐ **🟡 REFINED — the stop-pool thesis gains its cause and its negative test.** `2022-01-16` named the
+  effect (*"यह केवल और केवल [SL] हुई है और [SL] हंटिंग का जादू है"*); here he **rules out the rival
+  explanation first** — *"कुछ ऐसा नहीं था कि बैंक निफ्टी उस दिन कुछ न्यूज़ आ गई थी"* — leaving the
+  traders' own positions as the cause, and the session's own formula returns for it
+  (*"यह केवल और केवल जिन्होंने कॉल सेट करें चींटी उनको आया"*). A causal claim with its alternative
+  excluded is stronger than PART 1's, and it still predates **2022-01-30**, the date the corpus credits
+  as the framework's start. **The 2022-01-16 corpus-dating finding is reinforced.**
+- 🔵 **NEW — the horizon change.** An intraday loss carried into a **weekly/positional** position:
+  *"आप उठा लोगे अगले वीकली पोजिशनल घोल को"*. **No earlier note treats the trade's timeframe as an object
+  of teaching** — the corpus had covered stop placement, stock selection and correlated confirmation,
+  never the decision to hold longer. The largest single addition in this session.
+- 🔵 **NEW — AVERAGING into a loser**, as a compulsion that keeps failing and keeps continuing:
+  *"यहां कहीं यहां कहीं एवरेज करते चले जाएंगे वह अय्या की फेल हो जाएगा वह क्या करेंगे और करते चले जाएंगे"*.
+  **Distinct from `2021-12-18`'s recovery-trade ban** — that forbade the *next* trade, this adds to the
+  *current* loser. Two escalation mechanisms; **not merged**.
+- 🔵 **NEW — the ladder itself.** Belief (*"यह वाला गैस पीड़ित हो जाएगा ऐसा हम नॉर्मली सोचते हैं"*) →
+  position → loss → horizon change → averaging → capital added in escalating steps → zero
+  (*"फ्राइडे को आपको हो गया अकाउंट डुबो आपने एक लाख रुपए कमा यहां पर पूरे मार्केट को दे दिए"*), with the
+  account's death argued as **one assumption compounded**, not as bad luck.
+- 🔵 **NEW — the closed-loop logic requirement.** *"आपको लॉजिक क्लियर करना होगा"* — the trader must name
+  the reason the price will move and finish it. A step past `2021-12-25` (follow your own system) and
+  `2022-01-15` (backtest before you trust).
+- 🟡 **REFINED — the stop moves from *pre-defined* to *relocated*.** *"अपनी दो पोल को शिफ्ट करने लगते हैं"*.
+  Every earlier session asked *where* a written stop got hit; this is the first where the stop's own
+  management is the diagnosed error.
+- 🔵 **NEW — the missed-entry instrument substitution.** The Nifty short that could not be filled is
+  re-expressed in Bank Nifty. **Different in kind from `2022-01-16`'s correlated-instrument gate:** there
+  the second instrument was a *check*, here a *substitute* reached for out of frustration.
+- 🔵 **NEW — no level is uncrossable, with a stated condition.** *"क्यों नहीं कर सकता भाई … उसको मार्केट
+  आसानी से क्लियर कर पाएगा अगर वहां पर उसको पुश्त मिल जाएंगे"* — adjacency with `2021-12-11`'s **the band,
+  not the line, is the level**, but argued from **available positions**, not from volume profile.
+  🟡 **REFINED, hedged — do not merge the two grounds.**
+- ⚠️ **TENSION (dated, unresolved) — audit → hypothesis in one week.** PART 1 was built from **real
+  viewer-submitted charts**; PART 2 keeps the title and drops the submissions —
+  *"कैंडी बता रहा हूं आपका मुझे नहीं पता"*. The audience-driven format was already loosening a week after
+  it started. Recorded; not averaged; and noted that the disclaimer makes this **more** honest than an
+  invented audit would have been.
+- ⚠️ **No level routed.** The single candidate — heard as *"3850"*, *"38 500"*, *"38038 501"* inside five
+  minutes — is **digit-unstable in ASR**, and the money-ladder figures belong to a stated reconstruction.
+  **0 rows to `levels-log/`.**
 
 **2022-01-30 — How to Find Stop-Loss in the Market (Sunday Special Part 1)** 🔵 NEW
 `rz5tQaWLfgo` · note: `teaching/2022-01-30-stoploss-identification.md`
@@ -6072,11 +6212,11 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **235 videos** — the 196-row indexed corpus (195-entry Sunday Special playlist + 1 removed) **+ 39 public teaching uploads recovered by a channel-wide scan on 2026-10-31** (Dec 2021 → Apr 2024), tagged `source: channel-backcatalogue` and marked · RECOVERED in the entries above. A further 2 public uploads of that scan (trade-result/proof clips) are **held for review**, unindexed. ⚠️ **Corpus scope widened by the cron job, reversible:** the 39 rows are tagged, so they can be removed in one pass if Amit wants the corpus kept strictly to the Sunday Special playlist. |
-| Processed | **187** |
+| Processed | **190** — ⚠️ includes `2022-01-09 h2PMw2aO5Rc`, which the back-catalogue ordering had **skipped** (the pointer said 2022-01-22); caught by a date-ordered sweep on 2026-11-01 |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
 | Skipped (unavailable) | **2** — `_jC7l31lXPo` (yt-dlp: *Video unavailable*) · `pfTKn6YcvNc` (yt-dlp: *Private video*), both found in the playlist on 2026-10-27 and recorded in the manifest as skipped | | |
-| Remaining | **33** — all `channel-backcatalogue` rows (next: **2022-01-22** `lsB9-AhjeEs` *How to Calculate Option Premium*) | | |
+| Remaining | **30** — all `channel-backcatalogue` rows (next: **2022-01-29** `FiAkzCtIjP8` *VWAP + SuperTrend Intraday Strategy*) | | |
 | Blocked (members-only / private) | **12** in the indexed playlist (10 members-only · 1 private `I5JQIU5p8ck` · 1 removed `B0nQv4uZo5k`) **+ 44 members-only uploads found by the same channel scan** + 1 new members-only upload of 2026-10-31 (`oaKubE0ACQ4`, *Master Advanced Analysis Part-8*) — all need channel-membership cookies | | |
-| Next (chronological) | `2022-01-22 lsB9-AhjeEs` — *HOW TO CALCULATE OPTION PREMIUM* (RECOVERED) | | |
+| Next (chronological) | `2022-01-29 FiAkzCtIjP8` — *VWAP + SUPERTREND INTRADAY STRATEGY* (RECOVERED) | | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | | |
-| Status file | `ih_teaching/manifest.json` | | |
+| Status file | ⚠️ `ih_teaching/manifest.json` was **LOST in the 2026-11-01 device migration** (working dir not restored). Until it is rebuilt, **this Progress table is the pointer of record**; recovery recipe in `scripts/MANIFEST_LOST_20261101.md` | | |
