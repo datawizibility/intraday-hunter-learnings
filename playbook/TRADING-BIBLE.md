@@ -119,6 +119,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 - **Small gap-up is not a bullish gap:** after a rejection close the buy case needs a **proper/meaningful** gap-up — a small one validates nothing, and flat/gap-down keeps the sell plan (Sep 7).
 - **Very large gap-down voids the level map (Sep 24):** both sides are already trapped or already in profit → the old chart is discarded and the **new** chart is read after the first momentum. Inside an existing negative trend, do **not** wait for a profit-booking/gap-cover rally: whoever wanted to exit already exited during the prior retracement, and nobody books profit inside a gap-down — the **breakdown that has not happened yet** is the trade. A very large gap-down also nullifies the “target yesterday’s buyers” branch, because those buyers exit in one candle (Sep 24).
 - **Very large gap-down after a retracement was already given:** the small-gap-down sell plan breaks — re-read the **new chart**. When a decent retracement has already been handed to the market before a fall, everyone sells the fall and no buyers are left → recovery is the higher-probability path (Sep 11). Contrast Sep 9: a large gap-down into sellers who were already in profit offered no fuel → the sell side failed.
+- **The companions decide both branches (Oct 26 vs Oct 28):** one index breaking while the other two **hold their own level** ⇒ the break **converts to failure** and the two that held pay (Oct 26); one index gapping down while the other two merely **follow** ⇒ the follow fails and the trade is cut (Oct 28). Before taking either branch, name the two companions and ask whether the tape confirms the broken one.
 
 ### When gap-up = BUY with market vs SELL (resolve the conflict)
 | Situation | Gap-up default | Why |
@@ -543,7 +544,9 @@ IDLE → wait for new opportunity (no revenge)
 | P153 | **Never buy RR with a smaller stop** — increase RR by raising the **target** (loss unchanged); decrease RR by cutting the **target** (loss unchanged) | 10-25 teaching |
 | P154 | **RR is segment-conditioned** — option buying forces a modest RR (a big target costs time the premium will not pay); option selling can carry a bigger one | 10-25 teaching |
 | P155 | **Pay the losing stretch from the winners** — one adequately sized win covers a run of small losses; nobody’s every trade is wrong | 10-25 teaching |
-
+| P156 | **The breakdown-failure mirror:** when the **largest-quantity index** breaks a level while the other two **hold their own corresponding level**, the break **converts to failure** — the copy-cat sellers who short the two holding indices become the fuel; buy the two that held | 10-26 |
+| P157 | **A gap-down does not confirm the sell — it removes the hunt:** the side seated through the prior selling leg is **already in profit** at the gap-down open, so it cannot be the target; the trade downgrades to **continuation in the gap’s direction**, a lower-quality trade than a hunt | 10-28 |
+| P158 | **Rejections that arrive before any counter-side SL pool exists are construction, not reversal:** with no stops to hunt, the market builds them — expect the rejection, hold, and exit on the target or the pre-set limit, nothing in between | 10-29 |
 ---
 
 ## 13. How to maintain this bible
@@ -580,4 +583,4 @@ After each new `daily/YYYY-MM-DD.md` **or** `teaching/YYYY-MM-DD-….md`:
 
 ---
 
-*Last distilled: 2026-10-23. Sources: Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching + Sep 15–18 trading week (P93–P100) + Sep 21–25 trading week + Sep 26 “Weekly Market Analysis” teaching (P101–P118) + Sep 28–Oct 1 trading week + Oct 4 “The Real Benefits of Chart Trading” teaching (P119–P124) + Oct 5–9 trading week (P125–P130) + Oct 12–16 trading week (P131–P139) + **Oct 19–23 trading week (P140–P151) + Oct 25 “Master Risk-Reward Ratio” teaching (P152–P155)**.*
+*Last distilled: 2026-10-30. Sources: Jul 19–24 backfill + Jul 27–31 + Aug 2–7 + Aug 9 D/S teaching + Aug 10–14 + Aug 17–21 + Sep 7–11 + Sep 13 “Power of an Edge” teaching + Sep 15–18 trading week (P93–P100) + Sep 21–25 trading week + Sep 26 “Weekly Market Analysis” teaching (P101–P118) + Sep 28–Oct 1 trading week + Oct 4 “The Real Benefits of Chart Trading” teaching (P119–P124) + Oct 5–9 trading week (P125–P130) + Oct 12–16 trading week (P131–P139) + **Oct 19–23 trading week (P140–P151) + Oct 25 “Master Risk-Reward Ratio” teaching (P152–P155) + **Oct 26–30 trading week (P156–P158)**.*
