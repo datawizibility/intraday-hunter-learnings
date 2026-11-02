@@ -499,6 +499,46 @@ corpus' **first ordered account-death sequence**.
   minutes — is **digit-unstable in ASR**, and the money-ladder figures belong to a stated reconstruction.
   **0 rows to `levels-log/`.**
 
+**2022-01-29 — VWAP + SuperTrend Intraday Strategy (the systems update)** 🔵 NEW + 🟡 REFINED + ⚠️ TENSION · RECOVERED
+`FiAkzCtIjP8` · note: `teaching/2022-01-29-vwap-supertrend-intraday-strategy.md`
+
+A settings-and-rules UPDATE of the **2022-01-15** two-SuperTrend system, made in answer to viewer
+questions. Three settings move and one rule class is added; **no price level is spoken anywhere in the
+clip**. The finished setup: *"तो अब पूरा सेटअप हमारा कंप्लीट हो गया है"* — **two SuperTrends (13/factor
+2 and 13/factor 4) + VWAP**, on a **Bank Nifty futures** chart, moved from **3-min to 5-min**:
+*"उसमें मैंने 3 मिनट्स का टाइम फ्रेम यूज किया था इसमें आपको क्या करना है फाइव मिनट्स का टाइम फ्रेम यूज करना है"*.
+
+- 🔵 **NEW — VWAP enters the corpus as a live filter.** Only a **forward reference** existed before
+  (the 2022-01-01 entry already predicted *"VWAP+SuperTrend 2022-01-29"* as part of the early-2022
+  indicator cluster). This is that session: a trade now needs indicator agreement **and** the correct
+  side of a volume-weighted line. The instrument choice follows from the tool — futures, not spot,
+  *"क्योंकि अगर मैं सपोर्ट चार्ट को यूज करूंगा तो उसके अंदर वॉल्यूम नहीं होगा"*.
+- 🔵 **NEW — the stop/target asymmetry rule, i.e. the first DAILY LOSS CIRCUIT in the corpus.**
+  2022-01-15 capped trades at two per day as a blunt count. Here the count becomes
+  **outcome-conditional**: *"जब आपको स्टॉप लॉस मिल जाए ट्रेड में तो आपको दो ट्रेड लेनी है जब आपको टारगेट मिल जाए तो केवल आपको एक ट्रेड करनी है"*
+  — an SL opens a second chance, a target closes the day at one trade — and two stop-outs shut the
+  setup for the next session: *"तो आपके दोनों ही स्टॉप लॉस हिट हो गए तो आपको नेक्स्ट फर्द ट्रेडिंग इसमें नहीं करनी"*.
+- 🟡 **REFINED — the agreement core survives; the window and the parameter pair are restated.** Same
+  instruction as 2022-01-15 (*"जब दोनों ग्रीन हो तो आपको क्या करना है बाय करना है"*), but the
+  **first-change-only** clause is now made explicit as a no-trade state — an already-aligned chart
+  carries nothing: *"आपको ट्रेड कहां ना है जहां पे पहली बार सुपर ट्रेंड अपनी सिग्नल को चेंज कर रहा है"*.
+  The pair **13 / factor 2** and second-line **factor 4** are stated again, so a figure 2022-01-15
+  logged as **ASR-uncertain** is now **heard twice**.
+- 🟢 **STABLE — backtest before you trust** (running since 2022-01-01; here a 10-day walk from
+  **14 January**), and **🟢 STABLE — count your outcomes**: *"काउंट करते रहना कितना प्रॉफिट हुआ कितना लॉस हुआ कितनी बार स्टॉप लॉस हिट हुआ"*.
+- ⚠️ **TENSION (dated, unresolved) — the indicator trajectory, one more step.** 2022-01-15's entry
+  already logged the drift toward machine signals and noted the **next processed sessions reverse it**
+  (2022-02-19 *Price Action vs Indicators*; 2022-03-06 *clear the chart — remove indicators*). This
+  session **stacks a third overlay (VWAP)** on the same chart. The drift continues one step before the
+  reversal. **Recorded, not averaged.**
+- 📌 **ASR honesty / fidelity:** the whole clip is settings, rules and a narrated walk-through with
+  **no instrument price** — **0 rows routed to `levels-log/`** (honest zero). Bank Nifty is named but
+  never priced. Five ASR spellings of VWAP (`` `वी वेप` · `वी वेब` · `व वेप` · `व वेब` · `वी वफ` ``) are
+  reproduced as spoken; `सपोर्ट चार्ट` reads as **spot chart** and `फ्लक्स एशन` as **fluctuation**
+  (⚠️ both flagged readings, not quotes).
+
+---
+
 **2022-01-30 — How to Find Stop-Loss in the Market (Sunday Special Part 1)** 🔵 NEW
 `rz5tQaWLfgo` · note: `teaching/2022-01-30-stoploss-identification.md`
 
@@ -526,6 +566,62 @@ The earliest video processed. Establishes what later becomes the spine of the wh
 > **the same mechanism** taught here in Jan 2022 — the 2026 version is the *trading*
 > framing, this is the *identification* framing. **Not a change of mind; a change of lens.**
 > That is strong evidence the SL-pool thesis is bedrock rather than fashion.
+
+---
+
+**2022-02-05 — VWAP + RSI Setup for the Stock Market (the breakout-quality session)** 🔵 NEW + 🟡 REFINED + ⚠️ TENSION · RECOVERED
+`7ESEwigIxkg` · note: `teaching/2022-02-05-vwap-rsi-setup.md`
+
+Fifth session in the early-2022 indicator cluster (2022-01-15 SuperTrend → 2022-01-22 option premium
+→ 2022-01-29 VWAP+SuperTrend → this session) and **the furthest point the corpus' mechanical-tool line
+reaches** — within two weeks he is teaching *price action vs indicators* (2022-02-19) and by
+**2022-03-06** he clears the chart. **RSI enters the corpus here for the first time**, and SuperTrend
+leaves the chart without being named.
+
+- 🔵 **NEW — RSI, used as a BREAKOUT instrument, not an oscillator.** The question is *where the first
+  breakout happened*, not overbought/oversold: *"पहले देखना होगा कि आरएसएस में पहली बार कहां पर एकजुट हो रहा है"*.
+  This is both a **new indicator** and a **new use** for an indicator.
+- 🔵 **NEW — the breakout-QUALITY gate.** Earlier sessions gated on the level (2022-01-30) or on the
+  swing's legitimacy (2022-01-09); the gate now sits on **the print itself** — a candle that merely
+  **touches** the line is never confirmation, and the breakout must be visible at a glance:
+  *"दशरथ कराओ टच करने वाले को कंफर्म नहीं करेंगे"*.
+- 🔵 **NEW — the personal buffer over the indicator value.** The entry line is the average **plus points
+  the trader adds himself**: *"तो इसमें आपको जस्ट कुछ पॉइंट्स ऐड कर देने अपनी तरफ से"*. Nothing earlier
+  offsets a tool reading by the trader's own number.
+- 🔵 **NEW (stance) — belief in the indicator as a substitute for reading the market.**
+  *"केवल आपको अपने इंडिकेटर पर बिलीव होना चाहिए अपने सिस्टम पर बली होना चाहिए"*, with the explicit claim
+  that **no price-action read was needed**. Earlier sessions place conviction in your own number
+  (2021-12-18) or your own system (2021-12-25); this one places it in the **tool**.
+- 🟡 **REFINED — VWAP changes job, and the agreement rule survives while its two copies do not.**
+  2022-01-29 used VWAP as the **side filter** inside a two-SuperTrend system; here the side filter
+  survives but the **VWAP value itself becomes the entry line** (with the buffer), and the pair is now
+  **two different tools with different jobs** — RSI for *when*, VWAP for *where* — rather than two
+  copies of one family (2022-01-15).
+- 🟡 **REFINED — the count and the clock both tighten.** The trade cap drops to a **flat one a day**
+  (2022-01-15 allowed a maximum of two; 2022-01-29 made it outcome-conditional), justified as a
+  discipline mechanism: *"वह यही आप में डिसिप्लिन बनाएगा"*. The window moves earlier — **nothing after
+  12:00**: *"12:00 के बाद का जो प्रॉब्लम कंसीडर्ड नहीं करेंगे"*, the opening rule expressed as
+  **three candles** (*"तो आपको फर्स्ट थ्री मंडल में ट्रेंड नहीं करना है चाहे कुछ भी हो जाए"*), and the best
+  window stated as **before 11:00–11:30**.
+- 🟢 **STABLE — backtest before you trust** (fourth-plus session running); **🟢 STABLE — one exit method,
+  never mixed** (fixed target); **🟢 STABLE — a no-trade day is legitimate** (3 February refused because
+  the breakout arrived after 12:00, consistent with 2021-12-18's waiting line and 2022-01-22's refusal).
+- ⚠️ **TENSION (dated, unresolved) — the flat ₹5 stop against the instrument-calibrated stop.**
+  **2022-01-15** held that a stop must be sized to what the instrument actually travels (a ₹3 stop
+  declared unusable there). Here the stop is a **flat ₹5 on a stock**, chosen to build a 1:2 package,
+  with no reference to the instrument's range. **Both dated positions stand; not averaged.**
+- ⚠️ **TENSION (dated, unresolved) — the indicator question at its leaning-est point.** 2021-12-25 said
+  cut the studies; 2022-01-16 and 2022-01-23 diagnosed real trades with no indicator at all. This
+  session adds a second indicator, types its settings and asks for **belief** in it. It then sits
+  directly upstream of the February reversal. **Recorded, not resolved — for Amit.** It sharpens the
+  standing question of whether the indicator cluster was ever his own method or a response to demand.
+- ⚪ **NOT DROPPED — SuperTrend.** Absent from this chart and not replaced by name: an **absence, not a
+  retraction** (it recurs later in the corpus, e.g. 2022-03-06 and the 2025 sessions).
+- 📌 **ASR honesty / fidelity:** **0 rows routed to `levels-log/`** (honest zero) — **no index is named
+  in the session at all**, and the only screen prices are ASR-unstable VWAP values
+  (a **179.54**-family reading and a **183** under an instrument heard as *"टाटा स्टील"*). The **183** is
+  exactly the case where a leading digit would make a plausible price — **recorded as heard, never
+  completed**. Nothing adopted, nothing carried.
 
 ---
 
@@ -568,6 +664,53 @@ is **NOT closed**; videos #3, #21, #25, #36 must be checked.
 > happens when they go* (new positions form). Same spine, deeper. ⭐ The **absence of any
 > contradiction** across the pair is strong evidence this is bedrock.
 
+
+**2022-02-12 — Intraday Trading Strategy To Find Market Trend (the day-side question)** 🔵 NEW + 🟡 REFINED + ⚠️ TENSION · RECOVERED
+`VF7o_S0zi5c` · note: `teaching/2022-02-12-find-market-trend.md`
+
+The last study-led session before his teaching turns on indicators (2022-02-19). Its structural
+contribution is not a tool but a **question asked at day level**, and a **disagreement case** for the
+agreement rule the cluster had been built on.
+
+- 🔵 **NEW — the day-side question.** Earlier sessions in the cluster asked *where the entry is*; this
+  one opens by asking whether the **whole day** is buy-only or sell-only, and treats that single answer
+  as the thing that removes most of the trader's problem: *"कि केवल आज हम एक बाइक करना है या केवल आज हम एयरसेल करना है"*.
+  (The nearest later echo is the one-side framing of 2022-10-08.)
+- 🟡 **REFINED — the agreement rule gains its DISAGREEMENT case.** 2022-01-15 required two SuperTrends
+  to read the same colour; 2022-01-29 required both lines plus the correct side of VWAP; both answered
+  disagreement with *wait*. Here the counter-move is no longer a no-trade state — **it is the entry**,
+  with the bars setting the side: *"जब बार डोंट बने हम लेकिन मार्किट अपसेट जा रहा है तब आप को भांग नहीं करना है तब आपको से लिंग की ओपोसिटी पॉइंट करनी है"*.
+- ⚠️ **CROSS-CHECK (dated, not resolved):** the two readings coexist only if 2022-01-15's agreement is
+  between two **indicators** while this session's disagreement is between an indicator and the **price
+  path** — which is how the words read, but the session never says it. **Both stand; for Amit.**
+- 🟢 **STABLE — backtest before you trust** (running since 2022-01-01, repeated 2022-01-15 and
+  2022-01-29): the month is walked in front of the viewer, day by day, **with the losses in it** —
+  one day *"स्टॉक आउट हो सकता था"* and his own admitted loss on 1 February, which he attributes to the
+  Budget-day news: *"एक फरवरी में वैसे तुम्हारा बजट का डे था"*.
+- 🟢 **STABLE — stop and target are OUTPUTS of placement, not of the setup** (2022-01-16's placement
+  diagnosis, 2022-01-15's instrument-calibrated stop): *"वह डिपेंड करेगा कि आपने पोजीशन कहां पर बनाई है"*.
+- 🟢 **STABLE — candlestick patterns as the timing layer** (2022-01-09's pattern catalogue): the
+  morning star is a trigger on top of the bias, never a standalone strategy.
+- 🟢 **STABLE (precursor) — method neutrality, stated a week before it is formalised.**
+  *"आप रिएक्शन से भी पैसा बना सकते हो और आप इंडिकेटर से भी पैसा बना सकते हो"* answers a viewer's
+  objection (*"सर आप प्राइस रिएक्शन पर ट्रेड करते हो और हमें इंडिकेटर पर ट्रेंड करना सिखा रहे हो"*) and
+  anticipates 2022-02-19's *indicators, support/resistance and price action can all make or lose money*.
+- ⚠️ **TENSION (dated, unresolved) — the indicator trajectory, closing the cluster.** 2022-01-15 →
+  01-22 → 01-29 → 02-05 → this session: five study-led sessions in five weeks. Within seven days he is
+  teaching **price action vs indicators**, and by **2022-03-06** the instruction is to clear the chart.
+  **This session sits inside the cluster his own next month abandons** — recorded, not averaged, and
+  not read as a retraction of the tool.
+- 📌 **ABSENCE noted, not scored:** the 2022-01-15 two-trade cap and 2022-01-29's outcome-conditional
+  ladder appear **nowhere** here — no trade count, no daily circuit, no R:R. An absence in one session
+  is not a withdrawal, but the risk apparatus is genuinely missing.
+- 📌 **ASR honesty / fidelity:** **0 rows routed to `levels-log/`** (honest zero) — no price, index
+  level, strike, stop or target value is spoken. Bank Nifty is named but never priced; the study itself
+  **cannot be named** from this audio (*"ऐ वी समुची लैटर"* is unresolvable — no product name is guessed).
+  The digit runs are a lottery illustration, a timeframe, February dates, and three corrupt fragments
+  (*"159 बाहर बनी में"*, *"1 6 पॉइंट"*, *"मार्केट वेबसाइट 1000 है"*) — **none routed, none completed by
+  inference**. Dense ASR garbling is reproduced as spoken and never corrected inside a quote.
+
+---
 
 **2022-02-13 — How To Trade in Stock Market Using Stoploss** 🟡 REFINED + 🔵 NEW
 `QNGxHWPC-rQ` · note: `teaching/2022-02-13-how-to-trade-in-stock-market-using-stoploss.md`
@@ -6212,11 +6355,11 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **235 videos** — the 196-row indexed corpus (195-entry Sunday Special playlist + 1 removed) **+ 39 public teaching uploads recovered by a channel-wide scan on 2026-10-31** (Dec 2021 → Apr 2024), tagged `source: channel-backcatalogue` and marked · RECOVERED in the entries above. A further 2 public uploads of that scan (trade-result/proof clips) are **held for review**, unindexed. ⚠️ **Corpus scope widened by the cron job, reversible:** the 39 rows are tagged, so they can be removed in one pass if Amit wants the corpus kept strictly to the Sunday Special playlist. |
-| Processed | **190** — ⚠️ includes `2022-01-09 h2PMw2aO5Rc`, which the back-catalogue ordering had **skipped** (the pointer said 2022-01-22); caught by a date-ordered sweep on 2026-11-01 |
+| Processed | **193** — ⚠️ includes `2022-01-09 h2PMw2aO5Rc`, which the back-catalogue ordering had **skipped** (the pointer said 2022-01-22); caught by a date-ordered sweep on 2026-11-01 |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
 | Skipped (unavailable) | **2** — `_jC7l31lXPo` (yt-dlp: *Video unavailable*) · `pfTKn6YcvNc` (yt-dlp: *Private video*), both found in the playlist on 2026-10-27 and recorded in the manifest as skipped | | |
-| Remaining | **30** — all `channel-backcatalogue` rows (next: **2022-01-29** `FiAkzCtIjP8` *VWAP + SuperTrend Intraday Strategy*) | | |
+| Remaining | **27** — all `channel-backcatalogue` rows | | |
 | Blocked (members-only / private) | **12** in the indexed playlist (10 members-only · 1 private `I5JQIU5p8ck` · 1 removed `B0nQv4uZo5k`) **+ 44 members-only uploads found by the same channel scan** + 1 new members-only upload of 2026-10-31 (`oaKubE0ACQ4`, *Master Advanced Analysis Part-8*) — all need channel-membership cookies | | |
-| Next (chronological) | `2022-01-29 FiAkzCtIjP8` — *VWAP + SUPERTREND INTRADAY STRATEGY* (RECOVERED) | | |
+| Next (chronological) | Re-derive by upload date at the next run — `2022-02-14 PKTKv9v2vBI` (*Live Intraday Trade Option Trading*, a **trade-result clip held for review**, not a Sunday-Special teaching session); `ih_teaching/manifest.json` is still lost, so `scripts/find_next_teaching.py` is the pointer of record | | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | | |
 | Status file | ⚠️ `ih_teaching/manifest.json` was **LOST in the 2026-11-01 device migration** (working dir not restored). Until it is rebuilt, **this Progress table is the pointer of record**; recovery recipe in `scripts/MANIFEST_LOST_20261101.md` | | |
