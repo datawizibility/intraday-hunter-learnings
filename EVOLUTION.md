@@ -809,6 +809,85 @@ agreement rule the cluster had been built on.
 > chart reading itself.
 
 
+**2022-03-05 — How To Trade With Fibonacci Retracement In Live Market (the 0.61% rung)** 🔵 NEW + 🟡 REFINED + ⚠️ TENSION · RECOVERED
+`wmbJGOOyWHo` · note: `teaching/2022-03-05-fibonacci-retracement.md`
+
+The corpus' **first dated appearance of the 0.61% retracement rung** — a full year before the session the
+record previously credited with it. The tool is not new; it is **re-set**: *"देखिए आज हम फिर नाची टूल का
+यूज करने वाले हैं और उसको ए परसेंट इस टूल की तरह यूज करेंगे ना कि नैचुरल नंबर कितना यूज करेंगे"* — the
+tool driven as a **percentage**, not as the golden-ratio list the courses hand out.
+
+- 🔵 **NEW — ⭐ the 0.61% rung, and it is the ONLY rung.** Not a zone, not a family of ratios:
+  *"केवल और केवल पॉइंट सिक्स वन परसेंट के पास आया होगा तभी आपको ट्रेडिंग बनाना है"*, with the
+  intermediate reading explicitly refused — *"पॉइंट 5.3 आपको यहां पर ट्रेंड नहीं लेना है"*. The nearest
+  earlier mentions of the word *Fibonacci* in this file (the 2022-02-20 entry) use it **only to exclude
+  it**; the rung itself is not dated anywhere before **2023-03-12** / **2023-04-23**. Everything the
+  corpus later builds on the rung (2023-05-14 planning input, 2023-07-09 *"0.61 को ऊपर नहीं जाने देगा"*,
+  2023-07-23 the patience-break line, 2023-09-10 the spoken *"0.6%"*) descends from this session.
+- 🔵 **NEW — the timeframe preference is spoken for the first time.** *"सबसे पहले मैं वन मिनट में ट्रेडिंग
+  करना पसंद करता हूं तो आपको भी मैं वन मिनट का ही ज्यादा सिखाने की कोशिश करूंगा ताकि आप मुमेंटम को अच्छी
+  तरह से कैप्चर कर पाओ"*, with five minutes offered as usable. A grep of this file for `1 मिनट` returns
+  nothing dated before **2023-01-15**, and **2023-11-05** later records the timeframe *choice* as absent
+  from the earlier corpus — this is where it starts.
+- 🟡 **REFINED — the limit-unwinding mechanism gets its SIZING cause.** The 2022-02-06 fill rule became an
+  order-type claim at 2022-02-27 (momentum needs market orders; limit unwinding is drift). Here the reason
+  is spoken: *"जो बड़े होते हैं वह धीरे-धीरे अपना प्रोफिट बुकिंग करना शुरू कर देते हैं क्योंकि वह लिमिट
+  आर्डर नहीं लगा सकते क्योंकि उनके पास क्वांटिटी बहुत ही बड़ी होती है"*, and the reversal is read as its
+  signature — *"इसी कारण वो अपना धीरे-धीरे प्रोफिट बुकिंग करना शुरू करते हैं जो मार्किट रिवर्सल करना शुरू
+  कर देते हैं"*. Chain: **2021-12-11** (a band exists because size must be unwound gradually) →
+  **2022-02-06** (fills need counterparty quantity) → **2022-02-27** (order types) → here (position size).
+- 🔵 **NEW — one tool, and only one, on the read:** *"दूसरे टूल का यूज मत कर लेना"*. It lands **one day
+  before 2022-03-06's** single-style mandate (work the level's *reaction* **or** its *break*, never both)
+  — a tool rule first, a style rule a day later.
+- 🟡 **REFINED — the retracement becomes the TRIGGER, not the warning.** The later retracement sessions
+  (**2022-06-04** learn the psychology on continuous one-way moves; **2022-06-11** the dedicated
+  retracement/reversal session) treat the retracement as the hardest live read; this is the earliest
+  statement that a retracement **rung is the entry**, taken at the session's first reversal:
+  *"जब फर्स्ट टाइम मार्केट जब रिएक्शन लेकर जब एक रिवर्सल दिखाएगा"*.
+- 🟡 **REFINED — a level never reached is a RESULT, not a miss.** *"मार्गे 51 पर सेंट के पास आया ही नहीं कि
+  आप स्ट्रेट बनाओ मार्केट में दिखाया ही नहीं"* (⚠️ ASR-garbled; read as *the market never came near the
+  level, so no setup forms*). The corpus keeps this as its no-trade state (2021-12-18's waiting line,
+  2022-01-22's refusal) and it is restated here as a property of the rung itself.
+- 🟡 **REFINED — risk-reward is stated as CONSTANCY, and this is a dated early input to OPEN QUESTION 24.**
+  The 1:2 illustration (*"मान लेते आपने वन बाय टू का रिस्क रिपोर्ट बना लिया कि जब मुझे लो होगा तो ₹1 का
+  होगा जब मुझे प्रॉफिट होगा तो ₹2 को है"*) plus the warning against alternating 1:1 and 1:2 in one book,
+  and the maintenance instruction *"अगर आप इसमें रिस्क रिकार्ड मेंटेन करते रह जाओगे तो और आपको अच्छा
+  प्रोफिट देखने को मिलेगा"*. **2023-12-02** later names ≈1:1 as his normal ratio and **2023-12-30** says a
+  premium's level is irrelevant once risk-reward is fixed. **Both stand; not averaged.**
+- 🟢 **STABLE — backtest → watch live → trade small** (2022-01-01, 2022-01-15, 2022-01-29, here):
+  *"उसके बाद अगर आपको कंफर्म्ड बाय इसमें तो फिर आप छोटा-मोटा ट्रेडिंग कर सकते छोटी क्वालिटी के साथ"*.
+- 🟢 **STABLE — choose your own tool; a course does not transfer it.** *"जो आपको पसंद आए अपने सिस्टम के लिए
+  अपने कंफर्ट के लिए वह इसको यूज करना चाहिए आपको ना कि दूसरों के कहने पर"* and *"दूसरों के कोर्स लेने से कुछ
+  भी पैसा नहीं बनाया जा सकता मार्किट में ₹1 भी नहीं बनाया जा सकता"* — the 2021-12-11 *test it yourself*
+  stance (*"रहेगी सौ परसेंट कुछ नहीं होता"*), now attached to the choice of tool.
+- 🟢 **STABLE — the setup mostly forms early:** *"लेकिन मोस्टली आप 10:00 बजे से पहले पहले आप स्ट्रेट बन
+  जाएगी आपकी और आपको आसानी से स्ट्रेट मिलेगा"*, consistent with the cluster's closing windows
+  (2022-01-15 two trades, 2022-01-29 outcome-conditional, 2022-02-05 nothing after 12:00).
+- 🟡 **REFINED — the option HOLD becomes a time risk, one year before the corpus builds a time doctrine.**
+  *"पूरा दिन मार्केट को फोल्ड करना थोड़ा सा ऑप्शन बाय मोर ऑप्शंस सेलिंग अंदर बहुत ही खतरनाक होता है"*
+  (⚠️ garbled; *carrying an option the whole day is very dangerous*), with the escape stated as management
+  — *"अगर ज्यादा ही नेट प्रॉफिट हो गया तो आप एक ट्रेलिंग स्टॉपलॉस वगैरह का यूज करते हैं वह एक सिस्टेमेटिक
+  तरीके से आप यूज कर सकते हो"*. (2022-01-22 priced the premium; this prices the clock.)
+- ⚠️ **TENSION (dated, unresolved) — one more overlay, the day before the chart is cleared.** The file
+  already traced the drift (2021-12-25 → 2022-01-01 → 2022-01-15 → 2022-01-29 VWAP) and recorded that the
+  **next processed sessions reverse it** (2022-02-19 *price action vs indicators*; **2022-03-06** *clear
+  the chart — remove indicators*; **2022-03-19** re-builds a three-overlay chart; 2022-02-05 is the
+  cluster's furthest point). This session stacks a Fib-retracement rung on the chart **one day before**
+  2022-03-06 clears it. **Recorded, not averaged.**
+- 📌 **ASR honesty / fidelity:** **0 rows routed to `levels-log/`** (honest zero — nothing to route).
+  Greps on the ~12.6K-character ASR: **`निफ्टी` 0 · `सेंसेक्स` 0 · `सेन्सेक्स` 0** hits, and the 4
+  `बैंक` hits are all garbles in non-instrument sentences (*"बैंक कम करना है"*, *"बैंक पाउडर इन्हीं सेट
+  करना"*, *"बैंक साइड का दिल्ली सेट"*, *"बैंक में ऑप्शन बारे में"*) ⇒ **no instrument is named, so no
+  level can be attributed.** Every digit in the clip is a **percentage** (*"पॉइंट सिक्स वन परसेंट"* ×4,
+  plus garbled `5.3` / `51` / `1%` variants), a **clock** (`10:00`), a **timeframe** (`वन मिनट`, `फाइव
+  मिनट्स`), a **₹ illustration** (`₹1` / `₹2`), or an unusable fragment (`600`, `1.5`, `5210`,
+  `2000 12` — **never completed by scale inference**). Garbling reproduced as spoken: `` `फिर नाची टूल` ·
+  `फिर बनाती रिट्रेसमेंट टूल` `` (= फिबोनाची), `ए परसेंटेज`, `नैचुरल नंबर`, `मुमेंटम` (momentum),
+  `रिजर्वेशन` (rejection), `स्ट्रेट` (setup), `` `रिस्क रिपोर्ट` · `रिस्क रिकार्ड` `` (risk-reward),
+  `बैड टेस्ट` (backtest), `ट्रैक्टर` (trader), `चिट्टूर` (chart). The live day he narrates carries **no
+  date, no instrument and no price** and is not reconstructed.
+
+
 **2022-03-06 — How to Draw Support and Resistance Levels** 🟡 REFINED + 🔵 NEW + 🔴 TENSION
 `e12Wt3no9Yw` · note: `teaching/2022-03-06-how-to-draw-support-and-resistance-levels-for-in.md`
 
@@ -833,6 +912,66 @@ agreement rule the cluster had been built on.
 > re-priced market; 2022-03-06 says where to put the lines and gives the one-style discipline
 > that makes the read executable. Note the corpus now contains **two adjacent dates openly in
 > tension** — evidence that he teaches the learning path and the trade path separately.
+
+
+**2022-03-19 — Pivot Point Intraday Trading Strategy (the pivot + two-rung fib build)** 🔵 NEW + 🟡 REFINED + 🔴 CONTRADICTS (in form) · RECOVERED
+`ii7uHN17ysY` · note: `teaching/2022-03-19-pivot-point.md`
+
+An anti-dependency session that then **builds a chart**: pivot point on, an unnamed small-candle overlay,
+two Fibonacci rungs kept, five minutes — *"5 मिनट का मैने टाइम फ्रेम यूज की है"* — and the entry narrated
+over a recorded tape. His own framing: *"तो आज हम एक ग्रेडिंग के लिए सिस्टम बनाने वाले हैं"* (⚠️ ASR-garbled;
+read plainly as *today we build a system for trading*).
+
+- 🔵 **NEW — the PIVOT POINT enters the corpus as an on-chart tool.** Before this date the word appears
+  only at **2022-01-09** (4×, a *pattern-internal* swing) and **2022-01-15** (1×, a forward flag naming
+  Pivot as a later trusted indicator) — verified by mapping every hit to its owning entry: the next dated
+  mention is **2023-05-21**, and the heavy pivot sessions are **2025-04-20** (8×) and 2026. Neither 2022
+  mention teaches the indicator; this session does: *"पहले हम इंडिकेटर सेक्शन में जाएंगे और पॉइंट को लगा
+  लेते हैं"*, with the price rows trimmed so the levels are visible — *"देखिए यह वाली प्राइस में हटा दिए
+  ताकि आपको अच्छी सी सपोर्ट रेजिस्टेंस नजर आए"*.
+- 🔵 **NEW — a two-RUNG Fibonacci setting that is NOT the 0.61%.** *"वो मैंने 0.5 पॉइंट 141 को रखा है बाकी
+  सभी को मैंने हटा दिया"* — the spoken pair is **0.5 and 1.41**, everything else deleted, and the trade is
+  taken where a **reaction prints** at either rung: *"यहां पर आपको दो लेवल मैंने बताया पॉइंट फाइव और पॉइंट
+  6 उन दोनों लेवल पर जहां पर आप और इंजेक्शन देखने को मिले वहां पर अपडेट कर सकते हो"*. ⚠️ The `141` token is
+  an unattached fragment and is **not reconstructed**. This sits **14 days after 2022-03-05's single-rung
+  0.61% rule** and does not repeat its number — recorded side by side, not averaged.
+- 🟡 **REFINED — confidence-by-agreement becomes confidence-by-CANDLE-SEQUENCE.** 2022-01-15 and
+  2022-01-29 required two *indicator* lines to agree; here the agreement is in the chart: two back-to-back
+  5-minute candles end the pullback — *"बैक टू बैक आपको देखना है कि फाइव मिनट्स के दो कैंडल आपको कहां पर
+  गर्मी है"* (⚠️ `गर्मी` = green) — and the entry is the candle after them.
+- 🟡 **REFINED — the trade cap becomes R:R-CONDITIONAL (third distinct formulation).** 2022-01-15 capped the
+  day at two trades bluntly; 2022-01-29 made the count outcome-conditional; here the ratio sets it:
+  *"अगर आप वन बाय वन यूज करें तो केवल आपको एक लीड करें अगर वन बाय टू कर रहे हो तो आप दो ट्रेड ले सकते हो"*,
+  with the hard ceiling *"मिनिमम एक है और ज्यादा से ज्यादा दो कर सकते हो इससे ज्यादा ट्रेड सेट अप के अंदर
+  आपको नहीं कर है"*.
+- 🟢 **STABLE — trade the retracement, not the breakout print:** *"यहां पर मार्केट बैक टू बैक ग्रीन चैनल बना
+  तो यहां पर भाग गया तो यहां पर आपको कभी भी बाय नहीं करना चाहिए"* — the same *wait for the fold* that
+  2022-01-16 and 2022-01-23 taught, and the same one-side discipline 2022-03-06 formalises.
+- 🟢 **STABLE — backtest before you trust, and backtest WIDE:** *"आपको बैड टेस्ट करना है और अलग-अलग स्टॉक और
+  इंडेक्स में देखना है"* (running since 2022-01-01; richer than 2022-01-09's *back-test 100 charts*), and
+  **🟢 STABLE — simplify:** *"सेट अप को जितना सिंपल और सिंपलीफाई करके आप देखोगे उतना ही अच्छा आपके लिए आपके
+  साथ काम करेगा"*.
+- 🟢 **STABLE — modify what you are given instead of copying it.** *"आप अपना सिस्टम बनाएं अपने कंफर्ट जोन के
+  अंदर"* continues 2021-12-25's *own system* line, and the tool is explicitly declared not to be the edge:
+  *"मैं कभी तुम्हें इस प्रकार यूज करूंगा और कभी मैं इसका बिल्कुल उल्टा करूंगा"*.
+- 🔴 **CONTRADICTS (in form; recorded, not averaged) — three overlays, thirteen days after the chart was to
+  be cleared.** **2022-03-06** was the *remove indicators / mark zones on price* session; this session adds
+  **pivot + a small-candle overlay + Fibonacci** to the same 5-minute chart. This is the sharpest statement
+  of the standing TENSION already logged at 2022-01-15, 2022-01-29, 2022-02-19 and 2022-03-05. **Both dates
+  stand.**
+- ⚪ **NOT RESTATED (absence, not a drop) — VWAP, SuperTrend, the futures/volume requirement and the
+  pre-bell read are simply absent.** 2022-01-29's chart (VWAP + two SuperTrends + Bank Nifty **futures** for
+  volume) does not reappear; this is a plain spot-price chart. Absence only — later dates retire nothing
+  (SuperTrend returns at **2025-04-20**).
+- 📌 **ASR honesty / fidelity:** **0 rows routed to `levels-log/`** (honest zero). **No instrument price is
+  spoken anywhere.** Index greps: **`निफ्टी` 0 · `बैंक` 4 · `सेंसेक्स` 0 · `सेन्सेक्स` 0** — all four
+  `बैंक` hits are mis-renderings of **बाय** (buy) or unattached fragments, and no index is named cleanly or
+  priced. Digit inventory: `5` (timeframe, 5-minute chart), `0.5` / `6` (Fibonacci rungs), `120` (the
+  spoken **risk 1:2** in a garbled fragment), `2` (two candles, ×2), `1%` (unattached), `141` / `2016` /
+  `4.5` / `15` / `2.5` (garbled fragments, **never completed**); the 2 o'clock limit is spoken as the word
+  *दो*, and **no rupee amount is spoken at all**. Garbling reproduced as spoken: `एवरी स्मॉल लेटर` (an
+  unresolvable indicator — no product name is guessed), `` `आफ बना चित्तौड़` · `आफ गुना शीट` `` (0.5 fib),
+  `इंजेक्शन` (entry), `गर्मी` (green), `रिप्लेसमेंट` (retracement), `प्रिंट पॉइंट` (pivot point).
 
 
 **2022-03-20 — How To Trade with Psychology Levels** 🟡 REFINED + 🔵 NEW
@@ -866,6 +1005,64 @@ agreement rule the cluster had been built on.
 > direction** (bigger pool), a **measuring tool** (points consumed), and a **holding rule**
 > (don't bolt). This is the point where the 2022 material stops being philosophy and starts
 > being process.
+
+
+**2022-03-26 — How To Avoid Losses In Stock Market Trading (the research-book session)** 🔵 NEW + 🟡 REFINED + 🟢 STABLE · RECOVERED
+`c-HGs1H-z8w` · note: `teaching/2022-03-26-avoid-losses.md`
+
+A deliberately **chart-free, behavioural** session — no level, no setup, no index — that answers the
+standing complaint: *"हम चार्ट को भी सीख रहे हैं हम कुछ इंडिकेटर पर लगा रखिए मैंने एक सिस्टम भी बना रखा
+है फिर भी हम एलओसी होता है"*. Its contribution is the corpus' first **paper-trading-and-journal
+discipline**.
+
+- 🔵 **NEW — the RESEARCH BOOK: virtual trading plus a written one-trade-at-a-time record.** A grep of this
+  file for `वर्चुअल` / `virtual` returns **0 hits** anywhere before this entry. Every prior control in the
+  record is a rule you obey in the *live* account (the stop, the trade count, 2021-12-18's recovery-trade
+  ban); here a change must be proved in a parallel book with the live system explicitly left alone —
+  *"आपको केवल और केवल आपको वर्चुअल ट्रेडिंग करना है"*, costed as *"रिसर्च में केवल आपका टाइम लगने वाला है"*,
+  and the record itself: *"आपको वन बाय वन रिकॉर्ड करके देखना है"* + *"यह आपको कहीं नोट बुक में या एक्स्सल
+  के अकॉर्डिंग आपको देखना है"*. It supplies the **trade-journal discipline** whose absence the **2021-12-11**
+  entry explicitly recorded for the era.
+- 🔵 **NEW — the REVERSAL experiment.** *"आपको बिल्कुल उल्टा कर देना है कि बाइक करते वहां पर चल कर देना"* —
+  if a recorded set of trades keeps losing, invert it **on paper** and measure the counterfactual. No
+  earlier session proposes testing the **negation** of your own method.
+- 🔵 **NEW — time becomes an explicit cost inside an option position.** *"ऑप्शन में आपको इस टाइम बेसन रहता
+  है"* (⚠️ `टाइम बेसन` = time-based). **2022-01-22** priced an option as *premium*; this prices the *clock*
+  — the same move pays differently arriving in a minute or an hour. (Two days earlier, **2022-03-05**, the
+  same concern was stated as a holding risk: carrying an option the whole day is dangerous.)
+- 🟡 **REFINED — over-trading, from a named temptation to the stated cause of loss.** 2021-12-18 banned the
+  recovery trade and priced greed; here the whole symptom compresses into one causal sentence:
+  *"हम ओवर ट्रेडिंग करते हैं और जो मारा प्रॉफिट होता है उसको लोस में कंवर्ट कर देते हैं"* — the earliest
+  processed statement of the **profit→loss conversion**. The thread runs on to **2022-10-22** (the motive
+  test) and **2023-07-16** (over-trading named as the illness that eats the profit).
+- 🟡 **REFINED — the post-mortem gets a rule: you cannot analyse a loss by marking where you should have
+  entered** (*"रूस को इस प्रकार एनालाइज नहीं किया जा सकता"*, ⚠️ `रूस` = loss), and the diagnosis is moved
+  from the *method* to the **entry**: *"आपकी एक्यूरेसी तो अच्छी है लेकिन आप की एंट्री गलत हो गई है"*.
+  Same split as 2022-01-16's entry-right/selection-wrong verdict, promoted here to the session's headline.
+- 🟡 **REFINED — the pre-funding rule arrives early.** *"आपने फंड को क्लिक कीजिए आप 1 लाख रुपए को इकट्ठा
+  कीजिए और फिर आप टमी ट्रेडिंग कीजिए"* (⚠️ `क्लिक` = collect, `टमी` = intraday) — collect the tank before
+  the trading. It is formalised much later as the sizing derivation of **2022-05-08** (≈₹1 lakh minimum from
+  option risk per trade). **Recorded here, not back-dated from 2022-05-08.**
+- 🟢 **STABLE — own the system, or there is nothing to repair:** *"आपके पास अपना एक सिस्टम होना चाहिए कि आप
+  रीड क्यों करते हो किस प्रकार करते हो"* (2021-12-25's professional = the man who follows his own system).
+- 🟢 **STABLE — prove it before you trust it, now aimed at your own decision log.** The same posture as
+  2021-12-11 → 2022-01-01 → 2022-01-15 → 2022-01-29 → 2022-03-05's *backtest first*, moved from *test the
+  tool* to *test your own record*, with the expectation stated modestly: *"यह सभी बातें अपने आप से आपको पता
+  होना चाहिए"* and *"आप दो चार महीनों में ऐसा इंप्लीमेंट करो कि आपका ट्रेडिंग रिजल्ट पूरा ही चेंज हो जाएगा"*.
+- ⚪ **NOT RESTATED (absence, not a drop) — the entire stop-loss-pool / level apparatus.** No
+  support/resistance, no stop placement, no index, no chart, no gap plan — in a corpus whose spine
+  (**2022-01-30** → **2022-02-06** → **2022-02-13** stop-loss series) and whose immediately preceding session
+  (**2022-03-20** *How To Trade with Psychology Levels*) are all built on it. An absence withdraws nothing:
+  this session is **behavioural by design**.
+- 📌 **ASR honesty / fidelity:** **0 rows routed to `levels-log/`** (honest zero). **No index, stock, future
+  or strike is named** — greps: **`निफ्टी` 0 · `बैंक` 0 · `सेंसेक्स` 0 · `सेन्सेक्स` 0**. Digits: `100` ×2
+  (percentage accuracy), `10` ×11 (a day-count, a trade count, and a recurring garbled phrase
+  `` `10 की द स्टेट` / `10 की स्टेट` / `10 की डेसपरेट` / `10 रेट` / `10 प्रेड` `` — **six spellings of one
+  phrase, left unresolved, no rule built on it**), `1` ×2 (a minute, and the ₹1-lakh tank), `6`-`7` (a
+  garbled trade mix ⚠️ `बर्ड` = trades), `5000` / `10` (₹ illustrations on unnamed instruments), `2` (years
+  elapsed). **No price is spoken at all.** Garbling reproduced as spoken: `एलओसी` / `रूस` (loss), `फ्रेंड` /
+  `बर्ड` (trade), `इलायची` (eliminate), `सैंडल` (candle), `टाइम बेसन` (time-based), `आभूषण` (option), plus
+  ASR noise (`जस्टिस`, `क्लिक`, `टमी`, `ग्लास`).
 
 
 **2022-04-02 — Why Price Action Not Work in Live Stock Market (Intraday Psychology)** 🟡 REFINED + 🔵 NEW
@@ -6355,11 +6552,11 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **235 videos** — the 196-row indexed corpus (195-entry Sunday Special playlist + 1 removed) **+ 39 public teaching uploads recovered by a channel-wide scan on 2026-10-31** (Dec 2021 → Apr 2024), tagged `source: channel-backcatalogue` and marked · RECOVERED in the entries above. A further 2 public uploads of that scan (trade-result/proof clips) are **held for review**, unindexed. ⚠️ **Corpus scope widened by the cron job, reversible:** the 39 rows are tagged, so they can be removed in one pass if Amit wants the corpus kept strictly to the Sunday Special playlist. |
-| Processed | **193** — ⚠️ includes `2022-01-09 h2PMw2aO5Rc`, which the back-catalogue ordering had **skipped** (the pointer said 2022-01-22); caught by a date-ordered sweep on 2026-11-01 |
+| Processed | **196** — ⚠️ includes `2022-01-09 h2PMw2aO5Rc`, which the back-catalogue ordering had **skipped** (the pointer said 2022-01-22); caught by a date-ordered sweep on 2026-11-01. **+3 on 2026-11-03** (back-catalogue): `2022-03-05 wmbJGOOyWHo`, `2022-03-19 ii7uHN17ysY`, `2022-03-26 c-HGs1H-z8w` |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
 | Skipped (unavailable) | **2** — `_jC7l31lXPo` (yt-dlp: *Video unavailable*) · `pfTKn6YcvNc` (yt-dlp: *Private video*), both found in the playlist on 2026-10-27 and recorded in the manifest as skipped | | |
-| Remaining | **27** — all `channel-backcatalogue` rows | | |
+| Remaining | **24** — all `channel-backcatalogue` rows (27 → 24 after the 2026-11-03 batch) | | |
 | Blocked (members-only / private) | **12** in the indexed playlist (10 members-only · 1 private `I5JQIU5p8ck` · 1 removed `B0nQv4uZo5k`) **+ 44 members-only uploads found by the same channel scan** + 1 new members-only upload of 2026-10-31 (`oaKubE0ACQ4`, *Master Advanced Analysis Part-8*) — all need channel-membership cookies | | |
-| Next (chronological) | Re-derive by upload date at the next run — `2022-02-14 PKTKv9v2vBI` (*Live Intraday Trade Option Trading*, a **trade-result clip held for review**, not a Sunday-Special teaching session); `ih_teaching/manifest.json` is still lost, so `scripts/find_next_teaching.py` is the pointer of record | | |
+| Next (chronological) | **2022-03-27** `oKLxFvMraxo` (*Best Time Frame to Find Chart Patterns in Intraday Trading*) — next unprocessed back-catalogue teaching upload by upload date (the 2 held-for-review trade-result clips `5vuvSNj92c8` / `Bz4zRFsEA14` stay excluded); `ih_teaching/manifest.json` is still lost, so a date-ordered diff of the channel uploads against `transcripts/` is the pointer of record | | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | | |
 | Status file | ⚠️ `ih_teaching/manifest.json` was **LOST in the 2026-11-01 device migration** (working dir not restored). Until it is rebuilt, **this Progress table is the pointer of record**; recovery recipe in `scripts/MANIFEST_LOST_20261101.md` | | |
