@@ -1360,6 +1360,58 @@ all.**
 > (how much can I lose). The method is being handed over as a **business**, not a technique.
 
 
+**2022-05-14 — How To Identify Panic Selling in Stock Market (the panic-prerequisite session)** 🟢 STABLE (×4) + 🟡 REFINED (×2) + 🔵 NEW · RECOVERED
+`VPZYUNHUq9M` · note: `teaching/2022-05-14-panic-selling.md` · `source: channel-backcatalogue`
+
+A structural read of the panic print, in an ASR-heavy clip with no level and no index. Its contribution is the
+**negative** form of the corpus's old panic rule — normal selling is *not* panic — plus a named inversion error.
+
+- 🟢 **STABLE (headline) — the panic prerequisite, stated from the other end.** **2022-02-27 — Price Action Trading Masterclass** already records it (a well-formed multi-day trend **plus** participants holding damaged profits; a large gap-down open alone is not panic). Today states the same test as a sequence — *"सेंटिमेंट को तोड़कर अगर कोई व्यवधान उत्पन्न हो रहा है तो वहां पर हमे पैनिक सेलिंग देखने को मिल सकता है"* — and adds the negative: ordinary continuation selling is a different animal. **🟢 STABLE from 2022-02-27.**
+- 🟢 **STABLE — the inventory engine, restated for the panic print.** The seller is not a mood, he is a holder forced out — *"जिसने भी की होगा उसे अपने पोषण को तुरंत निकालना पड़ेगा क्योंकि उसने लंबे समय के लिए फोल्ड किया"*. Same engine as the stop-inventory spine (**2022-01-30** → **2022-02-06** → **2022-04-10** → **2022-04-16**).
+- 🟢 **STABLE — news colours one print; only a repeating structure earns a plan.** **2022-02-20 — Impact of News on Stock Market | Harsh Reality Behind** is the corpus's news session; today allows news as a cause and refuses to plan on it. **🟢 STABLE from 2022-02-20.**
+- 🟢 **STABLE — own-chart study over months, backtested before adoption.** The two-to-three-month / two-year study window and the confirm-then-build sequence continue the backtest line (**2022-01-01**, **2022-01-15**, **2022-01-23**, **2022-01-29**, **2022-02-05**, **2022-02-12**, **2022-03-05**, **2022-03-19**, **2022-03-26**). The numeral is his illustration, not a minimum. **🟢 STABLE.**
+- 🟡 **REFINED — the multi-day context requirement, stated as a ban on one-candle reading.** **2022-04-10 — How Many Previous Days Chart Must Be Analysed For Intraday Trading** answered the window; today makes reading from a single day a **logic failure** — *"ऐसा नहीं कि आपको के लिए दिन का चार्ट देखना पड़ेगा"*. Same rule, sharper failure mode.
+- 🟡 **REFINED — the portfolio-exit channel named as the route to the damaged-position prerequisite.** No earlier entry mentions a portfolio at all (grep: `portfolio` = 0, `पोर्टफोलियो` = 0); the nearest mechanism is 2022-02-27's damaged profits. Today supplies the path — a falling market makes retail portfolios negative and they sell the big names too: *"कुछ टॉप वगैरह में भी बिकवाली आई कि आपका भी अपना पोर्टफोलियो अगर नेगेटिव होगा तो आप भी अपना पूछ निकालोगे"*. Recorded as a refinement, **not** as an independent law.
+- 🔵 **NEW — a one-sided constraint is not a licence for the other side.** The named error is reading a put-side ban as *therefore buy calls* — *"जहां पर आपको कहा गया कि पूल साइड में नहीं जाना है तो कॉल साइड में भी जाना है नहीं जाना वह जरूरी नहीं है"*. The corpus bans trading the consumed side (**2022-03-20**, **2022-04-24**) but the **inversion error** is not on record before today.
+- ⚪ **NOT RESTATED (absence, not a drop)** — the January–April 2022 tool cluster (VWAP, RSI, SuperTrend, Gann, fib rungs, pivot rungs, psychology levels) and the whole expiry/strike/premium apparatus are absent; nothing is withdrawn.
+- 🔴 **CONTRADICTS: none found.**
+- `levels-log/` rows routed: **0** (honest zero — the only level reference is qualitative, *"कोई लंबे समय से कोई लेवल तक रहा था"*, with no number and no index).
+
+
+**2022-05-21 — Mistakes of Multi Mind Trader in Stock Market (the multi-mind mistakes session)** 🟢 STABLE (×2) + 🟡 REFINED (×2) + 🔵 NEW · RECOVERED
+`9iYp0qvaGKs` · note: `teaching/2022-05-21-multi-mind-trader.md` · `source: channel-backcatalogue`
+
+A five-fault **behavioural** audit with no chart object anywhere in it: dependence, no interest, beginner
+accuracy, borrowed back-tests, and the stop expressed as a fixed point-mark.
+
+- 🟢 **STABLE — borrow a direction, never the system.** *"पूरा डिपेंडेंट उसके ऊपर नहीं होना चाहिए"* restates the own-system spine (**2021-12-25**, **2022-03-26** — *"आपके पास अपना एक सिस्टम होना चाहिए"* — **2022-03-27**, which records the refusal to hand a method over in one sitting, *"आपको मैं एक साथ कंप्लीट बातें नहीं बता सकता"*, and **2022-04-09**, *"ब्लाइंड्ली कोई भी चीज स्टॉक मार्किट"* … *"में फॉलो नहीं करनी है"*). **🟢 STABLE.**
+- 🟢 **STABLE — accuracy is the target, the day's P&L is not.** *"ट्रेडिंग का ऊपर नीचे हो सकता है लेकिन आपकी एक्यूरेसी के ऊपर कैसे फोकस करना है"* continues **2022-04-09** (which made *"वह भी आपकी एक्यूरेसी ओटोमेटिक खराब हो"* its critique of a fixed daily target) and **2022-04-17** (entry accuracy as root cause).
+- 🟡 **REFINED — the guru boundary becomes two explicit lines.** A *direction* may be given; the *copy* may not. Sharpens **2022-04-23** (independence from the guru) and **2022-04-24** (combination-not-replacement).
+- 🟡 **REFINED — motivation becomes mechanised, and the first stop is a WIDE one.** *"पहले ही अपने माइंड को रैडी कीजिए आप उसको दिखाइए बार-बार"* plus the ban on the on/off pattern, *"फ्लैश लाइट ओन पूरा खुला मत छोड़ो"*, turn the corpus's oldest learning rule (**2022-03-20**, **2022-04-10**) into a dosage; and *"जो वर्ड होता है वह थोड़ा सा बड़ा रखना होता है"* extends **2022-04-24**'s ex-ante *first entry = bigger stop-loss, smaller target*. ⚠️ **Standing tension, retained, not resolved:** **2022-04-09** also said *"बता दूं कि स्टॉपलॉस छोटी सी चाहिए"* (a *small* stop-loss) — both statements are carried with dates, neither averaged.
+- 🔵 **NEW (2022) — no interest named as a diagnosable defect, with chart exposure as the cure.** *"हमारा स्टॉक मार्केट में इंट्रस्ट नहीं है"* — the first `interest` hit anywhere in the file is **2022-10-22**, i.e. *after* today, so no earlier processed entry makes interest itself the fault. Dated here.
+- 🔵 **NEW (2022) — the stop stated as a PERCENTAGE rather than a point-mark.** *"उसको एक परसेंटेज की तरह यूज करो"* — no earlier processed 2022 entry prescribes the percentage form (the stop-loss series **2022-01-30** → **2022-02-06** → **2022-02-13** → **2022-04-09** places stops by *where the pool sits*). **Forward cross-references (later, not earlier):** **2024-04-27 — PRICE ACTION VS INDICATORS | All Questions Answered** frames the percentage stop as a **failure mode**, and **2023-11-26 — Secrets of Stock Market Operators: Position Handling & Manipulation** refuses trailing outright, *"मैं कभी भी ट्रेल नहीं करता"*. Recorded as a dated series, not reconciled.
+- ⚪ **NOT RESTATED (absence, not a drop)** — the entire stop-inventory / level apparatus (support-resistance, psychology levels, fib, pivot, indicators, expiry, open/gap plans, index, strike) is absent by design; nothing is retracted.
+- 🔴 **CONTRADICTS: none found.**
+- `levels-log/` rows routed: **0** (honest zero — no price, no index, no instrument; every digit is a rupee illustration, a timeframe, a count or a garbled fragment).
+
+
+**2022-05-28 — How To Use CPR (Central Pivot Range) In Intraday Trading (the central-pivot-range session)** 🔵 NEW + 🟡 REFINED (×2) + 🟢 STABLE (×3) · RECOVERED
+`IeapwjYumso` · note: `teaching/2022-05-28-cpr.md` · `source: channel-backcatalogue`
+
+A tool walk-through on an archive chart: he mounts the CPR from his own saved template and then narrates
+entry, stop and target off it.
+
+- 🔵 **NEW — the CPR range form is taught for the first time.** `CPR` / `सीपीआर` / `Central Pivot` return **0 hits** anywhere in the file. The word pivot is already present as *structure-internal* swing pivots (**2022-01-09**, its pivot-vs-pivot validation), the Pivot **indicator** enters as a forward flag at **2022-01-15 — SuperTrend Intraday Strategy** and as a plain tool at **2022-03-19 — Pivot Point Intraday Trading Strategy**; a pre-computed **band with rails** is new here. *"लेकिन CR में आपको एक बेहतरीन सपोर्ट ठेर"* … *"रेजिस्टेंस मिल जाएगा इंट्राडे में"*.
+- 🟡 **REFINED — the pivot thread goes from a point to a range.** **2022-03-19** traded a pivot point plus two Fibonacci rungs; today the fib overlay is gone and the pivot is widened into a range. Recorded side by side, not averaged.
+- 🟡 **REFINED — volume becomes an entry-confirmation with an increment trigger.** **2022-01-29** already required index volume; today renews it and adds the expansion trigger. New detail on an old requirement.
+- 🟢 **STABLE — prior-day levels are still live.** Previous CPRs act as today's support/resistance, continuing **2022-04-10**'s fresh-unconsumed-level rule. **🟢 STABLE from 2022-04-10.**
+- 🟢 **STABLE — the stop goes just beyond the level, with a buffer,** repeating the stop series **2022-01-30** → **2022-02-06** → **2022-02-13** (*"के नीचे बैठना चाहिए जो आपको थर्ड जो लेवल"*).
+- 🟢 **STABLE — simplify the chart to the tool that does the job.** **2022-03-06** cleared the chart and **2022-03-19** carried the simplify rule; today he deletes every style but CPR — *"हटा दिया केवल सीपीआर का यूज किया है"*.
+- ⚪ **NOT RESTATED (absence, not a drop)** — the operator / stop-hunt spine (**2022-01-30**, **2022-04-16**), the do-not-trade window (**2022-04-24**) and the indicator cluster (VWAP, SuperTrend, RSI) are absent; a tool session withdraws nothing.
+- 🔴 **CONTRADICTS: none found.**
+- `levels-log/` rows routed: **0** (honest zero — only three digit tokens exist, all unresolvable fragments or a spoken ratio: `182`, `365`, `153`; `निफ्टी` = 0, `सेंसेक्स` = 0, and the single `बैंक` hit names no number).
+
+
 **2022-05-29 — How Long Does It Take To Become A Profitable Trader In Stock Market** 🔵 NEW + 🟢 STABLE
 `MrzE3qh8QjM` · note: `teaching/2022-05-29-how-long-does-it-take-to-become-a-profitable-tra.md`
 
@@ -6612,11 +6664,11 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **235 videos** — the 196-row indexed corpus (195-entry Sunday Special playlist + 1 removed) **+ 39 public teaching uploads recovered by a channel-wide scan on 2026-10-31** (Dec 2021 → Apr 2024), tagged `source: channel-backcatalogue` and marked · RECOVERED in the entries above. A further 2 public uploads of that scan (trade-result/proof clips) are **held for review**, unindexed. ⚠️ **Corpus scope widened by the cron job, reversible:** the 39 rows are tagged, so they can be removed in one pass if Amit wants the corpus kept strictly to the Sunday Special playlist. |
-| Processed | **199** — ⚠️ includes `2022-01-09 h2PMw2aO5Rc`, which the back-catalogue ordering had **skipped** (the pointer said 2022-01-22); caught by a date-ordered sweep on 2026-11-01. **+3 on 2026-11-03** (back-catalogue): `2022-03-05 wmbJGOOyWHo`, `2022-03-19 ii7uHN17ysY`, `2022-03-26 c-HGs1H-z8w`. **+3 on 2026-11-04**: `2022-03-27 oKLxFvMraxo`, `2022-04-09 El1mAYD5SwE`, `2022-04-16 PZOFKpW1Yew` |
+| Processed | **202** — ⚠️ includes `2022-01-09 h2PMw2aO5Rc`, which the back-catalogue ordering had **skipped** (the pointer said 2022-01-22); caught by a date-ordered sweep on 2026-11-01. **+3 on 2026-11-03** (back-catalogue): `2022-03-05 wmbJGOOyWHo`, `2022-03-19 ii7uHN17ysY`, `2022-03-26 c-HGs1H-z8w`. **+3 on 2026-11-04**: `2022-03-27 oKLxFvMraxo`, `2022-04-09 El1mAYD5SwE`, `2022-04-16 PZOFKpW1Yew`. **+3 on 2026-11-05** (back-catalogue): `2022-05-14 VPZYUNHUq9M`, `2022-05-21 9iYp0qvaGKs`, `2022-05-28 IeapwjYumso` |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
 | Skipped (unavailable) | **2** — `_jC7l31lXPo` (yt-dlp: *Video unavailable*) · `pfTKn6YcvNc` (yt-dlp: *Private video*), both found in the playlist on 2026-10-27 and recorded in the manifest as skipped | | |
-| Remaining | **21** — all `channel-backcatalogue` rows (27 → 24 after the 2026-11-03 batch, → 21 after the 2026-11-04 batch) | | |
+| Remaining | **18** — all `channel-backcatalogue` rows (27 → 24 after the 2026-11-03 batch, → 21 after the 2026-11-04 batch, → 18 after the 2026-11-05 batch) | | |
 | Blocked (members-only / private) | **12** in the indexed playlist (10 members-only · 1 private `I5JQIU5p8ck` · 1 removed `B0nQv4uZo5k`) **+ 44 members-only uploads found by the same channel scan** + 1 new members-only upload of 2026-10-31 (`oaKubE0ACQ4`, *Master Advanced Analysis Part-8*) — all need channel-membership cookies | | |
-| Next (chronological) | **2022-05-14** `VPZYUNHUq9M` (*How To Identify Panic Selling in Stock Market*) — next unprocessed back-catalogue teaching upload by upload date (the 2 held-for-review trade-result clips `5vuvSNj92c8` / `Bz4zRFsEA14` stay excluded); `ih_teaching/manifest.json` is still lost, so a date-ordered diff of the channel uploads against `transcripts/` is the pointer of record | | |
+| Next (chronological) | **2022-06-19** `Wyznz6FmSbU` (*INTRADAY TRADING MISTAKES EVERY TRADER MAKES IN STOCK MARKET*) — next unprocessed back-catalogue teaching upload by upload date (the 2 held-for-review trade-result clips `5vuvSNj92c8` / `Bz4zRFsEA14` stay excluded); `ih_teaching/manifest.json` is still lost, so a date-ordered diff of the channel uploads against `transcripts/` is the pointer of record | | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | | |
 | Status file | ⚠️ `ih_teaching/manifest.json` was **LOST in the 2026-11-01 device migration** (working dir not restored). Until it is rebuilt, **this Progress table is the pointer of record**; recovery recipe in `scripts/MANIFEST_LOST_20261101.md` | | |
