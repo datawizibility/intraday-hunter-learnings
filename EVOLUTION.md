@@ -1646,6 +1646,139 @@ his own claim — *not* "money is made only from hunting stops", but the **profi
 > setup under drawdown**, **small attributable changes**, and the first **experience curve (8 of 10 charts)**.
 
 
+**2022-06-19 — INTRADAY TRADING MISTAKES EVERY TRADER MAKES IN STOCK MARKET (the weekly mistake-review session)** 🔵 NEW + 🟡 REFINED (×3) + 🟢 STABLE (×4) · RECOVERED
+`Wyznz6FmSbU` · note: `teaching/2022-06-19-mistake-review.md` · `source: channel-backcatalogue`
+
+The back-catalogue's first **self-audit** session: one week of his own trades walked through with the
+entry, the reason he had given himself, the discipline break and the counterfactual. Its thesis is stated
+in the first minute — loss is a function of *which side you look at*, the one you expect or the one
+already printed.
+
+- 🔵 **NEW (load-bearing) — the loss limit and the profit target stated as ONE paired control, with the
+  record as its purpose.** *"होता है डिसिप्लिन जिसे का नाम लॉस को लिमिट रखते हैं वह प्रॉफिट को भी हम
+  टारगेट बना कर रखते हैं ताकि मार्केट में हमारा रिकार्ड मेंटेन रहे"*. `2022-04-17` taught *keep a record
+  of your own numbers* and `2022-05-08` derived capital from the maximum loss, but the **pairing** —
+  two-sided bound ⇒ the record survives — is not on record before today (`लॉस लिमिट` = 0 hits before
+  **2024-12-03**; the English gloss `loss limit` first appears at **2022-12-11**).
+- 🟡 **REFINED — the self-audit gains an ORDER: fix the FIRST occurrence.** *"जो फर्स्ट टाइम आपको मैं दिखा
+  जहां पर अमरनाथ जोश भरने इग्नोर किया था वह सबसे ज्यादा इंपोर्टेंट है"* (⚠️ the inner clause is
+  ASR-broken and is not reconstructed). `2022-04-17` supplied the audit habit and `2022-06-18` the
+  small-attributable-changes method; today says **which** occurrence to repair first.
+- 🟡 **REFINED — the 2022-06-11 trap tell, recorded from the error side.** *"मैंने सोचा मार्केट को बिना तो
+  चाहिए था लेकिन मैंने अपने आप से चार्ट बना लिया कि मार्केट को पहले यह वाला ब्रेक और देना चाहिए था उसके
+  बाद गिरना चाहिए था"* — he expected the break **first** and was handed the opposite order. `2022-06-11`
+  stated it as a chart read (*support taken where the break should have printed ⇒ bait*); today it is his
+  own expectation that failed. Both stand.
+- 🟡 **REFINED — the stop-inventory precondition now carries a counterfactual repair.** He bought where
+  *"आपको साइड भी तो कोई आस पास को फॉलो नहीं है"*, and names the fix himself — *"यह अगर मैं ध्यान रखता
+  यहां पर मैं थोड़ा वेट करता हूं"*. `2022-04-24` had made the missing pool a **do-not-trade window**;
+  this is that window walked into, with the wait supplied as the repair.
+- 🟡 **REFINED — anti-stubbornness gets an exit trigger.** *"उस समय में केवल एक ही चीज का ध्यान रखना है कि
+  हमारा साइकोलॉजी याद मार्केट के साथ नहीं बैठ रहा है हम अपना जो भी शूटिंग करना चाहते हैं वह लोग बुकिंग
+  करके मार्किट से निकल जाएं"* — `2022-04-24`'s *do not decide the market will not go against you* becomes
+  an instruction to **book and be out** the moment the mismatch is noticed.
+- 🟢 **STABLE — read the printed chart, not the script in your head.** *"नुकसान आपको उस रेट में देखने को
+  मिलेगा जहां पर आप आने वाले पार्ट को देखकर ट्रेंड करोगे ना कि उस साइड को देखिए जो आलरेडी बन चुका है"* —
+  `2022-06-05`'s mechanism (behaviour repeats ⇒ the counterparty is inferable) applied to your own
+  expectations. **🟢 STABLE from 2022-06-05.**
+- 🟢 **STABLE — never ignore the setup.** *"दूसरा सेट अप को इग्नोर नहीं करना है"* and the round's verdict
+  *"सेट अप को इग्नोर करके अपने माइंड की सुनी वह दिक्कत होता है"*. `2022-06-18` made *do not abandon the
+  setup when it gives a loss* load-bearing; `2022-04-24` required combination-not-replacement.
+  **🟢 STABLE from 2022-06-18.**
+- 🟢 **STABLE — the no-recovery rule, third dated appearance, with an ASR negation slip to be read and not
+  repaired.** *"अदरवाइज अगर मैं यह सोचता कि मार्केट में नीचे को इंस्टॉल उसने हमारे यहां से रिकवरी दिखाई
+  देगा मैं यहां पर बैठा रहता हूं"*, and the verdict sentence *"उसको पाटने की कोशिश करो"* ⚠️ — the ASR
+  has dropped the negative (the intended sense is *do not* try to fill a booked loss; the clause that
+  follows calls it the biggest mistake and says it produces the big loss). `2022-02-19` banned recovery
+  trading and `2022-05-08` extended the ban to switching to a more leveraged segment.
+  **🟢 STABLE across 2022-02-19 → 2022-05-08 → today.**
+- 🟢 **STABLE — accuracy over the day's slot.** The closing *"छोटी-मोटी गलती करते हैं उसको भी मैं सुधारना है"*
+  continues `2022-04-17`'s entry-quality root cause and `2022-05-21`'s *accuracy is the target, the day's
+  P&L is not*. **🟢 STABLE.**
+- ⚠️ **CROSS-CHECK RECORDED — the daily-target question now has two dated positions; NOT averaged.**
+  `2022-04-09` argued that a fixed daily target **degrades accuracy** and `2022-05-21` restated that
+  accuracy, not the day's P&L, is the target; today he keeps a loss limit **and** a profit target so the
+  record holds, and ends a week-day on *"रोज का लिमिट भी हो गया था मार्केट में भी कुछ नजर नहीं आ रहा था"*.
+  A *bound on the day* and a *number you must reach* may be the same thing said two ways — but that is an
+  interpretation. Both dates stand; **for Amit to adjudicate.**
+- 📌 **Fidelity:** the clip's four digit tokens are `67` and `10` (ASR fragments — the latter is the spoken
+  *डायरेक्टली ब्रेक*), the `1` in *1 लाख* (a **loss figure from his own account**, not a level or a rule)
+  and `0` (fragment). No index, strike or expiry number is spoken in the same breath as any price.
+  **Nothing routed to `levels-log/`; no entry, stop, target or level carried forward.**
+- 🔴 **CONTRADICTS: none found** — the daily-target question is recorded as a cross-check, not a revision.
+
+> **Evolution verdict:** the back-catalogue's first week-audit session. The read is not revised anywhere;
+> what is added is **procedure** — the paired loss-limit/target bound, the order in which repeated errors
+> are repaired, the counterfactual form of the stop-inventory check, and the mismatch-exit trigger.
+
+
+
+**2022-06-25 — How to Pass STRESS TEST of STOCK MARKET to Boost Your Trading (the confidence-stress-test session)** 🔵 NEW (×2) + 🟢 STABLE (×5) + 🟡 REFINED (×2) · RECOVERED
+`3QrK7kIJ1mA` · note: `teaching/2022-06-25-stress-test.md` · `source: channel-backcatalogue`
+
+The corpus's first session that treats **confidence itself** as the thing under test. The stress is not a
+chart event but a post-entry psychological one, and its two named failure modes are cutting the live trade
+and flipping it.
+
+- 🔵 **NEW — the **stress-test** framing, and the option chain named as a post-entry distraction.** A scan
+  of this timeline returns **0 hits** for `stress`; the phrase `ऑप्शन चैन` is owned only by **2023-01-01**
+  and **2024-10-13**, both *later*. Earlier sessions used options as an *instrument* (`2022-01-22`
+  premium calculation, `2022-05-08` option trading), but no entry makes **reading the chain after the
+  entry, and the two errors it produces**, a rule: *"बाद भूल जाइए कि ऑप्शन चैनल में क्या बन"*. Dated here —
+  the chain is to be closed the moment the fill prints.
+- 🔵 **NEW — confidence is sourced to the exit skill, and to nothing else.** *"कोई रास्ता नहीं है जब तक आप
+  टारगेट के"* … *"अकॉर्डिंग निकलना नहीं सीखोगे"*, with the material explicitly excluded — *"किसी का कोर्स वह
+  ले लो"* … *"आपको कॉन्फिडेंस मिल नहीं पाएगा"*. `2022-04-09` and `2022-05-21` had *accuracy* as the target
+  and `2022-04-17` made entry quality the root cause; naming the **target-exit habit** as the sole source
+  of confidence is narrower and new.
+- 🟡 **REFINED — the target is tamed instead of enlarged.** *"जब तक आप टारगेट को निकालना"* … *"नहीं सीखोगे
+  टारगेट को बड़ा करना छोड़"* … *"दीजिए टारगेट के अकॉर्डिंग निकलना सीख"*. `2022-04-17`'s entry-quality
+  diagnostic (a target that takes too long ⇒ wrong entry) and `2022-04-24`'s fuel-bounded exit already made
+  the target answerable to the trade; here it becomes a plain behavioural instruction.
+- 🟡 **REFINED — one plan beats many tools, now as the live mistake engine.** *"ज्यादा से ज्यादा"* …
+  *"चीजों को फॉलो करने लगते हैं"* … *"देते हैं केवल हमारे पास एक प्लांट होता"* … *"है तो वहां पर गलतियां
+  नहीं होती"*. `2022-02-19` had method neutrality, `2022-05-21` catalogued multi-mind faults and
+  `2022-06-18` gave the single-variable discipline; today relocates the fault to the open trade.
+- 🟢 **STABLE — the market does not move for *your* position; the majority's inventory does.**
+  *"उसकी चिंता आप मत कीजिए"*, grounded in *"वहां पर मेजॉरिटी आफ पीपल ने उस प्रकार की"* … *"पोर्शन बना लिया"*.
+  `2022-04-16` recorded this as the rebuttal of the retail delusion, restated at `2022-04-23` and
+  `2022-06-05`. **🟢 STABLE from 2022-04-16.**
+- 🟢 **STABLE — a setup lives in one market condition, and you do not quit your job on first profit.**
+  *"कोई भी सेट अप"* … *"मार्केट कंडीशन में काम कर सकते हैं लेकिन"* … *"वह कंटिन्यू करेगा इसकी कोई गारंटी
+  नहीं"* … *"होती है"*, and *"कोई जॉब वगैरा अपना बिजनेस वगैरह नहीं"* … *"छोड़ सकते"*. Both were coined at
+  `2022-05-29`. **🟢 STABLE from 2022-05-29.**
+- 🟢 **STABLE — do not size from conviction; capital is the risk constraint.** *"कैपिटल अगर आपने जल्दी से
+  इनक्रीस"* … *"कर लिया"* … *"तो वहां पर आपका बहुत"* … *"बड़ा लूज हो सकता है"*, with the psychology of the
+  jump added as the mechanism — *"आपका कैपिटल अगर आप अचानक से इनक्रीस कर"* … *"देते हो तो वहां पर देखिए
+  साइकोलॉजी तो"*. `2022-05-08` derived capital from the maximum loss; `2022-04-09` split *which purse you
+  trade*. **🟢 STABLE from 2022-05-08 / 2022-04-09.**
+- 🟢 **STABLE — small, attributable steps.** *"बातों को नोटिस करके और फिर फुल टाइम"* … *"ट्रैक्टर बनोगे तब
+  आपको कोई नहीं रोक सकता"* (⚠️ `ट्रैक्टर` = trader), continuing `2022-06-18`'s vary-one-thing rule and
+  `2022-04-17`'s small target ladder. **🟢 STABLE from 2022-06-18 / 2022-04-17.**
+- 🟢 **STABLE — the stop-loss must let you sleep.** The stop spine (`2022-01-30` → `2022-02-06` →
+  `2022-02-13` → `2022-04-17` → `2022-06-18`) returns as a comfort criterion — *"रात को नींद आ जाए"*.
+  **🟢 STABLE across 2022-01-30 → 2022-06-18 → today.**
+- ⚠️ **CROSS-CHECK (not a contradiction) — the toolset-as-liability series continues, and is not averaged.**
+  `2022-06-05` and `2022-06-18` recorded consecutive downgrades of the toolset; today states a further
+  version — knowing support–resistance, the chain and candlesticks is *what dismantles confidence* on a
+  flat tape — *"डर लग रहा है क्योंकि आपको बहुत सी बातें"* … *"पता चला"*. Set against `2022-02-19`'s method
+  neutrality and `2022-03-06`'s full S/R lesson. Reconcilable as *tool = location, plan-and-exit = reason*
+  — but as spoken it is another downgrade. All dates stand; **for Amit to adjudicate.**
+- 📌 **Fidelity:** `3425` is a price inside the explicit hypothetical *"क्या मान लेते हैं मार्केट यहां पर"* …
+  *"3425 है और आपने गलती से ऑप्शन चैन को देख"*, not a chart read; `5150`, `23` and `1512` are
+  ASR-broken fragments; `100%` / `70%` are confidence percentages and `₹10` / `₹100` are rupee
+  illustrations. No index, strike or expiry is named (grep: निफ्टी 0, बैंक 0, सेंसेक्स 0, स्ट्राइक 0,
+  एक्सपायरी 0; `ऑप्शन` 4 = the chain as a distraction). **Nothing routed to `levels-log/`; no entry,
+  target, stop or outcome recorded.**
+- 🔴 **CONTRADICTS: none found** beyond the recorded toolset tension.
+
+> **Evolution verdict:** the sequence *where the stops are* → *how much money* → *how long* (`2022-05-08`,
+> `2022-05-29`) now reaches the trader's own state: the stress test happens **after** the entry, and the
+> remedy is procedural — shut the chain, fix the stop, leave at the target you first set. ⭐ Durable adds:
+> **the post-entry distraction ban** and **confidence-as-exit-skill**.
+
+
+
 **2022-07-02 — Hero Zero Trading is Right or Wrong** 🔵 NEW (player + product) + 🟡 REFINED
 `IMZuRZN7XzU` · note: `teaching/2022-07-02-hero-zero-trading-is-right-or-wrong-in-stock-mar.md`
 
@@ -1863,6 +1996,79 @@ can actually be**. *"अगर आप स्टॉक ट्रेडिंग �
 > the operator's two full sequences — **mark-up to attract the public** and **repeated lower circuits to exhaust
 > the buyers**. ⭐ Durable adds: **the index-vs-stock split**, **circuit-based hunting**, **the multi-month
 > footprint**, **volume as the audience signal**, **the circuit exit tool**, and the **instrument-side greed hook**.
+
+
+**2022-07-17 — Stock Market QnA with Intraday Hunter || Stock Market All Confusion Cleared (the audience-Q&A session)** 🟢 STABLE (×6) + 🟡 REFINED (×2) + 🔵 NEW (×2) · RECOVERED
+`JX8_JsCM-9E` · note: `teaching/2022-07-17-stock-market-qna.md` · `source: channel-backcatalogue`
+
+An audience **Q&A** — the questions asked most often taken first — so it is a re-answer session by
+construction, and the note is organised by question. Two genuinely new statements come out of it: strike
+selection as a rule, and the course/sharing boundary.
+
+- 🔵 **NEW — the strike-selection rule, stated for the first time.** *ATM* first enters the corpus at
+  **2022-05-08** as a *sizing input* (the ≈₹500 ATM premium in the loss-first model) and **2022-01-22**
+  priced premium rather than strike; today states the choice outright — at-the-money / near-by for
+  momentum premium, slightly out only under a funding constraint, never deep: *"मुमेंटम में आपको फास्ट
+  मिलेगा प्रीमियम"*, *"आपके पास फंड की कमी है तो थोड़ा-बहुत आओ"* … *"बाइक करते वह मुकाबले ज्यादा मत जाइए"*.
+- 🔵 **NEW — the course boundary stated plainly.** *"आपके साथ डिस्कस करता हूं वह मेरे कोर्स"* … *"का ही पार्ट
+  है आपको इसमें कोई भी कमी नजर"* — free content equals the paid course, nothing withheld. The nearest
+  2022 course remark, **2022-03-05**'s *दूसरों के कोर्स लेने से ₹1 भी नहीं बनाया जा सकता*, is about
+  independence, not the sharing boundary; `फ्री` appears elsewhere only at **2023-01-01** and
+  **2026-09-13**, both later.
+- 🟡 **REFINED — combination-not-replacement gains a confirmation gate.** *"आप सभी चीज़ो को मिला सकते हो कि
+  आप डाटा"* … *"वह पोर्ट्रेट तभी करना है जब इन में सभी"* … *"में कंफर्मेशन मिल जाए लेकिन आप क्या"* —
+  combine everything, but trade only when all of them agree, then keep following the combination.
+  `2022-04-24` coined combination-not-replacement; `2022-02-19` made the toolset neutral. New *form*, old
+  rule.
+- 🟡 **REFINED — fear is removed by repetition while the backing is unchanged.** *"बार-बार सेपरेट करोगे तो
+  आपका डर खत्म हो"* … *"डेफिनेटली आपको डर खत्म हो जाएगा और आपको"* is `2022-06-18`'s vary-one-thing
+  discipline in behavioural form, and the fall is made survivable by `2022-05-29`'s backup-plan rule —
+  *"सपोर्ट है इस पर गिर जाऊंगा तो दोबारा से"*.
+- 🟢 **STABLE — discipline is continuity of one frame, not the choice of tool.** *"हमेशा एक चीज को फॉलो
+  करना होगा तभी आपको"* … *"डिसिप्लिन कहते हैं आप ऐसा कर सकते हो कि"*, against the switching failure
+  *"मैं 1 दिन डाटा को फॉलो एक हुसैन चैनल को"* … *"देखो एक दिन सपोर्ट रेजिस्टेंस को देखूं"* …
+  *"डिसिप्लिन वह बिल्कुल खराब हो जाए का या"*. `2022-03-26` required your own system, `2022-03-27` chose
+  one timeframe, `2022-04-09` banned following blindly. **🟢 STABLE from 2022-03-26 / 2022-03-27 / 2022-04-09.**
+- 🟢 **STABLE — a smaller trade count, tightened rather than loosed.** *"प्रेड करें तो कोई दिक्कत नहीं है लेकिन"*
+  with the professional direction of fewer trades. `2022-03-06` capped it at one a day, `2022-04-09`
+  attacked the fixed daily **target**, `2022-04-17` carried two-to-three rules as discipline.
+  **🟢 STABLE across 2022-03-06 → 2022-04-09 → 2022-04-17.**
+- 🟢 **STABLE — the target is measured from the instrument's own range.** Bank Nifty's normal travel is
+  named as roughly **305** and the target placed inside it — *"पर आपके टारगेट होने कितने चाहिए सौ से"* …
+  *"डेढ़ सौ में आपके वहां पर टारगेट रख लेने"* — with Tata Steel's ~**20** points as the second example.
+  `2022-04-17` set the working 100–150-point figure and `2022-06-11` the 100–150-point retracement band.
+  **🟢 STABLE from 2022-04-17.**
+- 🟢 **STABLE — the R:R ladder.** *"वन बाय थ्री से कर सकते हो तो वहां पर बात"* … *"कोशिश कीजिए वन बाय थ्री
+  वन बाय फोर अगर"*, continuing `2022-01-01`'s 1:1 → 1:2 derivation, `2022-03-05`'s 1:2 illustration,
+  `2022-04-09`'s rungs on option legs and `2022-05-28`'s restatement. **🟢 STABLE.**
+- 🟢 **STABLE — the crowd sits where accommodation is.** *"सकता है जहां पर आपको ज्यादा अकोमोडेशन"* …
+  *"धीरे-धीरे स्ट्रेट करके जब पोर्शन बना"*, behind which sit `2022-04-10` (momentum manufactures the
+  crowd), `2022-04-23` (the market travels opposite the majority) and `2022-06-11` (the participant check
+  including the distance test). **🟢 STABLE from 2022-04-10.**
+- 🟢 **STABLE — the shape does not decide; location and the other participant do.** *"हुआ है वह ज्यादा
+  इंपोर्टेंट होता है"* and *"होना चाहिए कि दूसरे लोगों को कुछ प्रखंड"*, continuing `2022-03-06` (a candle
+  that merely touches is never confirmation) and `2022-06-11` (the shape does not decide, the participants
+  do). **🟢 STABLE from 2022-06-11.**
+- 🟢 **STABLE — buying with stops below is allowed only where the other side could not position.**
+  *"कि वहां पर रिटेलर अपनी पोर्शन नहीं बना"* … *"नहीं है तो बैंक की तरफ सोचेंगे तब हम"* — the viewer asks
+  exactly the question `2022-06-18` answered by rejecting the naive *absence of stops ⇒ buy* shortcut, and
+  he answers it with the sharper precondition. **🟢 STABLE from 2022-06-18.**
+- ⚠️ **Cross-check (not a contradiction, not resolved):** `2022-06-18` insisted the absence of stops alone
+  is not a licence to buy; today the same question is answered with the *precondition* that the move came
+  too fast for retail to position. Same direction, sharper condition — both dates stand.
+- 📌 **Fidelity:** every digit in the clip is a metric, a timeframe or a fragment — `305` and `20` sit
+  inside spoken illustrations (the indices' normal travel), `10`–`15` is a *duration* the ASR writes as
+  `मिनट`, `200` / `300` are a hypothetical point-move, and `200ns`, `11 बाय`, `1`, `2` are fragments or
+  counts. The figure `1 लाख`-class rupees appear only as the course/earning aside. **Nothing routed to
+  `levels-log/`; no strike, expiry or level carried forward.**
+- 🔴 **CONTRADICTS: none found** — a Q&A that re-answers older questions is by construction mostly
+  restatement; nothing here denies an earlier rule.
+
+> **Evolution verdict:** the corpus's first audience-driven session, and the useful signal is *which*
+> questions the crowd was asking — discipline, strike, count, target, entry. Everything is re-answered
+> from the existing method except two dated firsts: **strike selection as a rule** and the **course
+> boundary**.
+
 
 
 **2022-08-06 — Support and Resistance Levels Master Course** 🔵 NEW (bulk-deal sourcing + position availability) + 🟡 REFINED
@@ -6664,11 +6870,11 @@ Daily pre/live notes (56) dominate; teaching notes were sparse until this rebuil
 | | | |
 |---|---|---|
 | Corpus size | **235 videos** — the 196-row indexed corpus (195-entry Sunday Special playlist + 1 removed) **+ 39 public teaching uploads recovered by a channel-wide scan on 2026-10-31** (Dec 2021 → Apr 2024), tagged `source: channel-backcatalogue` and marked · RECOVERED in the entries above. A further 2 public uploads of that scan (trade-result/proof clips) are **held for review**, unindexed. ⚠️ **Corpus scope widened by the cron job, reversible:** the 39 rows are tagged, so they can be removed in one pass if Amit wants the corpus kept strictly to the Sunday Special playlist. |
-| Processed | **202** — ⚠️ includes `2022-01-09 h2PMw2aO5Rc`, which the back-catalogue ordering had **skipped** (the pointer said 2022-01-22); caught by a date-ordered sweep on 2026-11-01. **+3 on 2026-11-03** (back-catalogue): `2022-03-05 wmbJGOOyWHo`, `2022-03-19 ii7uHN17ysY`, `2022-03-26 c-HGs1H-z8w`. **+3 on 2026-11-04**: `2022-03-27 oKLxFvMraxo`, `2022-04-09 El1mAYD5SwE`, `2022-04-16 PZOFKpW1Yew`. **+3 on 2026-11-05** (back-catalogue): `2022-05-14 VPZYUNHUq9M`, `2022-05-21 9iYp0qvaGKs`, `2022-05-28 IeapwjYumso` |
+| Processed | **205** — ⚠️ includes `2022-01-09 h2PMw2aO5Rc`, which the back-catalogue ordering had **skipped** (the pointer said 2022-01-22); caught by a date-ordered sweep on 2026-11-01. **+3 on 2026-11-03** (back-catalogue): `2022-03-05 wmbJGOOyWHo`, `2022-03-19 ii7uHN17ysY`, `2022-03-26 c-HGs1H-z8w`. **+3 on 2026-11-04**: `2022-03-27 oKLxFvMraxo`, `2022-04-09 El1mAYD5SwE`, `2022-04-16 PZOFKpW1Yew`. **+3 on 2026-11-05** (back-catalogue): `2022-05-14 VPZYUNHUq9M`, `2022-05-21 9iYp0qvaGKs`, `2022-05-28 IeapwjYumso` · **+3 on 2026-11-05 (second run)**: `2022-06-19 Wyznz6FmSbU`, `2022-06-25 3QrK7kIJ1mA`, `2022-07-17 JX8_JsCM-9E` |
 | Skipped (no captions) | **1** — `20230226 dkTBkMCw_c8` *How To Start Trading in Stock Market* (YouTube: subtitles **disabled**; yt-dlp and youtube-transcript-api both report none) | | |
 | Skipped (unavailable) | **2** — `_jC7l31lXPo` (yt-dlp: *Video unavailable*) · `pfTKn6YcvNc` (yt-dlp: *Private video*), both found in the playlist on 2026-10-27 and recorded in the manifest as skipped | | |
-| Remaining | **18** — all `channel-backcatalogue` rows (27 → 24 after the 2026-11-03 batch, → 21 after the 2026-11-04 batch, → 18 after the 2026-11-05 batch) | | |
+| Remaining | **15** — all `channel-backcatalogue` rows (27 → 24 after the 2026-11-03 batch, → 21 after the 2026-11-04 batch, → 18 after the 2026-11-05 batch, → 15 after the 2026-11-05 second batch) | | |
 | Blocked (members-only / private) | **12** in the indexed playlist (10 members-only · 1 private `I5JQIU5p8ck` · 1 removed `B0nQv4uZo5k`) **+ 44 members-only uploads found by the same channel scan** + 1 new members-only upload of 2026-10-31 (`oaKubE0ACQ4`, *Master Advanced Analysis Part-8*) — all need channel-membership cookies | | |
-| Next (chronological) | **2022-06-19** `Wyznz6FmSbU` (*INTRADAY TRADING MISTAKES EVERY TRADER MAKES IN STOCK MARKET*) — next unprocessed back-catalogue teaching upload by upload date (the 2 held-for-review trade-result clips `5vuvSNj92c8` / `Bz4zRFsEA14` stay excluded); `ih_teaching/manifest.json` is still lost, so a date-ordered diff of the channel uploads against `transcripts/` is the pointer of record | | |
+| Next (chronological) | **2022-07-23** `fuEJ0ZLqPo0` (*Intraday Hunter Exposed \| 5 Hidden Indicators Revealed*) — next unprocessed **tracked** back-catalogue teaching upload by upload date (the 2 held-for-review trade-result clips `5vuvSNj92c8` / `Bz4zRFsEA14` stay excluded). ⚠️ **Also re-check before the next batch:** `2022-06-26 6APH2OqG3GU` (*How I Made 7.5 Lakh Profit in one week by Stoploss Hunting Strategy*) is public and dated **2022-06-26** by Invidious but is **not** in the tracked pending pool — decide first whether it is a teaching session or a proof clip. Three further pool-outside candidates were date-resolved on 2026-11-05: `66E31zkqrCw` 2022-08-21 · `aHtAI-1ROaE` 2023-06-17 · `V6dm-GGJ8Qw` 2023-04-08 | | |
 | Method | chronological, one at a time — `ih_teaching/process_ih_teaching.py --next` | | |
 | Status file | ⚠️ `ih_teaching/manifest.json` was **LOST in the 2026-11-01 device migration** (working dir not restored). Until it is rebuilt, **this Progress table is the pointer of record**; recovery recipe in `scripts/MANIFEST_LOST_20261101.md` | | |
