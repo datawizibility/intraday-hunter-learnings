@@ -121,6 +121,9 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 - **Very large gap-down after a retracement was already given:** the small-gap-down sell plan breaks — re-read the **new chart**. When a decent retracement has already been handed to the market before a fall, everyone sells the fall and no buyers are left → recovery is the higher-probability path (Sep 11). Contrast Sep 9: a large gap-down into sellers who were already in profit offered no fuel → the sell side failed.
 - **The companions decide both branches (Oct 26 vs Oct 28):** one index breaking while the other two **hold their own level** ⇒ the break **converts to failure** and the two that held pay (Oct 26); one index gapping down while the other two merely **follow** ⇒ the follow fails and the trade is cut (Oct 28). Before taking either branch, name the two companions and ask whether the tape confirms the broken one.
 
+- **A sudden large gap — up OR down — is a problem market with no direct trade in it (Nov 5):** the trade only exists once a **psychology has been created**, so wait for it and then enter **into the first pullback**, not at the bell. This is the third-branch hole the pre left open on 30 Oct / 2 Nov / 3 Nov.
+- **The rejection test that licenses buying at all (Nov 6):** after a big momentum day, a **small rejection is normal construction and does not forbid buying** — only a **gap-down** or a **sudden large sell-off** does. Two items, both checkable inside the first two minutes.
+
 ### When gap-up = BUY with market vs SELL (resolve the conflict)
 | Situation | Gap-up default | Why |
 |-----------|----------------|-----|
@@ -193,6 +196,7 @@ Map `inventory` × `open_type` → `bias`. This is the heart of a future bot.
 | Light, slow rejection after solid gap-up | Weak Friday / short-term booking | Long thesis can stay valid |
 | Fast, large selling at open | Real liquidation / range warning | Don’t force longs; cut or skip |
 | Continuous pause after start | Late buyers get filled; edge dies | Prefer continuous move; stall = danger |
+| Direction already settled (multi-day momentum) | The only open question is the **entry price** | Enter immediately **below a resistance that has just produced a rejection** — the ejection flushes the late buyers and the next ones only arrive *after* the breakout (Nov 6) |
 
 ---
 
@@ -547,6 +551,14 @@ IDLE → wait for new opportunity (no revenge)
 | P156 | **The breakdown-failure mirror:** when the **largest-quantity index** breaks a level while the other two **hold their own corresponding level**, the break **converts to failure** — the copy-cat sellers who short the two holding indices become the fuel; buy the two that held | 10-26 |
 | P157 | **A gap-down does not confirm the sell — it removes the hunt:** the side seated through the prior selling leg is **already in profit** at the gap-down open, so it cannot be the target; the trade downgrades to **continuation in the gap’s direction**, a lower-quality trade than a hunt | 10-28 |
 | P158 | **Rejections that arrive before any counter-side SL pool exists are construction, not reversal:** with no stops to hunt, the market builds them — expect the rejection, hold, and exit on the target or the pre-set limit, nothing in between | 10-29 |
+| P159 | **Buyers do not arrive into a market that is already rising** — they arrive on the momentum *print* and are then ejected by the rejection; the licence to buy with the market is that **the last chasing cohort is already flushed**, not that the trend is up | 11-02 |
+| P160 | **A real breakout is 2–3 candles and takes no time; the slow grind is the absence of the breakout** ⇒ while it grinds, the trade is a normal-target trade | 11-02 |
+| P161 | **The depth of an expected retracement is knowable from where the SL pool is:** no buyer pool below ⇒ the dip *must* be shallow, and anything larger voids the premise — this converts hold-or-cut from a feeling into a measurement | 11-02 |
+| P162 | **A sudden large gap — up or down — is a problem market:** no direct trade exists until a psychology has been created; wait, then enter into the **first pullback** | 11-05 |
+| P163 | **Profit booking is a function of how much retail is holding** — a gap-up into an under-positioned book cannot generate the booking that would kill the continuation (the buy-side twin of P159) | 11-05 |
+| P164 | **The two-item rejection test:** after a big momentum day, only a **gap-down** or a **sudden large sell-off** forbids buying; a small rejection is normal construction and does not | 11-06 |
+| P165 | **Once the direction is settled, the only remaining decision is the entry price:** buy immediately **below a resistance that has just produced a rejection**, because the next buyers only arrive *after* the breakout | 11-06 |
+| P166 | **Option buying vs option selling is a holding-time decision, not a view:** sit-and-watch ⇒ seller; capture-and-leave-fast ⇒ buyer | 11-06 |
 ---
 
 ## 13. How to maintain this bible
