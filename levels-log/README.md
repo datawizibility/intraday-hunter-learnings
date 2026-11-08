@@ -754,3 +754,47 @@
 | 2023-04-08 | index unnamed in ASR (Bank-Nifty scale — ⚠️ flagged inference) | 40000 | the level below which the market had been giving closes — the held area of the day | spoken as *"40000 एक लेवल होता है जिसके नीचे नीचे क्लोजिंग दे रहा था"* and later as *"₹40000 के आसपास हॉल कर था"* — ⚠️ **no index in the breath**; the 40,000 scale is Bank-Nifty-shaped and is written as a **flagged inference**, not an attribution; digits reproduced exactly as spoken, never completed; archive chart read, historical | teaching V6dm-GGJ8Qw (ASR, day-specific, Sat-Apr-2023) |
 | 2023-04-08 | index unnamed in ASR (Bank-Nifty scale — ⚠️ flagged inference) | 41000 | R — the level with sellers seated above it, which is why they had not left (no 60% retracement yet) | spoken as *"यहां पर बैठ चुके हैं मार्केट सैलरी बैठ चुके हैं 41000 का यहां पे एक लेवल भी है यहां पे कुछ सैलरी बैठे हैं क्यों बैठे हैं क्योंकि मार्केट में अभी तक 60% का रिट्रेसमेंट नहीं किया"* — ⚠️ **no index named**; same flagged Bank-Nifty inference as the row above; archive chart read, historical | teaching V6dm-GGJ8Qw (ASR, day-specific, Sat-Apr-2023) |
 | 2023-06-17 | instrument unnamed in ASR (could be a price level or a strike — ⚠️ not resolvable from the clip) | 500 | S — the level the session’s own losing chart broke down, and below which positions were still being held | spoken as *"यहां पे 500 का लेवल ब्रेकडाउन कर दिया है"* and *"बुकिंग नहीं किया हुआ क्योंकि 500 के नीचे"*, and repeated at lines 225 / 241 / 289 / 292 — ⚠️ **no instrument is ever named in the same breath** (निफ़्टी is named elsewhere in the clip, never beside this number), so the instrument cell says exactly that rather than asserting an index; ⚠️ **ASR-TRUNCATED** (leading digits lost) — reproduced EXACTLY as spoken and **never completed**; archive chart read, historical | teaching aHtAI-1ROaE (ASR, day-specific, Sat-Jun-2023) |
+| 2026-11-02 | Bank Nifty | 55,400 / 55,000 | R | pre 7vmzOJG4Y2c - 55,000 TAGGED and closed just above (high 55,046.35); 55,400 untouched (354 pts short) |
+| 2026-11-02 | Bank Nifty | 54,500 / 54,290 | S | pre 7vmzOJG4Y2c - both untested (low 54,582.00); 54,500 named live as the seated buyers' line |
+| 2026-11-02 | Bank Nifty | 55,100 CE (1,170 qty) | live strike traded (call side) | post mCLRHNs8mso |
+| 2026-11-02 | Sensex | 75,700 / 75,400 [ASR merged `7575400`] | R | pre 7vmzOJG4Y2c |
+| 2026-11-02 | Sensex | 74,200 / 73,660 | S | pre 7vmzOJG4Y2c |
+| 2026-11-02 | Nifty | 23,200 / 23,300 | R | pre 7vmzOJG4Y2c - 23,200 gapped through and became the day's FLOOR (low 23,207.05, 7 pts above); 23,300 cleared; close 23,440.80 = day high |
+| 2026-11-02 | Nifty | [ASR `232830` - merged, internally inconsistent, NOT asserted] | S | pre 7vmzOJG4Y2c |
+| 2026-11-02 | Nifty | 1,430 qty (strike not spoken) | live position (call side) | post mCLRHNs8mso |
+| 2026-11-03 | Bank Nifty | 55,500 / 55,000 | R | pre vILEtZ1G8Zo - 55,500 was the day's HINGE (open 55,435.80 under it, low 55,174.10, close 55,540.05 just above); high 55,739.00 cleared both |
+| 2026-11-03 | Bank Nifty | 54,500 / 54,290 | S | pre vILEtZ1G8Zo - both untested (low 55,174.10, 674 pts above) |
+| 2026-11-03 | Bank Nifty | 55,200 PE (1,170 qty) | live strike traded (PUT side - LOSS, cut inside the stated Rs15-20k band) | post a38ioF5qi2w |
+| 2026-11-03 | Sensex | [ASR `7675800` - digits merged, unresolved; ladder-consistent reading 76,750/76,800 NOT asserted] | R | pre vILEtZ1G8Zo |
+| 2026-11-03 | Sensex | [ASR `7574700` - digits merged, unresolved; 75,747/75,470 by the same reading, NOT asserted] | S | pre vILEtZ1G8Zo |
+| 2026-11-03 | Nifty | 23,570 / 23,500 | R | pre vILEtZ1G8Zo - crossed at the open (23,582.25), briefly lost (low 23,482.80 = 17 pts below 23,500), reclaimed by the close (23,810.85 = day high) |
+| 2026-11-03 | Nifty | 23,200 / 23,120 | S | pre vILEtZ1G8Zo - both untested (low 23,482.80) |
+| 2026-11-03 | Nifty | 1,430 qty (strike not spoken) | live position (put side) | post a38ioF5qi2w |
+| 2026-11-04 | Bank Nifty | 55,900 / 56,200 | R | pre 5AHShMhih8k - 55,900 CLEARED (high 55,946.85) and close 55,913.60 printed 13.60 pts above it; 56,200 untouched (253 pts short) |
+| 2026-11-04 | Bank Nifty | 55,200 / 55,000 | S | pre 5AHShMhih8k - both untested (low 55,294.50, 94 pts above) |
+| 2026-11-04 | Bank Nifty | 55,500 CE (1,170 qty) | live strike traded (call side) | post Hz_024AbjlM |
+| 2026-11-04 | Sensex | 77,000 / 77,300 | R | pre 5AHShMhih8k - 77,000 cleared (open 76,853.11 under it); 77,300 tagged and closed 1.40 pts above (high 77,396.04) |
+| 2026-11-04 | Sensex | 76,370 / 76,000 | S | pre 5AHShMhih8k - both untested (low 76,604.85) |
+| 2026-11-04 | Nifty | 23,860 / 23,940 | R | pre 5AHShMhih8k - BOTH cleared; close 23,960.60 = day high, 20.60 pts above 23,940 |
+| 2026-11-04 | Nifty | 23,630 / 23,560 | S | pre 5AHShMhih8k - both untested (low 23,696.15, 66 pts above) |
+| 2026-11-04 | Nifty | 1,430 qty (strike not spoken) | live position (call side) | post Hz_024AbjlM |
+| 2026-11-05 | Bank Nifty | 56,500 / 55,900 | R | pre vjK0bcJFZvo - BOTH gapped through at the open (57,102.80) and never revisited (low 56,718.20) |
+| 2026-11-05 | Bank Nifty | 55,200 / 55,000 | S | pre vjK0bcJFZvo - both untested (low 56,718.20, 1,518 pts above) |
+| 2026-11-05 | Bank Nifty | 1,170 qty (instrument NOT named in ASR) | live position (call side) | post W0eUUrGCG3g |
+| 2026-11-05 | Sensex | 77,750 [ASR `7750` - one digit short; NOT completed] / 77,300 | R | pre vjK0bcJFZvo - no independent BSE tape (the NSE source does not carry Sensex) |
+| 2026-11-05 | Sensex | 76,700 / 76,370 | S | pre vjK0bcJFZvo |
+| 2026-11-05 | Sensex | 900 qty (strike not spoken) | live position (call side) | post W0eUUrGCG3g |
+| 2026-11-05 | Nifty | 24,180 / 24,000 | R | pre vjK0bcJFZvo - both gapped through (open 24,378.05), never revisited (low 24,296.30) |
+| 2026-11-05 | Nifty | 23,780 / 23,630 | S | pre vjK0bcJFZvo - both untested (low 24,296.30) |
+| 2026-11-05 | Nifty | 1,430 qty (strike not spoken) | live position (call side) | post W0eUUrGCG3g |
+| 2026-11-06 | Bank Nifty | 58,300 / 58,100 | R | pre InV5oCfzG8A - 58,100 broken (open 57,812.90 under it); 58,300 broken on the way to the high/close 59,086.00 |
+| 2026-11-06 | Bank Nifty | 57,200 / 56,800 | S | pre InV5oCfzG8A - both untested (low 57,320.80, 120 pts above 57,200) |
+| 2026-11-06 | Bank Nifty | 57,500 [ASR-truncated to a bare `500`; NOT completed from scale] | live entry level | post C-xIbRnlJNM |
+| 2026-11-06 | Bank Nifty | 57,500 CE (1,170 qty) + 57,600 CE (qty n/s) | live strikes traded (call side) | post C-xIbRnlJNM |
+| 2026-11-06 | Sensex | 79,700 / 79,500 | R | pre InV5oCfzG8A - 79,500 is the *"500 ka"* resistance that produced the entry rejection (open 79,413.66 under it); both broken (close 81,028.02) |
+| 2026-11-06 | Sensex | 78,800 / 78,600 | S | pre InV5oCfzG8A - both untested (low 79,016.05) |
+| 2026-11-06 | Sensex | 79,400 CE (qty not spoken) | live strike traded (call side) | post C-xIbRnlJNM |
+| 2026-11-06 | Nifty | 24,780 / 24,680 | R | pre InV5oCfzG8A - both broken; close 25,030.35 = day high |
+| 2026-11-06 | Nifty | 24,380 / 24,300 | S | pre InV5oCfzG8A - 24,380 held by 8 pts (low 24,388.05); 24,300 untouched |
+| 2026-11-06 | Nifty | 24,536.60 (prev close used AS the resistance) | live level | post C-xIbRnlJNM |
+| 2026-11-06 | Nifty | 1,430 qty (strike not spoken) | live position (call side) | post C-xIbRnlJNM |
