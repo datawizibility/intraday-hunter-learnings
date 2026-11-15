@@ -798,3 +798,50 @@
 | 2026-11-06 | Nifty | 24,380 / 24,300 | S | pre InV5oCfzG8A - 24,380 held by 8 pts (low 24,388.05); 24,300 untouched |
 | 2026-11-06 | Nifty | 24,536.60 (prev close used AS the resistance) | live level | post C-xIbRnlJNM |
 | 2026-11-06 | Nifty | 1,430 qty (strike not spoken) | live position (call side) | post C-xIbRnlJNM |
+| 2026-11-09 | Bank Nifty | 59,900 / 59,500 | R | pre mjMnCS7tdKE - 59,500 broken (close 59,741.25 = day high); 59,900 not reached (high 59,741.25) |
+| 2026-11-09 | Bank Nifty | 58,540 / 58,040 | S | pre mjMnCS7tdKE - both untested (low 58,877.85, 338 pts above 58,540) |
+| 2026-11-09 | Bank Nifty | 59,086.00 (prev close) | live dip-buy reference | post IQ_n_0oT_zw - *"मार्केट क्लोजिंग प्राइस के आसपास मिला"*; open 59,219.95 printed above it |
+| 2026-11-09 | Bank Nifty | 59,100 CE (1,170 qty) + 59,200 CE (qty n/s) | live strikes traded (call side) | post IQ_n_0oT_zw |
+| 2026-11-09 | Sensex | 81,800 / 81,400 | R | pre mjMnCS7tdKE - neither reached (high 81,339.41, 60 pts short of 81,400) |
+| 2026-11-09 | Sensex | 80,379 / 79,850 (ASR-truncated, bare `850`) | S | pre mjMnCS7tdKE - 80,379 held (low 80,519.31, 140 pts above); 79,850 not asserted |
+| 2026-11-09 | Sensex | qty 900 (strike not spoken) | live position (call side) | post IQ_n_0oT_zw |
+| 2026-11-09 | Nifty | 25,320 / 25,160 | R | pre mjMnCS7tdKE - neither reached (high 25,084.05, 76 pts short of 25,160) |
+| 2026-11-09 | Nifty | 24,800 / 24,570 | S | pre mjMnCS7tdKE - 24,800 held by 38.75 pts (low 24,838.75); 24,570 untouched |
+| 2026-11-09 | Nifty | 25,030.35 (prev close) | live dip-buy reference | post IQ_n_0oT_zw - *"क्लोजिंग प्राइस"*; open 25,076.40 printed 46 pts above |
+| 2026-11-09 | Nifty | qty 1,430 (strike not spoken) | live position (call side) | post IQ_n_0oT_zw |
+| 2026-11-11 | Bank Nifty | 60,250 / 59,900 | R | pre UW5Ud3ffazo - both gapped clean over (open 60,524.70); 60,250 from the merged ASR run `60,259,900`, not asserted |
+| 2026-11-11 | Bank Nifty | 58,850 / 58,220 | S | pre UW5Ud3ffazo - both untouched; from the merged ASR run `58,858,220`, not asserted |
+| 2026-11-11 | Bank Nifty | 59,000 | cited in the live | post BP1yhJGHUyc - the base he credits for the earlier momentum hold (*"59,000 के ऊपर मार्केट ने होल्ड वगैरह करके"*) |
+| 2026-11-11 | Bank Nifty | 60,500 CE (1,170 qty) / 60,600 CE (qty n/s) | live strikes traded (call side) | post BP1yhJGHUyc - ASR tokens `6500` / `6600`; read near-money, not asserted |
+| 2026-11-11 | Sensex | 81,800 / 81,400 | R | pre UW5Ud3ffazo - 81,800 gapped over (merged ASR run `81,881,400`); 81,400 held as the day’s floor by 17.39 pts (low 81,417.39) |
+| 2026-11-11 | Sensex | 80,379 / 79,850 | S | pre UW5Ud3ffazo - both untouched; from the merged ASR run `80,379,850` (same run as 09 Nov) |
+| 2026-11-11 | Sensex | qty 900 (strike not spoken) | live position (call side) | post BP1yhJGHUyc |
+| 2026-11-11 | Nifty | 25,440 / 25,160 | R | pre UW5Ud3ffazo - 25,440 held by 15.65 pts (high 25,424.35); 25,160 pierced in the dip (low 25,095.35) and reclaimed (close 25,255.05) |
+| 2026-11-11 | Nifty | 24,790 / 24,570 | S | pre UW5Ud3ffazo - both untested (low 25,095.35) |
+| 2026-11-11 | Nifty | qty 1,430 (strike not spoken) | live position (call side) | post BP1yhJGHUyc |
+| 2026-11-11 | — (basket) | ₹3 lakh | live profit TRAIL (floor) | post BP1yhJGHUyc - *"जब तक कंटिन्यू ऊपर जा रहा था तब तक हम बैठे रहते"…*"3 लाख से नीचे हम प्रॉफिट नहीं जाने देंगे"*; the corpus’s first trailing exit (profit-shrink trigger, not a price) |
+| 2026-11-12 | Bank Nifty | 61,500 / 60,800 | R | pre IPbJy0Uifyc - 61,500 crossed intraday and CLOSED ABOVE by 18.50 pts (high 61,545.85); 60,800 opened 1.85 pts above, dipped 78.75 pts back under, reclaimed |
+| 2026-11-12 | Bank Nifty | 60,000 / 59,600 | S | pre IPbJy0Uifyc - both untouched (low 60,723.10) |
+| 2026-11-12 | Bank Nifty | 61,000 | live round number (cohort pain threshold) | post LkJO4xPXAXo - the level the trapped sellers do not cut under; one rung ABOVE the pre’s 60,800 |
+| 2026-11-12 | Bank Nifty | 61,200 CALL × 1,170 | live position (call side, clean ASR strike) | post LkJO4xPXAXo |
+| 2026-11-12 | Sensex | 82,520 / 81,800 | R | pre IPbJy0Uifyc - 82,520 not touched (high 82,325.61); 81,800 opened 37.73 pts below and closed 111.01 pts above |
+| 2026-11-12 | Sensex | 81,060 / 80,780 | S | pre IPbJy0Uifyc - both untouched; from the merged ASR run `80781060`, not asserted |
+| 2026-11-12 | Sensex | 82,000 | live round number (cohort pain threshold) | post LkJO4xPXAXo - one rung ABOVE the pre’s 81,800; both 61,000 and 82,000 were crossed today |
+| 2026-11-12 | Sensex | expiry day | live note | post LkJO4xPXAXo - *"सेंसेक्स में आज एक्सपायरी रहने वाला है"* |
+| 2026-11-12 | Sensex | qty 900 (strike not spoken) | live position (call side) | post LkJO4xPXAXo |
+| 2026-11-12 | Nifty | 25,440 / 25,250 | R | pre IPbJy0Uifyc - 25,440 not touched (high 25,384.80, 55.20 pts short); 25,250 opened 36.50 pts below and closed 49.35 pts above |
+| 2026-11-12 | Nifty | 24,790 / 24,650 | S | pre IPbJy0Uifyc - both untouched (low 25,142.95) |
+| 2026-11-12 | Nifty | qty 1,430 (strike not spoken) | live position (call side) | post LkJO4xPXAXo |
+| 2026-11-12 | — (basket) | ₹3 lakh | live LOSS limit | post LkJO4xPXAXo - *"3 लाख से ज्यादा हम लॉस मार्केट के अंदर नहीं जाने देंगे"*; the same number that was a profit trail on 11 Nov |
+| 2026-11-13 | Bank Nifty | 62,200 / 61,800 | R | pre AaVMHfqPR1Y - neither touched (day high 61,300.55 = the open) |
+| 2026-11-13 | Bank Nifty | 60,800 / 60,400 | S | pre AaVMHfqPR1Y - 60,800 validated almost to the point (low 60,780.55, a 19.45-pt marginal break, reclaimed at once); 60,400 untouched; bare ASR runs `6800` / `6400`, not asserted |
+| 2026-11-13 | Bank Nifty | 61,000 | live round number (broken down intraday) | post iZQWkI8knAE - *"हल्का सा मार्केट ने 61,000 का ब्रेकडाउन किया है"*; close 61,034.10 finished back above it |
+| 2026-11-13 | Bank Nifty | 61,100 CALL × 1,170 | live position (call side, clean ASR strike) | post iZQWkI8knAE |
+| 2026-11-13 | Sensex | 82,800 / 82,400 | R | pre AaVMHfqPR1Y - no EOD feed this run, NOT verified |
+| 2026-11-13 | Sensex | 81,800 / 81,430 | S | pre AaVMHfqPR1Y - no EOD feed this run, NOT verified |
+| 2026-11-13 | Sensex | 82,000 | round number (pre + live) | pre AaVMHfqPR1Y *"82000 के नीचे ही मार्केट ने होल्ड किया"* / post iZQWkI8knAE *"रिजेक्शन के साथ 82,000 के नीचे ही क्लोज किया है"* |
+| 2026-11-13 | Sensex | qty 900 (strike not spoken) | live position (call side) | post iZQWkI8knAE |
+| 2026-11-13 | Nifty | 25,550 / 25,450 | R | pre AaVMHfqPR1Y - neither touched (high 25,246.35); bare ASR tokens `2550` / `2545`, not asserted |
+| 2026-11-13 | Nifty | 25,200 / 25,100 | S | pre AaVMHfqPR1Y - 25,200 lost intraday (low 25,054.40), close 55.70 pts below it; 25,100 broken by 45.60 pts and reclaimed (close 25,144.30) |
+| 2026-11-13 | Nifty | qty 1,430 (strike not spoken) | live position (call side) | post iZQWkI8knAE |
+| 2026-11-13 | — (basket) | ₹3 lakh | live TARGET (the same amount as the loss) | post iZQWkI8knAE - *"3 लाख के आसपास हम अपना प्रॉफिट बना लेंगे और अगर मार्केट राउंड नंबर के ऊपर नहीं जा पाता है तो फिर उतना ही हमें लॉस वगैरह मार्केट के अंदर रखना होगा"* |
